@@ -1,0 +1,256 @@
+{
+  "country": "Belgium",
+  "countrySlug": "belgium",
+  "year": 2002,
+  "edition": "2002",
+  "host": "Korea, Japan",
+  "coach": "Robert Waseige",
+  "finalPhase": "Round of 16",
+  "result": "Round of 16",
+  "squad": [
+    {
+      "id": "belgium-2002-1",
+      "name": "Geert De Vlieger",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "belgium-2002-2",
+      "name": "Éric Deflandre",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "belgium-2002-3",
+      "name": "Glen De Boeck",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "belgium-2002-4",
+      "name": "Eric Van Meir",
+      "shirtNumber": 4,
+      "position": "DEF"
+    },
+    {
+      "id": "belgium-2002-5",
+      "name": "Nico Van Kerckhoven",
+      "shirtNumber": 5,
+      "position": "DEF"
+    },
+    {
+      "id": "belgium-2002-6",
+      "name": "Timmy Simons",
+      "shirtNumber": 6,
+      "position": "MID"
+    },
+    {
+      "id": "belgium-2002-7",
+      "name": "Marc Wilmots",
+      "shirtNumber": 7,
+      "position": "ATT"
+    },
+    {
+      "id": "belgium-2002-8",
+      "name": "Bart Goor",
+      "shirtNumber": 8,
+      "position": "MID"
+    },
+    {
+      "id": "belgium-2002-9",
+      "name": "Wesley Sonck",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "belgium-2002-10",
+      "name": "Johan Walem",
+      "shirtNumber": 10,
+      "position": "MID"
+    },
+    {
+      "id": "belgium-2002-11",
+      "name": "Gert Verheyen",
+      "shirtNumber": 11,
+      "position": "ATT"
+    },
+    {
+      "id": "belgium-2002-12",
+      "name": "Peter Van der Heyden",
+      "shirtNumber": 12,
+      "position": "DEF"
+    },
+    {
+      "id": "belgium-2002-13",
+      "name": "Franky Vandendriessche",
+      "shirtNumber": 13,
+      "position": "GK"
+    },
+    {
+      "id": "belgium-2002-14",
+      "name": "Sven Vermant",
+      "shirtNumber": 14,
+      "position": "MID"
+    },
+    {
+      "id": "belgium-2002-15",
+      "name": "Jacky Peeters",
+      "shirtNumber": 15,
+      "position": "DEF"
+    },
+    {
+      "id": "belgium-2002-16",
+      "name": "Daniel Van Buyten",
+      "shirtNumber": 16,
+      "position": "DEF"
+    },
+    {
+      "id": "belgium-2002-17",
+      "name": "Gaëtan Englebert",
+      "shirtNumber": 17,
+      "position": "MID"
+    },
+    {
+      "id": "belgium-2002-18",
+      "name": "Yves Vanderhaeghe",
+      "shirtNumber": 18,
+      "position": "MID"
+    },
+    {
+      "id": "belgium-2002-19",
+      "name": "Bernd Thijs",
+      "shirtNumber": 19,
+      "position": "MID"
+    },
+    {
+      "id": "belgium-2002-20",
+      "name": "Branko Strupar",
+      "shirtNumber": 20,
+      "position": "ATT"
+    },
+    {
+      "id": "belgium-2002-21",
+      "name": "Danny Boffin",
+      "shirtNumber": 21,
+      "position": "MID"
+    },
+    {
+      "id": "belgium-2002-22",
+      "name": "Mbo Mpenza",
+      "shirtNumber": 22,
+      "position": "ATT"
+    },
+    {
+      "id": "belgium-2002-23",
+      "name": "Frédéric Herpoel",
+      "shirtNumber": 23,
+      "position": "GK"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "Japan",
+      "score": "2–2",
+      "scorers": [
+        {
+          "name": "Marc Wilmots",
+          "minute": "57'",
+          "ownGoal": false
+        },
+        {
+          "name": "Takayuki Suzuki",
+          "minute": "59'",
+          "ownGoal": false
+        },
+        {
+          "name": "Junichi Inamoto",
+          "minute": "67'",
+          "ownGoal": false
+        },
+        {
+          "name": "Peter Van der Heyden",
+          "minute": "75'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2002-06-04"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Tunisia",
+      "score": "1–1",
+      "scorers": [
+        {
+          "name": "Marc Wilmots",
+          "minute": "13'",
+          "ownGoal": false
+        },
+        {
+          "name": "Raouf Bouzaiene",
+          "minute": "17'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2002-06-10"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Russia",
+      "score": "3–2",
+      "scorers": [
+        {
+          "name": "Johan Walem",
+          "minute": "7'",
+          "ownGoal": false
+        },
+        {
+          "name": "Vladimir Beschastnykh",
+          "minute": "52'",
+          "ownGoal": false
+        },
+        {
+          "name": "Wesley Sonck",
+          "minute": "78'",
+          "ownGoal": false
+        },
+        {
+          "name": "Marc Wilmots",
+          "minute": "82'",
+          "ownGoal": false
+        },
+        {
+          "name": "Dmitri Sychev",
+          "minute": "88'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2002-06-14"
+    },
+    {
+      "stage": "Round of 16",
+      "opponent": "Brazil",
+      "score": "2–0",
+      "scorers": [
+        {
+          "name": "Rivaldo",
+          "minute": "67'",
+          "ownGoal": false
+        },
+        {
+          "name": "Ronaldo",
+          "minute": "87'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2002-06-17"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

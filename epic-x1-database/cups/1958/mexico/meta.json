@@ -1,0 +1,222 @@
+{
+  "country": "Mexico",
+  "countrySlug": "mexico",
+  "year": 1958,
+  "edition": "1958",
+  "host": "Sweden",
+  "coach": "Antonio López Herranz",
+  "finalPhase": "Group Stage",
+  "result": "Group Stage",
+  "squad": [
+    {
+      "id": "mexico-1958-1",
+      "name": "Antonio Carbajal",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "mexico-1958-2",
+      "name": "Jesús del Muro",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "mexico-1958-3",
+      "name": "Jorge Romo",
+      "shirtNumber": 3,
+      "position": "MID"
+    },
+    {
+      "id": "mexico-1958-4",
+      "name": "José Villegas",
+      "shirtNumber": 4,
+      "position": "DEF"
+    },
+    {
+      "id": "mexico-1958-5",
+      "name": "Alfonso Portugal",
+      "shirtNumber": 5,
+      "position": "DEF"
+    },
+    {
+      "id": "mexico-1958-6",
+      "name": "Francisco Flores",
+      "shirtNumber": 6,
+      "position": "MID"
+    },
+    {
+      "id": "mexico-1958-7",
+      "name": "Alfredo Hernández",
+      "shirtNumber": 7,
+      "position": "MID"
+    },
+    {
+      "id": "mexico-1958-8",
+      "name": "Salvador Reyes",
+      "shirtNumber": 8,
+      "position": "ATT"
+    },
+    {
+      "id": "mexico-1958-9",
+      "name": "Carlos Calderón de la Barca",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "mexico-1958-10",
+      "name": "Crescencio Gutiérrez",
+      "shirtNumber": 10,
+      "position": "ATT"
+    },
+    {
+      "id": "mexico-1958-11",
+      "name": "Enrique Sesma",
+      "shirtNumber": 11,
+      "position": "ATT"
+    },
+    {
+      "id": "mexico-1958-12",
+      "name": "Manuel Camacho",
+      "shirtNumber": 12,
+      "position": "GK"
+    },
+    {
+      "id": "mexico-1958-13",
+      "name": "Jaime Gómez",
+      "shirtNumber": 13,
+      "position": "GK"
+    },
+    {
+      "id": "mexico-1958-14",
+      "name": "Miguel Gutiérrez",
+      "shirtNumber": 14,
+      "position": "ATT"
+    },
+    {
+      "id": "mexico-1958-15",
+      "name": "Guillermo Sepúlveda",
+      "shirtNumber": 15,
+      "position": "MID"
+    },
+    {
+      "id": "mexico-1958-16",
+      "name": "José Antonio Roca",
+      "shirtNumber": 16,
+      "position": "DEF"
+    },
+    {
+      "id": "mexico-1958-17",
+      "name": "Raúl Cárdenas",
+      "shirtNumber": 17,
+      "position": "DEF"
+    },
+    {
+      "id": "mexico-1958-18",
+      "name": "Jaime Salazar",
+      "shirtNumber": 18,
+      "position": "MID"
+    },
+    {
+      "id": "mexico-1958-19",
+      "name": "Jaime Belmonte",
+      "shirtNumber": 19,
+      "position": "DEF"
+    },
+    {
+      "id": "mexico-1958-20",
+      "name": "Carlos Blanco",
+      "shirtNumber": 20,
+      "position": "ATT"
+    },
+    {
+      "id": "mexico-1958-21",
+      "name": "Ligorio López",
+      "shirtNumber": 21,
+      "position": "ATT"
+    },
+    {
+      "id": "mexico-1958-22",
+      "name": "Carlos González",
+      "shirtNumber": 22,
+      "position": "ATT"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "Sweden",
+      "score": "3–0",
+      "scorers": [
+        {
+          "name": "Agne Simonsson",
+          "minute": "17'",
+          "ownGoal": false
+        },
+        {
+          "name": "Nils Liedholm",
+          "minute": "57'",
+          "ownGoal": false
+        },
+        {
+          "name": "Agne Simonsson",
+          "minute": "64'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1958-06-08"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Wales",
+      "score": "1–1",
+      "scorers": [
+        {
+          "name": "Ivor Allchurch",
+          "minute": "32'",
+          "ownGoal": false
+        },
+        {
+          "name": "Jaime Belmonte",
+          "minute": "89'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1958-06-11"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Hungary",
+      "score": "4–0",
+      "scorers": [
+        {
+          "name": "Lajos Tichy",
+          "minute": "19'",
+          "ownGoal": false
+        },
+        {
+          "name": "Lajos Tichy",
+          "minute": "46'",
+          "ownGoal": false
+        },
+        {
+          "name": "Károly Sándor",
+          "minute": "54'",
+          "ownGoal": false
+        },
+        {
+          "name": "József Bencsics",
+          "minute": "69'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1958-06-15"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

@@ -1,0 +1,233 @@
+{
+  "country": "Ghana",
+  "countrySlug": "ghana",
+  "year": 2014,
+  "edition": "2014",
+  "host": "Brazil",
+  "coach": "James Kwesi Appiah",
+  "finalPhase": "Group Stage",
+  "result": "Group Stage",
+  "squad": [
+    {
+      "id": "ghana-2014-1",
+      "name": "Stephen Adams",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "ghana-2014-2",
+      "name": "Samuel Inkoom",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "ghana-2014-3",
+      "name": "Asamoah Gyan",
+      "shirtNumber": 3,
+      "position": "ATT"
+    },
+    {
+      "id": "ghana-2014-4",
+      "name": "Daniel Opare",
+      "shirtNumber": 4,
+      "position": "DEF"
+    },
+    {
+      "id": "ghana-2014-5",
+      "name": "Michael Essien",
+      "shirtNumber": 5,
+      "position": "MID"
+    },
+    {
+      "id": "ghana-2014-6",
+      "name": "Afriyie Acquah",
+      "shirtNumber": 6,
+      "position": "MID"
+    },
+    {
+      "id": "ghana-2014-7",
+      "name": "Christian Atsu",
+      "shirtNumber": 7,
+      "position": "MID"
+    },
+    {
+      "id": "ghana-2014-8",
+      "name": "Emmanuel Agyemang-Badu",
+      "shirtNumber": 8,
+      "position": "MID"
+    },
+    {
+      "id": "ghana-2014-9",
+      "name": "Kevin-Prince Boateng",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "ghana-2014-10",
+      "name": "André Ayew",
+      "shirtNumber": 10,
+      "position": "MID"
+    },
+    {
+      "id": "ghana-2014-11",
+      "name": "Sulley Muntari",
+      "shirtNumber": 11,
+      "position": "MID"
+    },
+    {
+      "id": "ghana-2014-12",
+      "name": "Adam Larsen Kwarasey",
+      "shirtNumber": 12,
+      "position": "GK"
+    },
+    {
+      "id": "ghana-2014-13",
+      "name": "Jordan Ayew",
+      "shirtNumber": 13,
+      "position": "ATT"
+    },
+    {
+      "id": "ghana-2014-14",
+      "name": "Albert Adomah",
+      "shirtNumber": 14,
+      "position": "MID"
+    },
+    {
+      "id": "ghana-2014-15",
+      "name": "Rashid Sumaila",
+      "shirtNumber": 15,
+      "position": "DEF"
+    },
+    {
+      "id": "ghana-2014-16",
+      "name": "Fatau Dauda",
+      "shirtNumber": 16,
+      "position": "GK"
+    },
+    {
+      "id": "ghana-2014-17",
+      "name": "Mohammed Rabiu",
+      "shirtNumber": 17,
+      "position": "MID"
+    },
+    {
+      "id": "ghana-2014-18",
+      "name": "Abdul Majeed Waris",
+      "shirtNumber": 18,
+      "position": "ATT"
+    },
+    {
+      "id": "ghana-2014-19",
+      "name": "Jonathan Mensah",
+      "shirtNumber": 19,
+      "position": "DEF"
+    },
+    {
+      "id": "ghana-2014-20",
+      "name": "Kwadwo Asamoah",
+      "shirtNumber": 20,
+      "position": "MID"
+    },
+    {
+      "id": "ghana-2014-21",
+      "name": "John Boye",
+      "shirtNumber": 21,
+      "position": "DEF"
+    },
+    {
+      "id": "ghana-2014-22",
+      "name": "Mubarak Wakaso",
+      "shirtNumber": 22,
+      "position": "MID"
+    },
+    {
+      "id": "ghana-2014-23",
+      "name": "Harrison Afful",
+      "shirtNumber": 23,
+      "position": "DEF"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "United States",
+      "score": "1–2",
+      "scorers": [
+        {
+          "name": "Clint Dempsey",
+          "minute": "1'",
+          "ownGoal": false
+        },
+        {
+          "name": "André Ayew",
+          "minute": "82'",
+          "ownGoal": false
+        },
+        {
+          "name": "John Brooks",
+          "minute": "86'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2014-06-16"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Germany",
+      "score": "2–2",
+      "scorers": [
+        {
+          "name": "Mario Götze",
+          "minute": "51'",
+          "ownGoal": false
+        },
+        {
+          "name": "André Ayew",
+          "minute": "54'",
+          "ownGoal": false
+        },
+        {
+          "name": "Asamoah Gyan",
+          "minute": "63'",
+          "ownGoal": false
+        },
+        {
+          "name": "Miroslav Klose",
+          "minute": "71'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2014-06-21"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Portugal",
+      "score": "2–1",
+      "scorers": [
+        {
+          "name": "John Boye",
+          "minute": "31'",
+          "ownGoal": true
+        },
+        {
+          "name": "Asamoah Gyan",
+          "minute": "57'",
+          "ownGoal": false
+        },
+        {
+          "name": "Cristiano Ronaldo",
+          "minute": "80'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2014-06-26"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

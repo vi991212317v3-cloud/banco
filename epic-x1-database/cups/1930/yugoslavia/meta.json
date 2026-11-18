@@ -1,0 +1,217 @@
+{
+  "country": "Yugoslavia",
+  "countrySlug": "yugoslavia",
+  "year": 1930,
+  "edition": "1930",
+  "host": "Uruguay",
+  "coach": "Boško Simonović",
+  "finalPhase": "Semi-final",
+  "result": "Semi-final",
+  "squad": [
+    {
+      "id": "yugoslavia-1930-014",
+      "name": "Aleksandar Tirnanić",
+      "shirtNumber": null,
+      "position": "ATT"
+    },
+    {
+      "id": "yugoslavia-1930-006",
+      "name": "Blagoje Marjanović",
+      "shirtNumber": null,
+      "position": "ATT"
+    },
+    {
+      "id": "yugoslavia-1930-007",
+      "name": "Bozidar Marković",
+      "shirtNumber": null,
+      "position": "ATT"
+    },
+    {
+      "id": "yugoslavia-1930-003",
+      "name": "Branislav Hrnjiček",
+      "shirtNumber": null,
+      "position": "MID"
+    },
+    {
+      "id": "yugoslavia-1930-010",
+      "name": "Branislav Sekulić",
+      "shirtNumber": null,
+      "position": "ATT"
+    },
+    {
+      "id": "yugoslavia-1930-015",
+      "name": "Dragomir Tošić",
+      "shirtNumber": null,
+      "position": "DEF"
+    },
+    {
+      "id": "yugoslavia-1930-008",
+      "name": "Dragoslav Mihajlović",
+      "shirtNumber": null,
+      "position": "DEF"
+    },
+    {
+      "id": "yugoslavia-1930-009",
+      "name": "Dragutin Najdanović",
+      "shirtNumber": null,
+      "position": "ATT"
+    },
+    {
+      "id": "yugoslavia-1930-002",
+      "name": "Ivan Bek",
+      "shirtNumber": null,
+      "position": "ATT"
+    },
+    {
+      "id": "yugoslavia-1930-012",
+      "name": "Ljubiša Stefanović",
+      "shirtNumber": null,
+      "position": "DEF"
+    },
+    {
+      "id": "yugoslavia-1930-013",
+      "name": "Milan Stojanović",
+      "shirtNumber": null,
+      "position": "GK"
+    },
+    {
+      "id": "yugoslavia-1930-001",
+      "name": "Milorad Arsenijević",
+      "shirtNumber": null,
+      "position": "MID"
+    },
+    {
+      "id": "yugoslavia-1930-005",
+      "name": "Milovan Jakšić",
+      "shirtNumber": null,
+      "position": "GK"
+    },
+    {
+      "id": "yugoslavia-1930-004",
+      "name": "Milutin Ivković",
+      "shirtNumber": null,
+      "position": "DEF"
+    },
+    {
+      "id": "yugoslavia-1930-017",
+      "name": "Momčilo Đokić",
+      "shirtNumber": null,
+      "position": "MID"
+    },
+    {
+      "id": "yugoslavia-1930-011",
+      "name": "Teofilo Spasojević",
+      "shirtNumber": null,
+      "position": "MID"
+    },
+    {
+      "id": "yugoslavia-1930-016",
+      "name": "Đorđe Vujadinović",
+      "shirtNumber": null,
+      "position": "ATT"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "Brazil",
+      "score": "2–1",
+      "scorers": [
+        {
+          "name": "Aleksandar Tirnanić",
+          "minute": "21'",
+          "ownGoal": false
+        },
+        {
+          "name": "Ivan Bek",
+          "minute": "30'",
+          "ownGoal": false
+        },
+        {
+          "name": "Preguinho",
+          "minute": "62'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1930-07-14"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Bolivia",
+      "score": "4–0",
+      "scorers": [
+        {
+          "name": "Ivan Bek",
+          "minute": "60'",
+          "ownGoal": false
+        },
+        {
+          "name": "Blagoje Marjanović",
+          "minute": "65'",
+          "ownGoal": false
+        },
+        {
+          "name": "Ivan Bek",
+          "minute": "67'",
+          "ownGoal": false
+        },
+        {
+          "name": "Đorđe Vujadinović",
+          "minute": "85'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1930-07-17"
+    },
+    {
+      "stage": "Semi-final",
+      "opponent": "Uruguay",
+      "score": "6–1",
+      "scorers": [
+        {
+          "name": "Đorđe Vujadinović",
+          "minute": "4'",
+          "ownGoal": false
+        },
+        {
+          "name": "Pedro Cea",
+          "minute": "18'",
+          "ownGoal": false
+        },
+        {
+          "name": "Peregrino Anselmo",
+          "minute": "20'",
+          "ownGoal": false
+        },
+        {
+          "name": "Peregrino Anselmo",
+          "minute": "31'",
+          "ownGoal": false
+        },
+        {
+          "name": "Santos Iriarte",
+          "minute": "61'",
+          "ownGoal": false
+        },
+        {
+          "name": "Pedro Cea",
+          "minute": "67'",
+          "ownGoal": false
+        },
+        {
+          "name": "Pedro Cea",
+          "minute": "72'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1930-07-27"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

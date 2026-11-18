@@ -1,0 +1,217 @@
+{
+  "country": "Northern Ireland",
+  "countrySlug": "northern-ireland",
+  "year": 1986,
+  "edition": "1986",
+  "host": "Mexico",
+  "coach": "Billy Bingham",
+  "finalPhase": "Group Stage",
+  "result": "Group Stage",
+  "squad": [
+    {
+      "id": "northern-ireland-1986-1",
+      "name": "Pat Jennings",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "northern-ireland-1986-2",
+      "name": "Jimmy Nicholl",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "northern-ireland-1986-3",
+      "name": "Mal Donaghy",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "northern-ireland-1986-4",
+      "name": "John O'Neill",
+      "shirtNumber": 4,
+      "position": "DEF"
+    },
+    {
+      "id": "northern-ireland-1986-5",
+      "name": "Alan McDonald",
+      "shirtNumber": 5,
+      "position": "DEF"
+    },
+    {
+      "id": "northern-ireland-1986-6",
+      "name": "David McCreery",
+      "shirtNumber": 6,
+      "position": "MID"
+    },
+    {
+      "id": "northern-ireland-1986-7",
+      "name": "Steve Penney",
+      "shirtNumber": 7,
+      "position": "MID"
+    },
+    {
+      "id": "northern-ireland-1986-8",
+      "name": "Sammy McIlroy",
+      "shirtNumber": 8,
+      "position": "MID"
+    },
+    {
+      "id": "northern-ireland-1986-9",
+      "name": "Jimmy Quinn",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "northern-ireland-1986-10",
+      "name": "Norman Whiteside",
+      "shirtNumber": 10,
+      "position": "MID"
+    },
+    {
+      "id": "northern-ireland-1986-11",
+      "name": "Ian Stewart",
+      "shirtNumber": 11,
+      "position": "ATT"
+    },
+    {
+      "id": "northern-ireland-1986-12",
+      "name": "Jim Platt",
+      "shirtNumber": 12,
+      "position": "GK"
+    },
+    {
+      "id": "northern-ireland-1986-13",
+      "name": "Philip Hughes",
+      "shirtNumber": 13,
+      "position": "GK"
+    },
+    {
+      "id": "northern-ireland-1986-14",
+      "name": "Gerry Armstrong",
+      "shirtNumber": 14,
+      "position": "ATT"
+    },
+    {
+      "id": "northern-ireland-1986-15",
+      "name": "Nigel Worthington",
+      "shirtNumber": 15,
+      "position": "DEF"
+    },
+    {
+      "id": "northern-ireland-1986-16",
+      "name": "Paul Ramsey",
+      "shirtNumber": 16,
+      "position": "MID"
+    },
+    {
+      "id": "northern-ireland-1986-17",
+      "name": "Colin Clarke",
+      "shirtNumber": 17,
+      "position": "ATT"
+    },
+    {
+      "id": "northern-ireland-1986-18",
+      "name": "John McClelland",
+      "shirtNumber": 18,
+      "position": "DEF"
+    },
+    {
+      "id": "northern-ireland-1986-19",
+      "name": "Billy Hamilton",
+      "shirtNumber": 19,
+      "position": "ATT"
+    },
+    {
+      "id": "northern-ireland-1986-20",
+      "name": "Bernard McNally",
+      "shirtNumber": 20,
+      "position": "MID"
+    },
+    {
+      "id": "northern-ireland-1986-21",
+      "name": "David Campbell",
+      "shirtNumber": 21,
+      "position": "MID"
+    },
+    {
+      "id": "northern-ireland-1986-22",
+      "name": "Mark Caughey",
+      "shirtNumber": 22,
+      "position": "ATT"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "Algeria",
+      "score": "1–1",
+      "scorers": [
+        {
+          "name": "Norman Whiteside",
+          "minute": "6'",
+          "ownGoal": false
+        },
+        {
+          "name": "Djamel Zidane",
+          "minute": "59'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1986-06-03"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Spain",
+      "score": "1–2",
+      "scorers": [
+        {
+          "name": "Emilio Butragueño",
+          "minute": "1'",
+          "ownGoal": false
+        },
+        {
+          "name": "Julio Salinas",
+          "minute": "18'",
+          "ownGoal": false
+        },
+        {
+          "name": "Colin Clarke",
+          "minute": "46'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1986-06-07"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Brazil",
+      "score": "0–3",
+      "scorers": [
+        {
+          "name": "Careca",
+          "minute": "15'",
+          "ownGoal": false
+        },
+        {
+          "name": "Josimar",
+          "minute": "42'",
+          "ownGoal": false
+        },
+        {
+          "name": "Careca",
+          "minute": "87'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1986-06-12"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

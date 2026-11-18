@@ -1,0 +1,216 @@
+{
+  "country": "Republic of Ireland",
+  "countrySlug": "republic-of-ireland",
+  "year": 1990,
+  "edition": "1990",
+  "host": "Italy",
+  "coach": "Jack Charlton",
+  "finalPhase": "Quarter-final",
+  "result": "Quarter-final",
+  "squad": [
+    {
+      "id": "republic-of-ireland-1990-1",
+      "name": "Pat Bonner",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "republic-of-ireland-1990-2",
+      "name": "Chris Morris",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "republic-of-ireland-1990-3",
+      "name": "Steve Staunton",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "republic-of-ireland-1990-4",
+      "name": "Mick McCarthy",
+      "shirtNumber": 4,
+      "position": "DEF"
+    },
+    {
+      "id": "republic-of-ireland-1990-5",
+      "name": "Kevin Moran",
+      "shirtNumber": 5,
+      "position": "DEF"
+    },
+    {
+      "id": "republic-of-ireland-1990-6",
+      "name": "Ronnie Whelan",
+      "shirtNumber": 6,
+      "position": "MID"
+    },
+    {
+      "id": "republic-of-ireland-1990-7",
+      "name": "Paul McGrath",
+      "shirtNumber": 7,
+      "position": "DEF"
+    },
+    {
+      "id": "republic-of-ireland-1990-8",
+      "name": "Ray Houghton",
+      "shirtNumber": 8,
+      "position": "MID"
+    },
+    {
+      "id": "republic-of-ireland-1990-9",
+      "name": "John Aldridge",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "republic-of-ireland-1990-10",
+      "name": "Tony Cascarino",
+      "shirtNumber": 10,
+      "position": "ATT"
+    },
+    {
+      "id": "republic-of-ireland-1990-11",
+      "name": "Kevin Sheedy",
+      "shirtNumber": 11,
+      "position": "MID"
+    },
+    {
+      "id": "republic-of-ireland-1990-12",
+      "name": "David O'Leary",
+      "shirtNumber": 12,
+      "position": "DEF"
+    },
+    {
+      "id": "republic-of-ireland-1990-13",
+      "name": "Andy Townsend",
+      "shirtNumber": 13,
+      "position": "MID"
+    },
+    {
+      "id": "republic-of-ireland-1990-14",
+      "name": "Chris Hughton",
+      "shirtNumber": 14,
+      "position": "DEF"
+    },
+    {
+      "id": "republic-of-ireland-1990-15",
+      "name": "Bernie Slaven",
+      "shirtNumber": 15,
+      "position": "ATT"
+    },
+    {
+      "id": "republic-of-ireland-1990-16",
+      "name": "John Sheridan",
+      "shirtNumber": 16,
+      "position": "MID"
+    },
+    {
+      "id": "republic-of-ireland-1990-17",
+      "name": "Niall Quinn",
+      "shirtNumber": 17,
+      "position": "ATT"
+    },
+    {
+      "id": "republic-of-ireland-1990-18",
+      "name": "Frank Stapleton",
+      "shirtNumber": 18,
+      "position": "ATT"
+    },
+    {
+      "id": "republic-of-ireland-1990-19",
+      "name": "David Kelly",
+      "shirtNumber": 19,
+      "position": "ATT"
+    },
+    {
+      "id": "republic-of-ireland-1990-20",
+      "name": "John Byrne",
+      "shirtNumber": 20,
+      "position": "ATT"
+    },
+    {
+      "id": "republic-of-ireland-1990-21",
+      "name": "Alan McLoughlin",
+      "shirtNumber": 21,
+      "position": "MID"
+    },
+    {
+      "id": "republic-of-ireland-1990-22",
+      "name": "Gerry Peyton",
+      "shirtNumber": 22,
+      "position": "GK"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "England",
+      "score": "1–1",
+      "scorers": [
+        {
+          "name": "Gary Lineker",
+          "minute": "9'",
+          "ownGoal": false
+        },
+        {
+          "name": "Kevin Sheedy",
+          "minute": "73'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1990-06-11"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Egypt",
+      "score": "0–0",
+      "scorers": [],
+      "date": "1990-06-17"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Netherlands",
+      "score": "1–1",
+      "scorers": [
+        {
+          "name": "Ruud Gullit",
+          "minute": "11'",
+          "ownGoal": false
+        },
+        {
+          "name": "Niall Quinn",
+          "minute": "71'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1990-06-21"
+    },
+    {
+      "stage": "Round of 16",
+      "opponent": "Romania",
+      "score": "0–0",
+      "scorers": [],
+      "date": "1990-06-25"
+    },
+    {
+      "stage": "Quarter-final",
+      "opponent": "Italy",
+      "score": "0–1",
+      "scorers": [
+        {
+          "name": "Salvatore Schillaci",
+          "minute": "38'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1990-06-30"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

@@ -1,0 +1,252 @@
+{
+  "country": "Cabo Verde",
+  "countrySlug": "cabo-verde",
+  "year": 2026,
+  "edition": "2026",
+  "host": "Canada, Mexico and United States",
+  "coach": "BUBISTA",
+  "finalPhase": "Round of 32",
+  "result": "Round of 32",
+  "squad": [
+    {
+      "id": "cabo-verde-2026-1",
+      "name": "Josimar José ÉVORA DIAS",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "cabo-verde-2026-2",
+      "name": "Ianique DOS SANTOS TAVARES",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "cabo-verde-2026-3",
+      "name": "Edilson Alberto MONTEIRO SANCHES BORGES",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "cabo-verde-2026-4",
+      "name": "Roberto Carlos LOPES",
+      "shirtNumber": 4,
+      "position": "DEF"
+    },
+    {
+      "id": "cabo-verde-2026-5",
+      "name": "Logan Evans COSTA",
+      "shirtNumber": 5,
+      "position": "DEF"
+    },
+    {
+      "id": "cabo-verde-2026-6",
+      "name": "Kevin Lenini GONÇALVES PEREIRA DE PINA",
+      "shirtNumber": 6,
+      "position": "MID"
+    },
+    {
+      "id": "cabo-verde-2026-7",
+      "name": "Jovane Eduardo BORGES CABRAL",
+      "shirtNumber": 7,
+      "position": "MID"
+    },
+    {
+      "id": "cabo-verde-2026-8",
+      "name": "João Paulo MOREIRA FERNANDES",
+      "shirtNumber": 8,
+      "position": "MID"
+    },
+    {
+      "id": "cabo-verde-2026-9",
+      "name": "Gilson BENCHIMOL TAVARES",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "cabo-verde-2026-10",
+      "name": "Jamiro Gregory MONTEIRO ALVARENGA",
+      "shirtNumber": 10,
+      "position": "MID"
+    },
+    {
+      "id": "cabo-verde-2026-11",
+      "name": "Garry MENDES RODRIGUES",
+      "shirtNumber": 11,
+      "position": "MID"
+    },
+    {
+      "id": "cabo-verde-2026-12",
+      "name": "Márcio Salomão BRAZÃO DA ROSA",
+      "shirtNumber": 12,
+      "position": "GK"
+    },
+    {
+      "id": "cabo-verde-2026-13",
+      "name": "Sidny LOPES CABRAL",
+      "shirtNumber": 13,
+      "position": "DEF"
+    },
+    {
+      "id": "cabo-verde-2026-14",
+      "name": "Deroy D'ENCARNAÇÃO DUARTE",
+      "shirtNumber": 14,
+      "position": "MID"
+    },
+    {
+      "id": "cabo-verde-2026-15",
+      "name": "Laros Michael D'ENCARNAÇÃO DUARTE",
+      "shirtNumber": 15,
+      "position": "MID"
+    },
+    {
+      "id": "cabo-verde-2026-16",
+      "name": "Jair SEMEDO MONTEIRO",
+      "shirtNumber": 16,
+      "position": "MID"
+    },
+    {
+      "id": "cabo-verde-2026-17",
+      "name": "Willy Johnson SEMEDO AFONSO",
+      "shirtNumber": 17,
+      "position": "MID"
+    },
+    {
+      "id": "cabo-verde-2026-18",
+      "name": "Telmo Emanuel GOMES ARCANJO",
+      "shirtNumber": 18,
+      "position": "MID"
+    },
+    {
+      "id": "cabo-verde-2026-19",
+      "name": "Dailon ROCHA LIVRAMENTO",
+      "shirtNumber": 19,
+      "position": "ATT"
+    },
+    {
+      "id": "cabo-verde-2026-20",
+      "name": "Ryan Isaac DA GRACA MENDES",
+      "shirtNumber": 20,
+      "position": "ATT"
+    },
+    {
+      "id": "cabo-verde-2026-21",
+      "name": "Nuno Miguel DA COSTA JOIA",
+      "shirtNumber": 21,
+      "position": "MID"
+    },
+    {
+      "id": "cabo-verde-2026-22",
+      "name": "Steven MOREIRA",
+      "shirtNumber": 22,
+      "position": "DEF"
+    },
+    {
+      "id": "cabo-verde-2026-23",
+      "name": "Carlos Joaquim ANTUNES DOS SANTOS",
+      "shirtNumber": 23,
+      "position": "GK"
+    },
+    {
+      "id": "cabo-verde-2026-24",
+      "name": "Wagner Fabricio CARDOSO DE PINA",
+      "shirtNumber": 24,
+      "position": "DEF"
+    },
+    {
+      "id": "cabo-verde-2026-25",
+      "name": "Kelvin SPENCER PIRES",
+      "shirtNumber": 25,
+      "position": "DEF"
+    },
+    {
+      "id": "cabo-verde-2026-26",
+      "name": "Hélio Sandro OLIVEIRA ALVES VARELA",
+      "shirtNumber": 26,
+      "position": "MID"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group Stage",
+      "opponent": "Spain",
+      "score": "0–0",
+      "scorers": [],
+      "date": "2026-06-15"
+    },
+    {
+      "stage": "Group Stage",
+      "opponent": "Uruguay",
+      "score": "2–2",
+      "scorers": [
+        {
+          "name": "Kevin Lenini GONÇALVES PEREIRA DE PINA",
+          "minute": 21,
+          "ownGoal": false
+        },
+        {
+          "name": "Maximiliano Javier ARAÚJO VILCHES",
+          "minute": 44,
+          "ownGoal": false
+        },
+        {
+          "name": "Agustin CANOBBIO",
+          "minute": 45,
+          "ownGoal": false
+        },
+        {
+          "name": "Hélio Sandro OLIVEIRA ALVES VARELA",
+          "minute": 61,
+          "ownGoal": false
+        }
+      ],
+      "date": "2026-06-21"
+    },
+    {
+      "stage": "Group Stage",
+      "opponent": "Saudi Arabia",
+      "score": "0–0",
+      "scorers": [],
+      "date": "2026-06-27"
+    },
+    {
+      "stage": "Round of 32",
+      "opponent": "Argentina",
+      "score": "3–2",
+      "scorers": [
+        {
+          "name": "Lionel Andrés MESSI",
+          "minute": 29,
+          "ownGoal": false
+        },
+        {
+          "name": "Deroy D'ENCARNAÇÃO DUARTE",
+          "minute": 59,
+          "ownGoal": false
+        },
+        {
+          "name": "Lisandro MARTÍNEZ",
+          "minute": 92,
+          "ownGoal": false
+        },
+        {
+          "name": "Sidny LOPES CABRAL",
+          "minute": 103,
+          "ownGoal": false
+        },
+        {
+          "name": "Edilson Alberto MONTEIRO SANCHES BORGES",
+          "minute": 111,
+          "ownGoal": true
+        }
+      ],
+      "date": "2026-07-04"
+    }
+  ],
+  "sources": [
+    "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/final-tournament-standings",
+    "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/teams",
+    "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+    "https://github.com/openfootball/worldcup.json",
+    "https://github.com/mominullptr/FIFA-World-Cup-2026-Dataset"
+  ]
+}

@@ -1,0 +1,216 @@
+{
+  "country": "Peru",
+  "countrySlug": "peru",
+  "year": 1982,
+  "edition": "1982",
+  "host": "Spain",
+  "coach": "Tim",
+  "finalPhase": "Group Stage",
+  "result": "Group Stage",
+  "squad": [
+    {
+      "id": "peru-1982-1",
+      "name": "Eusebio Acasuzo",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "peru-1982-2",
+      "name": "Jaime Duarte",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "peru-1982-3",
+      "name": "Salvador Salguero",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "peru-1982-4",
+      "name": "Hugo Gastulo",
+      "shirtNumber": 4,
+      "position": "DEF"
+    },
+    {
+      "id": "peru-1982-5",
+      "name": "Germán Leguía",
+      "shirtNumber": 5,
+      "position": "MID"
+    },
+    {
+      "id": "peru-1982-6",
+      "name": "José Velásquez",
+      "shirtNumber": 6,
+      "position": "MID"
+    },
+    {
+      "id": "peru-1982-7",
+      "name": "Gerónimo Barbadillo",
+      "shirtNumber": 7,
+      "position": "ATT"
+    },
+    {
+      "id": "peru-1982-8",
+      "name": "César Cueto",
+      "shirtNumber": 8,
+      "position": "MID"
+    },
+    {
+      "id": "peru-1982-9",
+      "name": "Julio César Uribe",
+      "shirtNumber": 9,
+      "position": "MID"
+    },
+    {
+      "id": "peru-1982-10",
+      "name": "Teófilo Cubillas",
+      "shirtNumber": 10,
+      "position": "MID"
+    },
+    {
+      "id": "peru-1982-11",
+      "name": "Carlos Juan Oblitas",
+      "shirtNumber": 11,
+      "position": "ATT"
+    },
+    {
+      "id": "peru-1982-12",
+      "name": "José González",
+      "shirtNumber": 12,
+      "position": "GK"
+    },
+    {
+      "id": "peru-1982-13",
+      "name": "Oscar Arizaga",
+      "shirtNumber": 13,
+      "position": "MID"
+    },
+    {
+      "id": "peru-1982-14",
+      "name": "Miguel Gutiérrez",
+      "shirtNumber": 14,
+      "position": "MID"
+    },
+    {
+      "id": "peru-1982-15",
+      "name": "Rubén Toribio Díaz",
+      "shirtNumber": 15,
+      "position": "DEF"
+    },
+    {
+      "id": "peru-1982-16",
+      "name": "Jorge Olaechea",
+      "shirtNumber": 16,
+      "position": "DEF"
+    },
+    {
+      "id": "peru-1982-17",
+      "name": "Franco Navarro",
+      "shirtNumber": 17,
+      "position": "ATT"
+    },
+    {
+      "id": "peru-1982-18",
+      "name": "Eduardo Malásquez",
+      "shirtNumber": 18,
+      "position": "MID"
+    },
+    {
+      "id": "peru-1982-19",
+      "name": "Guillermo La Rosa",
+      "shirtNumber": 19,
+      "position": "ATT"
+    },
+    {
+      "id": "peru-1982-20",
+      "name": "Percy Rojas",
+      "shirtNumber": 20,
+      "position": "ATT"
+    },
+    {
+      "id": "peru-1982-21",
+      "name": "Ramón Quiroga",
+      "shirtNumber": 21,
+      "position": "GK"
+    },
+    {
+      "id": "peru-1982-22",
+      "name": "Luis Reyna",
+      "shirtNumber": 22,
+      "position": "MID"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "Cameroon",
+      "score": "0–0",
+      "scorers": [],
+      "date": "1982-06-15"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Italy",
+      "score": "1–1",
+      "scorers": [
+        {
+          "name": "Bruno Conti",
+          "minute": "18'",
+          "ownGoal": false
+        },
+        {
+          "name": "Rubén Toribio Díaz",
+          "minute": "83'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1982-06-18"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Poland",
+      "score": "5–1",
+      "scorers": [
+        {
+          "name": "Włodzimierz Smolarek",
+          "minute": "55'",
+          "ownGoal": false
+        },
+        {
+          "name": "Grzegorz Lato",
+          "minute": "58'",
+          "ownGoal": false
+        },
+        {
+          "name": "Zbigniew Boniek",
+          "minute": "61'",
+          "ownGoal": false
+        },
+        {
+          "name": "Andrzej Buncol",
+          "minute": "68'",
+          "ownGoal": false
+        },
+        {
+          "name": "Włodzimierz Ciołek",
+          "minute": "76'",
+          "ownGoal": false
+        },
+        {
+          "name": "Guillermo La Rosa",
+          "minute": "83'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1982-06-22"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

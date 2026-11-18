@@ -1,0 +1,263 @@
+{
+  "country": "Brazil",
+  "countrySlug": "brazil",
+  "year": 2010,
+  "edition": "2010",
+  "host": "South Africa",
+  "coach": "Dunga",
+  "finalPhase": "Quarter-final",
+  "result": "Quarter-final",
+  "squad": [
+    {
+      "id": "brazil-2010-1",
+      "name": "Júlio César",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "brazil-2010-2",
+      "name": "Maicon",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "brazil-2010-3",
+      "name": "Lúcio",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "brazil-2010-4",
+      "name": "Juan",
+      "shirtNumber": 4,
+      "position": "DEF"
+    },
+    {
+      "id": "brazil-2010-5",
+      "name": "Felipe Melo",
+      "shirtNumber": 5,
+      "position": "MID"
+    },
+    {
+      "id": "brazil-2010-6",
+      "name": "Michel Bastos",
+      "shirtNumber": 6,
+      "position": "DEF"
+    },
+    {
+      "id": "brazil-2010-7",
+      "name": "Elano",
+      "shirtNumber": 7,
+      "position": "MID"
+    },
+    {
+      "id": "brazil-2010-8",
+      "name": "Gilberto Silva",
+      "shirtNumber": 8,
+      "position": "MID"
+    },
+    {
+      "id": "brazil-2010-9",
+      "name": "Luís Fabiano",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "brazil-2010-10",
+      "name": "Kaká",
+      "shirtNumber": 10,
+      "position": "MID"
+    },
+    {
+      "id": "brazil-2010-11",
+      "name": "Robinho",
+      "shirtNumber": 11,
+      "position": "ATT"
+    },
+    {
+      "id": "brazil-2010-12",
+      "name": "Heurelho Gomes",
+      "shirtNumber": 12,
+      "position": "GK"
+    },
+    {
+      "id": "brazil-2010-13",
+      "name": "Dani Alves",
+      "shirtNumber": 13,
+      "position": "DEF"
+    },
+    {
+      "id": "brazil-2010-14",
+      "name": "Luisão",
+      "shirtNumber": 14,
+      "position": "DEF"
+    },
+    {
+      "id": "brazil-2010-15",
+      "name": "Thiago Silva",
+      "shirtNumber": 15,
+      "position": "DEF"
+    },
+    {
+      "id": "brazil-2010-16",
+      "name": "Gilberto",
+      "shirtNumber": 16,
+      "position": "DEF"
+    },
+    {
+      "id": "brazil-2010-17",
+      "name": "Josué",
+      "shirtNumber": 17,
+      "position": "MID"
+    },
+    {
+      "id": "brazil-2010-18",
+      "name": "Ramires",
+      "shirtNumber": 18,
+      "position": "MID"
+    },
+    {
+      "id": "brazil-2010-19",
+      "name": "Júlio Baptista",
+      "shirtNumber": 19,
+      "position": "MID"
+    },
+    {
+      "id": "brazil-2010-20",
+      "name": "Kléberson",
+      "shirtNumber": 20,
+      "position": "MID"
+    },
+    {
+      "id": "brazil-2010-21",
+      "name": "Nilmar",
+      "shirtNumber": 21,
+      "position": "ATT"
+    },
+    {
+      "id": "brazil-2010-22",
+      "name": "Doni",
+      "shirtNumber": 22,
+      "position": "GK"
+    },
+    {
+      "id": "brazil-2010-23",
+      "name": "Grafite",
+      "shirtNumber": 23,
+      "position": "ATT"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "North Korea",
+      "score": "2–1",
+      "scorers": [
+        {
+          "name": "Maicon",
+          "minute": "55'",
+          "ownGoal": false
+        },
+        {
+          "name": "Elano",
+          "minute": "72'",
+          "ownGoal": false
+        },
+        {
+          "name": "Yun-nam Ji",
+          "minute": "89'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2010-06-15"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Ivory Coast",
+      "score": "3–1",
+      "scorers": [
+        {
+          "name": "Luís Fabiano",
+          "minute": "25'",
+          "ownGoal": false
+        },
+        {
+          "name": "Luís Fabiano",
+          "minute": "50'",
+          "ownGoal": false
+        },
+        {
+          "name": "Elano",
+          "minute": "62'",
+          "ownGoal": false
+        },
+        {
+          "name": "Didier Drogba",
+          "minute": "79'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2010-06-20"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Portugal",
+      "score": "0–0",
+      "scorers": [],
+      "date": "2010-06-25"
+    },
+    {
+      "stage": "Round of 16",
+      "opponent": "Chile",
+      "score": "3–0",
+      "scorers": [
+        {
+          "name": "Juan",
+          "minute": "35'",
+          "ownGoal": false
+        },
+        {
+          "name": "Luís Fabiano",
+          "minute": "38'",
+          "ownGoal": false
+        },
+        {
+          "name": "Robinho",
+          "minute": "59'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2010-06-28"
+    },
+    {
+      "stage": "Quarter-final",
+      "opponent": "Netherlands",
+      "score": "2–1",
+      "scorers": [
+        {
+          "name": "Robinho",
+          "minute": "10'",
+          "ownGoal": false
+        },
+        {
+          "name": "Wesley Sneijder",
+          "minute": "53'",
+          "ownGoal": false
+        },
+        {
+          "name": "Wesley Sneijder",
+          "minute": "68'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2010-07-02"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

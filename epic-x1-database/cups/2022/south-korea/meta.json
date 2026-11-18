@@ -1,0 +1,273 @@
+{
+  "country": "South Korea",
+  "countrySlug": "south-korea",
+  "year": 2022,
+  "edition": "2022",
+  "host": "Qatar",
+  "coach": "Paulo Bento",
+  "finalPhase": "Round of 16",
+  "result": "Round of 16",
+  "squad": [
+    {
+      "id": "south-korea-2022-1",
+      "name": "Seung-gyu Kim",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "south-korea-2022-2",
+      "name": "Yoon Jong-gyu",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "south-korea-2022-3",
+      "name": "Kim Jin-su",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "south-korea-2022-4",
+      "name": "Kim Min-jae",
+      "shirtNumber": 4,
+      "position": "DEF"
+    },
+    {
+      "id": "south-korea-2022-5",
+      "name": "Woo-young Jung",
+      "shirtNumber": 5,
+      "position": "MID"
+    },
+    {
+      "id": "south-korea-2022-6",
+      "name": "Hwang In-beom",
+      "shirtNumber": 6,
+      "position": "MID"
+    },
+    {
+      "id": "south-korea-2022-7",
+      "name": "Heung-min Son",
+      "shirtNumber": 7,
+      "position": "MID"
+    },
+    {
+      "id": "south-korea-2022-8",
+      "name": "Paik Seung-ho",
+      "shirtNumber": 8,
+      "position": "MID"
+    },
+    {
+      "id": "south-korea-2022-9",
+      "name": "Cho Gue-sung",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "south-korea-2022-10",
+      "name": "Jae-sung Lee",
+      "shirtNumber": 10,
+      "position": "MID"
+    },
+    {
+      "id": "south-korea-2022-11",
+      "name": "Hee-chan Hwang",
+      "shirtNumber": 11,
+      "position": "MID"
+    },
+    {
+      "id": "south-korea-2022-12",
+      "name": "Song Bum-keun",
+      "shirtNumber": 12,
+      "position": "GK"
+    },
+    {
+      "id": "south-korea-2022-13",
+      "name": "Son Jun-ho",
+      "shirtNumber": 13,
+      "position": "MID"
+    },
+    {
+      "id": "south-korea-2022-14",
+      "name": "Chul Hong",
+      "shirtNumber": 14,
+      "position": "DEF"
+    },
+    {
+      "id": "south-korea-2022-15",
+      "name": "Kim Moon-hwan",
+      "shirtNumber": 15,
+      "position": "DEF"
+    },
+    {
+      "id": "south-korea-2022-16",
+      "name": "Hwang Ui-jo",
+      "shirtNumber": 16,
+      "position": "ATT"
+    },
+    {
+      "id": "south-korea-2022-17",
+      "name": "Na Sang-ho",
+      "shirtNumber": 17,
+      "position": "MID"
+    },
+    {
+      "id": "south-korea-2022-18",
+      "name": "Lee Kang-in",
+      "shirtNumber": 18,
+      "position": "MID"
+    },
+    {
+      "id": "south-korea-2022-19",
+      "name": "Young-gwon Kim",
+      "shirtNumber": 19,
+      "position": "DEF"
+    },
+    {
+      "id": "south-korea-2022-20",
+      "name": "Kwon Kyung-won",
+      "shirtNumber": 20,
+      "position": "DEF"
+    },
+    {
+      "id": "south-korea-2022-21",
+      "name": "Hyeon-woo Jo",
+      "shirtNumber": 21,
+      "position": "GK"
+    },
+    {
+      "id": "south-korea-2022-22",
+      "name": "Kwon Chang-hoon",
+      "shirtNumber": 22,
+      "position": "MID"
+    },
+    {
+      "id": "south-korea-2022-23",
+      "name": "Kim Tae-hwan",
+      "shirtNumber": 23,
+      "position": "DEF"
+    },
+    {
+      "id": "south-korea-2022-24",
+      "name": "Cho Yu-min",
+      "shirtNumber": 24,
+      "position": "DEF"
+    },
+    {
+      "id": "south-korea-2022-25",
+      "name": "Jeong Woo-yeong",
+      "shirtNumber": 25,
+      "position": "MID"
+    },
+    {
+      "id": "south-korea-2022-26",
+      "name": "Song Min-kyu",
+      "shirtNumber": 26,
+      "position": "MID"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "Uruguay",
+      "score": "0–0",
+      "scorers": [],
+      "date": "2022-11-24"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Ghana",
+      "score": "2–3",
+      "scorers": [
+        {
+          "name": "Mohammed Salisu",
+          "minute": "24'",
+          "ownGoal": false
+        },
+        {
+          "name": "Mohammed Kudus",
+          "minute": "34'",
+          "ownGoal": false
+        },
+        {
+          "name": "Cho Gue-sung",
+          "minute": "58'",
+          "ownGoal": false
+        },
+        {
+          "name": "Cho Gue-sung",
+          "minute": "61'",
+          "ownGoal": false
+        },
+        {
+          "name": "Mohammed Kudus",
+          "minute": "68'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2022-11-28"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Portugal",
+      "score": "2–1",
+      "scorers": [
+        {
+          "name": "Ricardo Horta",
+          "minute": "5'",
+          "ownGoal": false
+        },
+        {
+          "name": "Young-gwon Kim",
+          "minute": "27'",
+          "ownGoal": false
+        },
+        {
+          "name": "Hee-chan Hwang",
+          "minute": "90'+1'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2022-12-02"
+    },
+    {
+      "stage": "Round of 16",
+      "opponent": "Brazil",
+      "score": "4–1",
+      "scorers": [
+        {
+          "name": "Vinícius Júnior",
+          "minute": "7'",
+          "ownGoal": false
+        },
+        {
+          "name": "Neymar",
+          "minute": "13'",
+          "ownGoal": false
+        },
+        {
+          "name": "Richarlison",
+          "minute": "29'",
+          "ownGoal": false
+        },
+        {
+          "name": "Lucas Paquetá",
+          "minute": "36'",
+          "ownGoal": false
+        },
+        {
+          "name": "Paik Seung-ho",
+          "minute": "76'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2022-12-05"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

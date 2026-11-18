@@ -1,0 +1,230 @@
+{
+  "country": "IR Iran",
+  "countrySlug": "ir-iran",
+  "year": 2026,
+  "edition": "2026",
+  "host": "Canada, Mexico and United States",
+  "coach": "GHALEHNOY Amir",
+  "finalPhase": "Group Stage",
+  "result": "Group Stage",
+  "squad": [
+    {
+      "id": "ir-iran-2026-1",
+      "name": "Ali Reza SAFARBEIRANVAND",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "ir-iran-2026-2",
+      "name": "Saleh HARDANI KHERAD",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "ir-iran-2026-3",
+      "name": "Ehsan HAJI SAFI",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "ir-iran-2026-4",
+      "name": "Shojae KHALILZADEH",
+      "shirtNumber": 4,
+      "position": "DEF"
+    },
+    {
+      "id": "ir-iran-2026-5",
+      "name": "Milad MOHAMMADIKESHMARZI",
+      "shirtNumber": 5,
+      "position": "DEF"
+    },
+    {
+      "id": "ir-iran-2026-6",
+      "name": "Saeid EZATOLAHI AFAGH",
+      "shirtNumber": 6,
+      "position": "MID"
+    },
+    {
+      "id": "ir-iran-2026-7",
+      "name": "Alireza JAHANBAKHSH JIRANDEH",
+      "shirtNumber": 7,
+      "position": "MID"
+    },
+    {
+      "id": "ir-iran-2026-8",
+      "name": "Mohammad MOHEBBI",
+      "shirtNumber": 8,
+      "position": "MID"
+    },
+    {
+      "id": "ir-iran-2026-9",
+      "name": "Mehdi TAREMI",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "ir-iran-2026-10",
+      "name": "Mehdi GHAYEDI",
+      "shirtNumber": 10,
+      "position": "ATT"
+    },
+    {
+      "id": "ir-iran-2026-11",
+      "name": "Ali ALIPOURGHARA",
+      "shirtNumber": 11,
+      "position": "ATT"
+    },
+    {
+      "id": "ir-iran-2026-12",
+      "name": "Seyedpayam NIAZMAND",
+      "shirtNumber": 12,
+      "position": "GK"
+    },
+    {
+      "id": "ir-iran-2026-13",
+      "name": "Mohammadhossein KANANI ZADEGAN",
+      "shirtNumber": 13,
+      "position": "DEF"
+    },
+    {
+      "id": "ir-iran-2026-14",
+      "name": "Seyed Saman GHODDOOS",
+      "shirtNumber": 14,
+      "position": "MID"
+    },
+    {
+      "id": "ir-iran-2026-15",
+      "name": "Roozbeh CHESHMI",
+      "shirtNumber": 15,
+      "position": "MID"
+    },
+    {
+      "id": "ir-iran-2026-16",
+      "name": "Mahdi TORABI",
+      "shirtNumber": 16,
+      "position": "MID"
+    },
+    {
+      "id": "ir-iran-2026-17",
+      "name": "Arya YOUSEFI",
+      "shirtNumber": 17,
+      "position": "DEF"
+    },
+    {
+      "id": "ir-iran-2026-18",
+      "name": "Amirhossein HOSSEINZADEHTAZEHGHESHLAGH",
+      "shirtNumber": 18,
+      "position": "ATT"
+    },
+    {
+      "id": "ir-iran-2026-19",
+      "name": "Ali NEMATI",
+      "shirtNumber": 19,
+      "position": "DEF"
+    },
+    {
+      "id": "ir-iran-2026-20",
+      "name": "Shahriyar MOGHANLOO",
+      "shirtNumber": 20,
+      "position": "ATT"
+    },
+    {
+      "id": "ir-iran-2026-21",
+      "name": "Mohammad GHORBANI",
+      "shirtNumber": 21,
+      "position": "MID"
+    },
+    {
+      "id": "ir-iran-2026-22",
+      "name": "Seyedhossein HOSSEINI",
+      "shirtNumber": 22,
+      "position": "GK"
+    },
+    {
+      "id": "ir-iran-2026-23",
+      "name": "Ramin REZAEIANSEMESKANDI",
+      "shirtNumber": 23,
+      "position": "DEF"
+    },
+    {
+      "id": "ir-iran-2026-24",
+      "name": "Dennis DARGAHI",
+      "shirtNumber": 24,
+      "position": "ATT"
+    },
+    {
+      "id": "ir-iran-2026-25",
+      "name": "Danial IRI",
+      "shirtNumber": 25,
+      "position": "DEF"
+    },
+    {
+      "id": "ir-iran-2026-26",
+      "name": "Amirmohammad RAZAGHINIA",
+      "shirtNumber": 26,
+      "position": "MID"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group Stage",
+      "opponent": "New Zealand",
+      "score": "2–2",
+      "scorers": [
+        {
+          "name": "Elijah Henry JUST",
+          "minute": 7,
+          "ownGoal": false
+        },
+        {
+          "name": "Ramin REZAEIANSEMESKANDI",
+          "minute": 32,
+          "ownGoal": false
+        },
+        {
+          "name": "Elijah Henry JUST",
+          "minute": 54,
+          "ownGoal": false
+        },
+        {
+          "name": "Mohammad MOHEBBI",
+          "minute": 64,
+          "ownGoal": false
+        }
+      ],
+      "date": "2026-06-15"
+    },
+    {
+      "stage": "Group Stage",
+      "opponent": "Belgium",
+      "score": "0–0",
+      "scorers": [],
+      "date": "2026-06-21"
+    },
+    {
+      "stage": "Group Stage",
+      "opponent": "Egypt",
+      "score": "1–1",
+      "scorers": [
+        {
+          "name": "Mahmoud Saber Abdelmohsen H ABDELMOHSEN",
+          "minute": 5,
+          "ownGoal": false
+        },
+        {
+          "name": "Ramin REZAEIANSEMESKANDI",
+          "minute": 14,
+          "ownGoal": false
+        }
+      ],
+      "date": "2026-06-27"
+    }
+  ],
+  "sources": [
+    "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/final-tournament-standings",
+    "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/teams",
+    "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+    "https://github.com/openfootball/worldcup.json",
+    "https://github.com/mominullptr/FIFA-World-Cup-2026-Dataset"
+  ]
+}

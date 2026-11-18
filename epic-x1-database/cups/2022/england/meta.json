@@ -1,0 +1,301 @@
+{
+  "country": "England",
+  "countrySlug": "england",
+  "year": 2022,
+  "edition": "2022",
+  "host": "Qatar",
+  "coach": "Gareth Southgate",
+  "finalPhase": "Quarter-final",
+  "result": "Quarter-final",
+  "squad": [
+    {
+      "id": "england-2022-1",
+      "name": "Jordan Pickford",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "england-2022-2",
+      "name": "Kyle Walker",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "england-2022-3",
+      "name": "Luke Shaw",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "england-2022-4",
+      "name": "Declan Rice",
+      "shirtNumber": 4,
+      "position": "MID"
+    },
+    {
+      "id": "england-2022-5",
+      "name": "John Stones",
+      "shirtNumber": 5,
+      "position": "DEF"
+    },
+    {
+      "id": "england-2022-6",
+      "name": "Harry Maguire",
+      "shirtNumber": 6,
+      "position": "DEF"
+    },
+    {
+      "id": "england-2022-7",
+      "name": "Jack Grealish",
+      "shirtNumber": 7,
+      "position": "ATT"
+    },
+    {
+      "id": "england-2022-8",
+      "name": "Jordan Henderson",
+      "shirtNumber": 8,
+      "position": "MID"
+    },
+    {
+      "id": "england-2022-9",
+      "name": "Harry Kane",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "england-2022-10",
+      "name": "Raheem Sterling",
+      "shirtNumber": 10,
+      "position": "ATT"
+    },
+    {
+      "id": "england-2022-11",
+      "name": "Marcus Rashford",
+      "shirtNumber": 11,
+      "position": "ATT"
+    },
+    {
+      "id": "england-2022-12",
+      "name": "Kieran Trippier",
+      "shirtNumber": 12,
+      "position": "DEF"
+    },
+    {
+      "id": "england-2022-13",
+      "name": "Nick Pope",
+      "shirtNumber": 13,
+      "position": "GK"
+    },
+    {
+      "id": "england-2022-14",
+      "name": "Kalvin Phillips",
+      "shirtNumber": 14,
+      "position": "MID"
+    },
+    {
+      "id": "england-2022-15",
+      "name": "Eric Dier",
+      "shirtNumber": 15,
+      "position": "DEF"
+    },
+    {
+      "id": "england-2022-16",
+      "name": "Conor Coady",
+      "shirtNumber": 16,
+      "position": "DEF"
+    },
+    {
+      "id": "england-2022-17",
+      "name": "Bukayo Saka",
+      "shirtNumber": 17,
+      "position": "ATT"
+    },
+    {
+      "id": "england-2022-18",
+      "name": "Trent Alexander-Arnold",
+      "shirtNumber": 18,
+      "position": "DEF"
+    },
+    {
+      "id": "england-2022-19",
+      "name": "Mason Mount",
+      "shirtNumber": 19,
+      "position": "MID"
+    },
+    {
+      "id": "england-2022-20",
+      "name": "Phil Foden",
+      "shirtNumber": 20,
+      "position": "MID"
+    },
+    {
+      "id": "england-2022-21",
+      "name": "Ben White",
+      "shirtNumber": 21,
+      "position": "DEF"
+    },
+    {
+      "id": "england-2022-22",
+      "name": "Jude Bellingham",
+      "shirtNumber": 22,
+      "position": "MID"
+    },
+    {
+      "id": "england-2022-23",
+      "name": "Aaron Ramsdale",
+      "shirtNumber": 23,
+      "position": "GK"
+    },
+    {
+      "id": "england-2022-24",
+      "name": "Callum Wilson",
+      "shirtNumber": 24,
+      "position": "ATT"
+    },
+    {
+      "id": "england-2022-25",
+      "name": "James Maddison",
+      "shirtNumber": 25,
+      "position": "MID"
+    },
+    {
+      "id": "england-2022-26",
+      "name": "Conor Gallagher",
+      "shirtNumber": 26,
+      "position": "MID"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "Iran",
+      "score": "6–2",
+      "scorers": [
+        {
+          "name": "Jude Bellingham",
+          "minute": "35'",
+          "ownGoal": false
+        },
+        {
+          "name": "Bukayo Saka",
+          "minute": "43'",
+          "ownGoal": false
+        },
+        {
+          "name": "Raheem Sterling",
+          "minute": "45'+1'",
+          "ownGoal": false
+        },
+        {
+          "name": "Bukayo Saka",
+          "minute": "62'",
+          "ownGoal": false
+        },
+        {
+          "name": "Mehdi Taremi",
+          "minute": "65'",
+          "ownGoal": false
+        },
+        {
+          "name": "Marcus Rashford",
+          "minute": "71'",
+          "ownGoal": false
+        },
+        {
+          "name": "Jack Grealish",
+          "minute": "90'",
+          "ownGoal": false
+        },
+        {
+          "name": "Mehdi Taremi",
+          "minute": "90'+13'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2022-11-21"
+    },
+    {
+      "stage": "Group",
+      "opponent": "United States",
+      "score": "0–0",
+      "scorers": [],
+      "date": "2022-11-25"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Wales",
+      "score": "0–3",
+      "scorers": [
+        {
+          "name": "Marcus Rashford",
+          "minute": "50'",
+          "ownGoal": false
+        },
+        {
+          "name": "Phil Foden",
+          "minute": "51'",
+          "ownGoal": false
+        },
+        {
+          "name": "Marcus Rashford",
+          "minute": "68'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2022-11-29"
+    },
+    {
+      "stage": "Round of 16",
+      "opponent": "Senegal",
+      "score": "3–0",
+      "scorers": [
+        {
+          "name": "Jordan Henderson",
+          "minute": "38'",
+          "ownGoal": false
+        },
+        {
+          "name": "Harry Kane",
+          "minute": "45'+3'",
+          "ownGoal": false
+        },
+        {
+          "name": "Bukayo Saka",
+          "minute": "57'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2022-12-04"
+    },
+    {
+      "stage": "Quarter-final",
+      "opponent": "France",
+      "score": "1–2",
+      "scorers": [
+        {
+          "name": "Aurélien Tchouaméni",
+          "minute": "17'",
+          "ownGoal": false
+        },
+        {
+          "name": "Harry Kane",
+          "minute": "54'",
+          "ownGoal": false
+        },
+        {
+          "name": "Olivier Giroud",
+          "minute": "78'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2022-12-10"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

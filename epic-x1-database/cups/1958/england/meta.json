@@ -1,0 +1,229 @@
+{
+  "country": "England",
+  "countrySlug": "england",
+  "year": 1958,
+  "edition": "1958",
+  "host": "Sweden",
+  "coach": "Walter Winterbottom",
+  "finalPhase": "Group Stage",
+  "result": "Group Stage",
+  "squad": [
+    {
+      "id": "england-1958-1",
+      "name": "Colin McDonald",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "england-1958-2",
+      "name": "Don Howe",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "england-1958-3",
+      "name": "Tommy Banks",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "england-1958-4",
+      "name": "Eddie Clamp",
+      "shirtNumber": 4,
+      "position": "MID"
+    },
+    {
+      "id": "england-1958-5",
+      "name": "Billy Wright",
+      "shirtNumber": 5,
+      "position": "DEF"
+    },
+    {
+      "id": "england-1958-6",
+      "name": "Bill Slater",
+      "shirtNumber": 6,
+      "position": "MID"
+    },
+    {
+      "id": "england-1958-7",
+      "name": "Bryan Douglas",
+      "shirtNumber": 7,
+      "position": "ATT"
+    },
+    {
+      "id": "england-1958-8",
+      "name": "Bobby Robson",
+      "shirtNumber": 8,
+      "position": "ATT"
+    },
+    {
+      "id": "england-1958-9",
+      "name": "Derek Kevan",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "england-1958-10",
+      "name": "Johnny Haynes",
+      "shirtNumber": 10,
+      "position": "ATT"
+    },
+    {
+      "id": "england-1958-11",
+      "name": "Tom Finney",
+      "shirtNumber": 11,
+      "position": "ATT"
+    },
+    {
+      "id": "england-1958-12",
+      "name": "Eddie Hopkinson",
+      "shirtNumber": 12,
+      "position": "GK"
+    },
+    {
+      "id": "england-1958-13",
+      "name": "Alan Hodgkinson",
+      "shirtNumber": 13,
+      "position": "GK"
+    },
+    {
+      "id": "england-1958-14",
+      "name": "Peter Sillett",
+      "shirtNumber": 14,
+      "position": "DEF"
+    },
+    {
+      "id": "england-1958-15",
+      "name": "Ronnie Clayton",
+      "shirtNumber": 15,
+      "position": "MID"
+    },
+    {
+      "id": "england-1958-16",
+      "name": "Maurice Norman",
+      "shirtNumber": 16,
+      "position": "DEF"
+    },
+    {
+      "id": "england-1958-17",
+      "name": "Peter Brabrook",
+      "shirtNumber": 17,
+      "position": "ATT"
+    },
+    {
+      "id": "england-1958-18",
+      "name": "Peter Broadbent",
+      "shirtNumber": 18,
+      "position": "ATT"
+    },
+    {
+      "id": "england-1958-19",
+      "name": "Bobby Smith",
+      "shirtNumber": 19,
+      "position": "ATT"
+    },
+    {
+      "id": "england-1958-20",
+      "name": "Bobby Charlton",
+      "shirtNumber": 20,
+      "position": "ATT"
+    },
+    {
+      "id": "england-1958-21",
+      "name": "Alan A'Court",
+      "shirtNumber": 21,
+      "position": "ATT"
+    },
+    {
+      "id": "england-1958-22",
+      "name": "Maurice Setters",
+      "shirtNumber": 22,
+      "position": "MID"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "Soviet Union",
+      "score": "2–2",
+      "scorers": [
+        {
+          "name": "Nikita Simonyan",
+          "minute": "13'",
+          "ownGoal": false
+        },
+        {
+          "name": "Aleksandr Ivanov",
+          "minute": "56'",
+          "ownGoal": false
+        },
+        {
+          "name": "Derek Kevan",
+          "minute": "66'",
+          "ownGoal": false
+        },
+        {
+          "name": "Tom Finney",
+          "minute": "85'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1958-06-08"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Brazil",
+      "score": "0–0",
+      "scorers": [],
+      "date": "1958-06-11"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Austria",
+      "score": "2–2",
+      "scorers": [
+        {
+          "name": "Karl Koller",
+          "minute": "15'",
+          "ownGoal": false
+        },
+        {
+          "name": "Johnny Haynes",
+          "minute": "56'",
+          "ownGoal": false
+        },
+        {
+          "name": "Alfred Körner",
+          "minute": "71'",
+          "ownGoal": false
+        },
+        {
+          "name": "Derek Kevan",
+          "minute": "74'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1958-06-15"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Soviet Union",
+      "score": "1–0",
+      "scorers": [
+        {
+          "name": "Anatoli Ilyin",
+          "minute": "69'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1958-06-17"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

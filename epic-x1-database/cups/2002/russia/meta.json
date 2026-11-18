@@ -1,0 +1,223 @@
+{
+  "country": "Russia",
+  "countrySlug": "russia",
+  "year": 2002,
+  "edition": "2002",
+  "host": "Korea, Japan",
+  "coach": "Oleg Romantsev",
+  "finalPhase": "Group Stage",
+  "result": "Group Stage",
+  "squad": [
+    {
+      "id": "russia-2002-1",
+      "name": "Ruslan Nigmatullin",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "russia-2002-2",
+      "name": "Yuri Kovtun",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "russia-2002-3",
+      "name": "Yuri Nikiforov",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "russia-2002-4",
+      "name": "Alexey Smertin",
+      "shirtNumber": 4,
+      "position": "MID"
+    },
+    {
+      "id": "russia-2002-5",
+      "name": "Andrei Solomatin",
+      "shirtNumber": 5,
+      "position": "DEF"
+    },
+    {
+      "id": "russia-2002-6",
+      "name": "Igor Semshov",
+      "shirtNumber": 6,
+      "position": "MID"
+    },
+    {
+      "id": "russia-2002-7",
+      "name": "Viktor Onopko",
+      "shirtNumber": 7,
+      "position": "DEF"
+    },
+    {
+      "id": "russia-2002-8",
+      "name": "Valeri Karpin",
+      "shirtNumber": 8,
+      "position": "MID"
+    },
+    {
+      "id": "russia-2002-9",
+      "name": "Yegor Titov",
+      "shirtNumber": 9,
+      "position": "MID"
+    },
+    {
+      "id": "russia-2002-10",
+      "name": "Aleksandr Mostovoi",
+      "shirtNumber": 10,
+      "position": "MID"
+    },
+    {
+      "id": "russia-2002-11",
+      "name": "Vladimir Beschastnykh",
+      "shirtNumber": 11,
+      "position": "ATT"
+    },
+    {
+      "id": "russia-2002-12",
+      "name": "Stanislav Cherchesov",
+      "shirtNumber": 12,
+      "position": "GK"
+    },
+    {
+      "id": "russia-2002-13",
+      "name": "Vyacheslav Dayev",
+      "shirtNumber": 13,
+      "position": "DEF"
+    },
+    {
+      "id": "russia-2002-14",
+      "name": "Igor Chugainov",
+      "shirtNumber": 14,
+      "position": "DEF"
+    },
+    {
+      "id": "russia-2002-15",
+      "name": "Dmitri Alenichev",
+      "shirtNumber": 15,
+      "position": "MID"
+    },
+    {
+      "id": "russia-2002-16",
+      "name": "Aleksandr Kerzhakov",
+      "shirtNumber": 16,
+      "position": "ATT"
+    },
+    {
+      "id": "russia-2002-17",
+      "name": "Sergei Semak",
+      "shirtNumber": 17,
+      "position": "MID"
+    },
+    {
+      "id": "russia-2002-18",
+      "name": "Dmitri Sennikov",
+      "shirtNumber": 18,
+      "position": "DEF"
+    },
+    {
+      "id": "russia-2002-19",
+      "name": "Ruslan Pimenov",
+      "shirtNumber": 19,
+      "position": "ATT"
+    },
+    {
+      "id": "russia-2002-20",
+      "name": "Marat Izmailov",
+      "shirtNumber": 20,
+      "position": "MID"
+    },
+    {
+      "id": "russia-2002-21",
+      "name": "Dmitri Khokhlov",
+      "shirtNumber": 21,
+      "position": "MID"
+    },
+    {
+      "id": "russia-2002-22",
+      "name": "Dmitri Sychev",
+      "shirtNumber": 22,
+      "position": "ATT"
+    },
+    {
+      "id": "russia-2002-23",
+      "name": "Aleksandr Filimonov",
+      "shirtNumber": 23,
+      "position": "GK"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "Tunisia",
+      "score": "2–0",
+      "scorers": [
+        {
+          "name": "Yegor Titov",
+          "minute": "59'",
+          "ownGoal": false
+        },
+        {
+          "name": "Valeri Karpin",
+          "minute": "64'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2002-06-05"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Japan",
+      "score": "1–0",
+      "scorers": [
+        {
+          "name": "Junichi Inamoto",
+          "minute": "51'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2002-06-09"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Belgium",
+      "score": "3–2",
+      "scorers": [
+        {
+          "name": "Johan Walem",
+          "minute": "7'",
+          "ownGoal": false
+        },
+        {
+          "name": "Vladimir Beschastnykh",
+          "minute": "52'",
+          "ownGoal": false
+        },
+        {
+          "name": "Wesley Sonck",
+          "minute": "78'",
+          "ownGoal": false
+        },
+        {
+          "name": "Marc Wilmots",
+          "minute": "82'",
+          "ownGoal": false
+        },
+        {
+          "name": "Dmitri Sychev",
+          "minute": "88'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2002-06-14"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

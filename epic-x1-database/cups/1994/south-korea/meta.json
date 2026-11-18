@@ -1,0 +1,221 @@
+{
+  "country": "South Korea",
+  "countrySlug": "south-korea",
+  "year": 1994,
+  "edition": "1994",
+  "host": "United States",
+  "coach": "Ho Kim",
+  "finalPhase": "Group Stage",
+  "result": "Group Stage",
+  "squad": [
+    {
+      "id": "south-korea-1994-1",
+      "name": "In-young Choi",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "south-korea-1994-2",
+      "name": "Jong-son Chung",
+      "shirtNumber": 2,
+      "position": "MID"
+    },
+    {
+      "id": "south-korea-1994-3",
+      "name": "Jong-hwa Lee",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "south-korea-1994-4",
+      "name": "Pan-keun Kim",
+      "shirtNumber": 4,
+      "position": "DEF"
+    },
+    {
+      "id": "south-korea-1994-5",
+      "name": "Jung-bae Park",
+      "shirtNumber": 5,
+      "position": "DEF"
+    },
+    {
+      "id": "south-korea-1994-6",
+      "name": "Young-jin Lee",
+      "shirtNumber": 6,
+      "position": "MID"
+    },
+    {
+      "id": "south-korea-1994-7",
+      "name": "Hong-gi Shin",
+      "shirtNumber": 7,
+      "position": "DEF"
+    },
+    {
+      "id": "south-korea-1994-8",
+      "name": "Jung-yoon Noh",
+      "shirtNumber": 8,
+      "position": "MID"
+    },
+    {
+      "id": "south-korea-1994-9",
+      "name": "Joo-sung Kim",
+      "shirtNumber": 9,
+      "position": "MID"
+    },
+    {
+      "id": "south-korea-1994-10",
+      "name": "Jeong-woon Ko",
+      "shirtNumber": 10,
+      "position": "ATT"
+    },
+    {
+      "id": "south-korea-1994-11",
+      "name": "Jung-won Seo",
+      "shirtNumber": 11,
+      "position": "ATT"
+    },
+    {
+      "id": "south-korea-1994-12",
+      "name": "Young-il Choi",
+      "shirtNumber": 12,
+      "position": "DEF"
+    },
+    {
+      "id": "south-korea-1994-13",
+      "name": "Ik-soo An",
+      "shirtNumber": 13,
+      "position": "DEF"
+    },
+    {
+      "id": "south-korea-1994-14",
+      "name": "Dae-shik Choi",
+      "shirtNumber": 14,
+      "position": "MID"
+    },
+    {
+      "id": "south-korea-1994-15",
+      "name": "Jin-ho Cho",
+      "shirtNumber": 15,
+      "position": "MID"
+    },
+    {
+      "id": "south-korea-1994-16",
+      "name": "Seok-ju Ha",
+      "shirtNumber": 16,
+      "position": "MID"
+    },
+    {
+      "id": "south-korea-1994-17",
+      "name": "Sang-bum Gu",
+      "shirtNumber": 17,
+      "position": "DEF"
+    },
+    {
+      "id": "south-korea-1994-18",
+      "name": "Sun-hong Hwang",
+      "shirtNumber": 18,
+      "position": "ATT"
+    },
+    {
+      "id": "south-korea-1994-19",
+      "name": "Moon-sik Choi",
+      "shirtNumber": 19,
+      "position": "MID"
+    },
+    {
+      "id": "south-korea-1994-20",
+      "name": "Myung-bo Hong",
+      "shirtNumber": 20,
+      "position": "DEF"
+    },
+    {
+      "id": "south-korea-1994-21",
+      "name": "Chul-woo Park",
+      "shirtNumber": 21,
+      "position": "GK"
+    },
+    {
+      "id": "south-korea-1994-22",
+      "name": "Woon-jae Lee",
+      "shirtNumber": 22,
+      "position": "GK"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "Spain",
+      "score": "2–2",
+      "scorers": [
+        {
+          "name": "Julio Salinas",
+          "minute": "51'",
+          "ownGoal": false
+        },
+        {
+          "name": "Andoni Goikoetxea",
+          "minute": "55'",
+          "ownGoal": false
+        },
+        {
+          "name": "Myung-bo Hong",
+          "minute": "85'",
+          "ownGoal": false
+        },
+        {
+          "name": "Jung-won Seo",
+          "minute": "90'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1994-06-17"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Bolivia",
+      "score": "0–0",
+      "scorers": [],
+      "date": "1994-06-23"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Germany",
+      "score": "3–2",
+      "scorers": [
+        {
+          "name": "Jürgen Klinsmann",
+          "minute": "12'",
+          "ownGoal": false
+        },
+        {
+          "name": "Karl-Heinz Riedle",
+          "minute": "20'",
+          "ownGoal": false
+        },
+        {
+          "name": "Jürgen Klinsmann",
+          "minute": "37'",
+          "ownGoal": false
+        },
+        {
+          "name": "Sun-hong Hwang",
+          "minute": "52'",
+          "ownGoal": false
+        },
+        {
+          "name": "Myung-bo Hong",
+          "minute": "63'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1994-06-27"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

@@ -1,0 +1,225 @@
+{
+  "country": "Sweden",
+  "countrySlug": "sweden",
+  "year": 2006,
+  "edition": "2006",
+  "host": "Germany",
+  "coach": "Lars Lagerbäck",
+  "finalPhase": "Round of 16",
+  "result": "Round of 16",
+  "squad": [
+    {
+      "id": "sweden-2006-1",
+      "name": "Andreas Isaksson",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "sweden-2006-2",
+      "name": "Mikael Nilsson",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "sweden-2006-3",
+      "name": "Olof Mellberg",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "sweden-2006-4",
+      "name": "Teddy Lučić",
+      "shirtNumber": 4,
+      "position": "DEF"
+    },
+    {
+      "id": "sweden-2006-5",
+      "name": "Erik Edman",
+      "shirtNumber": 5,
+      "position": "DEF"
+    },
+    {
+      "id": "sweden-2006-6",
+      "name": "Tobias Linderoth",
+      "shirtNumber": 6,
+      "position": "MID"
+    },
+    {
+      "id": "sweden-2006-7",
+      "name": "Niclas Alexandersson",
+      "shirtNumber": 7,
+      "position": "MID"
+    },
+    {
+      "id": "sweden-2006-8",
+      "name": "Anders Svensson",
+      "shirtNumber": 8,
+      "position": "MID"
+    },
+    {
+      "id": "sweden-2006-9",
+      "name": "Freddie Ljungberg",
+      "shirtNumber": 9,
+      "position": "MID"
+    },
+    {
+      "id": "sweden-2006-10",
+      "name": "Zlatan Ibrahimović",
+      "shirtNumber": 10,
+      "position": "ATT"
+    },
+    {
+      "id": "sweden-2006-11",
+      "name": "Henrik Larsson",
+      "shirtNumber": 11,
+      "position": "ATT"
+    },
+    {
+      "id": "sweden-2006-12",
+      "name": "John Alvbåge",
+      "shirtNumber": 12,
+      "position": "GK"
+    },
+    {
+      "id": "sweden-2006-13",
+      "name": "Petter Hansson",
+      "shirtNumber": 13,
+      "position": "DEF"
+    },
+    {
+      "id": "sweden-2006-14",
+      "name": "Fredrik Stenman",
+      "shirtNumber": 14,
+      "position": "DEF"
+    },
+    {
+      "id": "sweden-2006-15",
+      "name": "Karl Svensson",
+      "shirtNumber": 15,
+      "position": "DEF"
+    },
+    {
+      "id": "sweden-2006-16",
+      "name": "Kim Källström",
+      "shirtNumber": 16,
+      "position": "MID"
+    },
+    {
+      "id": "sweden-2006-17",
+      "name": "Johan Elmander",
+      "shirtNumber": 17,
+      "position": "ATT"
+    },
+    {
+      "id": "sweden-2006-18",
+      "name": "Mattias Jonson",
+      "shirtNumber": 18,
+      "position": "MID"
+    },
+    {
+      "id": "sweden-2006-19",
+      "name": "Daniel Andersson",
+      "shirtNumber": 19,
+      "position": "MID"
+    },
+    {
+      "id": "sweden-2006-20",
+      "name": "Marcus Allbäck",
+      "shirtNumber": 20,
+      "position": "ATT"
+    },
+    {
+      "id": "sweden-2006-21",
+      "name": "Christian Wilhelmsson",
+      "shirtNumber": 21,
+      "position": "MID"
+    },
+    {
+      "id": "sweden-2006-22",
+      "name": "Markus Rosenberg",
+      "shirtNumber": 22,
+      "position": "ATT"
+    },
+    {
+      "id": "sweden-2006-23",
+      "name": "Rami Shaaban",
+      "shirtNumber": 23,
+      "position": "GK"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "Trinidad and Tobago",
+      "score": "0–0",
+      "scorers": [],
+      "date": "2006-06-10"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Paraguay",
+      "score": "1–0",
+      "scorers": [
+        {
+          "name": "Freddie Ljungberg",
+          "minute": "89'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2006-06-15"
+    },
+    {
+      "stage": "Group",
+      "opponent": "England",
+      "score": "2–2",
+      "scorers": [
+        {
+          "name": "Joe Cole",
+          "minute": "34'",
+          "ownGoal": false
+        },
+        {
+          "name": "Marcus Allbäck",
+          "minute": "51'",
+          "ownGoal": false
+        },
+        {
+          "name": "Steven Gerrard",
+          "minute": "85'",
+          "ownGoal": false
+        },
+        {
+          "name": "Henrik Larsson",
+          "minute": "90'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2006-06-20"
+    },
+    {
+      "stage": "Round of 16",
+      "opponent": "Germany",
+      "score": "2–0",
+      "scorers": [
+        {
+          "name": "Lukas Podolski",
+          "minute": "4'",
+          "ownGoal": false
+        },
+        {
+          "name": "Lukas Podolski",
+          "minute": "12'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2006-06-24"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

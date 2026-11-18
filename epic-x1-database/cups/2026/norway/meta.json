@@ -1,0 +1,345 @@
+{
+  "country": "Norway",
+  "countrySlug": "norway",
+  "year": 2026,
+  "edition": "2026",
+  "host": "Canada, Mexico and United States",
+  "coach": "SOLBAKKEN Stale",
+  "finalPhase": "Quarter-finals",
+  "result": "Quarter-finals",
+  "squad": [
+    {
+      "id": "norway-2026-1",
+      "name": "Ørjan Haskjold NYLAND",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "norway-2026-2",
+      "name": "Morten THORSBY",
+      "shirtNumber": 2,
+      "position": "MID"
+    },
+    {
+      "id": "norway-2026-3",
+      "name": "Kristoffer Vassbakk Köpp AJER",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "norway-2026-4",
+      "name": "Leo Skiri ØSTIGÅRD",
+      "shirtNumber": 4,
+      "position": "DEF"
+    },
+    {
+      "id": "norway-2026-5",
+      "name": "David Møller WOLFE",
+      "shirtNumber": 5,
+      "position": "DEF"
+    },
+    {
+      "id": "norway-2026-6",
+      "name": "Patrick BERG",
+      "shirtNumber": 6,
+      "position": "MID"
+    },
+    {
+      "id": "norway-2026-7",
+      "name": "Alexander SØRLOTH",
+      "shirtNumber": 7,
+      "position": "ATT"
+    },
+    {
+      "id": "norway-2026-8",
+      "name": "Sander Gard Bolin BERGE",
+      "shirtNumber": 8,
+      "position": "MID"
+    },
+    {
+      "id": "norway-2026-9",
+      "name": "Erling Braut HAALAND",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "norway-2026-10",
+      "name": "Martín ØDEGAARD",
+      "shirtNumber": 10,
+      "position": "MID"
+    },
+    {
+      "id": "norway-2026-11",
+      "name": "Jørgen Strand LARSEN",
+      "shirtNumber": 11,
+      "position": "ATT"
+    },
+    {
+      "id": "norway-2026-12",
+      "name": "Sander TANGVIK",
+      "shirtNumber": 12,
+      "position": "GK"
+    },
+    {
+      "id": "norway-2026-13",
+      "name": "Egil SELVIK",
+      "shirtNumber": 13,
+      "position": "GK"
+    },
+    {
+      "id": "norway-2026-14",
+      "name": "Fredrik AURSNES",
+      "shirtNumber": 14,
+      "position": "MID"
+    },
+    {
+      "id": "norway-2026-15",
+      "name": "Fredrik André BJØRKAN",
+      "shirtNumber": 15,
+      "position": "DEF"
+    },
+    {
+      "id": "norway-2026-16",
+      "name": "Marcus Holmgren PEDERSEN",
+      "shirtNumber": 16,
+      "position": "DEF"
+    },
+    {
+      "id": "norway-2026-17",
+      "name": "Torbjørn Lysaker HEGGEM",
+      "shirtNumber": 17,
+      "position": "DEF"
+    },
+    {
+      "id": "norway-2026-18",
+      "name": "Kristian THORSTVEDT",
+      "shirtNumber": 18,
+      "position": "MID"
+    },
+    {
+      "id": "norway-2026-19",
+      "name": "Thelonious Gerard AASGAARD",
+      "shirtNumber": 19,
+      "position": "MID"
+    },
+    {
+      "id": "norway-2026-20",
+      "name": "Antonio Eromonsele Nordby NUSA",
+      "shirtNumber": 20,
+      "position": "ATT"
+    },
+    {
+      "id": "norway-2026-21",
+      "name": "Andreas Rædergård SCHJELDERUP",
+      "shirtNumber": 21,
+      "position": "MID"
+    },
+    {
+      "id": "norway-2026-22",
+      "name": "Oscar BOBB",
+      "shirtNumber": 22,
+      "position": "MID"
+    },
+    {
+      "id": "norway-2026-23",
+      "name": "Jens Petter HAUGE",
+      "shirtNumber": 23,
+      "position": "MID"
+    },
+    {
+      "id": "norway-2026-24",
+      "name": "Sondre Klingen LANGÅS",
+      "shirtNumber": 24,
+      "position": "DEF"
+    },
+    {
+      "id": "norway-2026-25",
+      "name": "Henrik Sælebakke FALCHENER",
+      "shirtNumber": 25,
+      "position": "DEF"
+    },
+    {
+      "id": "norway-2026-26",
+      "name": "Julian RYERSON",
+      "shirtNumber": 26,
+      "position": "ATT"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group Stage",
+      "opponent": "Iraq",
+      "score": "1–4",
+      "scorers": [
+        {
+          "name": "Erling Braut HAALAND",
+          "minute": 29,
+          "ownGoal": false
+        },
+        {
+          "name": "Hussein Ghadhban Aymen",
+          "minute": 39,
+          "ownGoal": false
+        },
+        {
+          "name": "Erling Braut HAALAND",
+          "minute": 43,
+          "ownGoal": false
+        },
+        {
+          "name": "Leo Skiri ØSTIGÅRD",
+          "minute": 76,
+          "ownGoal": false
+        },
+        {
+          "name": "Hussein Haydar Hussein ALI",
+          "minute": 90,
+          "ownGoal": true
+        }
+      ],
+      "date": "2026-06-16"
+    },
+    {
+      "stage": "Group Stage",
+      "opponent": "Senegal",
+      "score": "3–2",
+      "scorers": [
+        {
+          "name": "Marcus Holmgren PEDERSEN",
+          "minute": 43,
+          "ownGoal": false
+        },
+        {
+          "name": "Erling Braut HAALAND",
+          "minute": 48,
+          "ownGoal": false
+        },
+        {
+          "name": "Ismaila SARR",
+          "minute": 53,
+          "ownGoal": false
+        },
+        {
+          "name": "Erling Braut HAALAND",
+          "minute": 58,
+          "ownGoal": false
+        },
+        {
+          "name": "Ismaila SARR",
+          "minute": 90,
+          "ownGoal": false
+        }
+      ],
+      "date": "2026-06-22"
+    },
+    {
+      "stage": "Group Stage",
+      "opponent": "France",
+      "score": "1–4",
+      "scorers": [
+        {
+          "name": "Masour Ousmane DEMBELE",
+          "minute": 7,
+          "ownGoal": false
+        },
+        {
+          "name": "Masour Ousmane DEMBELE",
+          "minute": 20,
+          "ownGoal": false
+        },
+        {
+          "name": "Thelonious Gerard AASGAARD",
+          "minute": 21,
+          "ownGoal": false
+        },
+        {
+          "name": "Masour Ousmane DEMBELE",
+          "minute": 32,
+          "ownGoal": false
+        },
+        {
+          "name": "Désiré Nonka-Maho DOUE",
+          "minute": 90,
+          "ownGoal": false
+        }
+      ],
+      "date": "2026-06-26"
+    },
+    {
+      "stage": "Round of 32",
+      "opponent": "Côte d'Ivoire",
+      "score": "1–2",
+      "scorers": [
+        {
+          "name": "Antonio Eromonsele Nordby NUSA",
+          "minute": 39,
+          "ownGoal": false
+        },
+        {
+          "name": "Amad DIALLO",
+          "minute": 74,
+          "ownGoal": false
+        },
+        {
+          "name": "Erling Braut HAALAND",
+          "minute": 86,
+          "ownGoal": false
+        }
+      ],
+      "date": "2026-06-30"
+    },
+    {
+      "stage": "Round of 16",
+      "opponent": "Brazil",
+      "score": "1–2",
+      "scorers": [
+        {
+          "name": "Erling Braut HAALAND",
+          "minute": 79,
+          "ownGoal": false
+        },
+        {
+          "name": "Neymar DA SILVA SANTOS JÚNIOR",
+          "minute": 90,
+          "ownGoal": false
+        },
+        {
+          "name": "Erling Braut HAALAND",
+          "minute": 90,
+          "ownGoal": false
+        }
+      ],
+      "date": "2026-07-05"
+    },
+    {
+      "stage": "Quarter-finals",
+      "opponent": "England",
+      "score": "1–2",
+      "scorers": [
+        {
+          "name": "Andreas Rædergård SCHJELDERUP",
+          "minute": 36,
+          "ownGoal": false
+        },
+        {
+          "name": "Jude Victor William BELLINGHAM",
+          "minute": 45,
+          "ownGoal": false
+        },
+        {
+          "name": "Jude Victor William BELLINGHAM",
+          "minute": 93,
+          "ownGoal": false
+        }
+      ],
+      "date": "2026-07-11"
+    }
+  ],
+  "sources": [
+    "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/final-tournament-standings",
+    "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/teams",
+    "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+    "https://github.com/openfootball/worldcup.json",
+    "https://github.com/mominullptr/FIFA-World-Cup-2026-Dataset"
+  ]
+}

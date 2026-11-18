@@ -1,0 +1,248 @@
+{
+  "country": "Tunisia",
+  "countrySlug": "tunisia",
+  "year": 2018,
+  "edition": "2018",
+  "host": "Russia",
+  "coach": "Nabil Maâloul",
+  "finalPhase": "Group Stage",
+  "result": "Group Stage",
+  "squad": [
+    {
+      "id": "tunisia-2018-1",
+      "name": "Farouk Ben Mustapha",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "tunisia-2018-2",
+      "name": "Syam Ben Youssef",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "tunisia-2018-3",
+      "name": "Yohan Benalouane",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "tunisia-2018-4",
+      "name": "Yassine Meriah",
+      "shirtNumber": 4,
+      "position": "DEF"
+    },
+    {
+      "id": "tunisia-2018-5",
+      "name": "Oussama Haddadi",
+      "shirtNumber": 5,
+      "position": "DEF"
+    },
+    {
+      "id": "tunisia-2018-6",
+      "name": "Rami Bedoui",
+      "shirtNumber": 6,
+      "position": "DEF"
+    },
+    {
+      "id": "tunisia-2018-7",
+      "name": "Saîf-Eddine Khaoui",
+      "shirtNumber": 7,
+      "position": "ATT"
+    },
+    {
+      "id": "tunisia-2018-8",
+      "name": "Fakhreddine Ben Youssef",
+      "shirtNumber": 8,
+      "position": "ATT"
+    },
+    {
+      "id": "tunisia-2018-9",
+      "name": "Anice Badri",
+      "shirtNumber": 9,
+      "position": "MID"
+    },
+    {
+      "id": "tunisia-2018-10",
+      "name": "Wahbi Khazri",
+      "shirtNumber": 10,
+      "position": "ATT"
+    },
+    {
+      "id": "tunisia-2018-11",
+      "name": "Dylan Bronn",
+      "shirtNumber": 11,
+      "position": "DEF"
+    },
+    {
+      "id": "tunisia-2018-12",
+      "name": "Ali Maâloul",
+      "shirtNumber": 12,
+      "position": "DEF"
+    },
+    {
+      "id": "tunisia-2018-13",
+      "name": "Ferjani Sassi",
+      "shirtNumber": 13,
+      "position": "MID"
+    },
+    {
+      "id": "tunisia-2018-14",
+      "name": "Mohamed Amine Ben Amor",
+      "shirtNumber": 14,
+      "position": "MID"
+    },
+    {
+      "id": "tunisia-2018-15",
+      "name": "Ahmed Khalil",
+      "shirtNumber": 15,
+      "position": "ATT"
+    },
+    {
+      "id": "tunisia-2018-16",
+      "name": "Aymen Mathlouthi",
+      "shirtNumber": 16,
+      "position": "GK"
+    },
+    {
+      "id": "tunisia-2018-17",
+      "name": "Ellyes Skhiri",
+      "shirtNumber": 17,
+      "position": "MID"
+    },
+    {
+      "id": "tunisia-2018-18",
+      "name": "Bassem Srarfi",
+      "shirtNumber": 18,
+      "position": "ATT"
+    },
+    {
+      "id": "tunisia-2018-19",
+      "name": "Saber Khalifa",
+      "shirtNumber": 19,
+      "position": "ATT"
+    },
+    {
+      "id": "tunisia-2018-20",
+      "name": "Ghailene Chaalali",
+      "shirtNumber": 20,
+      "position": "ATT"
+    },
+    {
+      "id": "tunisia-2018-21",
+      "name": "Hamdi Nagguez",
+      "shirtNumber": 21,
+      "position": "DEF"
+    },
+    {
+      "id": "tunisia-2018-22",
+      "name": "Mouez Hassen",
+      "shirtNumber": 22,
+      "position": "GK"
+    },
+    {
+      "id": "tunisia-2018-23",
+      "name": "Naïm Sliti",
+      "shirtNumber": 23,
+      "position": "ATT"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "England",
+      "score": "1–2",
+      "scorers": [
+        {
+          "name": "Harry Kane",
+          "minute": "11'",
+          "ownGoal": false
+        },
+        {
+          "name": "Ferjani Sassi",
+          "minute": "35'",
+          "ownGoal": false
+        },
+        {
+          "name": "Harry Kane",
+          "minute": "90'+1'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2018-06-18"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Belgium",
+      "score": "5–2",
+      "scorers": [
+        {
+          "name": "Eden Hazard",
+          "minute": "6'",
+          "ownGoal": false
+        },
+        {
+          "name": "Romelu Lukaku",
+          "minute": "16'",
+          "ownGoal": false
+        },
+        {
+          "name": "Dylan Bronn",
+          "minute": "18'",
+          "ownGoal": false
+        },
+        {
+          "name": "Romelu Lukaku",
+          "minute": "45'+3'",
+          "ownGoal": false
+        },
+        {
+          "name": "Eden Hazard",
+          "minute": "51'",
+          "ownGoal": false
+        },
+        {
+          "name": "Michy Batshuayi",
+          "minute": "90'",
+          "ownGoal": false
+        },
+        {
+          "name": "Wahbi Khazri",
+          "minute": "90'+3'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2018-06-23"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Panama",
+      "score": "1–2",
+      "scorers": [
+        {
+          "name": "Yassine Meriah",
+          "minute": "33'",
+          "ownGoal": true
+        },
+        {
+          "name": "Fakhreddine Ben Youssef",
+          "minute": "51'",
+          "ownGoal": false
+        },
+        {
+          "name": "Wahbi Khazri",
+          "minute": "66'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2018-06-28"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

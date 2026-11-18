@@ -1,0 +1,6639 @@
+{
+  "project": "EPIC X1 World Cup Database",
+  "schemaVersion": "1.0",
+  "scope": {
+    "gender": "men",
+    "editions": [
+      1930,
+      1934,
+      1938,
+      1950,
+      1954,
+      1958,
+      1962,
+      1966,
+      1970,
+      1974,
+      1978,
+      1982,
+      1986,
+      1990,
+      1994,
+      1998,
+      2002,
+      2006,
+      2010,
+      2014,
+      2018,
+      2022,
+      2026
+    ]
+  },
+  "editions": [
+    {
+      "year": 1930,
+      "nationCount": 13,
+      "playerCount": 245,
+      "nations": [
+        {
+          "country": "Argentina",
+          "countrySlug": "argentina",
+          "path": "cups/1930/argentina/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1930/argentina/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Belgium",
+          "countrySlug": "belgium",
+          "path": "cups/1930/belgium/",
+          "playerCount": 16,
+          "flag": true,
+          "flagPath": "cups/1930/belgium/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Bolivia",
+          "countrySlug": "bolivia",
+          "path": "cups/1930/bolivia/",
+          "playerCount": 17,
+          "flag": true,
+          "flagPath": "cups/1930/bolivia/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Brazil",
+          "countrySlug": "brazil",
+          "path": "cups/1930/brazil/",
+          "playerCount": 24,
+          "flag": true,
+          "flagPath": "cups/1930/brazil/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Chile",
+          "countrySlug": "chile",
+          "path": "cups/1930/chile/",
+          "playerCount": 19,
+          "flag": true,
+          "flagPath": "cups/1930/chile/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "France",
+          "countrySlug": "france",
+          "path": "cups/1930/france/",
+          "playerCount": 16,
+          "flag": true,
+          "flagPath": "cups/1930/france/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Mexico",
+          "countrySlug": "mexico",
+          "path": "cups/1930/mexico/",
+          "playerCount": 17,
+          "flag": true,
+          "flagPath": "cups/1930/mexico/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Paraguay",
+          "countrySlug": "paraguay",
+          "path": "cups/1930/paraguay/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1930/paraguay/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Peru",
+          "countrySlug": "peru",
+          "path": "cups/1930/peru/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1930/peru/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Romania",
+          "countrySlug": "romania",
+          "path": "cups/1930/romania/",
+          "playerCount": 15,
+          "flag": true,
+          "flagPath": "cups/1930/romania/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "United States",
+          "countrySlug": "united-states",
+          "path": "cups/1930/united-states/",
+          "playerCount": 16,
+          "flag": true,
+          "flagPath": "cups/1930/united-states/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Uruguay",
+          "countrySlug": "uruguay",
+          "path": "cups/1930/uruguay/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1930/uruguay/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Yugoslavia",
+          "countrySlug": "yugoslavia",
+          "path": "cups/1930/yugoslavia/",
+          "playerCount": 17,
+          "flag": true,
+          "flagPath": "cups/1930/yugoslavia/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        }
+      ]
+    },
+    {
+      "year": 1934,
+      "nationCount": 16,
+      "playerCount": 342,
+      "nations": [
+        {
+          "country": "Argentina",
+          "countrySlug": "argentina",
+          "path": "cups/1934/argentina/",
+          "playerCount": 18,
+          "flag": true,
+          "flagPath": "cups/1934/argentina/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Austria",
+          "countrySlug": "austria",
+          "path": "cups/1934/austria/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1934/austria/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Belgium",
+          "countrySlug": "belgium",
+          "path": "cups/1934/belgium/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1934/belgium/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Brazil",
+          "countrySlug": "brazil",
+          "path": "cups/1934/brazil/",
+          "playerCount": 19,
+          "flag": true,
+          "flagPath": "cups/1934/brazil/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Czechoslovakia",
+          "countrySlug": "czechoslovakia",
+          "path": "cups/1934/czechoslovakia/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1934/czechoslovakia/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Egypt",
+          "countrySlug": "egypt",
+          "path": "cups/1934/egypt/",
+          "playerCount": 20,
+          "flag": true,
+          "flagPath": "cups/1934/egypt/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "France",
+          "countrySlug": "france",
+          "path": "cups/1934/france/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1934/france/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Germany",
+          "countrySlug": "germany",
+          "path": "cups/1934/germany/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1934/germany/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Hungary",
+          "countrySlug": "hungary",
+          "path": "cups/1934/hungary/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1934/hungary/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Italy",
+          "countrySlug": "italy",
+          "path": "cups/1934/italy/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1934/italy/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Netherlands",
+          "countrySlug": "netherlands",
+          "path": "cups/1934/netherlands/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1934/netherlands/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Romania",
+          "countrySlug": "romania",
+          "path": "cups/1934/romania/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1934/romania/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Spain",
+          "countrySlug": "spain",
+          "path": "cups/1934/spain/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1934/spain/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Sweden",
+          "countrySlug": "sweden",
+          "path": "cups/1934/sweden/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/1934/sweden/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Switzerland",
+          "countrySlug": "switzerland",
+          "path": "cups/1934/switzerland/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/1934/switzerland/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "United States",
+          "countrySlug": "united-states",
+          "path": "cups/1934/united-states/",
+          "playerCount": 19,
+          "flag": true,
+          "flagPath": "cups/1934/united-states/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        }
+      ]
+    },
+    {
+      "year": 1938,
+      "nationCount": 15,
+      "playerCount": 320,
+      "nations": [
+        {
+          "country": "Belgium",
+          "countrySlug": "belgium",
+          "path": "cups/1938/belgium/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1938/belgium/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Brazil",
+          "countrySlug": "brazil",
+          "path": "cups/1938/brazil/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1938/brazil/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Cuba",
+          "countrySlug": "cuba",
+          "path": "cups/1938/cuba/",
+          "playerCount": 15,
+          "flag": true,
+          "flagPath": "cups/1938/cuba/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Czechoslovakia",
+          "countrySlug": "czechoslovakia",
+          "path": "cups/1938/czechoslovakia/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1938/czechoslovakia/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Dutch East Indies",
+          "countrySlug": "dutch-east-indies",
+          "path": "cups/1938/dutch-east-indies/",
+          "playerCount": 19,
+          "flag": true,
+          "flagPath": "cups/1938/dutch-east-indies/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "France",
+          "countrySlug": "france",
+          "path": "cups/1938/france/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1938/france/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Germany",
+          "countrySlug": "germany",
+          "path": "cups/1938/germany/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1938/germany/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Hungary",
+          "countrySlug": "hungary",
+          "path": "cups/1938/hungary/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1938/hungary/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Italy",
+          "countrySlug": "italy",
+          "path": "cups/1938/italy/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1938/italy/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Netherlands",
+          "countrySlug": "netherlands",
+          "path": "cups/1938/netherlands/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1938/netherlands/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Norway",
+          "countrySlug": "norway",
+          "path": "cups/1938/norway/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1938/norway/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Poland",
+          "countrySlug": "poland",
+          "path": "cups/1938/poland/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1938/poland/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Romania",
+          "countrySlug": "romania",
+          "path": "cups/1938/romania/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1938/romania/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Sweden",
+          "countrySlug": "sweden",
+          "path": "cups/1938/sweden/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1938/sweden/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Switzerland",
+          "countrySlug": "switzerland",
+          "path": "cups/1938/switzerland/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1938/switzerland/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        }
+      ]
+    },
+    {
+      "year": 1950,
+      "nationCount": 13,
+      "playerCount": 281,
+      "nations": [
+        {
+          "country": "Bolivia",
+          "countrySlug": "bolivia",
+          "path": "cups/1950/bolivia/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1950/bolivia/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Brazil",
+          "countrySlug": "brazil",
+          "path": "cups/1950/brazil/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1950/brazil/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Chile",
+          "countrySlug": "chile",
+          "path": "cups/1950/chile/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1950/chile/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "England",
+          "countrySlug": "england",
+          "path": "cups/1950/england/",
+          "playerCount": 21,
+          "flag": true,
+          "flagPath": "cups/1950/england/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Italy",
+          "countrySlug": "italy",
+          "path": "cups/1950/italy/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1950/italy/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Mexico",
+          "countrySlug": "mexico",
+          "path": "cups/1950/mexico/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1950/mexico/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Paraguay",
+          "countrySlug": "paraguay",
+          "path": "cups/1950/paraguay/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1950/paraguay/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Spain",
+          "countrySlug": "spain",
+          "path": "cups/1950/spain/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1950/spain/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Sweden",
+          "countrySlug": "sweden",
+          "path": "cups/1950/sweden/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1950/sweden/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Switzerland",
+          "countrySlug": "switzerland",
+          "path": "cups/1950/switzerland/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1950/switzerland/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "United States",
+          "countrySlug": "united-states",
+          "path": "cups/1950/united-states/",
+          "playerCount": 18,
+          "flag": true,
+          "flagPath": "cups/1950/united-states/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Uruguay",
+          "countrySlug": "uruguay",
+          "path": "cups/1950/uruguay/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1950/uruguay/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Yugoslavia",
+          "countrySlug": "yugoslavia",
+          "path": "cups/1950/yugoslavia/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1950/yugoslavia/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        }
+      ]
+    },
+    {
+      "year": 1954,
+      "nationCount": 16,
+      "playerCount": 350,
+      "nations": [
+        {
+          "country": "Austria",
+          "countrySlug": "austria",
+          "path": "cups/1954/austria/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1954/austria/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Belgium",
+          "countrySlug": "belgium",
+          "path": "cups/1954/belgium/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1954/belgium/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Brazil",
+          "countrySlug": "brazil",
+          "path": "cups/1954/brazil/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1954/brazil/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Czechoslovakia",
+          "countrySlug": "czechoslovakia",
+          "path": "cups/1954/czechoslovakia/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1954/czechoslovakia/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "England",
+          "countrySlug": "england",
+          "path": "cups/1954/england/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1954/england/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "France",
+          "countrySlug": "france",
+          "path": "cups/1954/france/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1954/france/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Hungary",
+          "countrySlug": "hungary",
+          "path": "cups/1954/hungary/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1954/hungary/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Italy",
+          "countrySlug": "italy",
+          "path": "cups/1954/italy/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1954/italy/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Mexico",
+          "countrySlug": "mexico",
+          "path": "cups/1954/mexico/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1954/mexico/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Scotland",
+          "countrySlug": "scotland",
+          "path": "cups/1954/scotland/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1954/scotland/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "South Korea",
+          "countrySlug": "south-korea",
+          "path": "cups/1954/south-korea/",
+          "playerCount": 20,
+          "flag": true,
+          "flagPath": "cups/1954/south-korea/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Switzerland",
+          "countrySlug": "switzerland",
+          "path": "cups/1954/switzerland/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1954/switzerland/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Turkey",
+          "countrySlug": "turkey",
+          "path": "cups/1954/turkey/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1954/turkey/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Uruguay",
+          "countrySlug": "uruguay",
+          "path": "cups/1954/uruguay/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1954/uruguay/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "West Germany",
+          "countrySlug": "west-germany",
+          "path": "cups/1954/west-germany/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1954/west-germany/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Yugoslavia",
+          "countrySlug": "yugoslavia",
+          "path": "cups/1954/yugoslavia/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1954/yugoslavia/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        }
+      ]
+    },
+    {
+      "year": 1958,
+      "nationCount": 16,
+      "playerCount": 352,
+      "nations": [
+        {
+          "country": "Argentina",
+          "countrySlug": "argentina",
+          "path": "cups/1958/argentina/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1958/argentina/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Austria",
+          "countrySlug": "austria",
+          "path": "cups/1958/austria/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1958/austria/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Brazil",
+          "countrySlug": "brazil",
+          "path": "cups/1958/brazil/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1958/brazil/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Czechoslovakia",
+          "countrySlug": "czechoslovakia",
+          "path": "cups/1958/czechoslovakia/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1958/czechoslovakia/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "England",
+          "countrySlug": "england",
+          "path": "cups/1958/england/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1958/england/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "France",
+          "countrySlug": "france",
+          "path": "cups/1958/france/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1958/france/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Hungary",
+          "countrySlug": "hungary",
+          "path": "cups/1958/hungary/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1958/hungary/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Mexico",
+          "countrySlug": "mexico",
+          "path": "cups/1958/mexico/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1958/mexico/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Northern Ireland",
+          "countrySlug": "northern-ireland",
+          "path": "cups/1958/northern-ireland/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1958/northern-ireland/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Paraguay",
+          "countrySlug": "paraguay",
+          "path": "cups/1958/paraguay/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1958/paraguay/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Scotland",
+          "countrySlug": "scotland",
+          "path": "cups/1958/scotland/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1958/scotland/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Soviet Union",
+          "countrySlug": "soviet-union",
+          "path": "cups/1958/soviet-union/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1958/soviet-union/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Sweden",
+          "countrySlug": "sweden",
+          "path": "cups/1958/sweden/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1958/sweden/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Wales",
+          "countrySlug": "wales",
+          "path": "cups/1958/wales/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1958/wales/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "West Germany",
+          "countrySlug": "west-germany",
+          "path": "cups/1958/west-germany/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1958/west-germany/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Yugoslavia",
+          "countrySlug": "yugoslavia",
+          "path": "cups/1958/yugoslavia/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1958/yugoslavia/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        }
+      ]
+    },
+    {
+      "year": 1962,
+      "nationCount": 16,
+      "playerCount": 352,
+      "nations": [
+        {
+          "country": "Argentina",
+          "countrySlug": "argentina",
+          "path": "cups/1962/argentina/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1962/argentina/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Brazil",
+          "countrySlug": "brazil",
+          "path": "cups/1962/brazil/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1962/brazil/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Bulgaria",
+          "countrySlug": "bulgaria",
+          "path": "cups/1962/bulgaria/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1962/bulgaria/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Chile",
+          "countrySlug": "chile",
+          "path": "cups/1962/chile/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1962/chile/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Colombia",
+          "countrySlug": "colombia",
+          "path": "cups/1962/colombia/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1962/colombia/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Czechoslovakia",
+          "countrySlug": "czechoslovakia",
+          "path": "cups/1962/czechoslovakia/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1962/czechoslovakia/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "England",
+          "countrySlug": "england",
+          "path": "cups/1962/england/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1962/england/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Hungary",
+          "countrySlug": "hungary",
+          "path": "cups/1962/hungary/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1962/hungary/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Italy",
+          "countrySlug": "italy",
+          "path": "cups/1962/italy/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1962/italy/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Mexico",
+          "countrySlug": "mexico",
+          "path": "cups/1962/mexico/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1962/mexico/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Soviet Union",
+          "countrySlug": "soviet-union",
+          "path": "cups/1962/soviet-union/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1962/soviet-union/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Spain",
+          "countrySlug": "spain",
+          "path": "cups/1962/spain/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1962/spain/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Switzerland",
+          "countrySlug": "switzerland",
+          "path": "cups/1962/switzerland/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1962/switzerland/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Uruguay",
+          "countrySlug": "uruguay",
+          "path": "cups/1962/uruguay/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1962/uruguay/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "West Germany",
+          "countrySlug": "west-germany",
+          "path": "cups/1962/west-germany/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1962/west-germany/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Yugoslavia",
+          "countrySlug": "yugoslavia",
+          "path": "cups/1962/yugoslavia/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1962/yugoslavia/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        }
+      ]
+    },
+    {
+      "year": 1966,
+      "nationCount": 16,
+      "playerCount": 352,
+      "nations": [
+        {
+          "country": "Argentina",
+          "countrySlug": "argentina",
+          "path": "cups/1966/argentina/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1966/argentina/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Brazil",
+          "countrySlug": "brazil",
+          "path": "cups/1966/brazil/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1966/brazil/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Bulgaria",
+          "countrySlug": "bulgaria",
+          "path": "cups/1966/bulgaria/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1966/bulgaria/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Chile",
+          "countrySlug": "chile",
+          "path": "cups/1966/chile/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1966/chile/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "England",
+          "countrySlug": "england",
+          "path": "cups/1966/england/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1966/england/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "France",
+          "countrySlug": "france",
+          "path": "cups/1966/france/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1966/france/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Hungary",
+          "countrySlug": "hungary",
+          "path": "cups/1966/hungary/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1966/hungary/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Italy",
+          "countrySlug": "italy",
+          "path": "cups/1966/italy/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1966/italy/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Mexico",
+          "countrySlug": "mexico",
+          "path": "cups/1966/mexico/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1966/mexico/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "North Korea",
+          "countrySlug": "north-korea",
+          "path": "cups/1966/north-korea/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1966/north-korea/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Portugal",
+          "countrySlug": "portugal",
+          "path": "cups/1966/portugal/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1966/portugal/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Soviet Union",
+          "countrySlug": "soviet-union",
+          "path": "cups/1966/soviet-union/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1966/soviet-union/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Spain",
+          "countrySlug": "spain",
+          "path": "cups/1966/spain/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1966/spain/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Switzerland",
+          "countrySlug": "switzerland",
+          "path": "cups/1966/switzerland/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1966/switzerland/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Uruguay",
+          "countrySlug": "uruguay",
+          "path": "cups/1966/uruguay/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1966/uruguay/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "West Germany",
+          "countrySlug": "west-germany",
+          "path": "cups/1966/west-germany/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1966/west-germany/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        }
+      ]
+    },
+    {
+      "year": 1970,
+      "nationCount": 16,
+      "playerCount": 349,
+      "nations": [
+        {
+          "country": "Belgium",
+          "countrySlug": "belgium",
+          "path": "cups/1970/belgium/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1970/belgium/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Brazil",
+          "countrySlug": "brazil",
+          "path": "cups/1970/brazil/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1970/brazil/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Bulgaria",
+          "countrySlug": "bulgaria",
+          "path": "cups/1970/bulgaria/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1970/bulgaria/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Czechoslovakia",
+          "countrySlug": "czechoslovakia",
+          "path": "cups/1970/czechoslovakia/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1970/czechoslovakia/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "El Salvador",
+          "countrySlug": "el-salvador",
+          "path": "cups/1970/el-salvador/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1970/el-salvador/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "England",
+          "countrySlug": "england",
+          "path": "cups/1970/england/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1970/england/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Israel",
+          "countrySlug": "israel",
+          "path": "cups/1970/israel/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1970/israel/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Italy",
+          "countrySlug": "italy",
+          "path": "cups/1970/italy/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1970/italy/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Mexico",
+          "countrySlug": "mexico",
+          "path": "cups/1970/mexico/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1970/mexico/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Morocco",
+          "countrySlug": "morocco",
+          "path": "cups/1970/morocco/",
+          "playerCount": 19,
+          "flag": true,
+          "flagPath": "cups/1970/morocco/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Peru",
+          "countrySlug": "peru",
+          "path": "cups/1970/peru/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1970/peru/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Romania",
+          "countrySlug": "romania",
+          "path": "cups/1970/romania/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1970/romania/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Soviet Union",
+          "countrySlug": "soviet-union",
+          "path": "cups/1970/soviet-union/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1970/soviet-union/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Sweden",
+          "countrySlug": "sweden",
+          "path": "cups/1970/sweden/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1970/sweden/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Uruguay",
+          "countrySlug": "uruguay",
+          "path": "cups/1970/uruguay/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1970/uruguay/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "West Germany",
+          "countrySlug": "west-germany",
+          "path": "cups/1970/west-germany/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1970/west-germany/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        }
+      ]
+    },
+    {
+      "year": 1974,
+      "nationCount": 16,
+      "playerCount": 352,
+      "nations": [
+        {
+          "country": "Argentina",
+          "countrySlug": "argentina",
+          "path": "cups/1974/argentina/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1974/argentina/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Australia",
+          "countrySlug": "australia",
+          "path": "cups/1974/australia/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1974/australia/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Brazil",
+          "countrySlug": "brazil",
+          "path": "cups/1974/brazil/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1974/brazil/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Bulgaria",
+          "countrySlug": "bulgaria",
+          "path": "cups/1974/bulgaria/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1974/bulgaria/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Chile",
+          "countrySlug": "chile",
+          "path": "cups/1974/chile/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1974/chile/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "East Germany",
+          "countrySlug": "east-germany",
+          "path": "cups/1974/east-germany/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1974/east-germany/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Haiti",
+          "countrySlug": "haiti",
+          "path": "cups/1974/haiti/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1974/haiti/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Italy",
+          "countrySlug": "italy",
+          "path": "cups/1974/italy/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1974/italy/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Netherlands",
+          "countrySlug": "netherlands",
+          "path": "cups/1974/netherlands/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1974/netherlands/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Poland",
+          "countrySlug": "poland",
+          "path": "cups/1974/poland/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1974/poland/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Scotland",
+          "countrySlug": "scotland",
+          "path": "cups/1974/scotland/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1974/scotland/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Sweden",
+          "countrySlug": "sweden",
+          "path": "cups/1974/sweden/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1974/sweden/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Uruguay",
+          "countrySlug": "uruguay",
+          "path": "cups/1974/uruguay/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1974/uruguay/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "West Germany",
+          "countrySlug": "west-germany",
+          "path": "cups/1974/west-germany/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1974/west-germany/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Yugoslavia",
+          "countrySlug": "yugoslavia",
+          "path": "cups/1974/yugoslavia/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1974/yugoslavia/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Zaire",
+          "countrySlug": "zaire",
+          "path": "cups/1974/zaire/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1974/zaire/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        }
+      ]
+    },
+    {
+      "year": 1978,
+      "nationCount": 16,
+      "playerCount": 352,
+      "nations": [
+        {
+          "country": "Argentina",
+          "countrySlug": "argentina",
+          "path": "cups/1978/argentina/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1978/argentina/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Austria",
+          "countrySlug": "austria",
+          "path": "cups/1978/austria/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1978/austria/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Brazil",
+          "countrySlug": "brazil",
+          "path": "cups/1978/brazil/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1978/brazil/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "France",
+          "countrySlug": "france",
+          "path": "cups/1978/france/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1978/france/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Hungary",
+          "countrySlug": "hungary",
+          "path": "cups/1978/hungary/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1978/hungary/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Iran",
+          "countrySlug": "iran",
+          "path": "cups/1978/iran/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1978/iran/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Italy",
+          "countrySlug": "italy",
+          "path": "cups/1978/italy/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1978/italy/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Mexico",
+          "countrySlug": "mexico",
+          "path": "cups/1978/mexico/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1978/mexico/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Netherlands",
+          "countrySlug": "netherlands",
+          "path": "cups/1978/netherlands/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1978/netherlands/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Peru",
+          "countrySlug": "peru",
+          "path": "cups/1978/peru/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1978/peru/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Poland",
+          "countrySlug": "poland",
+          "path": "cups/1978/poland/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1978/poland/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Scotland",
+          "countrySlug": "scotland",
+          "path": "cups/1978/scotland/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1978/scotland/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Spain",
+          "countrySlug": "spain",
+          "path": "cups/1978/spain/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1978/spain/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Sweden",
+          "countrySlug": "sweden",
+          "path": "cups/1978/sweden/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1978/sweden/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Tunisia",
+          "countrySlug": "tunisia",
+          "path": "cups/1978/tunisia/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1978/tunisia/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "West Germany",
+          "countrySlug": "west-germany",
+          "path": "cups/1978/west-germany/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1978/west-germany/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        }
+      ]
+    },
+    {
+      "year": 1982,
+      "nationCount": 24,
+      "playerCount": 526,
+      "nations": [
+        {
+          "country": "Algeria",
+          "countrySlug": "algeria",
+          "path": "cups/1982/algeria/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1982/algeria/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Argentina",
+          "countrySlug": "argentina",
+          "path": "cups/1982/argentina/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1982/argentina/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Austria",
+          "countrySlug": "austria",
+          "path": "cups/1982/austria/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1982/austria/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Belgium",
+          "countrySlug": "belgium",
+          "path": "cups/1982/belgium/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1982/belgium/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Brazil",
+          "countrySlug": "brazil",
+          "path": "cups/1982/brazil/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1982/brazil/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Cameroon",
+          "countrySlug": "cameroon",
+          "path": "cups/1982/cameroon/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1982/cameroon/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Chile",
+          "countrySlug": "chile",
+          "path": "cups/1982/chile/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1982/chile/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Czechoslovakia",
+          "countrySlug": "czechoslovakia",
+          "path": "cups/1982/czechoslovakia/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1982/czechoslovakia/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "El Salvador",
+          "countrySlug": "el-salvador",
+          "path": "cups/1982/el-salvador/",
+          "playerCount": 20,
+          "flag": true,
+          "flagPath": "cups/1982/el-salvador/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "England",
+          "countrySlug": "england",
+          "path": "cups/1982/england/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1982/england/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "France",
+          "countrySlug": "france",
+          "path": "cups/1982/france/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1982/france/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Honduras",
+          "countrySlug": "honduras",
+          "path": "cups/1982/honduras/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1982/honduras/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Hungary",
+          "countrySlug": "hungary",
+          "path": "cups/1982/hungary/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1982/hungary/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Italy",
+          "countrySlug": "italy",
+          "path": "cups/1982/italy/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1982/italy/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Kuwait",
+          "countrySlug": "kuwait",
+          "path": "cups/1982/kuwait/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1982/kuwait/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "New Zealand",
+          "countrySlug": "new-zealand",
+          "path": "cups/1982/new-zealand/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1982/new-zealand/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Northern Ireland",
+          "countrySlug": "northern-ireland",
+          "path": "cups/1982/northern-ireland/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1982/northern-ireland/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Peru",
+          "countrySlug": "peru",
+          "path": "cups/1982/peru/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1982/peru/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Poland",
+          "countrySlug": "poland",
+          "path": "cups/1982/poland/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1982/poland/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Scotland",
+          "countrySlug": "scotland",
+          "path": "cups/1982/scotland/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1982/scotland/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Soviet Union",
+          "countrySlug": "soviet-union",
+          "path": "cups/1982/soviet-union/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1982/soviet-union/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Spain",
+          "countrySlug": "spain",
+          "path": "cups/1982/spain/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1982/spain/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "West Germany",
+          "countrySlug": "west-germany",
+          "path": "cups/1982/west-germany/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1982/west-germany/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Yugoslavia",
+          "countrySlug": "yugoslavia",
+          "path": "cups/1982/yugoslavia/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1982/yugoslavia/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        }
+      ]
+    },
+    {
+      "year": 1986,
+      "nationCount": 24,
+      "playerCount": 528,
+      "nations": [
+        {
+          "country": "Algeria",
+          "countrySlug": "algeria",
+          "path": "cups/1986/algeria/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1986/algeria/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Argentina",
+          "countrySlug": "argentina",
+          "path": "cups/1986/argentina/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1986/argentina/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Belgium",
+          "countrySlug": "belgium",
+          "path": "cups/1986/belgium/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1986/belgium/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Brazil",
+          "countrySlug": "brazil",
+          "path": "cups/1986/brazil/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1986/brazil/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Bulgaria",
+          "countrySlug": "bulgaria",
+          "path": "cups/1986/bulgaria/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1986/bulgaria/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Canada",
+          "countrySlug": "canada",
+          "path": "cups/1986/canada/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1986/canada/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Denmark",
+          "countrySlug": "denmark",
+          "path": "cups/1986/denmark/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1986/denmark/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "England",
+          "countrySlug": "england",
+          "path": "cups/1986/england/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1986/england/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "France",
+          "countrySlug": "france",
+          "path": "cups/1986/france/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1986/france/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Hungary",
+          "countrySlug": "hungary",
+          "path": "cups/1986/hungary/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1986/hungary/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Iraq",
+          "countrySlug": "iraq",
+          "path": "cups/1986/iraq/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1986/iraq/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Italy",
+          "countrySlug": "italy",
+          "path": "cups/1986/italy/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1986/italy/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Mexico",
+          "countrySlug": "mexico",
+          "path": "cups/1986/mexico/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1986/mexico/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Morocco",
+          "countrySlug": "morocco",
+          "path": "cups/1986/morocco/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1986/morocco/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Northern Ireland",
+          "countrySlug": "northern-ireland",
+          "path": "cups/1986/northern-ireland/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1986/northern-ireland/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Paraguay",
+          "countrySlug": "paraguay",
+          "path": "cups/1986/paraguay/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1986/paraguay/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Poland",
+          "countrySlug": "poland",
+          "path": "cups/1986/poland/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1986/poland/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Portugal",
+          "countrySlug": "portugal",
+          "path": "cups/1986/portugal/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1986/portugal/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Scotland",
+          "countrySlug": "scotland",
+          "path": "cups/1986/scotland/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1986/scotland/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "South Korea",
+          "countrySlug": "south-korea",
+          "path": "cups/1986/south-korea/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1986/south-korea/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Soviet Union",
+          "countrySlug": "soviet-union",
+          "path": "cups/1986/soviet-union/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1986/soviet-union/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Spain",
+          "countrySlug": "spain",
+          "path": "cups/1986/spain/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1986/spain/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Uruguay",
+          "countrySlug": "uruguay",
+          "path": "cups/1986/uruguay/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1986/uruguay/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "West Germany",
+          "countrySlug": "west-germany",
+          "path": "cups/1986/west-germany/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1986/west-germany/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        }
+      ]
+    },
+    {
+      "year": 1990,
+      "nationCount": 24,
+      "playerCount": 528,
+      "nations": [
+        {
+          "country": "Argentina",
+          "countrySlug": "argentina",
+          "path": "cups/1990/argentina/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1990/argentina/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Austria",
+          "countrySlug": "austria",
+          "path": "cups/1990/austria/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1990/austria/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Belgium",
+          "countrySlug": "belgium",
+          "path": "cups/1990/belgium/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1990/belgium/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Brazil",
+          "countrySlug": "brazil",
+          "path": "cups/1990/brazil/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1990/brazil/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Cameroon",
+          "countrySlug": "cameroon",
+          "path": "cups/1990/cameroon/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1990/cameroon/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Colombia",
+          "countrySlug": "colombia",
+          "path": "cups/1990/colombia/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1990/colombia/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Costa Rica",
+          "countrySlug": "costa-rica",
+          "path": "cups/1990/costa-rica/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1990/costa-rica/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Czechoslovakia",
+          "countrySlug": "czechoslovakia",
+          "path": "cups/1990/czechoslovakia/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1990/czechoslovakia/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Egypt",
+          "countrySlug": "egypt",
+          "path": "cups/1990/egypt/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1990/egypt/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "England",
+          "countrySlug": "england",
+          "path": "cups/1990/england/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1990/england/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Italy",
+          "countrySlug": "italy",
+          "path": "cups/1990/italy/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1990/italy/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Netherlands",
+          "countrySlug": "netherlands",
+          "path": "cups/1990/netherlands/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1990/netherlands/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Republic of Ireland",
+          "countrySlug": "republic-of-ireland",
+          "path": "cups/1990/republic-of-ireland/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1990/republic-of-ireland/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Romania",
+          "countrySlug": "romania",
+          "path": "cups/1990/romania/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1990/romania/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Scotland",
+          "countrySlug": "scotland",
+          "path": "cups/1990/scotland/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1990/scotland/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "South Korea",
+          "countrySlug": "south-korea",
+          "path": "cups/1990/south-korea/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1990/south-korea/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Soviet Union",
+          "countrySlug": "soviet-union",
+          "path": "cups/1990/soviet-union/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1990/soviet-union/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Spain",
+          "countrySlug": "spain",
+          "path": "cups/1990/spain/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1990/spain/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Sweden",
+          "countrySlug": "sweden",
+          "path": "cups/1990/sweden/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1990/sweden/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "United Arab Emirates",
+          "countrySlug": "united-arab-emirates",
+          "path": "cups/1990/united-arab-emirates/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1990/united-arab-emirates/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "United States",
+          "countrySlug": "united-states",
+          "path": "cups/1990/united-states/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1990/united-states/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Uruguay",
+          "countrySlug": "uruguay",
+          "path": "cups/1990/uruguay/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1990/uruguay/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "West Germany",
+          "countrySlug": "west-germany",
+          "path": "cups/1990/west-germany/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1990/west-germany/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Yugoslavia",
+          "countrySlug": "yugoslavia",
+          "path": "cups/1990/yugoslavia/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1990/yugoslavia/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        }
+      ]
+    },
+    {
+      "year": 1994,
+      "nationCount": 24,
+      "playerCount": 528,
+      "nations": [
+        {
+          "country": "Argentina",
+          "countrySlug": "argentina",
+          "path": "cups/1994/argentina/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1994/argentina/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Belgium",
+          "countrySlug": "belgium",
+          "path": "cups/1994/belgium/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1994/belgium/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Bolivia",
+          "countrySlug": "bolivia",
+          "path": "cups/1994/bolivia/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1994/bolivia/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Brazil",
+          "countrySlug": "brazil",
+          "path": "cups/1994/brazil/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1994/brazil/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Bulgaria",
+          "countrySlug": "bulgaria",
+          "path": "cups/1994/bulgaria/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1994/bulgaria/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Cameroon",
+          "countrySlug": "cameroon",
+          "path": "cups/1994/cameroon/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1994/cameroon/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Colombia",
+          "countrySlug": "colombia",
+          "path": "cups/1994/colombia/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1994/colombia/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Germany",
+          "countrySlug": "germany",
+          "path": "cups/1994/germany/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1994/germany/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Greece",
+          "countrySlug": "greece",
+          "path": "cups/1994/greece/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1994/greece/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Italy",
+          "countrySlug": "italy",
+          "path": "cups/1994/italy/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1994/italy/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Mexico",
+          "countrySlug": "mexico",
+          "path": "cups/1994/mexico/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1994/mexico/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Morocco",
+          "countrySlug": "morocco",
+          "path": "cups/1994/morocco/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1994/morocco/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Netherlands",
+          "countrySlug": "netherlands",
+          "path": "cups/1994/netherlands/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1994/netherlands/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Nigeria",
+          "countrySlug": "nigeria",
+          "path": "cups/1994/nigeria/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1994/nigeria/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Norway",
+          "countrySlug": "norway",
+          "path": "cups/1994/norway/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1994/norway/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Republic of Ireland",
+          "countrySlug": "republic-of-ireland",
+          "path": "cups/1994/republic-of-ireland/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1994/republic-of-ireland/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Romania",
+          "countrySlug": "romania",
+          "path": "cups/1994/romania/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1994/romania/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Russia",
+          "countrySlug": "russia",
+          "path": "cups/1994/russia/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1994/russia/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Saudi Arabia",
+          "countrySlug": "saudi-arabia",
+          "path": "cups/1994/saudi-arabia/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1994/saudi-arabia/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "South Korea",
+          "countrySlug": "south-korea",
+          "path": "cups/1994/south-korea/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1994/south-korea/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Spain",
+          "countrySlug": "spain",
+          "path": "cups/1994/spain/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1994/spain/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Sweden",
+          "countrySlug": "sweden",
+          "path": "cups/1994/sweden/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1994/sweden/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Switzerland",
+          "countrySlug": "switzerland",
+          "path": "cups/1994/switzerland/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1994/switzerland/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "United States",
+          "countrySlug": "united-states",
+          "path": "cups/1994/united-states/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1994/united-states/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        }
+      ]
+    },
+    {
+      "year": 1998,
+      "nationCount": 32,
+      "playerCount": 705,
+      "nations": [
+        {
+          "country": "Argentina",
+          "countrySlug": "argentina",
+          "path": "cups/1998/argentina/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1998/argentina/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Austria",
+          "countrySlug": "austria",
+          "path": "cups/1998/austria/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1998/austria/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Belgium",
+          "countrySlug": "belgium",
+          "path": "cups/1998/belgium/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1998/belgium/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Brazil",
+          "countrySlug": "brazil",
+          "path": "cups/1998/brazil/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1998/brazil/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Bulgaria",
+          "countrySlug": "bulgaria",
+          "path": "cups/1998/bulgaria/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1998/bulgaria/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Cameroon",
+          "countrySlug": "cameroon",
+          "path": "cups/1998/cameroon/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1998/cameroon/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Chile",
+          "countrySlug": "chile",
+          "path": "cups/1998/chile/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1998/chile/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Colombia",
+          "countrySlug": "colombia",
+          "path": "cups/1998/colombia/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1998/colombia/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Croatia",
+          "countrySlug": "croatia",
+          "path": "cups/1998/croatia/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1998/croatia/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Denmark",
+          "countrySlug": "denmark",
+          "path": "cups/1998/denmark/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1998/denmark/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "England",
+          "countrySlug": "england",
+          "path": "cups/1998/england/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1998/england/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "France",
+          "countrySlug": "france",
+          "path": "cups/1998/france/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1998/france/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Germany",
+          "countrySlug": "germany",
+          "path": "cups/1998/germany/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1998/germany/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Iran",
+          "countrySlug": "iran",
+          "path": "cups/1998/iran/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1998/iran/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Italy",
+          "countrySlug": "italy",
+          "path": "cups/1998/italy/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1998/italy/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Jamaica",
+          "countrySlug": "jamaica",
+          "path": "cups/1998/jamaica/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1998/jamaica/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Japan",
+          "countrySlug": "japan",
+          "path": "cups/1998/japan/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1998/japan/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Mexico",
+          "countrySlug": "mexico",
+          "path": "cups/1998/mexico/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1998/mexico/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Morocco",
+          "countrySlug": "morocco",
+          "path": "cups/1998/morocco/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1998/morocco/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Netherlands",
+          "countrySlug": "netherlands",
+          "path": "cups/1998/netherlands/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1998/netherlands/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Nigeria",
+          "countrySlug": "nigeria",
+          "path": "cups/1998/nigeria/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1998/nigeria/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Norway",
+          "countrySlug": "norway",
+          "path": "cups/1998/norway/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1998/norway/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Paraguay",
+          "countrySlug": "paraguay",
+          "path": "cups/1998/paraguay/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1998/paraguay/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Romania",
+          "countrySlug": "romania",
+          "path": "cups/1998/romania/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1998/romania/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Saudi Arabia",
+          "countrySlug": "saudi-arabia",
+          "path": "cups/1998/saudi-arabia/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1998/saudi-arabia/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Scotland",
+          "countrySlug": "scotland",
+          "path": "cups/1998/scotland/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1998/scotland/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "South Africa",
+          "countrySlug": "south-africa",
+          "path": "cups/1998/south-africa/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/1998/south-africa/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "South Korea",
+          "countrySlug": "south-korea",
+          "path": "cups/1998/south-korea/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1998/south-korea/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Spain",
+          "countrySlug": "spain",
+          "path": "cups/1998/spain/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1998/spain/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Tunisia",
+          "countrySlug": "tunisia",
+          "path": "cups/1998/tunisia/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1998/tunisia/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "United States",
+          "countrySlug": "united-states",
+          "path": "cups/1998/united-states/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1998/united-states/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Yugoslavia",
+          "countrySlug": "yugoslavia",
+          "path": "cups/1998/yugoslavia/",
+          "playerCount": 22,
+          "flag": true,
+          "flagPath": "cups/1998/yugoslavia/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        }
+      ]
+    },
+    {
+      "year": 2002,
+      "nationCount": 32,
+      "playerCount": 736,
+      "nations": [
+        {
+          "country": "Argentina",
+          "countrySlug": "argentina",
+          "path": "cups/2002/argentina/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/2002/argentina/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Belgium",
+          "countrySlug": "belgium",
+          "path": "cups/2002/belgium/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/2002/belgium/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Brazil",
+          "countrySlug": "brazil",
+          "path": "cups/2002/brazil/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/2002/brazil/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Cameroon",
+          "countrySlug": "cameroon",
+          "path": "cups/2002/cameroon/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/2002/cameroon/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "China",
+          "countrySlug": "china",
+          "path": "cups/2002/china/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/2002/china/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Costa Rica",
+          "countrySlug": "costa-rica",
+          "path": "cups/2002/costa-rica/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/2002/costa-rica/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Croatia",
+          "countrySlug": "croatia",
+          "path": "cups/2002/croatia/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/2002/croatia/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Denmark",
+          "countrySlug": "denmark",
+          "path": "cups/2002/denmark/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/2002/denmark/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Ecuador",
+          "countrySlug": "ecuador",
+          "path": "cups/2002/ecuador/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/2002/ecuador/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "England",
+          "countrySlug": "england",
+          "path": "cups/2002/england/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/2002/england/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "France",
+          "countrySlug": "france",
+          "path": "cups/2002/france/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/2002/france/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Germany",
+          "countrySlug": "germany",
+          "path": "cups/2002/germany/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/2002/germany/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Italy",
+          "countrySlug": "italy",
+          "path": "cups/2002/italy/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/2002/italy/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Japan",
+          "countrySlug": "japan",
+          "path": "cups/2002/japan/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/2002/japan/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Mexico",
+          "countrySlug": "mexico",
+          "path": "cups/2002/mexico/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/2002/mexico/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Nigeria",
+          "countrySlug": "nigeria",
+          "path": "cups/2002/nigeria/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/2002/nigeria/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Paraguay",
+          "countrySlug": "paraguay",
+          "path": "cups/2002/paraguay/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/2002/paraguay/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Poland",
+          "countrySlug": "poland",
+          "path": "cups/2002/poland/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/2002/poland/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Portugal",
+          "countrySlug": "portugal",
+          "path": "cups/2002/portugal/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/2002/portugal/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Republic of Ireland",
+          "countrySlug": "republic-of-ireland",
+          "path": "cups/2002/republic-of-ireland/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/2002/republic-of-ireland/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Russia",
+          "countrySlug": "russia",
+          "path": "cups/2002/russia/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/2002/russia/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Saudi Arabia",
+          "countrySlug": "saudi-arabia",
+          "path": "cups/2002/saudi-arabia/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/2002/saudi-arabia/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Senegal",
+          "countrySlug": "senegal",
+          "path": "cups/2002/senegal/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/2002/senegal/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Slovenia",
+          "countrySlug": "slovenia",
+          "path": "cups/2002/slovenia/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/2002/slovenia/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "South Africa",
+          "countrySlug": "south-africa",
+          "path": "cups/2002/south-africa/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/2002/south-africa/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "South Korea",
+          "countrySlug": "south-korea",
+          "path": "cups/2002/south-korea/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/2002/south-korea/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Spain",
+          "countrySlug": "spain",
+          "path": "cups/2002/spain/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/2002/spain/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Sweden",
+          "countrySlug": "sweden",
+          "path": "cups/2002/sweden/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/2002/sweden/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Tunisia",
+          "countrySlug": "tunisia",
+          "path": "cups/2002/tunisia/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/2002/tunisia/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Turkey",
+          "countrySlug": "turkey",
+          "path": "cups/2002/turkey/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/2002/turkey/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "United States",
+          "countrySlug": "united-states",
+          "path": "cups/2002/united-states/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/2002/united-states/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Uruguay",
+          "countrySlug": "uruguay",
+          "path": "cups/2002/uruguay/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/2002/uruguay/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        }
+      ]
+    },
+    {
+      "year": 2006,
+      "nationCount": 32,
+      "playerCount": 736,
+      "nations": [
+        {
+          "country": "Angola",
+          "countrySlug": "angola",
+          "path": "cups/2006/angola/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/2006/angola/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Argentina",
+          "countrySlug": "argentina",
+          "path": "cups/2006/argentina/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/2006/argentina/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Australia",
+          "countrySlug": "australia",
+          "path": "cups/2006/australia/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/2006/australia/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Brazil",
+          "countrySlug": "brazil",
+          "path": "cups/2006/brazil/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/2006/brazil/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Costa Rica",
+          "countrySlug": "costa-rica",
+          "path": "cups/2006/costa-rica/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/2006/costa-rica/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Croatia",
+          "countrySlug": "croatia",
+          "path": "cups/2006/croatia/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/2006/croatia/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Czech Republic",
+          "countrySlug": "czech-republic",
+          "path": "cups/2006/czech-republic/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/2006/czech-republic/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Ecuador",
+          "countrySlug": "ecuador",
+          "path": "cups/2006/ecuador/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/2006/ecuador/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "England",
+          "countrySlug": "england",
+          "path": "cups/2006/england/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/2006/england/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "France",
+          "countrySlug": "france",
+          "path": "cups/2006/france/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/2006/france/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Germany",
+          "countrySlug": "germany",
+          "path": "cups/2006/germany/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/2006/germany/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Ghana",
+          "countrySlug": "ghana",
+          "path": "cups/2006/ghana/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/2006/ghana/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Iran",
+          "countrySlug": "iran",
+          "path": "cups/2006/iran/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/2006/iran/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Italy",
+          "countrySlug": "italy",
+          "path": "cups/2006/italy/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/2006/italy/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Ivory Coast",
+          "countrySlug": "ivory-coast",
+          "path": "cups/2006/ivory-coast/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/2006/ivory-coast/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Japan",
+          "countrySlug": "japan",
+          "path": "cups/2006/japan/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/2006/japan/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Mexico",
+          "countrySlug": "mexico",
+          "path": "cups/2006/mexico/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/2006/mexico/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Netherlands",
+          "countrySlug": "netherlands",
+          "path": "cups/2006/netherlands/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/2006/netherlands/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Paraguay",
+          "countrySlug": "paraguay",
+          "path": "cups/2006/paraguay/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/2006/paraguay/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Poland",
+          "countrySlug": "poland",
+          "path": "cups/2006/poland/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/2006/poland/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Portugal",
+          "countrySlug": "portugal",
+          "path": "cups/2006/portugal/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/2006/portugal/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Saudi Arabia",
+          "countrySlug": "saudi-arabia",
+          "path": "cups/2006/saudi-arabia/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/2006/saudi-arabia/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Serbia and Montenegro",
+          "countrySlug": "serbia-and-montenegro",
+          "path": "cups/2006/serbia-and-montenegro/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/2006/serbia-and-montenegro/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "South Korea",
+          "countrySlug": "south-korea",
+          "path": "cups/2006/south-korea/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/2006/south-korea/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Spain",
+          "countrySlug": "spain",
+          "path": "cups/2006/spain/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/2006/spain/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Sweden",
+          "countrySlug": "sweden",
+          "path": "cups/2006/sweden/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/2006/sweden/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Switzerland",
+          "countrySlug": "switzerland",
+          "path": "cups/2006/switzerland/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/2006/switzerland/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Togo",
+          "countrySlug": "togo",
+          "path": "cups/2006/togo/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/2006/togo/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Trinidad and Tobago",
+          "countrySlug": "trinidad-and-tobago",
+          "path": "cups/2006/trinidad-and-tobago/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/2006/trinidad-and-tobago/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Tunisia",
+          "countrySlug": "tunisia",
+          "path": "cups/2006/tunisia/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/2006/tunisia/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Ukraine",
+          "countrySlug": "ukraine",
+          "path": "cups/2006/ukraine/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/2006/ukraine/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "United States",
+          "countrySlug": "united-states",
+          "path": "cups/2006/united-states/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/2006/united-states/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        }
+      ]
+    },
+    {
+      "year": 2010,
+      "nationCount": 32,
+      "playerCount": 736,
+      "nations": [
+        {
+          "country": "Algeria",
+          "countrySlug": "algeria",
+          "path": "cups/2010/algeria/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/2010/algeria/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Argentina",
+          "countrySlug": "argentina",
+          "path": "cups/2010/argentina/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/2010/argentina/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Australia",
+          "countrySlug": "australia",
+          "path": "cups/2010/australia/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/2010/australia/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Brazil",
+          "countrySlug": "brazil",
+          "path": "cups/2010/brazil/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/2010/brazil/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Cameroon",
+          "countrySlug": "cameroon",
+          "path": "cups/2010/cameroon/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/2010/cameroon/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Chile",
+          "countrySlug": "chile",
+          "path": "cups/2010/chile/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/2010/chile/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Denmark",
+          "countrySlug": "denmark",
+          "path": "cups/2010/denmark/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/2010/denmark/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "England",
+          "countrySlug": "england",
+          "path": "cups/2010/england/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/2010/england/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "France",
+          "countrySlug": "france",
+          "path": "cups/2010/france/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/2010/france/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Germany",
+          "countrySlug": "germany",
+          "path": "cups/2010/germany/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/2010/germany/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Ghana",
+          "countrySlug": "ghana",
+          "path": "cups/2010/ghana/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/2010/ghana/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Greece",
+          "countrySlug": "greece",
+          "path": "cups/2010/greece/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/2010/greece/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Honduras",
+          "countrySlug": "honduras",
+          "path": "cups/2010/honduras/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/2010/honduras/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Italy",
+          "countrySlug": "italy",
+          "path": "cups/2010/italy/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/2010/italy/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Ivory Coast",
+          "countrySlug": "ivory-coast",
+          "path": "cups/2010/ivory-coast/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/2010/ivory-coast/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Japan",
+          "countrySlug": "japan",
+          "path": "cups/2010/japan/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/2010/japan/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Mexico",
+          "countrySlug": "mexico",
+          "path": "cups/2010/mexico/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/2010/mexico/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Netherlands",
+          "countrySlug": "netherlands",
+          "path": "cups/2010/netherlands/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/2010/netherlands/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "New Zealand",
+          "countrySlug": "new-zealand",
+          "path": "cups/2010/new-zealand/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/2010/new-zealand/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Nigeria",
+          "countrySlug": "nigeria",
+          "path": "cups/2010/nigeria/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/2010/nigeria/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "North Korea",
+          "countrySlug": "north-korea",
+          "path": "cups/2010/north-korea/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/2010/north-korea/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Paraguay",
+          "countrySlug": "paraguay",
+          "path": "cups/2010/paraguay/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/2010/paraguay/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Portugal",
+          "countrySlug": "portugal",
+          "path": "cups/2010/portugal/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/2010/portugal/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Serbia",
+          "countrySlug": "serbia",
+          "path": "cups/2010/serbia/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/2010/serbia/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Slovakia",
+          "countrySlug": "slovakia",
+          "path": "cups/2010/slovakia/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/2010/slovakia/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Slovenia",
+          "countrySlug": "slovenia",
+          "path": "cups/2010/slovenia/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/2010/slovenia/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "South Africa",
+          "countrySlug": "south-africa",
+          "path": "cups/2010/south-africa/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/2010/south-africa/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "South Korea",
+          "countrySlug": "south-korea",
+          "path": "cups/2010/south-korea/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/2010/south-korea/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Spain",
+          "countrySlug": "spain",
+          "path": "cups/2010/spain/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/2010/spain/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Switzerland",
+          "countrySlug": "switzerland",
+          "path": "cups/2010/switzerland/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/2010/switzerland/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "United States",
+          "countrySlug": "united-states",
+          "path": "cups/2010/united-states/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/2010/united-states/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Uruguay",
+          "countrySlug": "uruguay",
+          "path": "cups/2010/uruguay/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/2010/uruguay/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        }
+      ]
+    },
+    {
+      "year": 2014,
+      "nationCount": 32,
+      "playerCount": 736,
+      "nations": [
+        {
+          "country": "Algeria",
+          "countrySlug": "algeria",
+          "path": "cups/2014/algeria/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/2014/algeria/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Argentina",
+          "countrySlug": "argentina",
+          "path": "cups/2014/argentina/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/2014/argentina/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Australia",
+          "countrySlug": "australia",
+          "path": "cups/2014/australia/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/2014/australia/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Belgium",
+          "countrySlug": "belgium",
+          "path": "cups/2014/belgium/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/2014/belgium/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Bosnia and Herzegovina",
+          "countrySlug": "bosnia-and-herzegovina",
+          "path": "cups/2014/bosnia-and-herzegovina/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/2014/bosnia-and-herzegovina/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Brazil",
+          "countrySlug": "brazil",
+          "path": "cups/2014/brazil/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/2014/brazil/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Cameroon",
+          "countrySlug": "cameroon",
+          "path": "cups/2014/cameroon/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/2014/cameroon/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Chile",
+          "countrySlug": "chile",
+          "path": "cups/2014/chile/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/2014/chile/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Colombia",
+          "countrySlug": "colombia",
+          "path": "cups/2014/colombia/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/2014/colombia/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Costa Rica",
+          "countrySlug": "costa-rica",
+          "path": "cups/2014/costa-rica/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/2014/costa-rica/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Croatia",
+          "countrySlug": "croatia",
+          "path": "cups/2014/croatia/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/2014/croatia/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Ecuador",
+          "countrySlug": "ecuador",
+          "path": "cups/2014/ecuador/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/2014/ecuador/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "England",
+          "countrySlug": "england",
+          "path": "cups/2014/england/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/2014/england/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "France",
+          "countrySlug": "france",
+          "path": "cups/2014/france/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/2014/france/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Germany",
+          "countrySlug": "germany",
+          "path": "cups/2014/germany/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/2014/germany/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Ghana",
+          "countrySlug": "ghana",
+          "path": "cups/2014/ghana/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/2014/ghana/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Greece",
+          "countrySlug": "greece",
+          "path": "cups/2014/greece/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/2014/greece/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Honduras",
+          "countrySlug": "honduras",
+          "path": "cups/2014/honduras/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/2014/honduras/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Iran",
+          "countrySlug": "iran",
+          "path": "cups/2014/iran/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/2014/iran/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Italy",
+          "countrySlug": "italy",
+          "path": "cups/2014/italy/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/2014/italy/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Ivory Coast",
+          "countrySlug": "ivory-coast",
+          "path": "cups/2014/ivory-coast/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/2014/ivory-coast/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Japan",
+          "countrySlug": "japan",
+          "path": "cups/2014/japan/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/2014/japan/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Mexico",
+          "countrySlug": "mexico",
+          "path": "cups/2014/mexico/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/2014/mexico/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Netherlands",
+          "countrySlug": "netherlands",
+          "path": "cups/2014/netherlands/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/2014/netherlands/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Nigeria",
+          "countrySlug": "nigeria",
+          "path": "cups/2014/nigeria/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/2014/nigeria/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Portugal",
+          "countrySlug": "portugal",
+          "path": "cups/2014/portugal/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/2014/portugal/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Russia",
+          "countrySlug": "russia",
+          "path": "cups/2014/russia/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/2014/russia/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "South Korea",
+          "countrySlug": "south-korea",
+          "path": "cups/2014/south-korea/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/2014/south-korea/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Spain",
+          "countrySlug": "spain",
+          "path": "cups/2014/spain/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/2014/spain/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Switzerland",
+          "countrySlug": "switzerland",
+          "path": "cups/2014/switzerland/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/2014/switzerland/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "United States",
+          "countrySlug": "united-states",
+          "path": "cups/2014/united-states/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/2014/united-states/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Uruguay",
+          "countrySlug": "uruguay",
+          "path": "cups/2014/uruguay/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/2014/uruguay/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        }
+      ]
+    },
+    {
+      "year": 2018,
+      "nationCount": 32,
+      "playerCount": 736,
+      "nations": [
+        {
+          "country": "Argentina",
+          "countrySlug": "argentina",
+          "path": "cups/2018/argentina/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/2018/argentina/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Australia",
+          "countrySlug": "australia",
+          "path": "cups/2018/australia/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/2018/australia/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Belgium",
+          "countrySlug": "belgium",
+          "path": "cups/2018/belgium/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/2018/belgium/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Brazil",
+          "countrySlug": "brazil",
+          "path": "cups/2018/brazil/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/2018/brazil/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Colombia",
+          "countrySlug": "colombia",
+          "path": "cups/2018/colombia/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/2018/colombia/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Costa Rica",
+          "countrySlug": "costa-rica",
+          "path": "cups/2018/costa-rica/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/2018/costa-rica/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Croatia",
+          "countrySlug": "croatia",
+          "path": "cups/2018/croatia/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/2018/croatia/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Denmark",
+          "countrySlug": "denmark",
+          "path": "cups/2018/denmark/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/2018/denmark/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Egypt",
+          "countrySlug": "egypt",
+          "path": "cups/2018/egypt/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/2018/egypt/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "England",
+          "countrySlug": "england",
+          "path": "cups/2018/england/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/2018/england/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "France",
+          "countrySlug": "france",
+          "path": "cups/2018/france/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/2018/france/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Germany",
+          "countrySlug": "germany",
+          "path": "cups/2018/germany/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/2018/germany/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Iceland",
+          "countrySlug": "iceland",
+          "path": "cups/2018/iceland/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/2018/iceland/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Iran",
+          "countrySlug": "iran",
+          "path": "cups/2018/iran/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/2018/iran/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Japan",
+          "countrySlug": "japan",
+          "path": "cups/2018/japan/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/2018/japan/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Mexico",
+          "countrySlug": "mexico",
+          "path": "cups/2018/mexico/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/2018/mexico/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Morocco",
+          "countrySlug": "morocco",
+          "path": "cups/2018/morocco/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/2018/morocco/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Nigeria",
+          "countrySlug": "nigeria",
+          "path": "cups/2018/nigeria/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/2018/nigeria/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Panama",
+          "countrySlug": "panama",
+          "path": "cups/2018/panama/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/2018/panama/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Peru",
+          "countrySlug": "peru",
+          "path": "cups/2018/peru/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/2018/peru/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Poland",
+          "countrySlug": "poland",
+          "path": "cups/2018/poland/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/2018/poland/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Portugal",
+          "countrySlug": "portugal",
+          "path": "cups/2018/portugal/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/2018/portugal/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Russia",
+          "countrySlug": "russia",
+          "path": "cups/2018/russia/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/2018/russia/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Saudi Arabia",
+          "countrySlug": "saudi-arabia",
+          "path": "cups/2018/saudi-arabia/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/2018/saudi-arabia/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Senegal",
+          "countrySlug": "senegal",
+          "path": "cups/2018/senegal/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/2018/senegal/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Serbia",
+          "countrySlug": "serbia",
+          "path": "cups/2018/serbia/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/2018/serbia/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "South Korea",
+          "countrySlug": "south-korea",
+          "path": "cups/2018/south-korea/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/2018/south-korea/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Spain",
+          "countrySlug": "spain",
+          "path": "cups/2018/spain/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/2018/spain/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Sweden",
+          "countrySlug": "sweden",
+          "path": "cups/2018/sweden/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/2018/sweden/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Switzerland",
+          "countrySlug": "switzerland",
+          "path": "cups/2018/switzerland/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/2018/switzerland/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Tunisia",
+          "countrySlug": "tunisia",
+          "path": "cups/2018/tunisia/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/2018/tunisia/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Uruguay",
+          "countrySlug": "uruguay",
+          "path": "cups/2018/uruguay/",
+          "playerCount": 23,
+          "flag": true,
+          "flagPath": "cups/2018/uruguay/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        }
+      ]
+    },
+    {
+      "year": 2022,
+      "nationCount": 32,
+      "playerCount": 831,
+      "nations": [
+        {
+          "country": "Argentina",
+          "countrySlug": "argentina",
+          "path": "cups/2022/argentina/",
+          "playerCount": 26,
+          "flag": true,
+          "flagPath": "cups/2022/argentina/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Australia",
+          "countrySlug": "australia",
+          "path": "cups/2022/australia/",
+          "playerCount": 26,
+          "flag": true,
+          "flagPath": "cups/2022/australia/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Belgium",
+          "countrySlug": "belgium",
+          "path": "cups/2022/belgium/",
+          "playerCount": 26,
+          "flag": true,
+          "flagPath": "cups/2022/belgium/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Brazil",
+          "countrySlug": "brazil",
+          "path": "cups/2022/brazil/",
+          "playerCount": 26,
+          "flag": true,
+          "flagPath": "cups/2022/brazil/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Cameroon",
+          "countrySlug": "cameroon",
+          "path": "cups/2022/cameroon/",
+          "playerCount": 26,
+          "flag": true,
+          "flagPath": "cups/2022/cameroon/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Canada",
+          "countrySlug": "canada",
+          "path": "cups/2022/canada/",
+          "playerCount": 26,
+          "flag": true,
+          "flagPath": "cups/2022/canada/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Costa Rica",
+          "countrySlug": "costa-rica",
+          "path": "cups/2022/costa-rica/",
+          "playerCount": 26,
+          "flag": true,
+          "flagPath": "cups/2022/costa-rica/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Croatia",
+          "countrySlug": "croatia",
+          "path": "cups/2022/croatia/",
+          "playerCount": 26,
+          "flag": true,
+          "flagPath": "cups/2022/croatia/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Denmark",
+          "countrySlug": "denmark",
+          "path": "cups/2022/denmark/",
+          "playerCount": 26,
+          "flag": true,
+          "flagPath": "cups/2022/denmark/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Ecuador",
+          "countrySlug": "ecuador",
+          "path": "cups/2022/ecuador/",
+          "playerCount": 26,
+          "flag": true,
+          "flagPath": "cups/2022/ecuador/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "England",
+          "countrySlug": "england",
+          "path": "cups/2022/england/",
+          "playerCount": 26,
+          "flag": true,
+          "flagPath": "cups/2022/england/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "France",
+          "countrySlug": "france",
+          "path": "cups/2022/france/",
+          "playerCount": 26,
+          "flag": true,
+          "flagPath": "cups/2022/france/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Germany",
+          "countrySlug": "germany",
+          "path": "cups/2022/germany/",
+          "playerCount": 26,
+          "flag": true,
+          "flagPath": "cups/2022/germany/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Ghana",
+          "countrySlug": "ghana",
+          "path": "cups/2022/ghana/",
+          "playerCount": 26,
+          "flag": true,
+          "flagPath": "cups/2022/ghana/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Iran",
+          "countrySlug": "iran",
+          "path": "cups/2022/iran/",
+          "playerCount": 25,
+          "flag": true,
+          "flagPath": "cups/2022/iran/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Japan",
+          "countrySlug": "japan",
+          "path": "cups/2022/japan/",
+          "playerCount": 26,
+          "flag": true,
+          "flagPath": "cups/2022/japan/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Mexico",
+          "countrySlug": "mexico",
+          "path": "cups/2022/mexico/",
+          "playerCount": 26,
+          "flag": true,
+          "flagPath": "cups/2022/mexico/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Morocco",
+          "countrySlug": "morocco",
+          "path": "cups/2022/morocco/",
+          "playerCount": 26,
+          "flag": true,
+          "flagPath": "cups/2022/morocco/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Netherlands",
+          "countrySlug": "netherlands",
+          "path": "cups/2022/netherlands/",
+          "playerCount": 26,
+          "flag": true,
+          "flagPath": "cups/2022/netherlands/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Poland",
+          "countrySlug": "poland",
+          "path": "cups/2022/poland/",
+          "playerCount": 26,
+          "flag": true,
+          "flagPath": "cups/2022/poland/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Portugal",
+          "countrySlug": "portugal",
+          "path": "cups/2022/portugal/",
+          "playerCount": 26,
+          "flag": true,
+          "flagPath": "cups/2022/portugal/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Qatar",
+          "countrySlug": "qatar",
+          "path": "cups/2022/qatar/",
+          "playerCount": 26,
+          "flag": true,
+          "flagPath": "cups/2022/qatar/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Saudi Arabia",
+          "countrySlug": "saudi-arabia",
+          "path": "cups/2022/saudi-arabia/",
+          "playerCount": 26,
+          "flag": true,
+          "flagPath": "cups/2022/saudi-arabia/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Senegal",
+          "countrySlug": "senegal",
+          "path": "cups/2022/senegal/",
+          "playerCount": 26,
+          "flag": true,
+          "flagPath": "cups/2022/senegal/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Serbia",
+          "countrySlug": "serbia",
+          "path": "cups/2022/serbia/",
+          "playerCount": 26,
+          "flag": true,
+          "flagPath": "cups/2022/serbia/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "South Korea",
+          "countrySlug": "south-korea",
+          "path": "cups/2022/south-korea/",
+          "playerCount": 26,
+          "flag": true,
+          "flagPath": "cups/2022/south-korea/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Spain",
+          "countrySlug": "spain",
+          "path": "cups/2022/spain/",
+          "playerCount": 26,
+          "flag": true,
+          "flagPath": "cups/2022/spain/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Switzerland",
+          "countrySlug": "switzerland",
+          "path": "cups/2022/switzerland/",
+          "playerCount": 26,
+          "flag": true,
+          "flagPath": "cups/2022/switzerland/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Tunisia",
+          "countrySlug": "tunisia",
+          "path": "cups/2022/tunisia/",
+          "playerCount": 26,
+          "flag": true,
+          "flagPath": "cups/2022/tunisia/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "United States",
+          "countrySlug": "united-states",
+          "path": "cups/2022/united-states/",
+          "playerCount": 26,
+          "flag": true,
+          "flagPath": "cups/2022/united-states/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Uruguay",
+          "countrySlug": "uruguay",
+          "path": "cups/2022/uruguay/",
+          "playerCount": 26,
+          "flag": true,
+          "flagPath": "cups/2022/uruguay/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Wales",
+          "countrySlug": "wales",
+          "path": "cups/2022/wales/",
+          "playerCount": 26,
+          "flag": true,
+          "flagPath": "cups/2022/wales/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        }
+      ]
+    },
+    {
+      "year": 2026,
+      "nationCount": 48,
+      "playerCount": 1248,
+      "nations": [
+        {
+          "country": "Algeria",
+          "countrySlug": "algeria",
+          "path": "cups/2026/algeria/",
+          "playerCount": 26,
+          "flag": true,
+          "flagPath": "cups/2026/algeria/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Argentina",
+          "countrySlug": "argentina",
+          "path": "cups/2026/argentina/",
+          "playerCount": 26,
+          "flag": true,
+          "flagPath": "cups/2026/argentina/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Australia",
+          "countrySlug": "australia",
+          "path": "cups/2026/australia/",
+          "playerCount": 26,
+          "flag": true,
+          "flagPath": "cups/2026/australia/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Austria",
+          "countrySlug": "austria",
+          "path": "cups/2026/austria/",
+          "playerCount": 26,
+          "flag": true,
+          "flagPath": "cups/2026/austria/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Belgium",
+          "countrySlug": "belgium",
+          "path": "cups/2026/belgium/",
+          "playerCount": 26,
+          "flag": true,
+          "flagPath": "cups/2026/belgium/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Bosnia and Herzegovina",
+          "countrySlug": "bosnia-and-herzegovina",
+          "path": "cups/2026/bosnia-and-herzegovina/",
+          "playerCount": 26,
+          "flag": true,
+          "flagPath": "cups/2026/bosnia-and-herzegovina/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Brazil",
+          "countrySlug": "brazil",
+          "path": "cups/2026/brazil/",
+          "playerCount": 26,
+          "flag": true,
+          "flagPath": "cups/2026/brazil/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Cabo Verde",
+          "countrySlug": "cabo-verde",
+          "path": "cups/2026/cabo-verde/",
+          "playerCount": 26,
+          "flag": true,
+          "flagPath": "cups/2026/cabo-verde/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Canada",
+          "countrySlug": "canada",
+          "path": "cups/2026/canada/",
+          "playerCount": 26,
+          "flag": true,
+          "flagPath": "cups/2026/canada/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Colombia",
+          "countrySlug": "colombia",
+          "path": "cups/2026/colombia/",
+          "playerCount": 26,
+          "flag": true,
+          "flagPath": "cups/2026/colombia/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Congo DR",
+          "countrySlug": "congo-dr",
+          "path": "cups/2026/congo-dr/",
+          "playerCount": 26,
+          "flag": true,
+          "flagPath": "cups/2026/congo-dr/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Croatia",
+          "countrySlug": "croatia",
+          "path": "cups/2026/croatia/",
+          "playerCount": 26,
+          "flag": true,
+          "flagPath": "cups/2026/croatia/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Curaçao",
+          "countrySlug": "curacao",
+          "path": "cups/2026/curacao/",
+          "playerCount": 26,
+          "flag": true,
+          "flagPath": "cups/2026/curacao/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Czechia",
+          "countrySlug": "czechia",
+          "path": "cups/2026/czechia/",
+          "playerCount": 26,
+          "flag": true,
+          "flagPath": "cups/2026/czechia/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Côte d'Ivoire",
+          "countrySlug": "cote-d-ivoire",
+          "path": "cups/2026/cote-d-ivoire/",
+          "playerCount": 26,
+          "flag": true,
+          "flagPath": "cups/2026/cote-d-ivoire/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Ecuador",
+          "countrySlug": "ecuador",
+          "path": "cups/2026/ecuador/",
+          "playerCount": 26,
+          "flag": true,
+          "flagPath": "cups/2026/ecuador/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Egypt",
+          "countrySlug": "egypt",
+          "path": "cups/2026/egypt/",
+          "playerCount": 26,
+          "flag": true,
+          "flagPath": "cups/2026/egypt/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "England",
+          "countrySlug": "england",
+          "path": "cups/2026/england/",
+          "playerCount": 26,
+          "flag": true,
+          "flagPath": "cups/2026/england/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "France",
+          "countrySlug": "france",
+          "path": "cups/2026/france/",
+          "playerCount": 26,
+          "flag": true,
+          "flagPath": "cups/2026/france/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Germany",
+          "countrySlug": "germany",
+          "path": "cups/2026/germany/",
+          "playerCount": 26,
+          "flag": true,
+          "flagPath": "cups/2026/germany/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Ghana",
+          "countrySlug": "ghana",
+          "path": "cups/2026/ghana/",
+          "playerCount": 26,
+          "flag": true,
+          "flagPath": "cups/2026/ghana/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Haiti",
+          "countrySlug": "haiti",
+          "path": "cups/2026/haiti/",
+          "playerCount": 26,
+          "flag": true,
+          "flagPath": "cups/2026/haiti/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "IR Iran",
+          "countrySlug": "ir-iran",
+          "path": "cups/2026/ir-iran/",
+          "playerCount": 26,
+          "flag": true,
+          "flagPath": "cups/2026/ir-iran/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Iraq",
+          "countrySlug": "iraq",
+          "path": "cups/2026/iraq/",
+          "playerCount": 26,
+          "flag": true,
+          "flagPath": "cups/2026/iraq/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Japan",
+          "countrySlug": "japan",
+          "path": "cups/2026/japan/",
+          "playerCount": 26,
+          "flag": true,
+          "flagPath": "cups/2026/japan/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Jordan",
+          "countrySlug": "jordan",
+          "path": "cups/2026/jordan/",
+          "playerCount": 26,
+          "flag": true,
+          "flagPath": "cups/2026/jordan/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Mexico",
+          "countrySlug": "mexico",
+          "path": "cups/2026/mexico/",
+          "playerCount": 26,
+          "flag": true,
+          "flagPath": "cups/2026/mexico/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Morocco",
+          "countrySlug": "morocco",
+          "path": "cups/2026/morocco/",
+          "playerCount": 26,
+          "flag": true,
+          "flagPath": "cups/2026/morocco/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Netherlands",
+          "countrySlug": "netherlands",
+          "path": "cups/2026/netherlands/",
+          "playerCount": 26,
+          "flag": true,
+          "flagPath": "cups/2026/netherlands/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "New Zealand",
+          "countrySlug": "new-zealand",
+          "path": "cups/2026/new-zealand/",
+          "playerCount": 26,
+          "flag": true,
+          "flagPath": "cups/2026/new-zealand/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Norway",
+          "countrySlug": "norway",
+          "path": "cups/2026/norway/",
+          "playerCount": 26,
+          "flag": true,
+          "flagPath": "cups/2026/norway/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Panama",
+          "countrySlug": "panama",
+          "path": "cups/2026/panama/",
+          "playerCount": 26,
+          "flag": true,
+          "flagPath": "cups/2026/panama/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Paraguay",
+          "countrySlug": "paraguay",
+          "path": "cups/2026/paraguay/",
+          "playerCount": 26,
+          "flag": true,
+          "flagPath": "cups/2026/paraguay/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Portugal",
+          "countrySlug": "portugal",
+          "path": "cups/2026/portugal/",
+          "playerCount": 26,
+          "flag": true,
+          "flagPath": "cups/2026/portugal/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Qatar",
+          "countrySlug": "qatar",
+          "path": "cups/2026/qatar/",
+          "playerCount": 26,
+          "flag": true,
+          "flagPath": "cups/2026/qatar/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Saudi Arabia",
+          "countrySlug": "saudi-arabia",
+          "path": "cups/2026/saudi-arabia/",
+          "playerCount": 26,
+          "flag": true,
+          "flagPath": "cups/2026/saudi-arabia/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Scotland",
+          "countrySlug": "scotland",
+          "path": "cups/2026/scotland/",
+          "playerCount": 26,
+          "flag": true,
+          "flagPath": "cups/2026/scotland/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Senegal",
+          "countrySlug": "senegal",
+          "path": "cups/2026/senegal/",
+          "playerCount": 26,
+          "flag": true,
+          "flagPath": "cups/2026/senegal/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "South Africa",
+          "countrySlug": "south-africa",
+          "path": "cups/2026/south-africa/",
+          "playerCount": 26,
+          "flag": true,
+          "flagPath": "cups/2026/south-africa/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "South Korea",
+          "countrySlug": "south-korea",
+          "path": "cups/2026/south-korea/",
+          "playerCount": 26,
+          "flag": true,
+          "flagPath": "cups/2026/south-korea/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Spain",
+          "countrySlug": "spain",
+          "path": "cups/2026/spain/",
+          "playerCount": 26,
+          "flag": true,
+          "flagPath": "cups/2026/spain/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Sweden",
+          "countrySlug": "sweden",
+          "path": "cups/2026/sweden/",
+          "playerCount": 26,
+          "flag": true,
+          "flagPath": "cups/2026/sweden/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Switzerland",
+          "countrySlug": "switzerland",
+          "path": "cups/2026/switzerland/",
+          "playerCount": 26,
+          "flag": true,
+          "flagPath": "cups/2026/switzerland/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Tunisia",
+          "countrySlug": "tunisia",
+          "path": "cups/2026/tunisia/",
+          "playerCount": 26,
+          "flag": true,
+          "flagPath": "cups/2026/tunisia/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Türkiye",
+          "countrySlug": "turkiye",
+          "path": "cups/2026/turkiye/",
+          "playerCount": 26,
+          "flag": true,
+          "flagPath": "cups/2026/turkiye/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Uruguay",
+          "countrySlug": "uruguay",
+          "path": "cups/2026/uruguay/",
+          "playerCount": 26,
+          "flag": true,
+          "flagPath": "cups/2026/uruguay/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "USA",
+          "countrySlug": "usa",
+          "path": "cups/2026/usa/",
+          "playerCount": 26,
+          "flag": true,
+          "flagPath": "cups/2026/usa/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        },
+        {
+          "country": "Uzbekistan",
+          "countrySlug": "uzbekistan",
+          "path": "cups/2026/uzbekistan/",
+          "playerCount": 26,
+          "flag": true,
+          "flagPath": "cups/2026/uzbekistan/flag.png",
+          "flagFormats": [
+            "png",
+            "svg"
+          ]
+        }
+      ]
+    }
+  ]
+}

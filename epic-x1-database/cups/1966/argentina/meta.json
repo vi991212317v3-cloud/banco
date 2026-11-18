@@ -1,0 +1,214 @@
+{
+  "country": "Argentina",
+  "countrySlug": "argentina",
+  "year": 1966,
+  "edition": "1966",
+  "host": "England",
+  "coach": "Juan Carlos Lorenzo",
+  "finalPhase": "Quarter-final",
+  "result": "Quarter-final",
+  "squad": [
+    {
+      "id": "argentina-1966-1",
+      "name": "Antonio Roma",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "argentina-1966-2",
+      "name": "Rolando Irusta",
+      "shirtNumber": 2,
+      "position": "GK"
+    },
+    {
+      "id": "argentina-1966-3",
+      "name": "Hugo Gatti",
+      "shirtNumber": 3,
+      "position": "GK"
+    },
+    {
+      "id": "argentina-1966-4",
+      "name": "Roberto Perfumo",
+      "shirtNumber": 4,
+      "position": "DEF"
+    },
+    {
+      "id": "argentina-1966-5",
+      "name": "José Varacka",
+      "shirtNumber": 5,
+      "position": "MID"
+    },
+    {
+      "id": "argentina-1966-6",
+      "name": "Oscar Calics",
+      "shirtNumber": 6,
+      "position": "MID"
+    },
+    {
+      "id": "argentina-1966-7",
+      "name": "Silvio Marzolini",
+      "shirtNumber": 7,
+      "position": "DEF"
+    },
+    {
+      "id": "argentina-1966-8",
+      "name": "Roberto Ferreiro",
+      "shirtNumber": 8,
+      "position": "DEF"
+    },
+    {
+      "id": "argentina-1966-9",
+      "name": "Carmelo Simeone",
+      "shirtNumber": 9,
+      "position": "MID"
+    },
+    {
+      "id": "argentina-1966-10",
+      "name": "Antonio Rattín",
+      "shirtNumber": 10,
+      "position": "MID"
+    },
+    {
+      "id": "argentina-1966-11",
+      "name": "José Omar Pastoriza",
+      "shirtNumber": 11,
+      "position": "MID"
+    },
+    {
+      "id": "argentina-1966-12",
+      "name": "Rafael Albrecht",
+      "shirtNumber": 12,
+      "position": "MID"
+    },
+    {
+      "id": "argentina-1966-13",
+      "name": "Nelson López",
+      "shirtNumber": 13,
+      "position": "DEF"
+    },
+    {
+      "id": "argentina-1966-14",
+      "name": "Mario Chaldú",
+      "shirtNumber": 14,
+      "position": "ATT"
+    },
+    {
+      "id": "argentina-1966-15",
+      "name": "Jorge Solari",
+      "shirtNumber": 15,
+      "position": "MID"
+    },
+    {
+      "id": "argentina-1966-16",
+      "name": "Alberto González",
+      "shirtNumber": 16,
+      "position": "ATT"
+    },
+    {
+      "id": "argentina-1966-17",
+      "name": "Juan Carlos Sarnari",
+      "shirtNumber": 17,
+      "position": "MID"
+    },
+    {
+      "id": "argentina-1966-18",
+      "name": "Alfredo Rojas",
+      "shirtNumber": 18,
+      "position": "ATT"
+    },
+    {
+      "id": "argentina-1966-19",
+      "name": "Luis Artime",
+      "shirtNumber": 19,
+      "position": "ATT"
+    },
+    {
+      "id": "argentina-1966-20",
+      "name": "Ermindo Onega",
+      "shirtNumber": 20,
+      "position": "ATT"
+    },
+    {
+      "id": "argentina-1966-21",
+      "name": "Oscar Más",
+      "shirtNumber": 21,
+      "position": "ATT"
+    },
+    {
+      "id": "argentina-1966-22",
+      "name": "Aníbal Tarabini",
+      "shirtNumber": 22,
+      "position": "ATT"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "Spain",
+      "score": "2–1",
+      "scorers": [
+        {
+          "name": "Luis Artime",
+          "minute": "65'",
+          "ownGoal": false
+        },
+        {
+          "name": "Pirri",
+          "minute": "71'",
+          "ownGoal": false
+        },
+        {
+          "name": "Luis Artime",
+          "minute": "77'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1966-07-13"
+    },
+    {
+      "stage": "Group",
+      "opponent": "West Germany",
+      "score": "0–0",
+      "scorers": [],
+      "date": "1966-07-16"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Switzerland",
+      "score": "2–0",
+      "scorers": [
+        {
+          "name": "Luis Artime",
+          "minute": "52'",
+          "ownGoal": false
+        },
+        {
+          "name": "Ermindo Onega",
+          "minute": "79'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1966-07-19"
+    },
+    {
+      "stage": "Quarter-final",
+      "opponent": "England",
+      "score": "1–0",
+      "scorers": [
+        {
+          "name": "Geoff Hurst",
+          "minute": "78'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1966-07-23"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

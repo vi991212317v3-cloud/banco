@@ -1,0 +1,306 @@
+{
+  "country": "Argentina",
+  "countrySlug": "argentina",
+  "year": 1974,
+  "edition": "1974",
+  "host": "West Germany",
+  "coach": "Vladislao Cap",
+  "finalPhase": "Second Group Stage",
+  "result": "Second Group Stage",
+  "squad": [
+    {
+      "id": "argentina-1974-1",
+      "name": "Daniel Carnevali",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "argentina-1974-2",
+      "name": "Rubén Ayala",
+      "shirtNumber": 2,
+      "position": "ATT"
+    },
+    {
+      "id": "argentina-1974-3",
+      "name": "Carlos Babington",
+      "shirtNumber": 3,
+      "position": "MID"
+    },
+    {
+      "id": "argentina-1974-4",
+      "name": "Agustín Balbuena",
+      "shirtNumber": 4,
+      "position": "ATT"
+    },
+    {
+      "id": "argentina-1974-5",
+      "name": "Ángel Bargas",
+      "shirtNumber": 5,
+      "position": "DEF"
+    },
+    {
+      "id": "argentina-1974-6",
+      "name": "Miguel Ángel Brindisi",
+      "shirtNumber": 6,
+      "position": "MID"
+    },
+    {
+      "id": "argentina-1974-7",
+      "name": "Jorge Carrascosa",
+      "shirtNumber": 7,
+      "position": "DEF"
+    },
+    {
+      "id": "argentina-1974-8",
+      "name": "Enrique Chazarreta",
+      "shirtNumber": 8,
+      "position": "MID"
+    },
+    {
+      "id": "argentina-1974-9",
+      "name": "Rubén Glaria",
+      "shirtNumber": 9,
+      "position": "DEF"
+    },
+    {
+      "id": "argentina-1974-10",
+      "name": "Ramón Heredia",
+      "shirtNumber": 10,
+      "position": "DEF"
+    },
+    {
+      "id": "argentina-1974-11",
+      "name": "René Houseman",
+      "shirtNumber": 11,
+      "position": "MID"
+    },
+    {
+      "id": "argentina-1974-12",
+      "name": "Ubaldo Fillol",
+      "shirtNumber": 12,
+      "position": "GK"
+    },
+    {
+      "id": "argentina-1974-13",
+      "name": "Mario Kempes",
+      "shirtNumber": 13,
+      "position": "ATT"
+    },
+    {
+      "id": "argentina-1974-14",
+      "name": "Roberto Perfumo",
+      "shirtNumber": 14,
+      "position": "DEF"
+    },
+    {
+      "id": "argentina-1974-15",
+      "name": "Aldo Poy",
+      "shirtNumber": 15,
+      "position": "ATT"
+    },
+    {
+      "id": "argentina-1974-16",
+      "name": "Francisco Sá",
+      "shirtNumber": 16,
+      "position": "DEF"
+    },
+    {
+      "id": "argentina-1974-17",
+      "name": "Carlos Squeo",
+      "shirtNumber": 17,
+      "position": "MID"
+    },
+    {
+      "id": "argentina-1974-18",
+      "name": "Roberto Telch",
+      "shirtNumber": 18,
+      "position": "MID"
+    },
+    {
+      "id": "argentina-1974-19",
+      "name": "Néstor Togneri",
+      "shirtNumber": 19,
+      "position": "MID"
+    },
+    {
+      "id": "argentina-1974-20",
+      "name": "Enrique Wolff",
+      "shirtNumber": 20,
+      "position": "DEF"
+    },
+    {
+      "id": "argentina-1974-21",
+      "name": "Miguel Ángel Santoro",
+      "shirtNumber": 21,
+      "position": "GK"
+    },
+    {
+      "id": "argentina-1974-22",
+      "name": "Héctor Yazalde",
+      "shirtNumber": 22,
+      "position": "ATT"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "Poland",
+      "score": "3–2",
+      "scorers": [
+        {
+          "name": "Grzegorz Lato",
+          "minute": "7'",
+          "ownGoal": false
+        },
+        {
+          "name": "Andrzej Szarmach",
+          "minute": "8'",
+          "ownGoal": false
+        },
+        {
+          "name": "Ramón Heredia",
+          "minute": "60'",
+          "ownGoal": false
+        },
+        {
+          "name": "Grzegorz Lato",
+          "minute": "62'",
+          "ownGoal": false
+        },
+        {
+          "name": "Carlos Babington",
+          "minute": "66'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1974-06-15"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Italy",
+      "score": "1–1",
+      "scorers": [
+        {
+          "name": "René Houseman",
+          "minute": "20'",
+          "ownGoal": false
+        },
+        {
+          "name": "Roberto Perfumo",
+          "minute": "35'",
+          "ownGoal": true
+        }
+      ],
+      "date": "1974-06-19"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Haiti",
+      "score": "4–1",
+      "scorers": [
+        {
+          "name": "Héctor Yazalde",
+          "minute": "15'",
+          "ownGoal": false
+        },
+        {
+          "name": "René Houseman",
+          "minute": "18'",
+          "ownGoal": false
+        },
+        {
+          "name": "Rubén Ayala",
+          "minute": "55'",
+          "ownGoal": false
+        },
+        {
+          "name": "Emmanuel Sanon",
+          "minute": "63'",
+          "ownGoal": false
+        },
+        {
+          "name": "Héctor Yazalde",
+          "minute": "68'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1974-06-23"
+    },
+    {
+      "stage": "Second Group Stage",
+      "opponent": "Netherlands",
+      "score": "4–0",
+      "scorers": [
+        {
+          "name": "Johan Cruyff",
+          "minute": "11'",
+          "ownGoal": false
+        },
+        {
+          "name": "Ruud Krol",
+          "minute": "25'",
+          "ownGoal": false
+        },
+        {
+          "name": "Johnny Rep",
+          "minute": "73'",
+          "ownGoal": false
+        },
+        {
+          "name": "Johan Cruyff",
+          "minute": "90'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1974-06-26"
+    },
+    {
+      "stage": "Second Group Stage",
+      "opponent": "Brazil",
+      "score": "1–2",
+      "scorers": [
+        {
+          "name": "Rivellino",
+          "minute": "32'",
+          "ownGoal": false
+        },
+        {
+          "name": "Miguel Ángel Brindisi",
+          "minute": "35'",
+          "ownGoal": false
+        },
+        {
+          "name": "Jairzinho",
+          "minute": "49'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1974-06-30"
+    },
+    {
+      "stage": "Second Group Stage",
+      "opponent": "East Germany",
+      "score": "1–1",
+      "scorers": [
+        {
+          "name": "Joachim Streich",
+          "minute": "14'",
+          "ownGoal": false
+        },
+        {
+          "name": "René Houseman",
+          "minute": "20'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1974-07-03"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

@@ -1,0 +1,249 @@
+{
+  "country": "Sweden",
+  "countrySlug": "sweden",
+  "year": 2018,
+  "edition": "2018",
+  "host": "Russia",
+  "coach": "Janne Andersson",
+  "finalPhase": "Quarter-final",
+  "result": "Quarter-final",
+  "squad": [
+    {
+      "id": "sweden-2018-1",
+      "name": "Robin Olsen",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "sweden-2018-2",
+      "name": "Mikael Lustig",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "sweden-2018-3",
+      "name": "Victor Lindelöf",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "sweden-2018-4",
+      "name": "Andreas Granqvist",
+      "shirtNumber": 4,
+      "position": "DEF"
+    },
+    {
+      "id": "sweden-2018-5",
+      "name": "Martin Olsson",
+      "shirtNumber": 5,
+      "position": "DEF"
+    },
+    {
+      "id": "sweden-2018-6",
+      "name": "Ludwig Augustinsson",
+      "shirtNumber": 6,
+      "position": "DEF"
+    },
+    {
+      "id": "sweden-2018-7",
+      "name": "Sebastian Larsson",
+      "shirtNumber": 7,
+      "position": "MID"
+    },
+    {
+      "id": "sweden-2018-8",
+      "name": "Albin Ekdal",
+      "shirtNumber": 8,
+      "position": "MID"
+    },
+    {
+      "id": "sweden-2018-9",
+      "name": "Marcus Berg",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "sweden-2018-10",
+      "name": "Emil Forsberg",
+      "shirtNumber": 10,
+      "position": "MID"
+    },
+    {
+      "id": "sweden-2018-11",
+      "name": "John Guidetti",
+      "shirtNumber": 11,
+      "position": "ATT"
+    },
+    {
+      "id": "sweden-2018-12",
+      "name": "Karl-Johan Johnsson",
+      "shirtNumber": 12,
+      "position": "GK"
+    },
+    {
+      "id": "sweden-2018-13",
+      "name": "Gustav Svensson",
+      "shirtNumber": 13,
+      "position": "MID"
+    },
+    {
+      "id": "sweden-2018-14",
+      "name": "Filip Helander",
+      "shirtNumber": 14,
+      "position": "DEF"
+    },
+    {
+      "id": "sweden-2018-15",
+      "name": "Oscar Hiljemark",
+      "shirtNumber": 15,
+      "position": "MID"
+    },
+    {
+      "id": "sweden-2018-16",
+      "name": "Emil Krafth",
+      "shirtNumber": 16,
+      "position": "DEF"
+    },
+    {
+      "id": "sweden-2018-17",
+      "name": "Viktor Claesson",
+      "shirtNumber": 17,
+      "position": "MID"
+    },
+    {
+      "id": "sweden-2018-18",
+      "name": "Pontus Jansson",
+      "shirtNumber": 18,
+      "position": "DEF"
+    },
+    {
+      "id": "sweden-2018-19",
+      "name": "Marcus Rohdén",
+      "shirtNumber": 19,
+      "position": "MID"
+    },
+    {
+      "id": "sweden-2018-20",
+      "name": "Ola Toivonen",
+      "shirtNumber": 20,
+      "position": "ATT"
+    },
+    {
+      "id": "sweden-2018-21",
+      "name": "Jimmy Durmaz",
+      "shirtNumber": 21,
+      "position": "MID"
+    },
+    {
+      "id": "sweden-2018-22",
+      "name": "Isaac Kiese Thelin",
+      "shirtNumber": 22,
+      "position": "ATT"
+    },
+    {
+      "id": "sweden-2018-23",
+      "name": "Kristoffer Nordfeldt",
+      "shirtNumber": 23,
+      "position": "GK"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "South Korea",
+      "score": "1–0",
+      "scorers": [
+        {
+          "name": "Andreas Granqvist",
+          "minute": "65'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2018-06-18"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Germany",
+      "score": "2–1",
+      "scorers": [
+        {
+          "name": "Ola Toivonen",
+          "minute": "32'",
+          "ownGoal": false
+        },
+        {
+          "name": "Marco Reus",
+          "minute": "48'",
+          "ownGoal": false
+        },
+        {
+          "name": "Toni Kroos",
+          "minute": "90'+5'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2018-06-23"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Mexico",
+      "score": "0–3",
+      "scorers": [
+        {
+          "name": "Ludwig Augustinsson",
+          "minute": "50'",
+          "ownGoal": false
+        },
+        {
+          "name": "Andreas Granqvist",
+          "minute": "62'",
+          "ownGoal": false
+        },
+        {
+          "name": "Edson Álvarez",
+          "minute": "74'",
+          "ownGoal": true
+        }
+      ],
+      "date": "2018-06-27"
+    },
+    {
+      "stage": "Round of 16",
+      "opponent": "Switzerland",
+      "score": "1–0",
+      "scorers": [
+        {
+          "name": "Emil Forsberg",
+          "minute": "66'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2018-07-03"
+    },
+    {
+      "stage": "Quarter-final",
+      "opponent": "England",
+      "score": "0–2",
+      "scorers": [
+        {
+          "name": "Harry Maguire",
+          "minute": "30'",
+          "ownGoal": false
+        },
+        {
+          "name": "Dele Alli",
+          "minute": "59'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2018-07-07"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

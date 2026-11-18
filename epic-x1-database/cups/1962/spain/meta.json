@@ -1,0 +1,202 @@
+{
+  "country": "Spain",
+  "countrySlug": "spain",
+  "year": 1962,
+  "edition": "1962",
+  "host": "Chile",
+  "coach": "Helenio Herrera",
+  "finalPhase": "Group Stage",
+  "result": "Group Stage",
+  "squad": [
+    {
+      "id": "spain-1962-1",
+      "name": "José Araquistáin",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "spain-1962-2",
+      "name": "Salvador Sadurní",
+      "shirtNumber": 2,
+      "position": "GK"
+    },
+    {
+      "id": "spain-1962-3",
+      "name": "Carmelo",
+      "shirtNumber": 3,
+      "position": "GK"
+    },
+    {
+      "id": "spain-1962-4",
+      "name": "Enrique Collar",
+      "shirtNumber": 4,
+      "position": "ATT"
+    },
+    {
+      "id": "spain-1962-5",
+      "name": "Luis del Sol",
+      "shirtNumber": 5,
+      "position": "MID"
+    },
+    {
+      "id": "spain-1962-6",
+      "name": "Alfredo Di Stéfano",
+      "shirtNumber": 6,
+      "position": "ATT"
+    },
+    {
+      "id": "spain-1962-7",
+      "name": "Luis María Echeberría",
+      "shirtNumber": 7,
+      "position": "DEF"
+    },
+    {
+      "id": "spain-1962-8",
+      "name": "Jesús Garay",
+      "shirtNumber": 8,
+      "position": "DEF"
+    },
+    {
+      "id": "spain-1962-9",
+      "name": "Francisco Gento",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "spain-1962-10",
+      "name": "Sígfrid Gràcia",
+      "shirtNumber": 10,
+      "position": "DEF"
+    },
+    {
+      "id": "spain-1962-11",
+      "name": "Feliciano Rivilla",
+      "shirtNumber": 11,
+      "position": "DEF"
+    },
+    {
+      "id": "spain-1962-12",
+      "name": "Joaquín Peiró",
+      "shirtNumber": 12,
+      "position": "MID"
+    },
+    {
+      "id": "spain-1962-13",
+      "name": "Pachín",
+      "shirtNumber": 13,
+      "position": "DEF"
+    },
+    {
+      "id": "spain-1962-14",
+      "name": "Ferenc Puskás",
+      "shirtNumber": 14,
+      "position": "ATT"
+    },
+    {
+      "id": "spain-1962-15",
+      "name": "Eulogio Martínez",
+      "shirtNumber": 15,
+      "position": "ATT"
+    },
+    {
+      "id": "spain-1962-16",
+      "name": "Severino Reija",
+      "shirtNumber": 16,
+      "position": "DEF"
+    },
+    {
+      "id": "spain-1962-17",
+      "name": "Rodri",
+      "shirtNumber": 17,
+      "position": "DEF"
+    },
+    {
+      "id": "spain-1962-18",
+      "name": "Adelardo",
+      "shirtNumber": 18,
+      "position": "MID"
+    },
+    {
+      "id": "spain-1962-19",
+      "name": "José Santamaría",
+      "shirtNumber": 19,
+      "position": "DEF"
+    },
+    {
+      "id": "spain-1962-20",
+      "name": "Joan Segarra",
+      "shirtNumber": 20,
+      "position": "DEF"
+    },
+    {
+      "id": "spain-1962-21",
+      "name": "Luis Suárez",
+      "shirtNumber": 21,
+      "position": "ATT"
+    },
+    {
+      "id": "spain-1962-22",
+      "name": "Martí Vergés",
+      "shirtNumber": 22,
+      "position": "MID"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "Czechoslovakia",
+      "score": "1–0",
+      "scorers": [
+        {
+          "name": "Jozef Štibrányi",
+          "minute": "80'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1962-05-31"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Mexico",
+      "score": "1–0",
+      "scorers": [
+        {
+          "name": "Joaquín Peiró",
+          "minute": "90'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1962-06-03"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Brazil",
+      "score": "2–1",
+      "scorers": [
+        {
+          "name": "Adelardo",
+          "minute": "35'",
+          "ownGoal": false
+        },
+        {
+          "name": "Amarildo",
+          "minute": "72'",
+          "ownGoal": false
+        },
+        {
+          "name": "Amarildo",
+          "minute": "86'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1962-06-06"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

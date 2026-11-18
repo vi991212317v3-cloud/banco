@@ -1,0 +1,227 @@
+{
+  "country": "Morocco",
+  "countrySlug": "morocco",
+  "year": 1998,
+  "edition": "1998",
+  "host": "France",
+  "coach": "Henri Michel",
+  "finalPhase": "Group Stage",
+  "result": "Group Stage",
+  "squad": [
+    {
+      "id": "morocco-1998-1",
+      "name": "Abdelkader El Brazi",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "morocco-1998-2",
+      "name": "Abdelilah Saber",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "morocco-1998-3",
+      "name": "Abdelkrim El Hadrioui",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "morocco-1998-4",
+      "name": "Youssef Rossi",
+      "shirtNumber": 4,
+      "position": "DEF"
+    },
+    {
+      "id": "morocco-1998-5",
+      "name": "Smahi Triki",
+      "shirtNumber": 5,
+      "position": "DEF"
+    },
+    {
+      "id": "morocco-1998-6",
+      "name": "Noureddine Naybet",
+      "shirtNumber": 6,
+      "position": "DEF"
+    },
+    {
+      "id": "morocco-1998-7",
+      "name": "Mustapha Hadji",
+      "shirtNumber": 7,
+      "position": "MID"
+    },
+    {
+      "id": "morocco-1998-8",
+      "name": "Saïd Chiba",
+      "shirtNumber": 8,
+      "position": "MID"
+    },
+    {
+      "id": "morocco-1998-9",
+      "name": "Abdeljalil Hadda",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "morocco-1998-10",
+      "name": "Abderrahim Ouakili",
+      "shirtNumber": 10,
+      "position": "ATT"
+    },
+    {
+      "id": "morocco-1998-11",
+      "name": "Ali Elkhattabi",
+      "shirtNumber": 11,
+      "position": "MID"
+    },
+    {
+      "id": "morocco-1998-12",
+      "name": "Driss Benzekri",
+      "shirtNumber": 12,
+      "position": "GK"
+    },
+    {
+      "id": "morocco-1998-13",
+      "name": "Rachid Neqrouz",
+      "shirtNumber": 13,
+      "position": "DEF"
+    },
+    {
+      "id": "morocco-1998-14",
+      "name": "Salaheddine Bassir",
+      "shirtNumber": 14,
+      "position": "ATT"
+    },
+    {
+      "id": "morocco-1998-15",
+      "name": "Lahcen Abrami",
+      "shirtNumber": 15,
+      "position": "DEF"
+    },
+    {
+      "id": "morocco-1998-16",
+      "name": "Rachid Azzouzi",
+      "shirtNumber": 16,
+      "position": "MID"
+    },
+    {
+      "id": "morocco-1998-17",
+      "name": "Gharib Amzine",
+      "shirtNumber": 17,
+      "position": "MID"
+    },
+    {
+      "id": "morocco-1998-18",
+      "name": "Youssef Chippo",
+      "shirtNumber": 18,
+      "position": "MID"
+    },
+    {
+      "id": "morocco-1998-19",
+      "name": "Jamal Sellami",
+      "shirtNumber": 19,
+      "position": "DEF"
+    },
+    {
+      "id": "morocco-1998-20",
+      "name": "Tahar El Khalej",
+      "shirtNumber": 20,
+      "position": "DEF"
+    },
+    {
+      "id": "morocco-1998-21",
+      "name": "Rachid Rokki",
+      "shirtNumber": 21,
+      "position": "ATT"
+    },
+    {
+      "id": "morocco-1998-22",
+      "name": "Mustapha Chadili",
+      "shirtNumber": 22,
+      "position": "GK"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "Norway",
+      "score": "2–2",
+      "scorers": [
+        {
+          "name": "Mustapha Hadji",
+          "minute": "37'",
+          "ownGoal": false
+        },
+        {
+          "name": "Youssef Chippo",
+          "minute": "45'+1'",
+          "ownGoal": true
+        },
+        {
+          "name": "Abdeljalil Hadda",
+          "minute": "60'",
+          "ownGoal": false
+        },
+        {
+          "name": "Dan Eggen",
+          "minute": "61'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1998-06-10"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Brazil",
+      "score": "3–0",
+      "scorers": [
+        {
+          "name": "Ronaldo",
+          "minute": "9'",
+          "ownGoal": false
+        },
+        {
+          "name": "Rivaldo",
+          "minute": "45'+2'",
+          "ownGoal": false
+        },
+        {
+          "name": "Bebeto",
+          "minute": "50'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1998-06-16"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Scotland",
+      "score": "0–3",
+      "scorers": [
+        {
+          "name": "Salaheddine Bassir",
+          "minute": "23'",
+          "ownGoal": false
+        },
+        {
+          "name": "Abdeljalil Hadda",
+          "minute": "46'",
+          "ownGoal": false
+        },
+        {
+          "name": "Salaheddine Bassir",
+          "minute": "85'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1998-06-23"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

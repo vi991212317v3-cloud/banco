@@ -1,0 +1,273 @@
+{
+  "country": "Cameroon",
+  "countrySlug": "cameroon",
+  "year": 1990,
+  "edition": "1990",
+  "host": "Italy",
+  "coach": "Valery Nepomnyashchy",
+  "finalPhase": "Quarter-final",
+  "result": "Quarter-final",
+  "squad": [
+    {
+      "id": "cameroon-1990-1",
+      "name": "Joseph-Antoine Bell",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "cameroon-1990-2",
+      "name": "André Kana-Biyik",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "cameroon-1990-3",
+      "name": "Jules Onana",
+      "shirtNumber": 3,
+      "position": "MID"
+    },
+    {
+      "id": "cameroon-1990-4",
+      "name": "Benjamin Massing",
+      "shirtNumber": 4,
+      "position": "DEF"
+    },
+    {
+      "id": "cameroon-1990-5",
+      "name": "Bertin Ebwellé",
+      "shirtNumber": 5,
+      "position": "DEF"
+    },
+    {
+      "id": "cameroon-1990-6",
+      "name": "Emmanuel Kundé",
+      "shirtNumber": 6,
+      "position": "DEF"
+    },
+    {
+      "id": "cameroon-1990-7",
+      "name": "François Omam-Biyik",
+      "shirtNumber": 7,
+      "position": "ATT"
+    },
+    {
+      "id": "cameroon-1990-8",
+      "name": "Émile Mbouh",
+      "shirtNumber": 8,
+      "position": "MID"
+    },
+    {
+      "id": "cameroon-1990-9",
+      "name": "Roger Milla",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "cameroon-1990-10",
+      "name": "Louis-Paul M'Fédé",
+      "shirtNumber": 10,
+      "position": "MID"
+    },
+    {
+      "id": "cameroon-1990-11",
+      "name": "Eugène Ekéké",
+      "shirtNumber": 11,
+      "position": "ATT"
+    },
+    {
+      "id": "cameroon-1990-12",
+      "name": "Alphonse Yombi",
+      "shirtNumber": 12,
+      "position": "DEF"
+    },
+    {
+      "id": "cameroon-1990-13",
+      "name": "Jean-Claude Pagal",
+      "shirtNumber": 13,
+      "position": "DEF"
+    },
+    {
+      "id": "cameroon-1990-14",
+      "name": "Stephen Tataw",
+      "shirtNumber": 14,
+      "position": "DEF"
+    },
+    {
+      "id": "cameroon-1990-15",
+      "name": "Thomas Libiih",
+      "shirtNumber": 15,
+      "position": "MID"
+    },
+    {
+      "id": "cameroon-1990-16",
+      "name": "Thomas N'Kono",
+      "shirtNumber": 16,
+      "position": "GK"
+    },
+    {
+      "id": "cameroon-1990-17",
+      "name": "Victor N'Dip",
+      "shirtNumber": 17,
+      "position": "DEF"
+    },
+    {
+      "id": "cameroon-1990-18",
+      "name": "Bonaventure Djonkep",
+      "shirtNumber": 18,
+      "position": "ATT"
+    },
+    {
+      "id": "cameroon-1990-19",
+      "name": "Roger Feutmba",
+      "shirtNumber": 19,
+      "position": "MID"
+    },
+    {
+      "id": "cameroon-1990-20",
+      "name": "Cyrille Makanaky",
+      "shirtNumber": 20,
+      "position": "MID"
+    },
+    {
+      "id": "cameroon-1990-21",
+      "name": "Emmanuel Maboang",
+      "shirtNumber": 21,
+      "position": "MID"
+    },
+    {
+      "id": "cameroon-1990-22",
+      "name": "Jacques Songo'o",
+      "shirtNumber": 22,
+      "position": "GK"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "Argentina",
+      "score": "0–1",
+      "scorers": [
+        {
+          "name": "François Omam-Biyik",
+          "minute": "67'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1990-06-08"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Romania",
+      "score": "2–1",
+      "scorers": [
+        {
+          "name": "Roger Milla",
+          "minute": "76'",
+          "ownGoal": false
+        },
+        {
+          "name": "Roger Milla",
+          "minute": "86'",
+          "ownGoal": false
+        },
+        {
+          "name": "Gabi Balint",
+          "minute": "88'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1990-06-14"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Soviet Union",
+      "score": "0–4",
+      "scorers": [
+        {
+          "name": "Oleh Protasov",
+          "minute": "20'",
+          "ownGoal": false
+        },
+        {
+          "name": "Andrei Zygmantovich",
+          "minute": "29'",
+          "ownGoal": false
+        },
+        {
+          "name": "Oleksandr Zavarov",
+          "minute": "52'",
+          "ownGoal": false
+        },
+        {
+          "name": "Igor Dobrovolski",
+          "minute": "63'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1990-06-18"
+    },
+    {
+      "stage": "Round of 16",
+      "opponent": "Colombia",
+      "score": "2–1",
+      "scorers": [
+        {
+          "name": "Roger Milla",
+          "minute": "106'",
+          "ownGoal": false
+        },
+        {
+          "name": "Roger Milla",
+          "minute": "108'",
+          "ownGoal": false
+        },
+        {
+          "name": "Bernardo Redín",
+          "minute": "115'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1990-06-23"
+    },
+    {
+      "stage": "Quarter-final",
+      "opponent": "England",
+      "score": "2–3",
+      "scorers": [
+        {
+          "name": "David Platt",
+          "minute": "25'",
+          "ownGoal": false
+        },
+        {
+          "name": "Emmanuel Kundé",
+          "minute": "61'",
+          "ownGoal": false
+        },
+        {
+          "name": "Eugène Ekéké",
+          "minute": "65'",
+          "ownGoal": false
+        },
+        {
+          "name": "Gary Lineker",
+          "minute": "83'",
+          "ownGoal": false
+        },
+        {
+          "name": "Gary Lineker",
+          "minute": "105'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1990-07-01"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

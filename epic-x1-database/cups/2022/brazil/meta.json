@@ -1,0 +1,272 @@
+{
+  "country": "Brazil",
+  "countrySlug": "brazil",
+  "year": 2022,
+  "edition": "2022",
+  "host": "Qatar",
+  "coach": "Tite",
+  "finalPhase": "Quarter-final",
+  "result": "Quarter-final",
+  "squad": [
+    {
+      "id": "brazil-2022-1",
+      "name": "Alisson",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "brazil-2022-2",
+      "name": "Danilo",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "brazil-2022-3",
+      "name": "Thiago Silva",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "brazil-2022-4",
+      "name": "Marquinhos",
+      "shirtNumber": 4,
+      "position": "DEF"
+    },
+    {
+      "id": "brazil-2022-5",
+      "name": "Casemiro",
+      "shirtNumber": 5,
+      "position": "MID"
+    },
+    {
+      "id": "brazil-2022-6",
+      "name": "Alex Sandro",
+      "shirtNumber": 6,
+      "position": "DEF"
+    },
+    {
+      "id": "brazil-2022-7",
+      "name": "Lucas Paquetá",
+      "shirtNumber": 7,
+      "position": "MID"
+    },
+    {
+      "id": "brazil-2022-8",
+      "name": "Fred",
+      "shirtNumber": 8,
+      "position": "MID"
+    },
+    {
+      "id": "brazil-2022-9",
+      "name": "Richarlison",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "brazil-2022-10",
+      "name": "Neymar",
+      "shirtNumber": 10,
+      "position": "ATT"
+    },
+    {
+      "id": "brazil-2022-11",
+      "name": "Raphinha",
+      "shirtNumber": 11,
+      "position": "ATT"
+    },
+    {
+      "id": "brazil-2022-12",
+      "name": "Weverton",
+      "shirtNumber": 12,
+      "position": "GK"
+    },
+    {
+      "id": "brazil-2022-13",
+      "name": "Dani Alves",
+      "shirtNumber": 13,
+      "position": "DEF"
+    },
+    {
+      "id": "brazil-2022-14",
+      "name": "Éder Militão",
+      "shirtNumber": 14,
+      "position": "DEF"
+    },
+    {
+      "id": "brazil-2022-15",
+      "name": "Fabinho",
+      "shirtNumber": 15,
+      "position": "MID"
+    },
+    {
+      "id": "brazil-2022-16",
+      "name": "Alex Telles",
+      "shirtNumber": 16,
+      "position": "DEF"
+    },
+    {
+      "id": "brazil-2022-17",
+      "name": "Bruno Guimarães",
+      "shirtNumber": 17,
+      "position": "MID"
+    },
+    {
+      "id": "brazil-2022-18",
+      "name": "Gabriel Jesus",
+      "shirtNumber": 18,
+      "position": "ATT"
+    },
+    {
+      "id": "brazil-2022-19",
+      "name": "Antony",
+      "shirtNumber": 19,
+      "position": "ATT"
+    },
+    {
+      "id": "brazil-2022-20",
+      "name": "Vinícius Júnior",
+      "shirtNumber": 20,
+      "position": "ATT"
+    },
+    {
+      "id": "brazil-2022-21",
+      "name": "Rodrygo",
+      "shirtNumber": 21,
+      "position": "ATT"
+    },
+    {
+      "id": "brazil-2022-22",
+      "name": "Éverton Ribeiro",
+      "shirtNumber": 22,
+      "position": "MID"
+    },
+    {
+      "id": "brazil-2022-23",
+      "name": "Ederson",
+      "shirtNumber": 23,
+      "position": "GK"
+    },
+    {
+      "id": "brazil-2022-24",
+      "name": "Bremer",
+      "shirtNumber": 24,
+      "position": "DEF"
+    },
+    {
+      "id": "brazil-2022-25",
+      "name": "Pedro",
+      "shirtNumber": 25,
+      "position": "ATT"
+    },
+    {
+      "id": "brazil-2022-26",
+      "name": "Gabriel Martinelli",
+      "shirtNumber": 26,
+      "position": "ATT"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "Serbia",
+      "score": "2–0",
+      "scorers": [
+        {
+          "name": "Richarlison",
+          "minute": "62'",
+          "ownGoal": false
+        },
+        {
+          "name": "Richarlison",
+          "minute": "73'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2022-11-24"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Switzerland",
+      "score": "1–0",
+      "scorers": [
+        {
+          "name": "Casemiro",
+          "minute": "83'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2022-11-28"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Cameroon",
+      "score": "1–0",
+      "scorers": [
+        {
+          "name": "Vincent Aboubakar",
+          "minute": "90'+2'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2022-12-02"
+    },
+    {
+      "stage": "Round of 16",
+      "opponent": "South Korea",
+      "score": "4–1",
+      "scorers": [
+        {
+          "name": "Vinícius Júnior",
+          "minute": "7'",
+          "ownGoal": false
+        },
+        {
+          "name": "Neymar",
+          "minute": "13'",
+          "ownGoal": false
+        },
+        {
+          "name": "Richarlison",
+          "minute": "29'",
+          "ownGoal": false
+        },
+        {
+          "name": "Lucas Paquetá",
+          "minute": "36'",
+          "ownGoal": false
+        },
+        {
+          "name": "Paik Seung-ho",
+          "minute": "76'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2022-12-05"
+    },
+    {
+      "stage": "Quarter-final",
+      "opponent": "Croatia",
+      "score": "1–1",
+      "scorers": [
+        {
+          "name": "Neymar",
+          "minute": "105'+1'",
+          "ownGoal": false
+        },
+        {
+          "name": "Bruno Petković",
+          "minute": "117'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2022-12-09"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

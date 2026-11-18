@@ -1,0 +1,257 @@
+{
+  "country": "Haiti",
+  "countrySlug": "haiti",
+  "year": 1974,
+  "edition": "1974",
+  "host": "West Germany",
+  "coach": "Antoine Tassy",
+  "finalPhase": "Group Stage",
+  "result": "Group Stage",
+  "squad": [
+    {
+      "id": "haiti-1974-1",
+      "name": "Henri Françillon",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "haiti-1974-2",
+      "name": "Wilfried Louis",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "haiti-1974-3",
+      "name": "Arsène Auguste",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "haiti-1974-4",
+      "name": "Fritz André",
+      "shirtNumber": 4,
+      "position": "DEF"
+    },
+    {
+      "id": "haiti-1974-5",
+      "name": "Serge Ducosté",
+      "shirtNumber": 5,
+      "position": "DEF"
+    },
+    {
+      "id": "haiti-1974-6",
+      "name": "Pierre Bayonne",
+      "shirtNumber": 6,
+      "position": "DEF"
+    },
+    {
+      "id": "haiti-1974-7",
+      "name": "Philippe Vorbe",
+      "shirtNumber": 7,
+      "position": "MID"
+    },
+    {
+      "id": "haiti-1974-8",
+      "name": "Jean-Claude Désir",
+      "shirtNumber": 8,
+      "position": "MID"
+    },
+    {
+      "id": "haiti-1974-9",
+      "name": "Eddy Antoine",
+      "shirtNumber": 9,
+      "position": "MID"
+    },
+    {
+      "id": "haiti-1974-10",
+      "name": "Guy François",
+      "shirtNumber": 10,
+      "position": "MID"
+    },
+    {
+      "id": "haiti-1974-11",
+      "name": "Guy Saint-Vil",
+      "shirtNumber": 11,
+      "position": "ATT"
+    },
+    {
+      "id": "haiti-1974-12",
+      "name": "Ernst Jean-Joseph",
+      "shirtNumber": 12,
+      "position": "MID"
+    },
+    {
+      "id": "haiti-1974-13",
+      "name": "Serge Racine",
+      "shirtNumber": 13,
+      "position": "DEF"
+    },
+    {
+      "id": "haiti-1974-14",
+      "name": "Wilner Nazaire",
+      "shirtNumber": 14,
+      "position": "DEF"
+    },
+    {
+      "id": "haiti-1974-15",
+      "name": "Roger Saint-Vil",
+      "shirtNumber": 15,
+      "position": "ATT"
+    },
+    {
+      "id": "haiti-1974-16",
+      "name": "Fritz Leandré",
+      "shirtNumber": 16,
+      "position": "ATT"
+    },
+    {
+      "id": "haiti-1974-17",
+      "name": "Joseph-Marion Leandré",
+      "shirtNumber": 17,
+      "position": "MID"
+    },
+    {
+      "id": "haiti-1974-18",
+      "name": "Claude Barthélemy",
+      "shirtNumber": 18,
+      "position": "ATT"
+    },
+    {
+      "id": "haiti-1974-19",
+      "name": "Jean-Herbert Austin",
+      "shirtNumber": 19,
+      "position": "DEF"
+    },
+    {
+      "id": "haiti-1974-20",
+      "name": "Emmanuel Sanon",
+      "shirtNumber": 20,
+      "position": "ATT"
+    },
+    {
+      "id": "haiti-1974-21",
+      "name": "Wilner Piquant",
+      "shirtNumber": 21,
+      "position": "GK"
+    },
+    {
+      "id": "haiti-1974-22",
+      "name": "Gérard Joseph",
+      "shirtNumber": 22,
+      "position": "GK"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "Italy",
+      "score": "3–1",
+      "scorers": [
+        {
+          "name": "Emmanuel Sanon",
+          "minute": "46'",
+          "ownGoal": false
+        },
+        {
+          "name": "Gianni Rivera",
+          "minute": "52'",
+          "ownGoal": false
+        },
+        {
+          "name": "Romeo Benetti",
+          "minute": "66'",
+          "ownGoal": false
+        },
+        {
+          "name": "Pietro Anastasi",
+          "minute": "79'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1974-06-15"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Poland",
+      "score": "0–7",
+      "scorers": [
+        {
+          "name": "Grzegorz Lato",
+          "minute": "17'",
+          "ownGoal": false
+        },
+        {
+          "name": "Kazimierz Deyna",
+          "minute": "18'",
+          "ownGoal": false
+        },
+        {
+          "name": "Andrzej Szarmach",
+          "minute": "30'",
+          "ownGoal": false
+        },
+        {
+          "name": "Jerzy Gorgoń",
+          "minute": "31'",
+          "ownGoal": false
+        },
+        {
+          "name": "Andrzej Szarmach",
+          "minute": "34'",
+          "ownGoal": false
+        },
+        {
+          "name": "Andrzej Szarmach",
+          "minute": "50'",
+          "ownGoal": false
+        },
+        {
+          "name": "Grzegorz Lato",
+          "minute": "87'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1974-06-19"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Argentina",
+      "score": "4–1",
+      "scorers": [
+        {
+          "name": "Héctor Yazalde",
+          "minute": "15'",
+          "ownGoal": false
+        },
+        {
+          "name": "René Houseman",
+          "minute": "18'",
+          "ownGoal": false
+        },
+        {
+          "name": "Rubén Ayala",
+          "minute": "55'",
+          "ownGoal": false
+        },
+        {
+          "name": "Emmanuel Sanon",
+          "minute": "63'",
+          "ownGoal": false
+        },
+        {
+          "name": "Héctor Yazalde",
+          "minute": "68'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1974-06-23"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

@@ -1,0 +1,243 @@
+{
+  "country": "Australia",
+  "countrySlug": "australia",
+  "year": 2014,
+  "edition": "2014",
+  "host": "Brazil",
+  "coach": "Ange Postecoglou",
+  "finalPhase": "Group Stage",
+  "result": "Group Stage",
+  "squad": [
+    {
+      "id": "australia-2014-1",
+      "name": "Mathew Ryan",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "australia-2014-2",
+      "name": "Ivan Franjic",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "australia-2014-3",
+      "name": "Jason Davidson",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "australia-2014-4",
+      "name": "Tim Cahill",
+      "shirtNumber": 4,
+      "position": "ATT"
+    },
+    {
+      "id": "australia-2014-5",
+      "name": "Mark Milligan",
+      "shirtNumber": 5,
+      "position": "MID"
+    },
+    {
+      "id": "australia-2014-6",
+      "name": "Matthew Spiranovic",
+      "shirtNumber": 6,
+      "position": "DEF"
+    },
+    {
+      "id": "australia-2014-7",
+      "name": "Mathew Leckie",
+      "shirtNumber": 7,
+      "position": "ATT"
+    },
+    {
+      "id": "australia-2014-8",
+      "name": "Bailey Wright",
+      "shirtNumber": 8,
+      "position": "DEF"
+    },
+    {
+      "id": "australia-2014-9",
+      "name": "Adam Taggart",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "australia-2014-10",
+      "name": "Ben Halloran",
+      "shirtNumber": 10,
+      "position": "MID"
+    },
+    {
+      "id": "australia-2014-11",
+      "name": "Tommy Oar",
+      "shirtNumber": 11,
+      "position": "MID"
+    },
+    {
+      "id": "australia-2014-12",
+      "name": "Mitchell Langerak",
+      "shirtNumber": 12,
+      "position": "GK"
+    },
+    {
+      "id": "australia-2014-13",
+      "name": "Oliver Bozanic",
+      "shirtNumber": 13,
+      "position": "MID"
+    },
+    {
+      "id": "australia-2014-14",
+      "name": "James Troisi",
+      "shirtNumber": 14,
+      "position": "MID"
+    },
+    {
+      "id": "australia-2014-15",
+      "name": "Mile Jedinak",
+      "shirtNumber": 15,
+      "position": "MID"
+    },
+    {
+      "id": "australia-2014-16",
+      "name": "James Holland",
+      "shirtNumber": 16,
+      "position": "MID"
+    },
+    {
+      "id": "australia-2014-17",
+      "name": "Matt McKay",
+      "shirtNumber": 17,
+      "position": "MID"
+    },
+    {
+      "id": "australia-2014-18",
+      "name": "Eugene Galekovic",
+      "shirtNumber": 18,
+      "position": "GK"
+    },
+    {
+      "id": "australia-2014-19",
+      "name": "Ryan McGowan",
+      "shirtNumber": 19,
+      "position": "DEF"
+    },
+    {
+      "id": "australia-2014-20",
+      "name": "Dario Vidošić",
+      "shirtNumber": 20,
+      "position": "MID"
+    },
+    {
+      "id": "australia-2014-21",
+      "name": "Massimo Luongo",
+      "shirtNumber": 21,
+      "position": "MID"
+    },
+    {
+      "id": "australia-2014-22",
+      "name": "Alex Wilkinson",
+      "shirtNumber": 22,
+      "position": "DEF"
+    },
+    {
+      "id": "australia-2014-23",
+      "name": "Mark Bresciano",
+      "shirtNumber": 23,
+      "position": "MID"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "Chile",
+      "score": "3–1",
+      "scorers": [
+        {
+          "name": "Alexis Sánchez",
+          "minute": "12'",
+          "ownGoal": false
+        },
+        {
+          "name": "Jorge Valdivia",
+          "minute": "14'",
+          "ownGoal": false
+        },
+        {
+          "name": "Tim Cahill",
+          "minute": "35'",
+          "ownGoal": false
+        },
+        {
+          "name": "Jean Beausejour",
+          "minute": "90'+2'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2014-06-13"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Netherlands",
+      "score": "2–3",
+      "scorers": [
+        {
+          "name": "Arjen Robben",
+          "minute": "20'",
+          "ownGoal": false
+        },
+        {
+          "name": "Tim Cahill",
+          "minute": "21'",
+          "ownGoal": false
+        },
+        {
+          "name": "Mile Jedinak",
+          "minute": "54'",
+          "ownGoal": false
+        },
+        {
+          "name": "Robin van Persie",
+          "minute": "58'",
+          "ownGoal": false
+        },
+        {
+          "name": "Memphis Depay",
+          "minute": "68'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2014-06-18"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Spain",
+      "score": "0–3",
+      "scorers": [
+        {
+          "name": "David Villa",
+          "minute": "36'",
+          "ownGoal": false
+        },
+        {
+          "name": "Fernando Torres",
+          "minute": "69'",
+          "ownGoal": false
+        },
+        {
+          "name": "Juan Mata",
+          "minute": "82'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2014-06-23"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

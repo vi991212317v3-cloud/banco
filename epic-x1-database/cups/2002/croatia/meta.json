@@ -1,0 +1,208 @@
+{
+  "country": "Croatia",
+  "countrySlug": "croatia",
+  "year": 2002,
+  "edition": "2002",
+  "host": "Korea, Japan",
+  "coach": "Mirko Jozić",
+  "finalPhase": "Group Stage",
+  "result": "Group Stage",
+  "squad": [
+    {
+      "id": "croatia-2002-1",
+      "name": "Stipe Pletikosa",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "croatia-2002-2",
+      "name": "Anthony Šerić",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "croatia-2002-3",
+      "name": "Josip Šimunić",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "croatia-2002-4",
+      "name": "Stjepan Tomas",
+      "shirtNumber": 4,
+      "position": "DEF"
+    },
+    {
+      "id": "croatia-2002-5",
+      "name": "Milan Rapaić",
+      "shirtNumber": 5,
+      "position": "MID"
+    },
+    {
+      "id": "croatia-2002-6",
+      "name": "Boris Živković",
+      "shirtNumber": 6,
+      "position": "DEF"
+    },
+    {
+      "id": "croatia-2002-7",
+      "name": "Davor Vugrinec",
+      "shirtNumber": 7,
+      "position": "ATT"
+    },
+    {
+      "id": "croatia-2002-8",
+      "name": "Robert Prosinečki",
+      "shirtNumber": 8,
+      "position": "MID"
+    },
+    {
+      "id": "croatia-2002-9",
+      "name": "Davor Šuker",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "croatia-2002-10",
+      "name": "Niko Kovač",
+      "shirtNumber": 10,
+      "position": "MID"
+    },
+    {
+      "id": "croatia-2002-11",
+      "name": "Alen Bokšić",
+      "shirtNumber": 11,
+      "position": "ATT"
+    },
+    {
+      "id": "croatia-2002-12",
+      "name": "Tomislav Butina",
+      "shirtNumber": 12,
+      "position": "GK"
+    },
+    {
+      "id": "croatia-2002-13",
+      "name": "Mario Stanić",
+      "shirtNumber": 13,
+      "position": "MID"
+    },
+    {
+      "id": "croatia-2002-14",
+      "name": "Zvonimir Soldo",
+      "shirtNumber": 14,
+      "position": "MID"
+    },
+    {
+      "id": "croatia-2002-15",
+      "name": "Daniel Šarić",
+      "shirtNumber": 15,
+      "position": "DEF"
+    },
+    {
+      "id": "croatia-2002-16",
+      "name": "Jurica Vranješ",
+      "shirtNumber": 16,
+      "position": "MID"
+    },
+    {
+      "id": "croatia-2002-17",
+      "name": "Robert Jarni",
+      "shirtNumber": 17,
+      "position": "DEF"
+    },
+    {
+      "id": "croatia-2002-18",
+      "name": "Ivica Olić",
+      "shirtNumber": 18,
+      "position": "ATT"
+    },
+    {
+      "id": "croatia-2002-19",
+      "name": "Goran Vlaović",
+      "shirtNumber": 19,
+      "position": "ATT"
+    },
+    {
+      "id": "croatia-2002-20",
+      "name": "Dario Šimić",
+      "shirtNumber": 20,
+      "position": "DEF"
+    },
+    {
+      "id": "croatia-2002-21",
+      "name": "Robert Kovač",
+      "shirtNumber": 21,
+      "position": "DEF"
+    },
+    {
+      "id": "croatia-2002-22",
+      "name": "Boško Balaban",
+      "shirtNumber": 22,
+      "position": "ATT"
+    },
+    {
+      "id": "croatia-2002-23",
+      "name": "Vladimir Vasilj",
+      "shirtNumber": 23,
+      "position": "GK"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "Mexico",
+      "score": "0–1",
+      "scorers": [
+        {
+          "name": "Cuauhtémoc Blanco",
+          "minute": "60'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2002-06-03"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Italy",
+      "score": "1–2",
+      "scorers": [
+        {
+          "name": "Christian Vieri",
+          "minute": "55'",
+          "ownGoal": false
+        },
+        {
+          "name": "Ivica Olić",
+          "minute": "73'",
+          "ownGoal": false
+        },
+        {
+          "name": "Milan Rapaić",
+          "minute": "76'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2002-06-08"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Ecuador",
+      "score": "1–0",
+      "scorers": [
+        {
+          "name": "Édison Méndez",
+          "minute": "48'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2002-06-13"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

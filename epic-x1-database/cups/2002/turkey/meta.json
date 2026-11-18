@@ -1,0 +1,295 @@
+{
+  "country": "Turkey",
+  "countrySlug": "turkey",
+  "year": 2002,
+  "edition": "2002",
+  "host": "Korea, Japan",
+  "coach": "Şenol Güneş",
+  "finalPhase": "Third-place match",
+  "result": "Third place",
+  "squad": [
+    {
+      "id": "turkey-2002-1",
+      "name": "Rüştü Reçber",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "turkey-2002-2",
+      "name": "Emre Aşık",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "turkey-2002-3",
+      "name": "Bülent Korkmaz",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "turkey-2002-4",
+      "name": "Fatih Akyel",
+      "shirtNumber": 4,
+      "position": "DEF"
+    },
+    {
+      "id": "turkey-2002-5",
+      "name": "Alpay Özalan",
+      "shirtNumber": 5,
+      "position": "DEF"
+    },
+    {
+      "id": "turkey-2002-6",
+      "name": "Arif Erdem",
+      "shirtNumber": 6,
+      "position": "ATT"
+    },
+    {
+      "id": "turkey-2002-7",
+      "name": "Okan Buruk",
+      "shirtNumber": 7,
+      "position": "MID"
+    },
+    {
+      "id": "turkey-2002-8",
+      "name": "Tugay Kerimoğlu",
+      "shirtNumber": 8,
+      "position": "MID"
+    },
+    {
+      "id": "turkey-2002-9",
+      "name": "Hakan Şükür",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "turkey-2002-10",
+      "name": "Yıldıray Baştürk",
+      "shirtNumber": 10,
+      "position": "MID"
+    },
+    {
+      "id": "turkey-2002-11",
+      "name": "Hasan Şaş",
+      "shirtNumber": 11,
+      "position": "ATT"
+    },
+    {
+      "id": "turkey-2002-12",
+      "name": "Ömer Çatkıç",
+      "shirtNumber": 12,
+      "position": "GK"
+    },
+    {
+      "id": "turkey-2002-13",
+      "name": "Muzzy Izzet",
+      "shirtNumber": 13,
+      "position": "MID"
+    },
+    {
+      "id": "turkey-2002-14",
+      "name": "Tayfur Havutçu",
+      "shirtNumber": 14,
+      "position": "MID"
+    },
+    {
+      "id": "turkey-2002-15",
+      "name": "Nihat Kahveci",
+      "shirtNumber": 15,
+      "position": "ATT"
+    },
+    {
+      "id": "turkey-2002-16",
+      "name": "Ümit Özat",
+      "shirtNumber": 16,
+      "position": "DEF"
+    },
+    {
+      "id": "turkey-2002-17",
+      "name": "İlhan Mansız",
+      "shirtNumber": 17,
+      "position": "ATT"
+    },
+    {
+      "id": "turkey-2002-18",
+      "name": "Ergün Penbe",
+      "shirtNumber": 18,
+      "position": "MID"
+    },
+    {
+      "id": "turkey-2002-19",
+      "name": "Abdullah Ercan",
+      "shirtNumber": 19,
+      "position": "MID"
+    },
+    {
+      "id": "turkey-2002-20",
+      "name": "Hakan Ünsal",
+      "shirtNumber": 20,
+      "position": "DEF"
+    },
+    {
+      "id": "turkey-2002-21",
+      "name": "Emre Belözoğlu",
+      "shirtNumber": 21,
+      "position": "MID"
+    },
+    {
+      "id": "turkey-2002-22",
+      "name": "Ümit Davala",
+      "shirtNumber": 22,
+      "position": "MID"
+    },
+    {
+      "id": "turkey-2002-23",
+      "name": "Zafer Özgültekin",
+      "shirtNumber": 23,
+      "position": "GK"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "Brazil",
+      "score": "2–1",
+      "scorers": [
+        {
+          "name": "Hasan Şaş",
+          "minute": "45'+2'",
+          "ownGoal": false
+        },
+        {
+          "name": "Ronaldo",
+          "minute": "50'",
+          "ownGoal": false
+        },
+        {
+          "name": "Rivaldo",
+          "minute": "87'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2002-06-03"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Costa Rica",
+      "score": "1–1",
+      "scorers": [
+        {
+          "name": "Emre Belözoğlu",
+          "minute": "56'",
+          "ownGoal": false
+        },
+        {
+          "name": "Winston Parks",
+          "minute": "86'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2002-06-09"
+    },
+    {
+      "stage": "Group",
+      "opponent": "China",
+      "score": "3–0",
+      "scorers": [
+        {
+          "name": "Hasan Şaş",
+          "minute": "6'",
+          "ownGoal": false
+        },
+        {
+          "name": "Bülent Korkmaz",
+          "minute": "9'",
+          "ownGoal": false
+        },
+        {
+          "name": "Ümit Davala",
+          "minute": "85'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2002-06-13"
+    },
+    {
+      "stage": "Round of 16",
+      "opponent": "Japan",
+      "score": "0–1",
+      "scorers": [
+        {
+          "name": "Ümit Davala",
+          "minute": "12'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2002-06-18"
+    },
+    {
+      "stage": "Quarter-final",
+      "opponent": "Senegal",
+      "score": "0–1",
+      "scorers": [
+        {
+          "name": "İlhan Mansız",
+          "minute": "94'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2002-06-22"
+    },
+    {
+      "stage": "Semi-final",
+      "opponent": "Brazil",
+      "score": "1–0",
+      "scorers": [
+        {
+          "name": "Ronaldo",
+          "minute": "49'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2002-06-26"
+    },
+    {
+      "stage": "Third-place match",
+      "opponent": "South Korea",
+      "score": "2–3",
+      "scorers": [
+        {
+          "name": "Hakan Şükür",
+          "minute": "1'",
+          "ownGoal": false
+        },
+        {
+          "name": "Eul-yong Lee",
+          "minute": "9'",
+          "ownGoal": false
+        },
+        {
+          "name": "İlhan Mansız",
+          "minute": "13'",
+          "ownGoal": false
+        },
+        {
+          "name": "İlhan Mansız",
+          "minute": "32'",
+          "ownGoal": false
+        },
+        {
+          "name": "Chong-gug Song",
+          "minute": "90'+3'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2002-06-29"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

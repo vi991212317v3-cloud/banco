@@ -1,0 +1,307 @@
+{
+  "country": "Portugal",
+  "countrySlug": "portugal",
+  "year": 2022,
+  "edition": "2022",
+  "host": "Qatar",
+  "coach": "Fernando Santos",
+  "finalPhase": "Quarter-final",
+  "result": "Quarter-final",
+  "squad": [
+    {
+      "id": "portugal-2022-1",
+      "name": "Rui Patrício",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "portugal-2022-2",
+      "name": "Diogo Dalot",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "portugal-2022-3",
+      "name": "Pepe",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "portugal-2022-4",
+      "name": "Rúben Dias",
+      "shirtNumber": 4,
+      "position": "DEF"
+    },
+    {
+      "id": "portugal-2022-5",
+      "name": "Raphaël Guerreiro",
+      "shirtNumber": 5,
+      "position": "DEF"
+    },
+    {
+      "id": "portugal-2022-6",
+      "name": "João Palhinha",
+      "shirtNumber": 6,
+      "position": "MID"
+    },
+    {
+      "id": "portugal-2022-7",
+      "name": "Cristiano Ronaldo",
+      "shirtNumber": 7,
+      "position": "ATT"
+    },
+    {
+      "id": "portugal-2022-8",
+      "name": "Bruno Fernandes",
+      "shirtNumber": 8,
+      "position": "MID"
+    },
+    {
+      "id": "portugal-2022-9",
+      "name": "André Silva",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "portugal-2022-10",
+      "name": "Bernardo Silva",
+      "shirtNumber": 10,
+      "position": "ATT"
+    },
+    {
+      "id": "portugal-2022-11",
+      "name": "João Félix",
+      "shirtNumber": 11,
+      "position": "ATT"
+    },
+    {
+      "id": "portugal-2022-12",
+      "name": "José Sá",
+      "shirtNumber": 12,
+      "position": "GK"
+    },
+    {
+      "id": "portugal-2022-13",
+      "name": "Danilo Pereira",
+      "shirtNumber": 13,
+      "position": "DEF"
+    },
+    {
+      "id": "portugal-2022-14",
+      "name": "William Carvalho",
+      "shirtNumber": 14,
+      "position": "MID"
+    },
+    {
+      "id": "portugal-2022-15",
+      "name": "Rafael Leão",
+      "shirtNumber": 15,
+      "position": "ATT"
+    },
+    {
+      "id": "portugal-2022-16",
+      "name": "Vitinha",
+      "shirtNumber": 16,
+      "position": "MID"
+    },
+    {
+      "id": "portugal-2022-17",
+      "name": "João Mário",
+      "shirtNumber": 17,
+      "position": "MID"
+    },
+    {
+      "id": "portugal-2022-18",
+      "name": "Rúben Neves",
+      "shirtNumber": 18,
+      "position": "MID"
+    },
+    {
+      "id": "portugal-2022-19",
+      "name": "Nuno Mendes",
+      "shirtNumber": 19,
+      "position": "DEF"
+    },
+    {
+      "id": "portugal-2022-20",
+      "name": "João Cancelo",
+      "shirtNumber": 20,
+      "position": "DEF"
+    },
+    {
+      "id": "portugal-2022-21",
+      "name": "Ricardo Horta",
+      "shirtNumber": 21,
+      "position": "ATT"
+    },
+    {
+      "id": "portugal-2022-22",
+      "name": "Diogo Costa",
+      "shirtNumber": 22,
+      "position": "GK"
+    },
+    {
+      "id": "portugal-2022-23",
+      "name": "Matheus Nunes",
+      "shirtNumber": 23,
+      "position": "MID"
+    },
+    {
+      "id": "portugal-2022-24",
+      "name": "António Silva",
+      "shirtNumber": 24,
+      "position": "DEF"
+    },
+    {
+      "id": "portugal-2022-25",
+      "name": "Otávio",
+      "shirtNumber": 25,
+      "position": "MID"
+    },
+    {
+      "id": "portugal-2022-26",
+      "name": "Gonçalo Ramos",
+      "shirtNumber": 26,
+      "position": "ATT"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "Ghana",
+      "score": "3–2",
+      "scorers": [
+        {
+          "name": "Cristiano Ronaldo",
+          "minute": "65'",
+          "ownGoal": false
+        },
+        {
+          "name": "André Ayew",
+          "minute": "73'",
+          "ownGoal": false
+        },
+        {
+          "name": "João Félix",
+          "minute": "78'",
+          "ownGoal": false
+        },
+        {
+          "name": "Rafael Leão",
+          "minute": "80'",
+          "ownGoal": false
+        },
+        {
+          "name": "Osman Bukari",
+          "minute": "89'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2022-11-24"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Uruguay",
+      "score": "2–0",
+      "scorers": [
+        {
+          "name": "Bruno Fernandes",
+          "minute": "54'",
+          "ownGoal": false
+        },
+        {
+          "name": "Bruno Fernandes",
+          "minute": "90'+3'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2022-11-28"
+    },
+    {
+      "stage": "Group",
+      "opponent": "South Korea",
+      "score": "2–1",
+      "scorers": [
+        {
+          "name": "Ricardo Horta",
+          "minute": "5'",
+          "ownGoal": false
+        },
+        {
+          "name": "Young-gwon Kim",
+          "minute": "27'",
+          "ownGoal": false
+        },
+        {
+          "name": "Hee-chan Hwang",
+          "minute": "90'+1'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2022-12-02"
+    },
+    {
+      "stage": "Round of 16",
+      "opponent": "Switzerland",
+      "score": "6–1",
+      "scorers": [
+        {
+          "name": "Gonçalo Ramos",
+          "minute": "17'",
+          "ownGoal": false
+        },
+        {
+          "name": "Pepe",
+          "minute": "33'",
+          "ownGoal": false
+        },
+        {
+          "name": "Gonçalo Ramos",
+          "minute": "51'",
+          "ownGoal": false
+        },
+        {
+          "name": "Raphaël Guerreiro",
+          "minute": "55'",
+          "ownGoal": false
+        },
+        {
+          "name": "Manuel Akanji",
+          "minute": "58'",
+          "ownGoal": false
+        },
+        {
+          "name": "Gonçalo Ramos",
+          "minute": "67'",
+          "ownGoal": false
+        },
+        {
+          "name": "Rafael Leão",
+          "minute": "90'+2'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2022-12-06"
+    },
+    {
+      "stage": "Quarter-final",
+      "opponent": "Morocco",
+      "score": "1–0",
+      "scorers": [
+        {
+          "name": "Youssef En-Nesyri",
+          "minute": "42'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2022-12-10"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

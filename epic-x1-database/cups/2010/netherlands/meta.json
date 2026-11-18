@@ -1,0 +1,305 @@
+{
+  "country": "Netherlands",
+  "countrySlug": "netherlands",
+  "year": 2010,
+  "edition": "2010",
+  "host": "South Africa",
+  "coach": "Bert van Marwijk",
+  "finalPhase": "Final",
+  "result": "Runner-up",
+  "squad": [
+    {
+      "id": "netherlands-2010-1",
+      "name": "Maarten Stekelenburg",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "netherlands-2010-2",
+      "name": "Gregory van der Wiel",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "netherlands-2010-3",
+      "name": "John Heitinga",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "netherlands-2010-4",
+      "name": "Joris Mathijsen",
+      "shirtNumber": 4,
+      "position": "DEF"
+    },
+    {
+      "id": "netherlands-2010-5",
+      "name": "Giovanni van Bronckhorst",
+      "shirtNumber": 5,
+      "position": "DEF"
+    },
+    {
+      "id": "netherlands-2010-6",
+      "name": "Mark van Bommel",
+      "shirtNumber": 6,
+      "position": "MID"
+    },
+    {
+      "id": "netherlands-2010-7",
+      "name": "Dirk Kuyt",
+      "shirtNumber": 7,
+      "position": "ATT"
+    },
+    {
+      "id": "netherlands-2010-8",
+      "name": "Nigel de Jong",
+      "shirtNumber": 8,
+      "position": "MID"
+    },
+    {
+      "id": "netherlands-2010-9",
+      "name": "Robin van Persie",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "netherlands-2010-10",
+      "name": "Wesley Sneijder",
+      "shirtNumber": 10,
+      "position": "MID"
+    },
+    {
+      "id": "netherlands-2010-11",
+      "name": "Arjen Robben",
+      "shirtNumber": 11,
+      "position": "ATT"
+    },
+    {
+      "id": "netherlands-2010-12",
+      "name": "Khalid Boulahrouz",
+      "shirtNumber": 12,
+      "position": "DEF"
+    },
+    {
+      "id": "netherlands-2010-13",
+      "name": "André Ooijer",
+      "shirtNumber": 13,
+      "position": "DEF"
+    },
+    {
+      "id": "netherlands-2010-14",
+      "name": "Demy de Zeeuw",
+      "shirtNumber": 14,
+      "position": "MID"
+    },
+    {
+      "id": "netherlands-2010-15",
+      "name": "Edson Braafheid",
+      "shirtNumber": 15,
+      "position": "DEF"
+    },
+    {
+      "id": "netherlands-2010-16",
+      "name": "Michel Vorm",
+      "shirtNumber": 16,
+      "position": "GK"
+    },
+    {
+      "id": "netherlands-2010-17",
+      "name": "Eljero Elia",
+      "shirtNumber": 17,
+      "position": "ATT"
+    },
+    {
+      "id": "netherlands-2010-18",
+      "name": "Stijn Schaars",
+      "shirtNumber": 18,
+      "position": "MID"
+    },
+    {
+      "id": "netherlands-2010-19",
+      "name": "Ryan Babel",
+      "shirtNumber": 19,
+      "position": "ATT"
+    },
+    {
+      "id": "netherlands-2010-20",
+      "name": "Ibrahim Afellay",
+      "shirtNumber": 20,
+      "position": "MID"
+    },
+    {
+      "id": "netherlands-2010-21",
+      "name": "Klaas-Jan Huntelaar",
+      "shirtNumber": 21,
+      "position": "ATT"
+    },
+    {
+      "id": "netherlands-2010-22",
+      "name": "Sander Boschker",
+      "shirtNumber": 22,
+      "position": "GK"
+    },
+    {
+      "id": "netherlands-2010-23",
+      "name": "Rafael van der Vaart",
+      "shirtNumber": 23,
+      "position": "MID"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "Denmark",
+      "score": "2–0",
+      "scorers": [
+        {
+          "name": "Daniel Agger",
+          "minute": "46'",
+          "ownGoal": true
+        },
+        {
+          "name": "Dirk Kuyt",
+          "minute": "85'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2010-06-14"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Japan",
+      "score": "1–0",
+      "scorers": [
+        {
+          "name": "Wesley Sneijder",
+          "minute": "53'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2010-06-19"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Cameroon",
+      "score": "1–2",
+      "scorers": [
+        {
+          "name": "Robin van Persie",
+          "minute": "36'",
+          "ownGoal": false
+        },
+        {
+          "name": "Samuel Eto'o",
+          "minute": "65'",
+          "ownGoal": false
+        },
+        {
+          "name": "Klaas-Jan Huntelaar",
+          "minute": "83'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2010-06-24"
+    },
+    {
+      "stage": "Round of 16",
+      "opponent": "Slovakia",
+      "score": "2–1",
+      "scorers": [
+        {
+          "name": "Arjen Robben",
+          "minute": "18'",
+          "ownGoal": false
+        },
+        {
+          "name": "Wesley Sneijder",
+          "minute": "84'",
+          "ownGoal": false
+        },
+        {
+          "name": "Róbert Vittek",
+          "minute": "90'+4'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2010-06-28"
+    },
+    {
+      "stage": "Quarter-final",
+      "opponent": "Brazil",
+      "score": "2–1",
+      "scorers": [
+        {
+          "name": "Robinho",
+          "minute": "10'",
+          "ownGoal": false
+        },
+        {
+          "name": "Wesley Sneijder",
+          "minute": "53'",
+          "ownGoal": false
+        },
+        {
+          "name": "Wesley Sneijder",
+          "minute": "68'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2010-07-02"
+    },
+    {
+      "stage": "Semi-final",
+      "opponent": "Uruguay",
+      "score": "2–3",
+      "scorers": [
+        {
+          "name": "Giovanni van Bronckhorst",
+          "minute": "18'",
+          "ownGoal": false
+        },
+        {
+          "name": "Diego Forlán",
+          "minute": "41'",
+          "ownGoal": false
+        },
+        {
+          "name": "Wesley Sneijder",
+          "minute": "70'",
+          "ownGoal": false
+        },
+        {
+          "name": "Arjen Robben",
+          "minute": "73'",
+          "ownGoal": false
+        },
+        {
+          "name": "Maxi Pereira",
+          "minute": "90'+2'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2010-07-06"
+    },
+    {
+      "stage": "Final",
+      "opponent": "Spain",
+      "score": "0–1",
+      "scorers": [
+        {
+          "name": "Andrés Iniesta",
+          "minute": "116'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2010-07-11"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

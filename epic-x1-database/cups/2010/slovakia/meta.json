@@ -1,0 +1,251 @@
+{
+  "country": "Slovakia",
+  "countrySlug": "slovakia",
+  "year": 2010,
+  "edition": "2010",
+  "host": "South Africa",
+  "coach": "Vladimír Weiss",
+  "finalPhase": "Round of 16",
+  "result": "Round of 16",
+  "squad": [
+    {
+      "id": "slovakia-2010-1",
+      "name": "Ján Mucha",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "slovakia-2010-2",
+      "name": "Peter Pekarík",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "slovakia-2010-3",
+      "name": "Martin Škrtel",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "slovakia-2010-4",
+      "name": "Marek Čech",
+      "shirtNumber": 4,
+      "position": "DEF"
+    },
+    {
+      "id": "slovakia-2010-5",
+      "name": "Radoslav Zabavník",
+      "shirtNumber": 5,
+      "position": "DEF"
+    },
+    {
+      "id": "slovakia-2010-6",
+      "name": "Zdeno Štrba",
+      "shirtNumber": 6,
+      "position": "MID"
+    },
+    {
+      "id": "slovakia-2010-7",
+      "name": "Vladimír Weiss",
+      "shirtNumber": 7,
+      "position": "MID"
+    },
+    {
+      "id": "slovakia-2010-8",
+      "name": "Ján Kozák",
+      "shirtNumber": 8,
+      "position": "MID"
+    },
+    {
+      "id": "slovakia-2010-9",
+      "name": "Stanislav Šesták",
+      "shirtNumber": 9,
+      "position": "MID"
+    },
+    {
+      "id": "slovakia-2010-10",
+      "name": "Marek Sapara",
+      "shirtNumber": 10,
+      "position": "MID"
+    },
+    {
+      "id": "slovakia-2010-11",
+      "name": "Róbert Vittek",
+      "shirtNumber": 11,
+      "position": "ATT"
+    },
+    {
+      "id": "slovakia-2010-12",
+      "name": "Dušan Perniš",
+      "shirtNumber": 12,
+      "position": "GK"
+    },
+    {
+      "id": "slovakia-2010-13",
+      "name": "Filip Hološko",
+      "shirtNumber": 13,
+      "position": "ATT"
+    },
+    {
+      "id": "slovakia-2010-14",
+      "name": "Martin Jakubko",
+      "shirtNumber": 14,
+      "position": "ATT"
+    },
+    {
+      "id": "slovakia-2010-15",
+      "name": "Miroslav Stoch",
+      "shirtNumber": 15,
+      "position": "MID"
+    },
+    {
+      "id": "slovakia-2010-16",
+      "name": "Ján Ďurica",
+      "shirtNumber": 16,
+      "position": "DEF"
+    },
+    {
+      "id": "slovakia-2010-17",
+      "name": "Marek Hamšík",
+      "shirtNumber": 17,
+      "position": "MID"
+    },
+    {
+      "id": "slovakia-2010-18",
+      "name": "Erik Jendrišek",
+      "shirtNumber": 18,
+      "position": "ATT"
+    },
+    {
+      "id": "slovakia-2010-19",
+      "name": "Juraj Kucka",
+      "shirtNumber": 19,
+      "position": "MID"
+    },
+    {
+      "id": "slovakia-2010-20",
+      "name": "Kamil Kopúnek",
+      "shirtNumber": 20,
+      "position": "MID"
+    },
+    {
+      "id": "slovakia-2010-21",
+      "name": "Kornel Saláta",
+      "shirtNumber": 21,
+      "position": "DEF"
+    },
+    {
+      "id": "slovakia-2010-22",
+      "name": "Martin Petráš",
+      "shirtNumber": 22,
+      "position": "DEF"
+    },
+    {
+      "id": "slovakia-2010-23",
+      "name": "Dušan Kuciak",
+      "shirtNumber": 23,
+      "position": "GK"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "New Zealand",
+      "score": "1–1",
+      "scorers": [
+        {
+          "name": "Róbert Vittek",
+          "minute": "50'",
+          "ownGoal": false
+        },
+        {
+          "name": "Winston Reid",
+          "minute": "90'+3'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2010-06-15"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Paraguay",
+      "score": "0–2",
+      "scorers": [
+        {
+          "name": "Enrique Vera",
+          "minute": "27'",
+          "ownGoal": false
+        },
+        {
+          "name": "Cristian Riveros",
+          "minute": "86'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2010-06-20"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Italy",
+      "score": "3–2",
+      "scorers": [
+        {
+          "name": "Róbert Vittek",
+          "minute": "25'",
+          "ownGoal": false
+        },
+        {
+          "name": "Róbert Vittek",
+          "minute": "73'",
+          "ownGoal": false
+        },
+        {
+          "name": "Antonio Di Natale",
+          "minute": "81'",
+          "ownGoal": false
+        },
+        {
+          "name": "Kamil Kopúnek",
+          "minute": "89'",
+          "ownGoal": false
+        },
+        {
+          "name": "Fabio Quagliarella",
+          "minute": "90'+2'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2010-06-24"
+    },
+    {
+      "stage": "Round of 16",
+      "opponent": "Netherlands",
+      "score": "2–1",
+      "scorers": [
+        {
+          "name": "Arjen Robben",
+          "minute": "18'",
+          "ownGoal": false
+        },
+        {
+          "name": "Wesley Sneijder",
+          "minute": "84'",
+          "ownGoal": false
+        },
+        {
+          "name": "Róbert Vittek",
+          "minute": "90'+4'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2010-06-28"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

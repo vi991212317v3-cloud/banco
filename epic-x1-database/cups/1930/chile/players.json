@@ -1,0 +1,989 @@
+[
+  {
+    "id": "chile-1930-004",
+    "name": "Arturo Coddou",
+    "commonName": "Arturo Coddou",
+    "shirtNumber": null,
+    "position": "MID",
+    "positions": [
+      "MID"
+    ],
+    "country": "Chile",
+    "countrySlug": "chile",
+    "year": 1930,
+    "edition": "1930",
+    "club": null,
+    "age": 25,
+    "history": {
+      "matchesPlayed": null,
+      "matches": [],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": null,
+      "redCards": null
+    },
+    "attributes": {
+      "strength": 71,
+      "agility": 73,
+      "skill": 75,
+      "speed": 72,
+      "shooting": 71,
+      "passing": 75,
+      "defending": 70,
+      "physical": 71,
+      "goalkeeping": 54
+    },
+    "overall": 73,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "chile-1930-016",
+    "name": "Arturo Torres",
+    "commonName": "Arturo Torres",
+    "shirtNumber": null,
+    "position": "MID",
+    "positions": [
+      "MID"
+    ],
+    "country": "Chile",
+    "countrySlug": "chile",
+    "year": 1930,
+    "edition": "1930",
+    "club": null,
+    "age": 23,
+    "history": {
+      "matchesPlayed": null,
+      "matches": [],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": null,
+      "redCards": null
+    },
+    "attributes": {
+      "strength": 71,
+      "agility": 73,
+      "skill": 75,
+      "speed": 72,
+      "shooting": 71,
+      "passing": 75,
+      "defending": 70,
+      "physical": 71,
+      "goalkeeping": 54
+    },
+    "overall": 73,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "chile-1930-014",
+    "name": "Carlos Schneeberger",
+    "commonName": "Carlos Schneeberger",
+    "shirtNumber": null,
+    "position": "ATT",
+    "positions": [
+      "ATT"
+    ],
+    "country": "Chile",
+    "countrySlug": "chile",
+    "year": 1930,
+    "edition": "1930",
+    "club": null,
+    "age": 28,
+    "history": {
+      "matchesPlayed": null,
+      "matches": [],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": null,
+      "redCards": null
+    },
+    "attributes": {
+      "strength": 71,
+      "agility": 73,
+      "skill": 75,
+      "speed": 72,
+      "shooting": 71,
+      "passing": 75,
+      "defending": 70,
+      "physical": 71,
+      "goalkeeping": 54
+    },
+    "overall": 73,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "chile-1930-018",
+    "name": "Carlos Vidal",
+    "commonName": "Carlos Vidal",
+    "shirtNumber": null,
+    "position": "ATT",
+    "positions": [
+      "ATT"
+    ],
+    "country": "Chile",
+    "countrySlug": "chile",
+    "year": 1930,
+    "edition": "1930",
+    "club": null,
+    "age": 28,
+    "history": {
+      "matchesPlayed": null,
+      "matches": [
+        {
+          "stage": "Group",
+          "opponent": "Mexico",
+          "minutes": null,
+          "goals": 1,
+          "assists": null,
+          "yellow": null,
+          "red": null
+        },
+        {
+          "stage": "Group",
+          "opponent": "Mexico",
+          "minutes": null,
+          "goals": 1,
+          "assists": null,
+          "yellow": null,
+          "red": null
+        }
+      ],
+      "goals": 2,
+      "assists": null,
+      "yellowCards": null,
+      "redCards": null
+    },
+    "attributes": {
+      "strength": 74,
+      "agility": 76,
+      "skill": 78,
+      "speed": 75,
+      "shooting": 74,
+      "passing": 78,
+      "defending": 73,
+      "physical": 74,
+      "goalkeeping": 56
+    },
+    "overall": 76,
+    "tier": "RARE",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "chile-1930-017",
+    "name": "Casimiro Torres",
+    "commonName": "Casimiro Torres",
+    "shirtNumber": null,
+    "position": "MID",
+    "positions": [
+      "MID"
+    ],
+    "country": "Chile",
+    "countrySlug": "chile",
+    "year": 1930,
+    "edition": "1930",
+    "club": null,
+    "age": 24,
+    "history": {
+      "matchesPlayed": null,
+      "matches": [],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": null,
+      "redCards": null
+    },
+    "attributes": {
+      "strength": 71,
+      "agility": 73,
+      "skill": 75,
+      "speed": 72,
+      "shooting": 71,
+      "passing": 75,
+      "defending": 70,
+      "physical": 71,
+      "goalkeeping": 54
+    },
+    "overall": 73,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "chile-1930-007",
+    "name": "César Espinoza",
+    "commonName": "César Espinoza",
+    "shirtNumber": null,
+    "position": "GK",
+    "positions": [
+      "GK"
+    ],
+    "country": "Chile",
+    "countrySlug": "chile",
+    "year": 1930,
+    "edition": "1930",
+    "club": null,
+    "age": 29,
+    "history": {
+      "matchesPlayed": null,
+      "matches": [],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": null,
+      "redCards": null
+    },
+    "attributes": {
+      "strength": 69,
+      "agility": 71,
+      "skill": 66,
+      "speed": 66,
+      "shooting": 58,
+      "passing": 68,
+      "defending": 68,
+      "physical": 70,
+      "goalkeeping": 77
+    },
+    "overall": 73,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "chile-1930-019",
+    "name": "Eberardo Villalobos",
+    "commonName": "Eberardo Villalobos",
+    "shirtNumber": null,
+    "position": "ATT",
+    "positions": [
+      "ATT"
+    ],
+    "country": "Chile",
+    "countrySlug": "chile",
+    "year": 1930,
+    "edition": "1930",
+    "club": null,
+    "age": 22,
+    "history": {
+      "matchesPlayed": null,
+      "matches": [],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": null,
+      "redCards": null
+    },
+    "attributes": {
+      "strength": 71,
+      "agility": 73,
+      "skill": 75,
+      "speed": 72,
+      "shooting": 71,
+      "passing": 75,
+      "defending": 70,
+      "physical": 71,
+      "goalkeeping": 54
+    },
+    "overall": 73,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "chile-1930-003",
+    "name": "Ernesto Chaparro",
+    "commonName": "Ernesto Chaparro",
+    "shirtNumber": null,
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "country": "Chile",
+    "countrySlug": "chile",
+    "year": 1930,
+    "edition": "1930",
+    "club": null,
+    "age": 29,
+    "history": {
+      "matchesPlayed": null,
+      "matches": [],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": null,
+      "redCards": null
+    },
+    "attributes": {
+      "strength": 71,
+      "agility": 73,
+      "skill": 75,
+      "speed": 72,
+      "shooting": 71,
+      "passing": 75,
+      "defending": 70,
+      "physical": 71,
+      "goalkeeping": 54
+    },
+    "overall": 73,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "chile-1930-002",
+    "name": "Guillermo Arellano",
+    "commonName": "Guillermo Arellano",
+    "shirtNumber": null,
+    "position": "ATT",
+    "positions": [
+      "ATT"
+    ],
+    "country": "Chile",
+    "countrySlug": "chile",
+    "year": 1930,
+    "edition": "1930",
+    "club": null,
+    "age": 21,
+    "history": {
+      "matchesPlayed": null,
+      "matches": [],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": null,
+      "redCards": null
+    },
+    "attributes": {
+      "strength": 71,
+      "agility": 73,
+      "skill": 75,
+      "speed": 72,
+      "shooting": 71,
+      "passing": 75,
+      "defending": 70,
+      "physical": 71,
+      "goalkeeping": 54
+    },
+    "overall": 73,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "chile-1930-012",
+    "name": "Guillermo Riveros",
+    "commonName": "Guillermo Riveros",
+    "shirtNumber": null,
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "country": "Chile",
+    "countrySlug": "chile",
+    "year": 1930,
+    "edition": "1930",
+    "club": null,
+    "age": 28,
+    "history": {
+      "matchesPlayed": null,
+      "matches": [],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": null,
+      "redCards": null
+    },
+    "attributes": {
+      "strength": 71,
+      "agility": 73,
+      "skill": 75,
+      "speed": 72,
+      "shooting": 71,
+      "passing": 75,
+      "defending": 70,
+      "physical": 71,
+      "goalkeeping": 54
+    },
+    "overall": 73,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "chile-1930-013",
+    "name": "Guillermo Saavedra",
+    "commonName": "Guillermo Saavedra",
+    "shirtNumber": null,
+    "position": "MID",
+    "positions": [
+      "MID"
+    ],
+    "country": "Chile",
+    "countrySlug": "chile",
+    "year": 1930,
+    "edition": "1930",
+    "club": null,
+    "age": 26,
+    "history": {
+      "matchesPlayed": null,
+      "matches": [],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": null,
+      "redCards": null
+    },
+    "attributes": {
+      "strength": 71,
+      "agility": 73,
+      "skill": 75,
+      "speed": 72,
+      "shooting": 71,
+      "passing": 75,
+      "defending": 70,
+      "physical": 71,
+      "goalkeeping": 54
+    },
+    "overall": 73,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "chile-1930-015",
+    "name": "Guillermo Subiabre",
+    "commonName": "Guillermo Subiabre",
+    "shirtNumber": null,
+    "position": "ATT",
+    "positions": [
+      "ATT"
+    ],
+    "country": "Chile",
+    "countrySlug": "chile",
+    "year": 1930,
+    "edition": "1930",
+    "club": null,
+    "age": 28,
+    "history": {
+      "matchesPlayed": null,
+      "matches": [
+        {
+          "stage": "Group",
+          "opponent": "France",
+          "minutes": null,
+          "goals": 1,
+          "assists": null,
+          "yellow": null,
+          "red": null
+        },
+        {
+          "stage": "Group",
+          "opponent": "Argentina",
+          "minutes": null,
+          "goals": 1,
+          "assists": null,
+          "yellow": null,
+          "red": null
+        }
+      ],
+      "goals": 2,
+      "assists": null,
+      "yellowCards": null,
+      "redCards": null
+    },
+    "attributes": {
+      "strength": 74,
+      "agility": 76,
+      "skill": 78,
+      "speed": 75,
+      "shooting": 74,
+      "passing": 78,
+      "defending": 73,
+      "physical": 74,
+      "goalkeeping": 56
+    },
+    "overall": 76,
+    "tier": "RARE",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "chile-1930-009",
+    "name": "Horacio Muñoz",
+    "commonName": "Horacio Muñoz",
+    "shirtNumber": null,
+    "position": "ATT",
+    "positions": [
+      "ATT"
+    ],
+    "country": "Chile",
+    "countrySlug": "chile",
+    "year": 1930,
+    "edition": "1930",
+    "club": null,
+    "age": 30,
+    "history": {
+      "matchesPlayed": null,
+      "matches": [],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": null,
+      "redCards": null
+    },
+    "attributes": {
+      "strength": 71,
+      "agility": 73,
+      "skill": 75,
+      "speed": 72,
+      "shooting": 71,
+      "passing": 75,
+      "defending": 70,
+      "physical": 71,
+      "goalkeeping": 54
+    },
+    "overall": 73,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "chile-1930-006",
+    "name": "Humberto Elgueta",
+    "commonName": "Humberto Elgueta",
+    "shirtNumber": null,
+    "position": "MID",
+    "positions": [
+      "MID"
+    ],
+    "country": "Chile",
+    "countrySlug": "chile",
+    "year": 1930,
+    "edition": "1930",
+    "club": null,
+    "age": 25,
+    "history": {
+      "matchesPlayed": null,
+      "matches": [],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": null,
+      "redCards": null
+    },
+    "attributes": {
+      "strength": 71,
+      "agility": 73,
+      "skill": 75,
+      "speed": 72,
+      "shooting": 71,
+      "passing": 75,
+      "defending": 70,
+      "physical": 71,
+      "goalkeeping": 54
+    },
+    "overall": 73,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "chile-1930-001",
+    "name": "Juan Aguilera",
+    "commonName": "Juan Aguilera",
+    "shirtNumber": null,
+    "position": "ATT",
+    "positions": [
+      "ATT"
+    ],
+    "country": "Chile",
+    "countrySlug": "chile",
+    "year": 1930,
+    "edition": "1930",
+    "club": null,
+    "age": 26,
+    "history": {
+      "matchesPlayed": null,
+      "matches": [],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": null,
+      "redCards": null
+    },
+    "attributes": {
+      "strength": 71,
+      "agility": 73,
+      "skill": 75,
+      "speed": 72,
+      "shooting": 71,
+      "passing": 75,
+      "defending": 70,
+      "physical": 71,
+      "goalkeeping": 54
+    },
+    "overall": 73,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "chile-1930-005",
+    "name": "Roberto Cortés",
+    "commonName": "Roberto Cortés",
+    "shirtNumber": null,
+    "position": "GK",
+    "positions": [
+      "GK"
+    ],
+    "country": "Chile",
+    "countrySlug": "chile",
+    "year": 1930,
+    "edition": "1930",
+    "club": null,
+    "age": 25,
+    "history": {
+      "matchesPlayed": null,
+      "matches": [],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": null,
+      "redCards": null
+    },
+    "attributes": {
+      "strength": 69,
+      "agility": 71,
+      "skill": 66,
+      "speed": 66,
+      "shooting": 58,
+      "passing": 68,
+      "defending": 68,
+      "physical": 70,
+      "goalkeeping": 77
+    },
+    "overall": 73,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "chile-1930-010",
+    "name": "Tomás Ojeda",
+    "commonName": "Tomás Ojeda",
+    "shirtNumber": null,
+    "position": "ATT",
+    "positions": [
+      "ATT"
+    ],
+    "country": "Chile",
+    "countrySlug": "chile",
+    "year": 1930,
+    "edition": "1930",
+    "club": null,
+    "age": 20,
+    "history": {
+      "matchesPlayed": null,
+      "matches": [],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": null,
+      "redCards": null
+    },
+    "attributes": {
+      "strength": 71,
+      "agility": 73,
+      "skill": 75,
+      "speed": 72,
+      "shooting": 71,
+      "passing": 75,
+      "defending": 70,
+      "physical": 71,
+      "goalkeeping": 54
+    },
+    "overall": 73,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "chile-1930-011",
+    "name": "Ulises Poirier",
+    "commonName": "Ulises Poirier",
+    "shirtNumber": null,
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "country": "Chile",
+    "countrySlug": "chile",
+    "year": 1930,
+    "edition": "1930",
+    "club": null,
+    "age": 33,
+    "history": {
+      "matchesPlayed": null,
+      "matches": [],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": null,
+      "redCards": null
+    },
+    "attributes": {
+      "strength": 71,
+      "agility": 73,
+      "skill": 75,
+      "speed": 72,
+      "shooting": 71,
+      "passing": 75,
+      "defending": 70,
+      "physical": 71,
+      "goalkeeping": 54
+    },
+    "overall": 73,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "chile-1930-008",
+    "name": "Víctor Morales",
+    "commonName": "Víctor Morales",
+    "shirtNumber": null,
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "country": "Chile",
+    "countrySlug": "chile",
+    "year": 1930,
+    "edition": "1930",
+    "club": null,
+    "age": 25,
+    "history": {
+      "matchesPlayed": null,
+      "matches": [],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": null,
+      "redCards": null
+    },
+    "attributes": {
+      "strength": 71,
+      "agility": 73,
+      "skill": 75,
+      "speed": 72,
+      "shooting": 71,
+      "passing": 75,
+      "defending": 70,
+      "physical": 71,
+      "goalkeeping": 54
+    },
+    "overall": 73,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  }
+]

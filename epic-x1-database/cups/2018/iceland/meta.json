@@ -1,0 +1,218 @@
+{
+  "country": "Iceland",
+  "countrySlug": "iceland",
+  "year": 2018,
+  "edition": "2018",
+  "host": "Russia",
+  "coach": "Heimir Hallgrímsson",
+  "finalPhase": "Group Stage",
+  "result": "Group Stage",
+  "squad": [
+    {
+      "id": "iceland-2018-1",
+      "name": "Hannes Þór Halldórsson",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "iceland-2018-2",
+      "name": "Birkir Már Sævarsson",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "iceland-2018-3",
+      "name": "Samúel Friðjónsson",
+      "shirtNumber": 3,
+      "position": "MID"
+    },
+    {
+      "id": "iceland-2018-4",
+      "name": "Albert Guðmundsson",
+      "shirtNumber": 4,
+      "position": "MID"
+    },
+    {
+      "id": "iceland-2018-5",
+      "name": "Sverrir Ingi Ingason",
+      "shirtNumber": 5,
+      "position": "DEF"
+    },
+    {
+      "id": "iceland-2018-6",
+      "name": "Ragnar Sigurðsson",
+      "shirtNumber": 6,
+      "position": "DEF"
+    },
+    {
+      "id": "iceland-2018-7",
+      "name": "Jóhann Berg Guðmundsson",
+      "shirtNumber": 7,
+      "position": "MID"
+    },
+    {
+      "id": "iceland-2018-8",
+      "name": "Birkir Bjarnason",
+      "shirtNumber": 8,
+      "position": "MID"
+    },
+    {
+      "id": "iceland-2018-9",
+      "name": "Björn Bergmann Sigurðarson",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "iceland-2018-10",
+      "name": "Gylfi Sigurðsson",
+      "shirtNumber": 10,
+      "position": "MID"
+    },
+    {
+      "id": "iceland-2018-11",
+      "name": "Alfreð Finnbogason",
+      "shirtNumber": 11,
+      "position": "ATT"
+    },
+    {
+      "id": "iceland-2018-12",
+      "name": "Frederik Schram",
+      "shirtNumber": 12,
+      "position": "GK"
+    },
+    {
+      "id": "iceland-2018-13",
+      "name": "Rúnar Alex Rúnarsson",
+      "shirtNumber": 13,
+      "position": "GK"
+    },
+    {
+      "id": "iceland-2018-14",
+      "name": "Kári Árnason",
+      "shirtNumber": 14,
+      "position": "DEF"
+    },
+    {
+      "id": "iceland-2018-15",
+      "name": "Hólmar Örn Eyjólfsson",
+      "shirtNumber": 15,
+      "position": "DEF"
+    },
+    {
+      "id": "iceland-2018-16",
+      "name": "Ólafur Ingi Skúlason",
+      "shirtNumber": 16,
+      "position": "MID"
+    },
+    {
+      "id": "iceland-2018-17",
+      "name": "Aron Gunnarsson",
+      "shirtNumber": 17,
+      "position": "MID"
+    },
+    {
+      "id": "iceland-2018-18",
+      "name": "Hörður Björgvin Magnússon",
+      "shirtNumber": 18,
+      "position": "DEF"
+    },
+    {
+      "id": "iceland-2018-19",
+      "name": "Rúrik Gíslason",
+      "shirtNumber": 19,
+      "position": "MID"
+    },
+    {
+      "id": "iceland-2018-20",
+      "name": "Emil Hallfreðsson",
+      "shirtNumber": 20,
+      "position": "MID"
+    },
+    {
+      "id": "iceland-2018-21",
+      "name": "Arnór Ingvi Traustason",
+      "shirtNumber": 21,
+      "position": "MID"
+    },
+    {
+      "id": "iceland-2018-22",
+      "name": "Jón Daði Böðvarsson",
+      "shirtNumber": 22,
+      "position": "ATT"
+    },
+    {
+      "id": "iceland-2018-23",
+      "name": "Ari Freyr Skúlason",
+      "shirtNumber": 23,
+      "position": "DEF"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "Argentina",
+      "score": "1–1",
+      "scorers": [
+        {
+          "name": "Sergio Agüero",
+          "minute": "19'",
+          "ownGoal": false
+        },
+        {
+          "name": "Alfreð Finnbogason",
+          "minute": "23'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2018-06-16"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Nigeria",
+      "score": "2–0",
+      "scorers": [
+        {
+          "name": "Ahmed Musa",
+          "minute": "49'",
+          "ownGoal": false
+        },
+        {
+          "name": "Ahmed Musa",
+          "minute": "75'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2018-06-22"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Croatia",
+      "score": "1–2",
+      "scorers": [
+        {
+          "name": "Milan Badelj",
+          "minute": "53'",
+          "ownGoal": false
+        },
+        {
+          "name": "Gylfi Sigurðsson",
+          "minute": "76'",
+          "ownGoal": false
+        },
+        {
+          "name": "Ivan Perišić",
+          "minute": "90'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2018-06-26"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

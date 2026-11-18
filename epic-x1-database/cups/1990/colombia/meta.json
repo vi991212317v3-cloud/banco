@@ -1,0 +1,225 @@
+{
+  "country": "Colombia",
+  "countrySlug": "colombia",
+  "year": 1990,
+  "edition": "1990",
+  "host": "Italy",
+  "coach": "Francisco Maturana",
+  "finalPhase": "Round of 16",
+  "result": "Round of 16",
+  "squad": [
+    {
+      "id": "colombia-1990-1",
+      "name": "René Higuita",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "colombia-1990-2",
+      "name": "Andrés Escobar",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "colombia-1990-3",
+      "name": "Gildardo Gómez",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "colombia-1990-4",
+      "name": "Luis Fernando Herrera",
+      "shirtNumber": 4,
+      "position": "DEF"
+    },
+    {
+      "id": "colombia-1990-5",
+      "name": "León Villa",
+      "shirtNumber": 5,
+      "position": "MID"
+    },
+    {
+      "id": "colombia-1990-6",
+      "name": "José Ricardo Pérez",
+      "shirtNumber": 6,
+      "position": "DEF"
+    },
+    {
+      "id": "colombia-1990-7",
+      "name": "Carlos Estrada",
+      "shirtNumber": 7,
+      "position": "ATT"
+    },
+    {
+      "id": "colombia-1990-8",
+      "name": "Gabriel Gómez",
+      "shirtNumber": 8,
+      "position": "MID"
+    },
+    {
+      "id": "colombia-1990-9",
+      "name": "Miguel Guerrero",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "colombia-1990-10",
+      "name": "Carlos Valderrama",
+      "shirtNumber": 10,
+      "position": "MID"
+    },
+    {
+      "id": "colombia-1990-11",
+      "name": "Bernardo Redín",
+      "shirtNumber": 11,
+      "position": "MID"
+    },
+    {
+      "id": "colombia-1990-12",
+      "name": "Eduardo Niño",
+      "shirtNumber": 12,
+      "position": "GK"
+    },
+    {
+      "id": "colombia-1990-13",
+      "name": "Carlos Hoyos",
+      "shirtNumber": 13,
+      "position": "DEF"
+    },
+    {
+      "id": "colombia-1990-14",
+      "name": "Leonel Álvarez",
+      "shirtNumber": 14,
+      "position": "MID"
+    },
+    {
+      "id": "colombia-1990-15",
+      "name": "Luis Carlos Perea",
+      "shirtNumber": 15,
+      "position": "DEF"
+    },
+    {
+      "id": "colombia-1990-16",
+      "name": "Arnoldo Iguarán",
+      "shirtNumber": 16,
+      "position": "ATT"
+    },
+    {
+      "id": "colombia-1990-17",
+      "name": "Geovanis Cassiani",
+      "shirtNumber": 17,
+      "position": "DEF"
+    },
+    {
+      "id": "colombia-1990-18",
+      "name": "Wílmer Cabrera",
+      "shirtNumber": 18,
+      "position": "DEF"
+    },
+    {
+      "id": "colombia-1990-19",
+      "name": "Freddy Rincón",
+      "shirtNumber": 19,
+      "position": "MID"
+    },
+    {
+      "id": "colombia-1990-20",
+      "name": "Luis Fajardo",
+      "shirtNumber": 20,
+      "position": "MID"
+    },
+    {
+      "id": "colombia-1990-21",
+      "name": "Alexis Mendoza",
+      "shirtNumber": 21,
+      "position": "DEF"
+    },
+    {
+      "id": "colombia-1990-22",
+      "name": "Rubén Darío Hernández",
+      "shirtNumber": 22,
+      "position": "ATT"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "United Arab Emirates",
+      "score": "0–2",
+      "scorers": [
+        {
+          "name": "Bernardo Redín",
+          "minute": "50'",
+          "ownGoal": false
+        },
+        {
+          "name": "Carlos Valderrama",
+          "minute": "85'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1990-06-09"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Yugoslavia",
+      "score": "1–0",
+      "scorers": [
+        {
+          "name": "Davor Jozić",
+          "minute": "75'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1990-06-14"
+    },
+    {
+      "stage": "Group",
+      "opponent": "West Germany",
+      "score": "1–1",
+      "scorers": [
+        {
+          "name": "Pierre Littbarski",
+          "minute": "88'",
+          "ownGoal": false
+        },
+        {
+          "name": "Freddy Rincón",
+          "minute": "90'+3'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1990-06-19"
+    },
+    {
+      "stage": "Round of 16",
+      "opponent": "Cameroon",
+      "score": "2–1",
+      "scorers": [
+        {
+          "name": "Roger Milla",
+          "minute": "106'",
+          "ownGoal": false
+        },
+        {
+          "name": "Roger Milla",
+          "minute": "108'",
+          "ownGoal": false
+        },
+        {
+          "name": "Bernardo Redín",
+          "minute": "115'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1990-06-23"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

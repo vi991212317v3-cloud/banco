@@ -1,0 +1,243 @@
+{
+  "country": "Saudi Arabia",
+  "countrySlug": "saudi-arabia",
+  "year": 2002,
+  "edition": "2002",
+  "host": "Korea, Japan",
+  "coach": "Nasser Al-Johar",
+  "finalPhase": "Group Stage",
+  "result": "Group Stage",
+  "squad": [
+    {
+      "id": "saudi-arabia-2002-1",
+      "name": "Mohamed Al-Deayea",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "saudi-arabia-2002-2",
+      "name": "Mohammed Al-Jahani",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "saudi-arabia-2002-3",
+      "name": "Redha Tukar",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "saudi-arabia-2002-4",
+      "name": "Abdullah Sulaiman Zubromawi",
+      "shirtNumber": 4,
+      "position": "DEF"
+    },
+    {
+      "id": "saudi-arabia-2002-5",
+      "name": "Mohsin Al-Harthi",
+      "shirtNumber": 5,
+      "position": "DEF"
+    },
+    {
+      "id": "saudi-arabia-2002-6",
+      "name": "Fouzi Al-Shehri",
+      "shirtNumber": 6,
+      "position": "DEF"
+    },
+    {
+      "id": "saudi-arabia-2002-7",
+      "name": "Ibrahim Al-Shahrani",
+      "shirtNumber": 7,
+      "position": "MID"
+    },
+    {
+      "id": "saudi-arabia-2002-8",
+      "name": "Mohammed Noor",
+      "shirtNumber": 8,
+      "position": "MID"
+    },
+    {
+      "id": "saudi-arabia-2002-9",
+      "name": "Sami Al-Jaber",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "saudi-arabia-2002-10",
+      "name": "Mohammad Al-Shalhoub",
+      "shirtNumber": 10,
+      "position": "MID"
+    },
+    {
+      "id": "saudi-arabia-2002-11",
+      "name": "Obeid Al-Dosari",
+      "shirtNumber": 11,
+      "position": "ATT"
+    },
+    {
+      "id": "saudi-arabia-2002-12",
+      "name": "Ahmed Al-Dokhi",
+      "shirtNumber": 12,
+      "position": "DEF"
+    },
+    {
+      "id": "saudi-arabia-2002-13",
+      "name": "Hussein Abdulghani",
+      "shirtNumber": 13,
+      "position": "DEF"
+    },
+    {
+      "id": "saudi-arabia-2002-14",
+      "name": "Abdulaziz Al-Khathran",
+      "shirtNumber": 14,
+      "position": "MID"
+    },
+    {
+      "id": "saudi-arabia-2002-15",
+      "name": "Abdullah Al-Jumaan",
+      "shirtNumber": 15,
+      "position": "ATT"
+    },
+    {
+      "id": "saudi-arabia-2002-16",
+      "name": "Khamis Al-Dosari",
+      "shirtNumber": 16,
+      "position": "MID"
+    },
+    {
+      "id": "saudi-arabia-2002-17",
+      "name": "Abdullah Al-Waked",
+      "shirtNumber": 17,
+      "position": "MID"
+    },
+    {
+      "id": "saudi-arabia-2002-18",
+      "name": "Nawaf Al-Temyat",
+      "shirtNumber": 18,
+      "position": "MID"
+    },
+    {
+      "id": "saudi-arabia-2002-19",
+      "name": "Omar Al-Ghamdi",
+      "shirtNumber": 19,
+      "position": "MID"
+    },
+    {
+      "id": "saudi-arabia-2002-20",
+      "name": "Al Hasan Al-Yami",
+      "shirtNumber": 20,
+      "position": "ATT"
+    },
+    {
+      "id": "saudi-arabia-2002-21",
+      "name": "Mabrouk Zaid",
+      "shirtNumber": 21,
+      "position": "GK"
+    },
+    {
+      "id": "saudi-arabia-2002-22",
+      "name": "Mohammed Al-Khojali",
+      "shirtNumber": 22,
+      "position": "GK"
+    },
+    {
+      "id": "saudi-arabia-2002-23",
+      "name": "Mansour Al-Thagafi",
+      "shirtNumber": 23,
+      "position": "DEF"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "Germany",
+      "score": "8–0",
+      "scorers": [
+        {
+          "name": "Miroslav Klose",
+          "minute": "20'",
+          "ownGoal": false
+        },
+        {
+          "name": "Miroslav Klose",
+          "minute": "25'",
+          "ownGoal": false
+        },
+        {
+          "name": "Michael Ballack",
+          "minute": "40'",
+          "ownGoal": false
+        },
+        {
+          "name": "Carsten Jancker",
+          "minute": "45'+1'",
+          "ownGoal": false
+        },
+        {
+          "name": "Miroslav Klose",
+          "minute": "70'",
+          "ownGoal": false
+        },
+        {
+          "name": "Thomas Linke",
+          "minute": "73'",
+          "ownGoal": false
+        },
+        {
+          "name": "Oliver Bierhoff",
+          "minute": "84'",
+          "ownGoal": false
+        },
+        {
+          "name": "Bernd Schneider",
+          "minute": "90'+1'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2002-06-01"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Cameroon",
+      "score": "1–0",
+      "scorers": [
+        {
+          "name": "Samuel Eto'o",
+          "minute": "66'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2002-06-06"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Republic of Ireland",
+      "score": "0–3",
+      "scorers": [
+        {
+          "name": "Robbie Keane",
+          "minute": "7'",
+          "ownGoal": false
+        },
+        {
+          "name": "Gary Breen",
+          "minute": "61'",
+          "ownGoal": false
+        },
+        {
+          "name": "Damien Duff",
+          "minute": "87'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2002-06-11"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

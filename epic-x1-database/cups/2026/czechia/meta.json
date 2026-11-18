@@ -1,0 +1,241 @@
+{
+  "country": "Czechia",
+  "countrySlug": "czechia",
+  "year": 2026,
+  "edition": "2026",
+  "host": "Canada, Mexico and United States",
+  "coach": "KOUBEK Miroslav",
+  "finalPhase": "Group Stage",
+  "result": "Group Stage",
+  "squad": [
+    {
+      "id": "czechia-2026-1",
+      "name": "Matěj KOVÁŘ",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "czechia-2026-2",
+      "name": "David ZIMA",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "czechia-2026-3",
+      "name": "Tomáš HOLEŠ",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "czechia-2026-4",
+      "name": "Robin HRANÁČ",
+      "shirtNumber": 4,
+      "position": "DEF"
+    },
+    {
+      "id": "czechia-2026-5",
+      "name": "Vladimír COUFAL",
+      "shirtNumber": 5,
+      "position": "DEF"
+    },
+    {
+      "id": "czechia-2026-6",
+      "name": "Štěpán CHALOUPEK",
+      "shirtNumber": 6,
+      "position": "DEF"
+    },
+    {
+      "id": "czechia-2026-7",
+      "name": "Ladislav KREJČÍ",
+      "shirtNumber": 7,
+      "position": "DEF"
+    },
+    {
+      "id": "czechia-2026-8",
+      "name": "Vladimír DARIDA",
+      "shirtNumber": 8,
+      "position": "MID"
+    },
+    {
+      "id": "czechia-2026-9",
+      "name": "Adam HLOŽEK",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "czechia-2026-10",
+      "name": "Patrik SCHICK",
+      "shirtNumber": 10,
+      "position": "ATT"
+    },
+    {
+      "id": "czechia-2026-11",
+      "name": "Jan KUCHTA",
+      "shirtNumber": 11,
+      "position": "ATT"
+    },
+    {
+      "id": "czechia-2026-12",
+      "name": "Lukáš ČERV",
+      "shirtNumber": 12,
+      "position": "MID"
+    },
+    {
+      "id": "czechia-2026-13",
+      "name": "Mojmír CHYTIL",
+      "shirtNumber": 13,
+      "position": "ATT"
+    },
+    {
+      "id": "czechia-2026-14",
+      "name": "David JURÁSEK",
+      "shirtNumber": 14,
+      "position": "DEF"
+    },
+    {
+      "id": "czechia-2026-15",
+      "name": "Pavel ŠULC",
+      "shirtNumber": 15,
+      "position": "ATT"
+    },
+    {
+      "id": "czechia-2026-16",
+      "name": "Jindřich STANĚK",
+      "shirtNumber": 16,
+      "position": "GK"
+    },
+    {
+      "id": "czechia-2026-17",
+      "name": "Lukáš PROVOD",
+      "shirtNumber": 17,
+      "position": "MID"
+    },
+    {
+      "id": "czechia-2026-18",
+      "name": "Michal SADÍLEK",
+      "shirtNumber": 18,
+      "position": "MID"
+    },
+    {
+      "id": "czechia-2026-19",
+      "name": "Tomáš CHORÝ",
+      "shirtNumber": 19,
+      "position": "ATT"
+    },
+    {
+      "id": "czechia-2026-20",
+      "name": "Jaroslav ZELENÝ",
+      "shirtNumber": 20,
+      "position": "DEF"
+    },
+    {
+      "id": "czechia-2026-21",
+      "name": "David DOUDĚRA",
+      "shirtNumber": 21,
+      "position": "DEF"
+    },
+    {
+      "id": "czechia-2026-22",
+      "name": "Tomáš SOUČEK",
+      "shirtNumber": 22,
+      "position": "MID"
+    },
+    {
+      "id": "czechia-2026-23",
+      "name": "Lukáš HORNÍČEK",
+      "shirtNumber": 23,
+      "position": "GK"
+    },
+    {
+      "id": "czechia-2026-24",
+      "name": "Alexandr SOJKA",
+      "shirtNumber": 24,
+      "position": "MID"
+    },
+    {
+      "id": "czechia-2026-25",
+      "name": "Hugo SOCHŮREK",
+      "shirtNumber": 25,
+      "position": "MID"
+    },
+    {
+      "id": "czechia-2026-26",
+      "name": "Denis VIŠINSKÝ",
+      "shirtNumber": 26,
+      "position": "ATT"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group Stage",
+      "opponent": "South Korea",
+      "score": "2–1",
+      "scorers": [
+        {
+          "name": "Ladislav KREJČÍ",
+          "minute": 59,
+          "ownGoal": false
+        },
+        {
+          "name": "Inbeom HWANG",
+          "minute": 67,
+          "ownGoal": false
+        },
+        {
+          "name": "Hyeongyu OH",
+          "minute": 80,
+          "ownGoal": false
+        }
+      ],
+      "date": "2026-06-11"
+    },
+    {
+      "stage": "Group Stage",
+      "opponent": "South Africa",
+      "score": "1–1",
+      "scorers": [
+        {
+          "name": "Michal SADÍLEK",
+          "minute": 6,
+          "ownGoal": false
+        },
+        {
+          "name": "Teboho MOKOENA",
+          "minute": 83,
+          "ownGoal": false
+        }
+      ],
+      "date": "2026-06-18"
+    },
+    {
+      "stage": "Group Stage",
+      "opponent": "Mexico",
+      "score": "0–3",
+      "scorers": [
+        {
+          "name": "Mateo CHÁVEZ GARCÍA",
+          "minute": 55,
+          "ownGoal": false
+        },
+        {
+          "name": "Julián Andrés QUIÑONES QUIÑONES",
+          "minute": 61,
+          "ownGoal": false
+        },
+        {
+          "name": "Álvaro FIDALGO FERNÁNDEZ",
+          "minute": 90,
+          "ownGoal": false
+        }
+      ],
+      "date": "2026-06-24"
+    }
+  ],
+  "sources": [
+    "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/final-tournament-standings",
+    "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/teams",
+    "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+    "https://github.com/openfootball/worldcup.json",
+    "https://github.com/mominullptr/FIFA-World-Cup-2026-Dataset"
+  ]
+}

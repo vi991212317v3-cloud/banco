@@ -1,0 +1,286 @@
+{
+  "country": "Austria",
+  "countrySlug": "austria",
+  "year": 1978,
+  "edition": "1978",
+  "host": "Argentina",
+  "coach": "Helmut Senekowitsch",
+  "finalPhase": "Second Group Stage",
+  "result": "Second Group Stage",
+  "squad": [
+    {
+      "id": "austria-1978-1",
+      "name": "Friedrich Koncilia",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "austria-1978-2",
+      "name": "Robert Sara",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "austria-1978-3",
+      "name": "Erich Obermayer",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "austria-1978-4",
+      "name": "Gerhard Breitenberger",
+      "shirtNumber": 4,
+      "position": "DEF"
+    },
+    {
+      "id": "austria-1978-5",
+      "name": "Bruno Pezzey",
+      "shirtNumber": 5,
+      "position": "DEF"
+    },
+    {
+      "id": "austria-1978-6",
+      "name": "Roland Hattenberger",
+      "shirtNumber": 6,
+      "position": "MID"
+    },
+    {
+      "id": "austria-1978-7",
+      "name": "Josef Hickersberger",
+      "shirtNumber": 7,
+      "position": "MID"
+    },
+    {
+      "id": "austria-1978-8",
+      "name": "Herbert Prohaska",
+      "shirtNumber": 8,
+      "position": "MID"
+    },
+    {
+      "id": "austria-1978-9",
+      "name": "Hans Krankl",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "austria-1978-10",
+      "name": "Wilhelm Kreuz",
+      "shirtNumber": 10,
+      "position": "ATT"
+    },
+    {
+      "id": "austria-1978-11",
+      "name": "Kurt Jara",
+      "shirtNumber": 11,
+      "position": "MID"
+    },
+    {
+      "id": "austria-1978-12",
+      "name": "Eduard Krieger",
+      "shirtNumber": 12,
+      "position": "MID"
+    },
+    {
+      "id": "austria-1978-13",
+      "name": "Günther Happich",
+      "shirtNumber": 13,
+      "position": "MID"
+    },
+    {
+      "id": "austria-1978-14",
+      "name": "Heinrich Strasser",
+      "shirtNumber": 14,
+      "position": "DEF"
+    },
+    {
+      "id": "austria-1978-15",
+      "name": "Heribert Weber",
+      "shirtNumber": 15,
+      "position": "DEF"
+    },
+    {
+      "id": "austria-1978-16",
+      "name": "Peter Persidis",
+      "shirtNumber": 16,
+      "position": "DEF"
+    },
+    {
+      "id": "austria-1978-17",
+      "name": "Franz Oberacher",
+      "shirtNumber": 17,
+      "position": "ATT"
+    },
+    {
+      "id": "austria-1978-18",
+      "name": "Walter Schachner",
+      "shirtNumber": 18,
+      "position": "ATT"
+    },
+    {
+      "id": "austria-1978-19",
+      "name": "Hans Pirkner",
+      "shirtNumber": 19,
+      "position": "ATT"
+    },
+    {
+      "id": "austria-1978-20",
+      "name": "Ernst Baumeister",
+      "shirtNumber": 20,
+      "position": "MID"
+    },
+    {
+      "id": "austria-1978-21",
+      "name": "Erwin Fuchsbichler",
+      "shirtNumber": 21,
+      "position": "GK"
+    },
+    {
+      "id": "austria-1978-22",
+      "name": "Hubert Baumgartner",
+      "shirtNumber": 22,
+      "position": "GK"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "Spain",
+      "score": "2–1",
+      "scorers": [
+        {
+          "name": "Walter Schachner",
+          "minute": "10'",
+          "ownGoal": false
+        },
+        {
+          "name": "Dani",
+          "minute": "21'",
+          "ownGoal": false
+        },
+        {
+          "name": "Hans Krankl",
+          "minute": "76'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1978-06-03"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Sweden",
+      "score": "1–0",
+      "scorers": [
+        {
+          "name": "Hans Krankl",
+          "minute": "42'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1978-06-07"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Brazil",
+      "score": "1–0",
+      "scorers": [
+        {
+          "name": "Roberto Dinamite",
+          "minute": "40'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1978-06-11"
+    },
+    {
+      "stage": "Second Group Stage",
+      "opponent": "Netherlands",
+      "score": "1–5",
+      "scorers": [
+        {
+          "name": "Ernie Brandts",
+          "minute": "6'",
+          "ownGoal": false
+        },
+        {
+          "name": "Rob Rensenbrink",
+          "minute": "35'",
+          "ownGoal": false
+        },
+        {
+          "name": "Johnny Rep",
+          "minute": "36'",
+          "ownGoal": false
+        },
+        {
+          "name": "Johnny Rep",
+          "minute": "53'",
+          "ownGoal": false
+        },
+        {
+          "name": "Erich Obermayer",
+          "minute": "80'",
+          "ownGoal": false
+        },
+        {
+          "name": "Willy van de Kerkhof",
+          "minute": "82'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1978-06-14"
+    },
+    {
+      "stage": "Second Group Stage",
+      "opponent": "Italy",
+      "score": "1–0",
+      "scorers": [
+        {
+          "name": "Paolo Rossi",
+          "minute": "13'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1978-06-18"
+    },
+    {
+      "stage": "Second Group Stage",
+      "opponent": "West Germany",
+      "score": "3–2",
+      "scorers": [
+        {
+          "name": "Karl-Heinz Rummenigge",
+          "minute": "19'",
+          "ownGoal": false
+        },
+        {
+          "name": "Berti Vogts",
+          "minute": "59'",
+          "ownGoal": true
+        },
+        {
+          "name": "Hans Krankl",
+          "minute": "66'",
+          "ownGoal": false
+        },
+        {
+          "name": "Bernd Hölzenbein",
+          "minute": "68'",
+          "ownGoal": false
+        },
+        {
+          "name": "Hans Krankl",
+          "minute": "87'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1978-06-21"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

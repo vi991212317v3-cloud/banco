@@ -1,0 +1,212 @@
+{
+  "country": "England",
+  "countrySlug": "england",
+  "year": 2014,
+  "edition": "2014",
+  "host": "Brazil",
+  "coach": "Roy Hodgson",
+  "finalPhase": "Group Stage",
+  "result": "Group Stage",
+  "squad": [
+    {
+      "id": "england-2014-1",
+      "name": "Joe Hart",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "england-2014-2",
+      "name": "Glen Johnson",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "england-2014-3",
+      "name": "Leighton Baines",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "england-2014-4",
+      "name": "Steven Gerrard",
+      "shirtNumber": 4,
+      "position": "MID"
+    },
+    {
+      "id": "england-2014-5",
+      "name": "Gary Cahill",
+      "shirtNumber": 5,
+      "position": "DEF"
+    },
+    {
+      "id": "england-2014-6",
+      "name": "Phil Jagielka",
+      "shirtNumber": 6,
+      "position": "DEF"
+    },
+    {
+      "id": "england-2014-7",
+      "name": "Jack Wilshere",
+      "shirtNumber": 7,
+      "position": "MID"
+    },
+    {
+      "id": "england-2014-8",
+      "name": "Frank Lampard",
+      "shirtNumber": 8,
+      "position": "MID"
+    },
+    {
+      "id": "england-2014-9",
+      "name": "Daniel Sturridge",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "england-2014-10",
+      "name": "Wayne Rooney",
+      "shirtNumber": 10,
+      "position": "ATT"
+    },
+    {
+      "id": "england-2014-11",
+      "name": "Danny Welbeck",
+      "shirtNumber": 11,
+      "position": "ATT"
+    },
+    {
+      "id": "england-2014-12",
+      "name": "Chris Smalling",
+      "shirtNumber": 12,
+      "position": "DEF"
+    },
+    {
+      "id": "england-2014-13",
+      "name": "Ben Foster",
+      "shirtNumber": 13,
+      "position": "GK"
+    },
+    {
+      "id": "england-2014-14",
+      "name": "Jordan Henderson",
+      "shirtNumber": 14,
+      "position": "MID"
+    },
+    {
+      "id": "england-2014-15",
+      "name": "Alex Oxlade-Chamberlain",
+      "shirtNumber": 15,
+      "position": "MID"
+    },
+    {
+      "id": "england-2014-16",
+      "name": "Phil Jones",
+      "shirtNumber": 16,
+      "position": "DEF"
+    },
+    {
+      "id": "england-2014-17",
+      "name": "James Milner",
+      "shirtNumber": 17,
+      "position": "MID"
+    },
+    {
+      "id": "england-2014-18",
+      "name": "Rickie Lambert",
+      "shirtNumber": 18,
+      "position": "ATT"
+    },
+    {
+      "id": "england-2014-19",
+      "name": "Raheem Sterling",
+      "shirtNumber": 19,
+      "position": "MID"
+    },
+    {
+      "id": "england-2014-20",
+      "name": "Adam Lallana",
+      "shirtNumber": 20,
+      "position": "MID"
+    },
+    {
+      "id": "england-2014-21",
+      "name": "Ross Barkley",
+      "shirtNumber": 21,
+      "position": "MID"
+    },
+    {
+      "id": "england-2014-22",
+      "name": "Fraser Forster",
+      "shirtNumber": 22,
+      "position": "GK"
+    },
+    {
+      "id": "england-2014-23",
+      "name": "Luke Shaw",
+      "shirtNumber": 23,
+      "position": "DEF"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "Italy",
+      "score": "1–2",
+      "scorers": [
+        {
+          "name": "Claudio Marchisio",
+          "minute": "35'",
+          "ownGoal": false
+        },
+        {
+          "name": "Daniel Sturridge",
+          "minute": "37'",
+          "ownGoal": false
+        },
+        {
+          "name": "Mario Balotelli",
+          "minute": "50'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2014-06-14"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Uruguay",
+      "score": "2–1",
+      "scorers": [
+        {
+          "name": "Luis Suárez",
+          "minute": "39'",
+          "ownGoal": false
+        },
+        {
+          "name": "Wayne Rooney",
+          "minute": "75'",
+          "ownGoal": false
+        },
+        {
+          "name": "Luis Suárez",
+          "minute": "85'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2014-06-19"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Costa Rica",
+      "score": "0–0",
+      "scorers": [],
+      "date": "2014-06-24"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

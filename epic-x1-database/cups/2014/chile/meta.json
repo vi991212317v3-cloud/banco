@@ -1,0 +1,241 @@
+{
+  "country": "Chile",
+  "countrySlug": "chile",
+  "year": 2014,
+  "edition": "2014",
+  "host": "Brazil",
+  "coach": "Jorge Sampaoli",
+  "finalPhase": "Round of 16",
+  "result": "Round of 16",
+  "squad": [
+    {
+      "id": "chile-2014-1",
+      "name": "Claudio Bravo",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "chile-2014-2",
+      "name": "Eugenio Mena",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "chile-2014-3",
+      "name": "Miiko Albornoz",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "chile-2014-4",
+      "name": "Mauricio Isla",
+      "shirtNumber": 4,
+      "position": "MID"
+    },
+    {
+      "id": "chile-2014-5",
+      "name": "Francisco Silva",
+      "shirtNumber": 5,
+      "position": "MID"
+    },
+    {
+      "id": "chile-2014-6",
+      "name": "Carlos Carmona",
+      "shirtNumber": 6,
+      "position": "MID"
+    },
+    {
+      "id": "chile-2014-7",
+      "name": "Alexis Sánchez",
+      "shirtNumber": 7,
+      "position": "ATT"
+    },
+    {
+      "id": "chile-2014-8",
+      "name": "Arturo Vidal",
+      "shirtNumber": 8,
+      "position": "MID"
+    },
+    {
+      "id": "chile-2014-9",
+      "name": "Mauricio Pinilla",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "chile-2014-10",
+      "name": "Jorge Valdivia",
+      "shirtNumber": 10,
+      "position": "MID"
+    },
+    {
+      "id": "chile-2014-11",
+      "name": "Eduardo Vargas",
+      "shirtNumber": 11,
+      "position": "ATT"
+    },
+    {
+      "id": "chile-2014-12",
+      "name": "Cristopher Toselli",
+      "shirtNumber": 12,
+      "position": "GK"
+    },
+    {
+      "id": "chile-2014-13",
+      "name": "José Manuel Rojas",
+      "shirtNumber": 13,
+      "position": "DEF"
+    },
+    {
+      "id": "chile-2014-14",
+      "name": "Fabián Orellana",
+      "shirtNumber": 14,
+      "position": "MID"
+    },
+    {
+      "id": "chile-2014-15",
+      "name": "Jean Beausejour",
+      "shirtNumber": 15,
+      "position": "MID"
+    },
+    {
+      "id": "chile-2014-16",
+      "name": "Felipe Gutiérrez",
+      "shirtNumber": 16,
+      "position": "MID"
+    },
+    {
+      "id": "chile-2014-17",
+      "name": "Gary Medel",
+      "shirtNumber": 17,
+      "position": "DEF"
+    },
+    {
+      "id": "chile-2014-18",
+      "name": "Gonzalo Jara",
+      "shirtNumber": 18,
+      "position": "DEF"
+    },
+    {
+      "id": "chile-2014-19",
+      "name": "José Pablo Fuenzalida",
+      "shirtNumber": 19,
+      "position": "MID"
+    },
+    {
+      "id": "chile-2014-20",
+      "name": "Charles Aránguiz",
+      "shirtNumber": 20,
+      "position": "MID"
+    },
+    {
+      "id": "chile-2014-21",
+      "name": "Marcelo Díaz",
+      "shirtNumber": 21,
+      "position": "MID"
+    },
+    {
+      "id": "chile-2014-22",
+      "name": "Esteban Paredes",
+      "shirtNumber": 22,
+      "position": "ATT"
+    },
+    {
+      "id": "chile-2014-23",
+      "name": "Johnny Herrera",
+      "shirtNumber": 23,
+      "position": "GK"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "Australia",
+      "score": "3–1",
+      "scorers": [
+        {
+          "name": "Alexis Sánchez",
+          "minute": "12'",
+          "ownGoal": false
+        },
+        {
+          "name": "Jorge Valdivia",
+          "minute": "14'",
+          "ownGoal": false
+        },
+        {
+          "name": "Tim Cahill",
+          "minute": "35'",
+          "ownGoal": false
+        },
+        {
+          "name": "Jean Beausejour",
+          "minute": "90'+2'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2014-06-13"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Spain",
+      "score": "0–2",
+      "scorers": [
+        {
+          "name": "Eduardo Vargas",
+          "minute": "20'",
+          "ownGoal": false
+        },
+        {
+          "name": "Charles Aránguiz",
+          "minute": "43'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2014-06-18"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Netherlands",
+      "score": "2–0",
+      "scorers": [
+        {
+          "name": "Leroy Fer",
+          "minute": "77'",
+          "ownGoal": false
+        },
+        {
+          "name": "Memphis Depay",
+          "minute": "90'+2'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2014-06-23"
+    },
+    {
+      "stage": "Round of 16",
+      "opponent": "Brazil",
+      "score": "1–1",
+      "scorers": [
+        {
+          "name": "David Luiz",
+          "minute": "18'",
+          "ownGoal": false
+        },
+        {
+          "name": "Alexis Sánchez",
+          "minute": "32'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2014-06-28"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

@@ -1,0 +1,228 @@
+{
+  "country": "Honduras",
+  "countrySlug": "honduras",
+  "year": 2014,
+  "edition": "2014",
+  "host": "Brazil",
+  "coach": "Luis Fernando Suárez",
+  "finalPhase": "Group Stage",
+  "result": "Group Stage",
+  "squad": [
+    {
+      "id": "honduras-2014-1",
+      "name": "Luis López",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "honduras-2014-2",
+      "name": "Osman Chávez",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "honduras-2014-3",
+      "name": "Maynor Figueroa",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "honduras-2014-4",
+      "name": "Juan Pablo Montes",
+      "shirtNumber": 4,
+      "position": "DEF"
+    },
+    {
+      "id": "honduras-2014-5",
+      "name": "Víctor Bernárdez",
+      "shirtNumber": 5,
+      "position": "DEF"
+    },
+    {
+      "id": "honduras-2014-6",
+      "name": "Juan Carlos García",
+      "shirtNumber": 6,
+      "position": "DEF"
+    },
+    {
+      "id": "honduras-2014-7",
+      "name": "Emilio Izaguirre",
+      "shirtNumber": 7,
+      "position": "DEF"
+    },
+    {
+      "id": "honduras-2014-8",
+      "name": "Wilson Palacios",
+      "shirtNumber": 8,
+      "position": "MID"
+    },
+    {
+      "id": "honduras-2014-9",
+      "name": "Jerry Palacios",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "honduras-2014-10",
+      "name": "Mario Martínez",
+      "shirtNumber": 10,
+      "position": "MID"
+    },
+    {
+      "id": "honduras-2014-11",
+      "name": "Jerry Bengtson",
+      "shirtNumber": 11,
+      "position": "ATT"
+    },
+    {
+      "id": "honduras-2014-12",
+      "name": "Edder Delgado",
+      "shirtNumber": 12,
+      "position": "MID"
+    },
+    {
+      "id": "honduras-2014-13",
+      "name": "Carlo Costly",
+      "shirtNumber": 13,
+      "position": "ATT"
+    },
+    {
+      "id": "honduras-2014-14",
+      "name": "Boniek García",
+      "shirtNumber": 14,
+      "position": "MID"
+    },
+    {
+      "id": "honduras-2014-15",
+      "name": "Roger Espinoza",
+      "shirtNumber": 15,
+      "position": "MID"
+    },
+    {
+      "id": "honduras-2014-16",
+      "name": "Rony Martínez",
+      "shirtNumber": 16,
+      "position": "ATT"
+    },
+    {
+      "id": "honduras-2014-17",
+      "name": "Andy Najar",
+      "shirtNumber": 17,
+      "position": "MID"
+    },
+    {
+      "id": "honduras-2014-18",
+      "name": "Noel Valladares",
+      "shirtNumber": 18,
+      "position": "GK"
+    },
+    {
+      "id": "honduras-2014-19",
+      "name": "Luis Garrido",
+      "shirtNumber": 19,
+      "position": "MID"
+    },
+    {
+      "id": "honduras-2014-20",
+      "name": "Jorge Claros",
+      "shirtNumber": 20,
+      "position": "MID"
+    },
+    {
+      "id": "honduras-2014-21",
+      "name": "Brayan Beckeles",
+      "shirtNumber": 21,
+      "position": "DEF"
+    },
+    {
+      "id": "honduras-2014-22",
+      "name": "Donis Escober",
+      "shirtNumber": 22,
+      "position": "GK"
+    },
+    {
+      "id": "honduras-2014-23",
+      "name": "Marvin Chávez",
+      "shirtNumber": 23,
+      "position": "MID"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "France",
+      "score": "3–0",
+      "scorers": [
+        {
+          "name": "Karim Benzema",
+          "minute": "45'",
+          "ownGoal": false
+        },
+        {
+          "name": "Noel Valladares",
+          "minute": "48'",
+          "ownGoal": true
+        },
+        {
+          "name": "Karim Benzema",
+          "minute": "72'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2014-06-15"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Ecuador",
+      "score": "1–2",
+      "scorers": [
+        {
+          "name": "Carlo Costly",
+          "minute": "31'",
+          "ownGoal": false
+        },
+        {
+          "name": "Enner Valencia",
+          "minute": "34'",
+          "ownGoal": false
+        },
+        {
+          "name": "Enner Valencia",
+          "minute": "65'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2014-06-20"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Switzerland",
+      "score": "0–3",
+      "scorers": [
+        {
+          "name": "Xherdan Shaqiri",
+          "minute": "6'",
+          "ownGoal": false
+        },
+        {
+          "name": "Xherdan Shaqiri",
+          "minute": "31'",
+          "ownGoal": false
+        },
+        {
+          "name": "Xherdan Shaqiri",
+          "minute": "71'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2014-06-25"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

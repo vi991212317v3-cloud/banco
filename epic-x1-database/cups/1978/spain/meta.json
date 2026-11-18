@@ -1,0 +1,196 @@
+{
+  "country": "Spain",
+  "countrySlug": "spain",
+  "year": 1978,
+  "edition": "1978",
+  "host": "Argentina",
+  "coach": "Ladislao Kubala",
+  "finalPhase": "Group Stage",
+  "result": "Group Stage",
+  "squad": [
+    {
+      "id": "spain-1978-1",
+      "name": "Luis Arconada",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "spain-1978-2",
+      "name": "Antonio de la Cruz",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "spain-1978-3",
+      "name": "Francisco Javier Uría",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "spain-1978-4",
+      "name": "Juan Manuel Asensi",
+      "shirtNumber": 4,
+      "position": "MID"
+    },
+    {
+      "id": "spain-1978-5",
+      "name": "Migueli",
+      "shirtNumber": 5,
+      "position": "DEF"
+    },
+    {
+      "id": "spain-1978-6",
+      "name": "Antonio Biosca",
+      "shirtNumber": 6,
+      "position": "DEF"
+    },
+    {
+      "id": "spain-1978-7",
+      "name": "Dani",
+      "shirtNumber": 7,
+      "position": "ATT"
+    },
+    {
+      "id": "spain-1978-8",
+      "name": "Juanito",
+      "shirtNumber": 8,
+      "position": "ATT"
+    },
+    {
+      "id": "spain-1978-9",
+      "name": "Quini",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "spain-1978-10",
+      "name": "Santillana",
+      "shirtNumber": 10,
+      "position": "ATT"
+    },
+    {
+      "id": "spain-1978-11",
+      "name": "Julio Cardeñosa",
+      "shirtNumber": 11,
+      "position": "MID"
+    },
+    {
+      "id": "spain-1978-12",
+      "name": "Antonio Guzmán",
+      "shirtNumber": 12,
+      "position": "MID"
+    },
+    {
+      "id": "spain-1978-13",
+      "name": "Miguel Ángel",
+      "shirtNumber": 13,
+      "position": "GK"
+    },
+    {
+      "id": "spain-1978-14",
+      "name": "Eugenio Leal",
+      "shirtNumber": 14,
+      "position": "MID"
+    },
+    {
+      "id": "spain-1978-15",
+      "name": "Marañón",
+      "shirtNumber": 15,
+      "position": "ATT"
+    },
+    {
+      "id": "spain-1978-16",
+      "name": "Antonio Olmo",
+      "shirtNumber": 16,
+      "position": "DEF"
+    },
+    {
+      "id": "spain-1978-17",
+      "name": "Marcelino",
+      "shirtNumber": 17,
+      "position": "DEF"
+    },
+    {
+      "id": "spain-1978-18",
+      "name": "Pirri",
+      "shirtNumber": 18,
+      "position": "DEF"
+    },
+    {
+      "id": "spain-1978-19",
+      "name": "Carles Rexach",
+      "shirtNumber": 19,
+      "position": "MID"
+    },
+    {
+      "id": "spain-1978-20",
+      "name": "Rubén Cano",
+      "shirtNumber": 20,
+      "position": "ATT"
+    },
+    {
+      "id": "spain-1978-21",
+      "name": "Isidoro San José",
+      "shirtNumber": 21,
+      "position": "DEF"
+    },
+    {
+      "id": "spain-1978-22",
+      "name": "Urruti",
+      "shirtNumber": 22,
+      "position": "GK"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "Austria",
+      "score": "2–1",
+      "scorers": [
+        {
+          "name": "Walter Schachner",
+          "minute": "10'",
+          "ownGoal": false
+        },
+        {
+          "name": "Dani",
+          "minute": "21'",
+          "ownGoal": false
+        },
+        {
+          "name": "Hans Krankl",
+          "minute": "76'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1978-06-03"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Brazil",
+      "score": "0–0",
+      "scorers": [],
+      "date": "1978-06-07"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Sweden",
+      "score": "1–0",
+      "scorers": [
+        {
+          "name": "Juan Manuel Asensi",
+          "minute": "75'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1978-06-11"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

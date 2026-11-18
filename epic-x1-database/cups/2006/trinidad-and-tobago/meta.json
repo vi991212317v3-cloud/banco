@@ -1,0 +1,202 @@
+{
+  "country": "Trinidad and Tobago",
+  "countrySlug": "trinidad-and-tobago",
+  "year": 2006,
+  "edition": "2006",
+  "host": "Germany",
+  "coach": "Leo Beenhakker",
+  "finalPhase": "Group Stage",
+  "result": "Group Stage",
+  "squad": [
+    {
+      "id": "trinidad-and-tobago-2006-1",
+      "name": "Shaka Hislop",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "trinidad-and-tobago-2006-2",
+      "name": "Ian Cox",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "trinidad-and-tobago-2006-3",
+      "name": "Avery John",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "trinidad-and-tobago-2006-4",
+      "name": "Marvin Andrews",
+      "shirtNumber": 4,
+      "position": "DEF"
+    },
+    {
+      "id": "trinidad-and-tobago-2006-5",
+      "name": "Brent Sancho",
+      "shirtNumber": 5,
+      "position": "DEF"
+    },
+    {
+      "id": "trinidad-and-tobago-2006-6",
+      "name": "Dennis Lawrence",
+      "shirtNumber": 6,
+      "position": "DEF"
+    },
+    {
+      "id": "trinidad-and-tobago-2006-7",
+      "name": "Chris Birchall",
+      "shirtNumber": 7,
+      "position": "MID"
+    },
+    {
+      "id": "trinidad-and-tobago-2006-8",
+      "name": "Cyd Gray",
+      "shirtNumber": 8,
+      "position": "DEF"
+    },
+    {
+      "id": "trinidad-and-tobago-2006-9",
+      "name": "Aurtis Whitley",
+      "shirtNumber": 9,
+      "position": "MID"
+    },
+    {
+      "id": "trinidad-and-tobago-2006-10",
+      "name": "Russell Latapy",
+      "shirtNumber": 10,
+      "position": "MID"
+    },
+    {
+      "id": "trinidad-and-tobago-2006-11",
+      "name": "Carlos Edwards",
+      "shirtNumber": 11,
+      "position": "MID"
+    },
+    {
+      "id": "trinidad-and-tobago-2006-12",
+      "name": "Collin Samuel",
+      "shirtNumber": 12,
+      "position": "ATT"
+    },
+    {
+      "id": "trinidad-and-tobago-2006-13",
+      "name": "Cornell Glen",
+      "shirtNumber": 13,
+      "position": "ATT"
+    },
+    {
+      "id": "trinidad-and-tobago-2006-14",
+      "name": "Stern John",
+      "shirtNumber": 14,
+      "position": "ATT"
+    },
+    {
+      "id": "trinidad-and-tobago-2006-15",
+      "name": "Kenwyne Jones",
+      "shirtNumber": 15,
+      "position": "ATT"
+    },
+    {
+      "id": "trinidad-and-tobago-2006-16",
+      "name": "Evans Wise",
+      "shirtNumber": 16,
+      "position": "MID"
+    },
+    {
+      "id": "trinidad-and-tobago-2006-17",
+      "name": "David Atiba Charles",
+      "shirtNumber": 17,
+      "position": "DEF"
+    },
+    {
+      "id": "trinidad-and-tobago-2006-18",
+      "name": "Densill Theobald",
+      "shirtNumber": 18,
+      "position": "MID"
+    },
+    {
+      "id": "trinidad-and-tobago-2006-19",
+      "name": "Dwight Yorke",
+      "shirtNumber": 19,
+      "position": "ATT"
+    },
+    {
+      "id": "trinidad-and-tobago-2006-20",
+      "name": "Jason Scotland",
+      "shirtNumber": 20,
+      "position": "ATT"
+    },
+    {
+      "id": "trinidad-and-tobago-2006-21",
+      "name": "Kelvin Jack",
+      "shirtNumber": 21,
+      "position": "GK"
+    },
+    {
+      "id": "trinidad-and-tobago-2006-22",
+      "name": "Clayton Ince",
+      "shirtNumber": 22,
+      "position": "GK"
+    },
+    {
+      "id": "trinidad-and-tobago-2006-23",
+      "name": "Anthony Wolfe",
+      "shirtNumber": 23,
+      "position": "MID"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "Sweden",
+      "score": "0–0",
+      "scorers": [],
+      "date": "2006-06-10"
+    },
+    {
+      "stage": "Group",
+      "opponent": "England",
+      "score": "2–0",
+      "scorers": [
+        {
+          "name": "Peter Crouch",
+          "minute": "83'",
+          "ownGoal": false
+        },
+        {
+          "name": "Steven Gerrard",
+          "minute": "90'+1'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2006-06-15"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Paraguay",
+      "score": "2–0",
+      "scorers": [
+        {
+          "name": "Brent Sancho",
+          "minute": "25'",
+          "ownGoal": true
+        },
+        {
+          "name": "Nelson Cuevas",
+          "minute": "86'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2006-06-20"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

@@ -1,0 +1,231 @@
+{
+  "country": "Mexico",
+  "countrySlug": "mexico",
+  "year": 2002,
+  "edition": "2002",
+  "host": "Korea, Japan",
+  "coach": "Javier Aguirre",
+  "finalPhase": "Round of 16",
+  "result": "Round of 16",
+  "squad": [
+    {
+      "id": "mexico-2002-1",
+      "name": "Óscar Pérez",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "mexico-2002-2",
+      "name": "Francisco Gabriel de Anda",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "mexico-2002-3",
+      "name": "Rafael García",
+      "shirtNumber": 3,
+      "position": "MID"
+    },
+    {
+      "id": "mexico-2002-4",
+      "name": "Rafael Márquez",
+      "shirtNumber": 4,
+      "position": "DEF"
+    },
+    {
+      "id": "mexico-2002-5",
+      "name": "Manuel Vidrio",
+      "shirtNumber": 5,
+      "position": "DEF"
+    },
+    {
+      "id": "mexico-2002-6",
+      "name": "Gerardo Torrado",
+      "shirtNumber": 6,
+      "position": "MID"
+    },
+    {
+      "id": "mexico-2002-7",
+      "name": "Ramón Morales",
+      "shirtNumber": 7,
+      "position": "MID"
+    },
+    {
+      "id": "mexico-2002-8",
+      "name": "Alberto García Aspe",
+      "shirtNumber": 8,
+      "position": "MID"
+    },
+    {
+      "id": "mexico-2002-9",
+      "name": "Jared Borgetti",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "mexico-2002-10",
+      "name": "Cuauhtémoc Blanco",
+      "shirtNumber": 10,
+      "position": "ATT"
+    },
+    {
+      "id": "mexico-2002-11",
+      "name": "Braulio Luna",
+      "shirtNumber": 11,
+      "position": "MID"
+    },
+    {
+      "id": "mexico-2002-12",
+      "name": "Oswaldo Sánchez",
+      "shirtNumber": 12,
+      "position": "GK"
+    },
+    {
+      "id": "mexico-2002-13",
+      "name": "Sigifredo Mercado",
+      "shirtNumber": 13,
+      "position": "MID"
+    },
+    {
+      "id": "mexico-2002-14",
+      "name": "Germán Villa",
+      "shirtNumber": 14,
+      "position": "MID"
+    },
+    {
+      "id": "mexico-2002-15",
+      "name": "Luis Hernández",
+      "shirtNumber": 15,
+      "position": "ATT"
+    },
+    {
+      "id": "mexico-2002-16",
+      "name": "Salvador Carmona",
+      "shirtNumber": 16,
+      "position": "DEF"
+    },
+    {
+      "id": "mexico-2002-17",
+      "name": "Francisco Palencia",
+      "shirtNumber": 17,
+      "position": "ATT"
+    },
+    {
+      "id": "mexico-2002-18",
+      "name": "Johan Rodríguez",
+      "shirtNumber": 18,
+      "position": "MID"
+    },
+    {
+      "id": "mexico-2002-19",
+      "name": "Gabriel Caballero",
+      "shirtNumber": 19,
+      "position": "MID"
+    },
+    {
+      "id": "mexico-2002-20",
+      "name": "Melvin Brown",
+      "shirtNumber": 20,
+      "position": "DEF"
+    },
+    {
+      "id": "mexico-2002-21",
+      "name": "Jesús Arellano",
+      "shirtNumber": 21,
+      "position": "ATT"
+    },
+    {
+      "id": "mexico-2002-22",
+      "name": "Alberto Rodríguez",
+      "shirtNumber": 22,
+      "position": "DEF"
+    },
+    {
+      "id": "mexico-2002-23",
+      "name": "Jorge Campos",
+      "shirtNumber": 23,
+      "position": "GK"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "Croatia",
+      "score": "0–1",
+      "scorers": [
+        {
+          "name": "Cuauhtémoc Blanco",
+          "minute": "60'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2002-06-03"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Ecuador",
+      "score": "2–1",
+      "scorers": [
+        {
+          "name": "Agustín Delgado",
+          "minute": "5'",
+          "ownGoal": false
+        },
+        {
+          "name": "Jared Borgetti",
+          "minute": "28'",
+          "ownGoal": false
+        },
+        {
+          "name": "Gerardo Torrado",
+          "minute": "57'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2002-06-09"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Italy",
+      "score": "1–1",
+      "scorers": [
+        {
+          "name": "Jared Borgetti",
+          "minute": "34'",
+          "ownGoal": false
+        },
+        {
+          "name": "Alessandro Del Piero",
+          "minute": "85'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2002-06-13"
+    },
+    {
+      "stage": "Round of 16",
+      "opponent": "United States",
+      "score": "0–2",
+      "scorers": [
+        {
+          "name": "Brian McBride",
+          "minute": "8'",
+          "ownGoal": false
+        },
+        {
+          "name": "Landon Donovan",
+          "minute": "65'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2002-06-17"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

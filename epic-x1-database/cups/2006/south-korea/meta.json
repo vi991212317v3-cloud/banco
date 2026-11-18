@@ -1,0 +1,218 @@
+{
+  "country": "South Korea",
+  "countrySlug": "south-korea",
+  "year": 2006,
+  "edition": "2006",
+  "host": "Germany",
+  "coach": "Dick Advocaat",
+  "finalPhase": "Group Stage",
+  "result": "Group Stage",
+  "squad": [
+    {
+      "id": "south-korea-2006-1",
+      "name": "Woon-jae Lee",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "south-korea-2006-2",
+      "name": "Young-chul Kim",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "south-korea-2006-3",
+      "name": "Dong-jin Kim",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "south-korea-2006-4",
+      "name": "Jin-cheul Choi",
+      "shirtNumber": 4,
+      "position": "DEF"
+    },
+    {
+      "id": "south-korea-2006-5",
+      "name": "Nam-il Kim",
+      "shirtNumber": 5,
+      "position": "MID"
+    },
+    {
+      "id": "south-korea-2006-6",
+      "name": "Jin-kyu Kim",
+      "shirtNumber": 6,
+      "position": "DEF"
+    },
+    {
+      "id": "south-korea-2006-7",
+      "name": "Ji-sung Park",
+      "shirtNumber": 7,
+      "position": "MID"
+    },
+    {
+      "id": "south-korea-2006-8",
+      "name": "Do-heon Kim",
+      "shirtNumber": 8,
+      "position": "MID"
+    },
+    {
+      "id": "south-korea-2006-9",
+      "name": "Jung-hwan Ahn",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "south-korea-2006-10",
+      "name": "Chu-young Park",
+      "shirtNumber": 10,
+      "position": "ATT"
+    },
+    {
+      "id": "south-korea-2006-11",
+      "name": "Ki-hyeon Seol",
+      "shirtNumber": 11,
+      "position": "ATT"
+    },
+    {
+      "id": "south-korea-2006-12",
+      "name": "Young-pyo Lee",
+      "shirtNumber": 12,
+      "position": "DEF"
+    },
+    {
+      "id": "south-korea-2006-13",
+      "name": "Eul-yong Lee",
+      "shirtNumber": 13,
+      "position": "MID"
+    },
+    {
+      "id": "south-korea-2006-14",
+      "name": "Chun-soo Lee",
+      "shirtNumber": 14,
+      "position": "ATT"
+    },
+    {
+      "id": "south-korea-2006-15",
+      "name": "Ji-hoon Baek",
+      "shirtNumber": 15,
+      "position": "MID"
+    },
+    {
+      "id": "south-korea-2006-16",
+      "name": "Kyung-ho Chung",
+      "shirtNumber": 16,
+      "position": "ATT"
+    },
+    {
+      "id": "south-korea-2006-17",
+      "name": "Ho Lee",
+      "shirtNumber": 17,
+      "position": "MID"
+    },
+    {
+      "id": "south-korea-2006-18",
+      "name": "Sang-sik Kim",
+      "shirtNumber": 18,
+      "position": "DEF"
+    },
+    {
+      "id": "south-korea-2006-19",
+      "name": "Jae-jin Cho",
+      "shirtNumber": 19,
+      "position": "ATT"
+    },
+    {
+      "id": "south-korea-2006-20",
+      "name": "Yong-dae Kim",
+      "shirtNumber": 20,
+      "position": "GK"
+    },
+    {
+      "id": "south-korea-2006-21",
+      "name": "Young-kwang Kim",
+      "shirtNumber": 21,
+      "position": "GK"
+    },
+    {
+      "id": "south-korea-2006-22",
+      "name": "Chong-gug Song",
+      "shirtNumber": 22,
+      "position": "DEF"
+    },
+    {
+      "id": "south-korea-2006-23",
+      "name": "Won-hee Cho",
+      "shirtNumber": 23,
+      "position": "DEF"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "Togo",
+      "score": "2–1",
+      "scorers": [
+        {
+          "name": "Mohamed Kader",
+          "minute": "31'",
+          "ownGoal": false
+        },
+        {
+          "name": "Chun-soo Lee",
+          "minute": "54'",
+          "ownGoal": false
+        },
+        {
+          "name": "Jung-hwan Ahn",
+          "minute": "72'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2006-06-13"
+    },
+    {
+      "stage": "Group",
+      "opponent": "France",
+      "score": "1–1",
+      "scorers": [
+        {
+          "name": "Thierry Henry",
+          "minute": "9'",
+          "ownGoal": false
+        },
+        {
+          "name": "Ji-sung Park",
+          "minute": "81'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2006-06-18"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Switzerland",
+      "score": "2–0",
+      "scorers": [
+        {
+          "name": "Philippe Senderos",
+          "minute": "23'",
+          "ownGoal": false
+        },
+        {
+          "name": "Alexander Frei",
+          "minute": "77'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2006-06-23"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

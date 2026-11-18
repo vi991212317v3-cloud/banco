@@ -1,0 +1,232 @@
+{
+  "country": "Chile",
+  "countrySlug": "chile",
+  "year": 1982,
+  "edition": "1982",
+  "host": "Spain",
+  "coach": "Luis Santibáñez",
+  "finalPhase": "Group Stage",
+  "result": "Group Stage",
+  "squad": [
+    {
+      "id": "chile-1982-1",
+      "name": "Oscar Wirth",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "chile-1982-2",
+      "name": "Lizardo Garrido",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "chile-1982-3",
+      "name": "René Valenzuela",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "chile-1982-4",
+      "name": "Vladimir Bigorra",
+      "shirtNumber": 4,
+      "position": "DEF"
+    },
+    {
+      "id": "chile-1982-5",
+      "name": "Elías Figueroa",
+      "shirtNumber": 5,
+      "position": "DEF"
+    },
+    {
+      "id": "chile-1982-6",
+      "name": "Rodolfo Dubó",
+      "shirtNumber": 6,
+      "position": "MID"
+    },
+    {
+      "id": "chile-1982-7",
+      "name": "Eduardo Bonvallet",
+      "shirtNumber": 7,
+      "position": "MID"
+    },
+    {
+      "id": "chile-1982-8",
+      "name": "Carlos Rivas",
+      "shirtNumber": 8,
+      "position": "MID"
+    },
+    {
+      "id": "chile-1982-9",
+      "name": "Juan Carlos Letelier",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "chile-1982-10",
+      "name": "Mario Soto",
+      "shirtNumber": 10,
+      "position": "DEF"
+    },
+    {
+      "id": "chile-1982-11",
+      "name": "Gustavo Moscoso",
+      "shirtNumber": 11,
+      "position": "ATT"
+    },
+    {
+      "id": "chile-1982-12",
+      "name": "Marco Cornez",
+      "shirtNumber": 12,
+      "position": "GK"
+    },
+    {
+      "id": "chile-1982-13",
+      "name": "Carlos Caszely",
+      "shirtNumber": 13,
+      "position": "ATT"
+    },
+    {
+      "id": "chile-1982-14",
+      "name": "Raúl Ormeño",
+      "shirtNumber": 14,
+      "position": "MID"
+    },
+    {
+      "id": "chile-1982-15",
+      "name": "Patricio Yáñez",
+      "shirtNumber": 15,
+      "position": "ATT"
+    },
+    {
+      "id": "chile-1982-16",
+      "name": "Manuel Rojas",
+      "shirtNumber": 16,
+      "position": "MID"
+    },
+    {
+      "id": "chile-1982-17",
+      "name": "Oscar Rojas",
+      "shirtNumber": 17,
+      "position": "DEF"
+    },
+    {
+      "id": "chile-1982-18",
+      "name": "Mario Galindo",
+      "shirtNumber": 18,
+      "position": "DEF"
+    },
+    {
+      "id": "chile-1982-19",
+      "name": "Enzo Escobar",
+      "shirtNumber": 19,
+      "position": "DEF"
+    },
+    {
+      "id": "chile-1982-20",
+      "name": "Miguel Ángel Neira",
+      "shirtNumber": 20,
+      "position": "MID"
+    },
+    {
+      "id": "chile-1982-21",
+      "name": "Miguel Ángel Gamboa",
+      "shirtNumber": 21,
+      "position": "ATT"
+    },
+    {
+      "id": "chile-1982-22",
+      "name": "Mario Osbén",
+      "shirtNumber": 22,
+      "position": "GK"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "Austria",
+      "score": "0–1",
+      "scorers": [
+        {
+          "name": "Walter Schachner",
+          "minute": "22'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1982-06-17"
+    },
+    {
+      "stage": "Group",
+      "opponent": "West Germany",
+      "score": "4–1",
+      "scorers": [
+        {
+          "name": "Karl-Heinz Rummenigge",
+          "minute": "9'",
+          "ownGoal": false
+        },
+        {
+          "name": "Karl-Heinz Rummenigge",
+          "minute": "57'",
+          "ownGoal": false
+        },
+        {
+          "name": "Karl-Heinz Rummenigge",
+          "minute": "66'",
+          "ownGoal": false
+        },
+        {
+          "name": "Uwe Reinders",
+          "minute": "81'",
+          "ownGoal": false
+        },
+        {
+          "name": "Gustavo Moscoso",
+          "minute": "90'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1982-06-20"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Algeria",
+      "score": "3–2",
+      "scorers": [
+        {
+          "name": "Salah Assad",
+          "minute": "7'",
+          "ownGoal": false
+        },
+        {
+          "name": "Salah Assad",
+          "minute": "31'",
+          "ownGoal": false
+        },
+        {
+          "name": "Tedj Bensaoula",
+          "minute": "35'",
+          "ownGoal": false
+        },
+        {
+          "name": "Miguel Ángel Neira",
+          "minute": "59'",
+          "ownGoal": false
+        },
+        {
+          "name": "Juan Carlos Letelier",
+          "minute": "73'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1982-06-24"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

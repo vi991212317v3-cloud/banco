@@ -1,0 +1,238 @@
+{
+  "country": "Costa Rica",
+  "countrySlug": "costa-rica",
+  "year": 2002,
+  "edition": "2002",
+  "host": "Korea, Japan",
+  "coach": "Alexandre Guimarães",
+  "finalPhase": "Group Stage",
+  "result": "Group Stage",
+  "squad": [
+    {
+      "id": "costa-rica-2002-1",
+      "name": "Erick Lonnis",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "costa-rica-2002-2",
+      "name": "Jervis Drummond",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "costa-rica-2002-3",
+      "name": "Luis Marín",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "costa-rica-2002-4",
+      "name": "Mauricio Wright",
+      "shirtNumber": 4,
+      "position": "DEF"
+    },
+    {
+      "id": "costa-rica-2002-5",
+      "name": "Gilberto Martínez",
+      "shirtNumber": 5,
+      "position": "DEF"
+    },
+    {
+      "id": "costa-rica-2002-6",
+      "name": "Wílmer López",
+      "shirtNumber": 6,
+      "position": "MID"
+    },
+    {
+      "id": "costa-rica-2002-7",
+      "name": "Rolando Fonseca",
+      "shirtNumber": 7,
+      "position": "ATT"
+    },
+    {
+      "id": "costa-rica-2002-8",
+      "name": "Mauricio Solís",
+      "shirtNumber": 8,
+      "position": "MID"
+    },
+    {
+      "id": "costa-rica-2002-9",
+      "name": "Paulo Wanchope",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "costa-rica-2002-10",
+      "name": "Walter Centeno",
+      "shirtNumber": 10,
+      "position": "MID"
+    },
+    {
+      "id": "costa-rica-2002-11",
+      "name": "Rónald Gómez",
+      "shirtNumber": 11,
+      "position": "ATT"
+    },
+    {
+      "id": "costa-rica-2002-12",
+      "name": "Winston Parks",
+      "shirtNumber": 12,
+      "position": "ATT"
+    },
+    {
+      "id": "costa-rica-2002-13",
+      "name": "Daniel Vallejos",
+      "shirtNumber": 13,
+      "position": "DEF"
+    },
+    {
+      "id": "costa-rica-2002-14",
+      "name": "Juan José Rodríguez",
+      "shirtNumber": 14,
+      "position": "DEF"
+    },
+    {
+      "id": "costa-rica-2002-15",
+      "name": "Harold Wallace",
+      "shirtNumber": 15,
+      "position": "DEF"
+    },
+    {
+      "id": "costa-rica-2002-16",
+      "name": "Steven Bryce",
+      "shirtNumber": 16,
+      "position": "ATT"
+    },
+    {
+      "id": "costa-rica-2002-17",
+      "name": "Hernán Medford",
+      "shirtNumber": 17,
+      "position": "MID"
+    },
+    {
+      "id": "costa-rica-2002-18",
+      "name": "Álvaro Mesén",
+      "shirtNumber": 18,
+      "position": "GK"
+    },
+    {
+      "id": "costa-rica-2002-19",
+      "name": "Rodrigo Cordero",
+      "shirtNumber": 19,
+      "position": "MID"
+    },
+    {
+      "id": "costa-rica-2002-20",
+      "name": "William Sunsing",
+      "shirtNumber": 20,
+      "position": "ATT"
+    },
+    {
+      "id": "costa-rica-2002-21",
+      "name": "Pablo Chinchilla",
+      "shirtNumber": 21,
+      "position": "DEF"
+    },
+    {
+      "id": "costa-rica-2002-22",
+      "name": "Carlos Castro",
+      "shirtNumber": 22,
+      "position": "DEF"
+    },
+    {
+      "id": "costa-rica-2002-23",
+      "name": "Lester Morgan",
+      "shirtNumber": 23,
+      "position": "GK"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "China",
+      "score": "0–2",
+      "scorers": [
+        {
+          "name": "Rónald Gómez",
+          "minute": "61'",
+          "ownGoal": false
+        },
+        {
+          "name": "Mauricio Wright",
+          "minute": "65'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2002-06-04"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Turkey",
+      "score": "1–1",
+      "scorers": [
+        {
+          "name": "Emre Belözoğlu",
+          "minute": "56'",
+          "ownGoal": false
+        },
+        {
+          "name": "Winston Parks",
+          "minute": "86'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2002-06-09"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Brazil",
+      "score": "2–5",
+      "scorers": [
+        {
+          "name": "Ronaldo",
+          "minute": "10'",
+          "ownGoal": false
+        },
+        {
+          "name": "Ronaldo",
+          "minute": "13'",
+          "ownGoal": false
+        },
+        {
+          "name": "Edmílson",
+          "minute": "38'",
+          "ownGoal": false
+        },
+        {
+          "name": "Paulo Wanchope",
+          "minute": "39'",
+          "ownGoal": false
+        },
+        {
+          "name": "Rónald Gómez",
+          "minute": "56'",
+          "ownGoal": false
+        },
+        {
+          "name": "Rivaldo",
+          "minute": "62'",
+          "ownGoal": false
+        },
+        {
+          "name": "Júnior",
+          "minute": "64'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2002-06-13"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

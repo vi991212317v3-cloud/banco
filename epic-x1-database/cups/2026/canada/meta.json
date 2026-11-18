@@ -1,0 +1,292 @@
+{
+  "country": "Canada",
+  "countrySlug": "canada",
+  "year": 2026,
+  "edition": "2026",
+  "host": "Canada, Mexico and United States",
+  "coach": "MARSCH Jesse",
+  "finalPhase": "Round of 16",
+  "result": "Round of 16",
+  "squad": [
+    {
+      "id": "canada-2026-1",
+      "name": "Dayne Tristan ST. CLAIR",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "canada-2026-2",
+      "name": "Alistair William JOHNSTON",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "canada-2026-3",
+      "name": "Al e Charles JONES",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "canada-2026-4",
+      "name": "Luc ROLLET DE FOUGEROLLES",
+      "shirtNumber": 4,
+      "position": "DEF"
+    },
+    {
+      "id": "canada-2026-5",
+      "name": "Joel Robert WATERMAN",
+      "shirtNumber": 5,
+      "position": "DEF"
+    },
+    {
+      "id": "canada-2026-6",
+      "name": "Mathieu CHOINIÈRE",
+      "shirtNumber": 6,
+      "position": "MID"
+    },
+    {
+      "id": "canada-2026-7",
+      "name": "Stephen EUSTAQUIO",
+      "shirtNumber": 7,
+      "position": "MID"
+    },
+    {
+      "id": "canada-2026-8",
+      "name": "Ismaël Kenneth Jordan KONE",
+      "shirtNumber": 8,
+      "position": "MID"
+    },
+    {
+      "id": "canada-2026-9",
+      "name": "Cyle Christopher LARIN",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "canada-2026-10",
+      "name": "Jonathan Christian DAVID",
+      "shirtNumber": 10,
+      "position": "ATT"
+    },
+    {
+      "id": "canada-2026-11",
+      "name": "Liam Alan MILLAR",
+      "shirtNumber": 11,
+      "position": "MID"
+    },
+    {
+      "id": "canada-2026-12",
+      "name": "Tanitoluwa Oluwatimilehin OLUWASEYI",
+      "shirtNumber": 12,
+      "position": "ATT"
+    },
+    {
+      "id": "canada-2026-13",
+      "name": "Derek Austin CORNELIUS",
+      "shirtNumber": 13,
+      "position": "DEF"
+    },
+    {
+      "id": "canada-2026-14",
+      "name": "Jacob Everett SHAFFELBURG",
+      "shirtNumber": 14,
+      "position": "MID"
+    },
+    {
+      "id": "canada-2026-15",
+      "name": "Moïse Bombito LUMPUNGU",
+      "shirtNumber": 15,
+      "position": "DEF"
+    },
+    {
+      "id": "canada-2026-16",
+      "name": "Maxime CRÉPEAU",
+      "shirtNumber": 16,
+      "position": "GK"
+    },
+    {
+      "id": "canada-2026-17",
+      "name": "Tajon Trevor BUCHANAN",
+      "shirtNumber": 17,
+      "position": "ATT"
+    },
+    {
+      "id": "canada-2026-18",
+      "name": "Owen Olamidayo GOODMAN",
+      "shirtNumber": 18,
+      "position": "GK"
+    },
+    {
+      "id": "canada-2026-19",
+      "name": "Alphonso Boyle DAVIES",
+      "shirtNumber": 19,
+      "position": "DEF"
+    },
+    {
+      "id": "canada-2026-20",
+      "name": "Ali AHMED",
+      "shirtNumber": 20,
+      "position": "ATT"
+    },
+    {
+      "id": "canada-2026-21",
+      "name": "Jonathan OSORIO",
+      "shirtNumber": 21,
+      "position": "MID"
+    },
+    {
+      "id": "canada-2026-22",
+      "name": "Richmond Mamah LARYEA",
+      "shirtNumber": 22,
+      "position": "DEF"
+    },
+    {
+      "id": "canada-2026-23",
+      "name": "Niko Kristian SIGUR",
+      "shirtNumber": 23,
+      "position": "DEF"
+    },
+    {
+      "id": "canada-2026-24",
+      "name": "Promise Oluwatobi Emmanuel DAVID",
+      "shirtNumber": 24,
+      "position": "ATT"
+    },
+    {
+      "id": "canada-2026-25",
+      "name": "Nathan-Dylan SALIBA",
+      "shirtNumber": 25,
+      "position": "MID"
+    },
+    {
+      "id": "canada-2026-26",
+      "name": "Jayden NELSON",
+      "shirtNumber": 26,
+      "position": "ATT"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group Stage",
+      "opponent": "Bosnia and Herzegovina",
+      "score": "1–1",
+      "scorers": [
+        {
+          "name": "Jovo LUKIĆ",
+          "minute": 21,
+          "ownGoal": false
+        },
+        {
+          "name": "Cyle Christopher LARIN",
+          "minute": 78,
+          "ownGoal": false
+        }
+      ],
+      "date": "2026-06-12"
+    },
+    {
+      "stage": "Group Stage",
+      "opponent": "Qatar",
+      "score": "6–0",
+      "scorers": [
+        {
+          "name": "Cyle Christopher LARIN",
+          "minute": 16,
+          "ownGoal": false
+        },
+        {
+          "name": "Jonathan Christian DAVID",
+          "minute": 29,
+          "ownGoal": false
+        },
+        {
+          "name": "Jonathan Christian DAVID",
+          "minute": 45,
+          "ownGoal": false
+        },
+        {
+          "name": "Nathan-Dylan SALIBA",
+          "minute": 64,
+          "ownGoal": false
+        },
+        {
+          "name": "Mohamed Naceur MANAI",
+          "minute": 75,
+          "ownGoal": true
+        },
+        {
+          "name": "Jonathan Christian DAVID",
+          "minute": 90,
+          "ownGoal": false
+        }
+      ],
+      "date": "2026-06-18"
+    },
+    {
+      "stage": "Group Stage",
+      "opponent": "Switzerland",
+      "score": "2–1",
+      "scorers": [
+        {
+          "name": "Ruben Estephan VARGAS MARTINEZ",
+          "minute": 46,
+          "ownGoal": false
+        },
+        {
+          "name": "Johan Kula MANZAMBI",
+          "minute": 57,
+          "ownGoal": false
+        },
+        {
+          "name": "Promise Oluwatobi Emmanuel DAVID",
+          "minute": 76,
+          "ownGoal": false
+        }
+      ],
+      "date": "2026-06-24"
+    },
+    {
+      "stage": "Round of 32",
+      "opponent": "South Africa",
+      "score": "0–1",
+      "scorers": [
+        {
+          "name": "Stephen EUSTAQUIO",
+          "minute": 90,
+          "ownGoal": false
+        }
+      ],
+      "date": "2026-06-29"
+    },
+    {
+      "stage": "Round of 16",
+      "opponent": "Morocco",
+      "score": "0–3",
+      "scorers": [
+        {
+          "name": "Azz-Eddine OUNAHI",
+          "minute": 50,
+          "ownGoal": false
+        },
+        {
+          "name": "Azz-Eddine OUNAHI",
+          "minute": 82,
+          "ownGoal": false
+        },
+        {
+          "name": "Soufiane Rahimi",
+          "minute": 90,
+          "ownGoal": false
+        }
+      ],
+      "date": "2026-07-04"
+    }
+  ],
+  "sources": [
+    "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/final-tournament-standings",
+    "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/teams",
+    "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+    "https://github.com/openfootball/worldcup.json",
+    "https://github.com/mominullptr/FIFA-World-Cup-2026-Dataset"
+  ]
+}

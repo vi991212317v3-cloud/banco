@@ -1,0 +1,265 @@
+{
+  "country": "Spain",
+  "countrySlug": "spain",
+  "year": 2010,
+  "edition": "2010",
+  "host": "South Africa",
+  "coach": "Vicente del Bosque",
+  "finalPhase": "Final",
+  "result": "Champion",
+  "squad": [
+    {
+      "id": "spain-2010-1",
+      "name": "Iker Casillas",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "spain-2010-2",
+      "name": "Raúl Albiol",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "spain-2010-3",
+      "name": "Gerard Piqué",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "spain-2010-4",
+      "name": "Carlos Marchena",
+      "shirtNumber": 4,
+      "position": "DEF"
+    },
+    {
+      "id": "spain-2010-5",
+      "name": "Carles Puyol",
+      "shirtNumber": 5,
+      "position": "DEF"
+    },
+    {
+      "id": "spain-2010-6",
+      "name": "Andrés Iniesta",
+      "shirtNumber": 6,
+      "position": "MID"
+    },
+    {
+      "id": "spain-2010-7",
+      "name": "David Villa",
+      "shirtNumber": 7,
+      "position": "ATT"
+    },
+    {
+      "id": "spain-2010-8",
+      "name": "Xavi",
+      "shirtNumber": 8,
+      "position": "MID"
+    },
+    {
+      "id": "spain-2010-9",
+      "name": "Fernando Torres",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "spain-2010-10",
+      "name": "Cesc Fàbregas",
+      "shirtNumber": 10,
+      "position": "MID"
+    },
+    {
+      "id": "spain-2010-11",
+      "name": "Joan Capdevila",
+      "shirtNumber": 11,
+      "position": "DEF"
+    },
+    {
+      "id": "spain-2010-12",
+      "name": "Víctor Valdés",
+      "shirtNumber": 12,
+      "position": "GK"
+    },
+    {
+      "id": "spain-2010-13",
+      "name": "Juan Mata",
+      "shirtNumber": 13,
+      "position": "MID"
+    },
+    {
+      "id": "spain-2010-14",
+      "name": "Xabi Alonso",
+      "shirtNumber": 14,
+      "position": "MID"
+    },
+    {
+      "id": "spain-2010-15",
+      "name": "Sergio Ramos",
+      "shirtNumber": 15,
+      "position": "DEF"
+    },
+    {
+      "id": "spain-2010-16",
+      "name": "Sergio Busquets",
+      "shirtNumber": 16,
+      "position": "MID"
+    },
+    {
+      "id": "spain-2010-17",
+      "name": "Álvaro Arbeloa",
+      "shirtNumber": 17,
+      "position": "DEF"
+    },
+    {
+      "id": "spain-2010-18",
+      "name": "Pedro",
+      "shirtNumber": 18,
+      "position": "ATT"
+    },
+    {
+      "id": "spain-2010-19",
+      "name": "Fernando Llorente",
+      "shirtNumber": 19,
+      "position": "ATT"
+    },
+    {
+      "id": "spain-2010-20",
+      "name": "Javi Martínez",
+      "shirtNumber": 20,
+      "position": "MID"
+    },
+    {
+      "id": "spain-2010-21",
+      "name": "David Silva",
+      "shirtNumber": 21,
+      "position": "MID"
+    },
+    {
+      "id": "spain-2010-22",
+      "name": "Jesús Navas",
+      "shirtNumber": 22,
+      "position": "MID"
+    },
+    {
+      "id": "spain-2010-23",
+      "name": "Pepe Reina",
+      "shirtNumber": 23,
+      "position": "GK"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "Switzerland",
+      "score": "0–1",
+      "scorers": [
+        {
+          "name": "Gélson Fernandes",
+          "minute": "52'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2010-06-16"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Honduras",
+      "score": "2–0",
+      "scorers": [
+        {
+          "name": "David Villa",
+          "minute": "17'",
+          "ownGoal": false
+        },
+        {
+          "name": "David Villa",
+          "minute": "51'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2010-06-21"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Chile",
+      "score": "1–2",
+      "scorers": [
+        {
+          "name": "David Villa",
+          "minute": "24'",
+          "ownGoal": false
+        },
+        {
+          "name": "Andrés Iniesta",
+          "minute": "37'",
+          "ownGoal": false
+        },
+        {
+          "name": "Rodrigo Millar",
+          "minute": "47'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2010-06-25"
+    },
+    {
+      "stage": "Round of 16",
+      "opponent": "Portugal",
+      "score": "1–0",
+      "scorers": [
+        {
+          "name": "David Villa",
+          "minute": "63'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2010-06-29"
+    },
+    {
+      "stage": "Quarter-final",
+      "opponent": "Paraguay",
+      "score": "0–1",
+      "scorers": [
+        {
+          "name": "David Villa",
+          "minute": "83'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2010-07-03"
+    },
+    {
+      "stage": "Semi-final",
+      "opponent": "Germany",
+      "score": "0–1",
+      "scorers": [
+        {
+          "name": "Carles Puyol",
+          "minute": "73'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2010-07-07"
+    },
+    {
+      "stage": "Final",
+      "opponent": "Netherlands",
+      "score": "0–1",
+      "scorers": [
+        {
+          "name": "Andrés Iniesta",
+          "minute": "116'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2010-07-11"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

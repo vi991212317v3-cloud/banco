@@ -1,0 +1,203 @@
+{
+  "country": "Iran",
+  "countrySlug": "iran",
+  "year": 2018,
+  "edition": "2018",
+  "host": "Russia",
+  "coach": "Carlos Queiroz",
+  "finalPhase": "Group Stage",
+  "result": "Group Stage",
+  "squad": [
+    {
+      "id": "iran-2018-1",
+      "name": "Alireza Beiranvand",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "iran-2018-2",
+      "name": "Mehdi Torabi",
+      "shirtNumber": 2,
+      "position": "MID"
+    },
+    {
+      "id": "iran-2018-3",
+      "name": "Ehsan Hajsafi",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "iran-2018-4",
+      "name": "Rouzbeh Cheshmi",
+      "shirtNumber": 4,
+      "position": "DEF"
+    },
+    {
+      "id": "iran-2018-5",
+      "name": "Milad Mohammadi",
+      "shirtNumber": 5,
+      "position": "DEF"
+    },
+    {
+      "id": "iran-2018-6",
+      "name": "Saeid Ezatolahi",
+      "shirtNumber": 6,
+      "position": "MID"
+    },
+    {
+      "id": "iran-2018-7",
+      "name": "Masoud Shojaei",
+      "shirtNumber": 7,
+      "position": "MID"
+    },
+    {
+      "id": "iran-2018-8",
+      "name": "Morteza Pouraliganji",
+      "shirtNumber": 8,
+      "position": "DEF"
+    },
+    {
+      "id": "iran-2018-9",
+      "name": "Omid Ebrahimi",
+      "shirtNumber": 9,
+      "position": "MID"
+    },
+    {
+      "id": "iran-2018-10",
+      "name": "Karim Ansarifard",
+      "shirtNumber": 10,
+      "position": "ATT"
+    },
+    {
+      "id": "iran-2018-11",
+      "name": "Vahid Amiri",
+      "shirtNumber": 11,
+      "position": "MID"
+    },
+    {
+      "id": "iran-2018-12",
+      "name": "Mohammad Rashid Mazaheri",
+      "shirtNumber": 12,
+      "position": "GK"
+    },
+    {
+      "id": "iran-2018-13",
+      "name": "Mohammad Reza Khanzadeh",
+      "shirtNumber": 13,
+      "position": "DEF"
+    },
+    {
+      "id": "iran-2018-14",
+      "name": "Saman Ghoddos",
+      "shirtNumber": 14,
+      "position": "ATT"
+    },
+    {
+      "id": "iran-2018-15",
+      "name": "Pejman Montazeri",
+      "shirtNumber": 15,
+      "position": "DEF"
+    },
+    {
+      "id": "iran-2018-16",
+      "name": "Reza Ghoochannejhad",
+      "shirtNumber": 16,
+      "position": "ATT"
+    },
+    {
+      "id": "iran-2018-17",
+      "name": "Mehdi Taremi",
+      "shirtNumber": 17,
+      "position": "ATT"
+    },
+    {
+      "id": "iran-2018-18",
+      "name": "Alireza Jahanbakhsh",
+      "shirtNumber": 18,
+      "position": "ATT"
+    },
+    {
+      "id": "iran-2018-19",
+      "name": "Majid Hosseini",
+      "shirtNumber": 19,
+      "position": "DEF"
+    },
+    {
+      "id": "iran-2018-20",
+      "name": "Sardar Azmoun",
+      "shirtNumber": 20,
+      "position": "ATT"
+    },
+    {
+      "id": "iran-2018-21",
+      "name": "Ashkan Dejagah",
+      "shirtNumber": 21,
+      "position": "MID"
+    },
+    {
+      "id": "iran-2018-22",
+      "name": "Amir Abedzadeh",
+      "shirtNumber": 22,
+      "position": "GK"
+    },
+    {
+      "id": "iran-2018-23",
+      "name": "Ramin Rezaeian",
+      "shirtNumber": 23,
+      "position": "DEF"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "Morocco",
+      "score": "0–1",
+      "scorers": [
+        {
+          "name": "Aziz Bouhaddouz",
+          "minute": "90'+5'",
+          "ownGoal": true
+        }
+      ],
+      "date": "2018-06-15"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Spain",
+      "score": "0–1",
+      "scorers": [
+        {
+          "name": "Diego Costa",
+          "minute": "54'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2018-06-20"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Portugal",
+      "score": "1–1",
+      "scorers": [
+        {
+          "name": "Ricardo Quaresma",
+          "minute": "45'",
+          "ownGoal": false
+        },
+        {
+          "name": "Karim Ansarifard",
+          "minute": "90'+3'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2018-06-25"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

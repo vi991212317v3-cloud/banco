@@ -1,0 +1,225 @@
+{
+  "country": "Mexico",
+  "countrySlug": "mexico",
+  "year": 2022,
+  "edition": "2022",
+  "host": "Qatar",
+  "coach": "Gerardo Martino",
+  "finalPhase": "Group Stage",
+  "result": "Group Stage",
+  "squad": [
+    {
+      "id": "mexico-2022-1",
+      "name": "Alfredo Talavera",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "mexico-2022-2",
+      "name": "Néstor Araujo",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "mexico-2022-3",
+      "name": "César Montes",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "mexico-2022-4",
+      "name": "Edson Álvarez",
+      "shirtNumber": 4,
+      "position": "DEF"
+    },
+    {
+      "id": "mexico-2022-5",
+      "name": "Johan Vásquez",
+      "shirtNumber": 5,
+      "position": "DEF"
+    },
+    {
+      "id": "mexico-2022-6",
+      "name": "Gerardo Arteaga",
+      "shirtNumber": 6,
+      "position": "DEF"
+    },
+    {
+      "id": "mexico-2022-7",
+      "name": "Luis Romo",
+      "shirtNumber": 7,
+      "position": "MID"
+    },
+    {
+      "id": "mexico-2022-8",
+      "name": "Carlos Rodríguez",
+      "shirtNumber": 8,
+      "position": "MID"
+    },
+    {
+      "id": "mexico-2022-9",
+      "name": "Raúl Jiménez",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "mexico-2022-10",
+      "name": "Alexis Vega",
+      "shirtNumber": 10,
+      "position": "ATT"
+    },
+    {
+      "id": "mexico-2022-11",
+      "name": "Rogelio Funes Mori",
+      "shirtNumber": 11,
+      "position": "ATT"
+    },
+    {
+      "id": "mexico-2022-12",
+      "name": "Rodolfo Cota",
+      "shirtNumber": 12,
+      "position": "GK"
+    },
+    {
+      "id": "mexico-2022-13",
+      "name": "Guillermo Ochoa",
+      "shirtNumber": 13,
+      "position": "GK"
+    },
+    {
+      "id": "mexico-2022-14",
+      "name": "Érick Gutiérrez",
+      "shirtNumber": 14,
+      "position": "MID"
+    },
+    {
+      "id": "mexico-2022-15",
+      "name": "Héctor Moreno",
+      "shirtNumber": 15,
+      "position": "DEF"
+    },
+    {
+      "id": "mexico-2022-16",
+      "name": "Héctor Herrera",
+      "shirtNumber": 16,
+      "position": "MID"
+    },
+    {
+      "id": "mexico-2022-17",
+      "name": "Orbelín Pineda",
+      "shirtNumber": 17,
+      "position": "ATT"
+    },
+    {
+      "id": "mexico-2022-18",
+      "name": "Andrés Guardado",
+      "shirtNumber": 18,
+      "position": "MID"
+    },
+    {
+      "id": "mexico-2022-19",
+      "name": "Jorge Sánchez",
+      "shirtNumber": 19,
+      "position": "DEF"
+    },
+    {
+      "id": "mexico-2022-20",
+      "name": "Henry Martín",
+      "shirtNumber": 20,
+      "position": "ATT"
+    },
+    {
+      "id": "mexico-2022-21",
+      "name": "Uriel Antuna",
+      "shirtNumber": 21,
+      "position": "ATT"
+    },
+    {
+      "id": "mexico-2022-22",
+      "name": "Hirving Lozano",
+      "shirtNumber": 22,
+      "position": "ATT"
+    },
+    {
+      "id": "mexico-2022-23",
+      "name": "Jesús Gallardo",
+      "shirtNumber": 23,
+      "position": "DEF"
+    },
+    {
+      "id": "mexico-2022-24",
+      "name": "Luis Chávez",
+      "shirtNumber": 24,
+      "position": "MID"
+    },
+    {
+      "id": "mexico-2022-25",
+      "name": "Roberto Alvarado",
+      "shirtNumber": 25,
+      "position": "ATT"
+    },
+    {
+      "id": "mexico-2022-26",
+      "name": "Kevin Álvarez",
+      "shirtNumber": 26,
+      "position": "DEF"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "Poland",
+      "score": "0–0",
+      "scorers": [],
+      "date": "2022-11-22"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Argentina",
+      "score": "2–0",
+      "scorers": [
+        {
+          "name": "Lionel Messi",
+          "minute": "64'",
+          "ownGoal": false
+        },
+        {
+          "name": "Enzo Fernández",
+          "minute": "87'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2022-11-26"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Saudi Arabia",
+      "score": "1–2",
+      "scorers": [
+        {
+          "name": "Henry Martín",
+          "minute": "47'",
+          "ownGoal": false
+        },
+        {
+          "name": "Luis Chávez",
+          "minute": "52'",
+          "ownGoal": false
+        },
+        {
+          "name": "Salem Al-Dawsari",
+          "minute": "90'+5'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2022-11-30"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

@@ -1,0 +1,273 @@
+{
+  "country": "Northern Ireland",
+  "countrySlug": "northern-ireland",
+  "year": 1958,
+  "edition": "1958",
+  "host": "Sweden",
+  "coach": "Peter Doherty",
+  "finalPhase": "Quarter-final",
+  "result": "Quarter-final",
+  "squad": [
+    {
+      "id": "northern-ireland-1958-1",
+      "name": "Harry Gregg",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "northern-ireland-1958-2",
+      "name": "Willie Cunningham",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "northern-ireland-1958-3",
+      "name": "Alf McMichael",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "northern-ireland-1958-4",
+      "name": "Danny Blanchflower",
+      "shirtNumber": 4,
+      "position": "MID"
+    },
+    {
+      "id": "northern-ireland-1958-5",
+      "name": "Dick Keith",
+      "shirtNumber": 5,
+      "position": "DEF"
+    },
+    {
+      "id": "northern-ireland-1958-6",
+      "name": "Bertie Peacock",
+      "shirtNumber": 6,
+      "position": "MID"
+    },
+    {
+      "id": "northern-ireland-1958-7",
+      "name": "Billy Bingham",
+      "shirtNumber": 7,
+      "position": "ATT"
+    },
+    {
+      "id": "northern-ireland-1958-8",
+      "name": "Wilbur Cush",
+      "shirtNumber": 8,
+      "position": "ATT"
+    },
+    {
+      "id": "northern-ireland-1958-9",
+      "name": "Billy Simpson",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "northern-ireland-1958-10",
+      "name": "Jimmy McIlroy",
+      "shirtNumber": 10,
+      "position": "ATT"
+    },
+    {
+      "id": "northern-ireland-1958-11",
+      "name": "Peter McParland",
+      "shirtNumber": 11,
+      "position": "ATT"
+    },
+    {
+      "id": "northern-ireland-1958-12",
+      "name": "Norman Uprichard",
+      "shirtNumber": 12,
+      "position": "GK"
+    },
+    {
+      "id": "northern-ireland-1958-13",
+      "name": "Tommy Casey",
+      "shirtNumber": 13,
+      "position": "ATT"
+    },
+    {
+      "id": "northern-ireland-1958-14",
+      "name": "Jackie Scott",
+      "shirtNumber": 14,
+      "position": "ATT"
+    },
+    {
+      "id": "northern-ireland-1958-15",
+      "name": "Sammy McCrory",
+      "shirtNumber": 15,
+      "position": "ATT"
+    },
+    {
+      "id": "northern-ireland-1958-16",
+      "name": "Derek Dougan",
+      "shirtNumber": 16,
+      "position": "ATT"
+    },
+    {
+      "id": "northern-ireland-1958-17",
+      "name": "Fay Coyle",
+      "shirtNumber": 17,
+      "position": "ATT"
+    },
+    {
+      "id": "northern-ireland-1958-18",
+      "name": "Roy Rea",
+      "shirtNumber": 18,
+      "position": "GK"
+    },
+    {
+      "id": "northern-ireland-1958-19",
+      "name": "Len Graham",
+      "shirtNumber": 19,
+      "position": "DEF"
+    },
+    {
+      "id": "northern-ireland-1958-20",
+      "name": "Sammy Chapman",
+      "shirtNumber": 20,
+      "position": "MID"
+    },
+    {
+      "id": "northern-ireland-1958-21",
+      "name": "Tommy Hamill",
+      "shirtNumber": 21,
+      "position": "DEF"
+    },
+    {
+      "id": "northern-ireland-1958-22",
+      "name": "Bobby Trainor",
+      "shirtNumber": 22,
+      "position": "ATT"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "Czechoslovakia",
+      "score": "1–0",
+      "scorers": [
+        {
+          "name": "Wilbur Cush",
+          "minute": "21'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1958-06-08"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Argentina",
+      "score": "3–1",
+      "scorers": [
+        {
+          "name": "Peter McParland",
+          "minute": "4'",
+          "ownGoal": false
+        },
+        {
+          "name": "Oreste Corbatta",
+          "minute": "37'",
+          "ownGoal": false
+        },
+        {
+          "name": "Norberto Menéndez",
+          "minute": "56'",
+          "ownGoal": false
+        },
+        {
+          "name": "Ludovico Avio",
+          "minute": "60'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1958-06-11"
+    },
+    {
+      "stage": "Group",
+      "opponent": "West Germany",
+      "score": "2–2",
+      "scorers": [
+        {
+          "name": "Peter McParland",
+          "minute": "18'",
+          "ownGoal": false
+        },
+        {
+          "name": "Helmut Rahn",
+          "minute": "20'",
+          "ownGoal": false
+        },
+        {
+          "name": "Peter McParland",
+          "minute": "60'",
+          "ownGoal": false
+        },
+        {
+          "name": "Uwe Seeler",
+          "minute": "78'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1958-06-15"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Czechoslovakia",
+      "score": "2–1",
+      "scorers": [
+        {
+          "name": "Zdeněk Zikán",
+          "minute": "18'",
+          "ownGoal": false
+        },
+        {
+          "name": "Peter McParland",
+          "minute": "44'",
+          "ownGoal": false
+        },
+        {
+          "name": "Peter McParland",
+          "minute": "97'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1958-06-17"
+    },
+    {
+      "stage": "Quarter-final",
+      "opponent": "France",
+      "score": "4–0",
+      "scorers": [
+        {
+          "name": "Maryan Wisnieski",
+          "minute": "44'",
+          "ownGoal": false
+        },
+        {
+          "name": "Just Fontaine",
+          "minute": "55'",
+          "ownGoal": false
+        },
+        {
+          "name": "Just Fontaine",
+          "minute": "63'",
+          "ownGoal": false
+        },
+        {
+          "name": "Roger Piantoni",
+          "minute": "68'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1958-06-19"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

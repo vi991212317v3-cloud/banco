@@ -1,0 +1,201 @@
+{
+  "country": "Bolivia",
+  "countrySlug": "bolivia",
+  "year": 1950,
+  "edition": "1950",
+  "host": "Brazil",
+  "coach": "Mario Pretto",
+  "finalPhase": "Group Stage",
+  "result": "Group Stage",
+  "squad": [
+    {
+      "id": "bolivia-1950-001",
+      "name": "Alberto Achá",
+      "shirtNumber": null,
+      "position": "DEF"
+    },
+    {
+      "id": "bolivia-1950-003",
+      "name": "Alberto Aparicio",
+      "shirtNumber": null,
+      "position": "MID"
+    },
+    {
+      "id": "bolivia-1950-013",
+      "name": "Antonio Greco",
+      "shirtNumber": null,
+      "position": "DEF"
+    },
+    {
+      "id": "bolivia-1950-022",
+      "name": "Antonio Valencia",
+      "shirtNumber": null,
+      "position": "MID"
+    },
+    {
+      "id": "bolivia-1950-012",
+      "name": "Benedicto Godoy Véizaga",
+      "shirtNumber": null,
+      "position": "ATT"
+    },
+    {
+      "id": "bolivia-1950-015",
+      "name": "Benigno Gutiérrez",
+      "shirtNumber": null,
+      "position": "ATT"
+    },
+    {
+      "id": "bolivia-1950-017",
+      "name": "Benjamin Maldonado",
+      "shirtNumber": null,
+      "position": "ATT"
+    },
+    {
+      "id": "bolivia-1950-006",
+      "name": "Duberty Aráoz",
+      "shirtNumber": null,
+      "position": "MID"
+    },
+    {
+      "id": "bolivia-1950-016",
+      "name": "Eduardo Gutiérrez",
+      "shirtNumber": null,
+      "position": "GK"
+    },
+    {
+      "id": "bolivia-1950-020",
+      "name": "Eulogio Sandoval",
+      "shirtNumber": null,
+      "position": "MID"
+    },
+    {
+      "id": "bolivia-1950-019",
+      "name": "Humberto Saavedra",
+      "shirtNumber": null,
+      "position": "MID"
+    },
+    {
+      "id": "bolivia-1950-008",
+      "name": "José Bustamante",
+      "shirtNumber": null,
+      "position": "DEF"
+    },
+    {
+      "id": "bolivia-1950-005",
+      "name": "Juan Arricio",
+      "shirtNumber": null,
+      "position": "MID"
+    },
+    {
+      "id": "bolivia-1950-014",
+      "name": "Juan Guerra",
+      "shirtNumber": null,
+      "position": "ATT"
+    },
+    {
+      "id": "bolivia-1950-011",
+      "name": "Leonardo Ferrel",
+      "shirtNumber": null,
+      "position": "MID"
+    },
+    {
+      "id": "bolivia-1950-018",
+      "name": "Mario Mena",
+      "shirtNumber": null,
+      "position": "ATT"
+    },
+    {
+      "id": "bolivia-1950-009",
+      "name": "René Cabrera",
+      "shirtNumber": null,
+      "position": "MID"
+    },
+    {
+      "id": "bolivia-1950-010",
+      "name": "Roberto Capparelli",
+      "shirtNumber": null,
+      "position": "ATT"
+    },
+    {
+      "id": "bolivia-1950-004",
+      "name": "Vicente Arraya",
+      "shirtNumber": null,
+      "position": "GK"
+    },
+    {
+      "id": "bolivia-1950-021",
+      "name": "Víctor Agustín Ugarte",
+      "shirtNumber": null,
+      "position": "ATT"
+    },
+    {
+      "id": "bolivia-1950-007",
+      "name": "Víctor Brown",
+      "shirtNumber": null,
+      "position": "ATT"
+    },
+    {
+      "id": "bolivia-1950-002",
+      "name": "Víctor Celestino Algarañaz",
+      "shirtNumber": null,
+      "position": "ATT"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "Uruguay",
+      "score": "8–0",
+      "scorers": [
+        {
+          "name": "Oscar Míguez",
+          "minute": "14'",
+          "ownGoal": false
+        },
+        {
+          "name": "Ernesto Vidal",
+          "minute": "18'",
+          "ownGoal": false
+        },
+        {
+          "name": "Juan Alberto Schiaffino",
+          "minute": "23'",
+          "ownGoal": false
+        },
+        {
+          "name": "Oscar Míguez",
+          "minute": "40'",
+          "ownGoal": false
+        },
+        {
+          "name": "Oscar Míguez",
+          "minute": "51'",
+          "ownGoal": false
+        },
+        {
+          "name": "Juan Alberto Schiaffino",
+          "minute": "54'",
+          "ownGoal": false
+        },
+        {
+          "name": "Julio Pérez",
+          "minute": "83'",
+          "ownGoal": false
+        },
+        {
+          "name": "Alcides Ghiggia",
+          "minute": "87'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1950-07-02"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

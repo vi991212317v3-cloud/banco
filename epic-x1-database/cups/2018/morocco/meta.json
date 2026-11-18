@@ -1,0 +1,213 @@
+{
+  "country": "Morocco",
+  "countrySlug": "morocco",
+  "year": 2018,
+  "edition": "2018",
+  "host": "Russia",
+  "coach": "Hervé Renard",
+  "finalPhase": "Group Stage",
+  "result": "Group Stage",
+  "squad": [
+    {
+      "id": "morocco-2018-1",
+      "name": "Yassine Bounou",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "morocco-2018-2",
+      "name": "Achraf Hakimi",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "morocco-2018-3",
+      "name": "Hamza Mendyl",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "morocco-2018-4",
+      "name": "Manuel da Costa",
+      "shirtNumber": 4,
+      "position": "DEF"
+    },
+    {
+      "id": "morocco-2018-5",
+      "name": "Medhi Benatia",
+      "shirtNumber": 5,
+      "position": "DEF"
+    },
+    {
+      "id": "morocco-2018-6",
+      "name": "Romain Saïss",
+      "shirtNumber": 6,
+      "position": "DEF"
+    },
+    {
+      "id": "morocco-2018-7",
+      "name": "Hakim Ziyech",
+      "shirtNumber": 7,
+      "position": "MID"
+    },
+    {
+      "id": "morocco-2018-8",
+      "name": "Karim El Ahmadi",
+      "shirtNumber": 8,
+      "position": "MID"
+    },
+    {
+      "id": "morocco-2018-9",
+      "name": "Ayoub El Kaabi",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "morocco-2018-10",
+      "name": "Younès Belhanda",
+      "shirtNumber": 10,
+      "position": "MID"
+    },
+    {
+      "id": "morocco-2018-11",
+      "name": "Fayçal Fajr",
+      "shirtNumber": 11,
+      "position": "MID"
+    },
+    {
+      "id": "morocco-2018-12",
+      "name": "Munir Mohamedi",
+      "shirtNumber": 12,
+      "position": "GK"
+    },
+    {
+      "id": "morocco-2018-13",
+      "name": "Khalid Boutaïb",
+      "shirtNumber": 13,
+      "position": "ATT"
+    },
+    {
+      "id": "morocco-2018-14",
+      "name": "Mbark Boussoufa",
+      "shirtNumber": 14,
+      "position": "MID"
+    },
+    {
+      "id": "morocco-2018-15",
+      "name": "Youssef Aït Bennasser",
+      "shirtNumber": 15,
+      "position": "MID"
+    },
+    {
+      "id": "morocco-2018-16",
+      "name": "Nordin Amrabat",
+      "shirtNumber": 16,
+      "position": "MID"
+    },
+    {
+      "id": "morocco-2018-17",
+      "name": "Nabil Dirar",
+      "shirtNumber": 17,
+      "position": "DEF"
+    },
+    {
+      "id": "morocco-2018-18",
+      "name": "Amine Harit",
+      "shirtNumber": 18,
+      "position": "MID"
+    },
+    {
+      "id": "morocco-2018-19",
+      "name": "Youssef En-Nesyri",
+      "shirtNumber": 19,
+      "position": "ATT"
+    },
+    {
+      "id": "morocco-2018-20",
+      "name": "Aziz Bouhaddouz",
+      "shirtNumber": 20,
+      "position": "ATT"
+    },
+    {
+      "id": "morocco-2018-21",
+      "name": "Sofyan Amrabat",
+      "shirtNumber": 21,
+      "position": "MID"
+    },
+    {
+      "id": "morocco-2018-22",
+      "name": "Ahmed Reda Tagnaouti",
+      "shirtNumber": 22,
+      "position": "GK"
+    },
+    {
+      "id": "morocco-2018-23",
+      "name": "Mehdi Carcela",
+      "shirtNumber": 23,
+      "position": "MID"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "Iran",
+      "score": "0–1",
+      "scorers": [
+        {
+          "name": "Aziz Bouhaddouz",
+          "minute": "90'+5'",
+          "ownGoal": true
+        }
+      ],
+      "date": "2018-06-15"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Portugal",
+      "score": "1–0",
+      "scorers": [
+        {
+          "name": "Cristiano Ronaldo",
+          "minute": "4'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2018-06-20"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Spain",
+      "score": "2–2",
+      "scorers": [
+        {
+          "name": "Khalid Boutaïb",
+          "minute": "14'",
+          "ownGoal": false
+        },
+        {
+          "name": "Isco",
+          "minute": "19'",
+          "ownGoal": false
+        },
+        {
+          "name": "Youssef En-Nesyri",
+          "minute": "81'",
+          "ownGoal": false
+        },
+        {
+          "name": "Iago Aspas",
+          "minute": "90'+1'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2018-06-25"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

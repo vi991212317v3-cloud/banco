@@ -1,0 +1,251 @@
+{
+  "country": "East Germany",
+  "countrySlug": "east-germany",
+  "year": 1974,
+  "edition": "1974",
+  "host": "West Germany",
+  "coach": "Georg Buschner",
+  "finalPhase": "Second Group Stage",
+  "result": "Second Group Stage",
+  "squad": [
+    {
+      "id": "east-germany-1974-1",
+      "name": "Jürgen Croy",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "east-germany-1974-2",
+      "name": "Lothar Kurbjuweit",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "east-germany-1974-3",
+      "name": "Bernd Bransch",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "east-germany-1974-4",
+      "name": "Konrad Weise",
+      "shirtNumber": 4,
+      "position": "DEF"
+    },
+    {
+      "id": "east-germany-1974-5",
+      "name": "Joachim Fritsche",
+      "shirtNumber": 5,
+      "position": "DEF"
+    },
+    {
+      "id": "east-germany-1974-6",
+      "name": "Rüdiger Schnuphase",
+      "shirtNumber": 6,
+      "position": "MID"
+    },
+    {
+      "id": "east-germany-1974-7",
+      "name": "Jürgen Pommerenke",
+      "shirtNumber": 7,
+      "position": "MID"
+    },
+    {
+      "id": "east-germany-1974-8",
+      "name": "Wolfram Löwe",
+      "shirtNumber": 8,
+      "position": "ATT"
+    },
+    {
+      "id": "east-germany-1974-9",
+      "name": "Peter Ducke",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "east-germany-1974-10",
+      "name": "Hans-Jürgen Kreische",
+      "shirtNumber": 10,
+      "position": "ATT"
+    },
+    {
+      "id": "east-germany-1974-11",
+      "name": "Joachim Streich",
+      "shirtNumber": 11,
+      "position": "ATT"
+    },
+    {
+      "id": "east-germany-1974-12",
+      "name": "Siegmar Wätzlich",
+      "shirtNumber": 12,
+      "position": "DEF"
+    },
+    {
+      "id": "east-germany-1974-13",
+      "name": "Reinhard Lauck",
+      "shirtNumber": 13,
+      "position": "MID"
+    },
+    {
+      "id": "east-germany-1974-14",
+      "name": "Jürgen Sparwasser",
+      "shirtNumber": 14,
+      "position": "MID"
+    },
+    {
+      "id": "east-germany-1974-15",
+      "name": "Eberhard Vogel",
+      "shirtNumber": 15,
+      "position": "ATT"
+    },
+    {
+      "id": "east-germany-1974-16",
+      "name": "Harald Irmscher",
+      "shirtNumber": 16,
+      "position": "MID"
+    },
+    {
+      "id": "east-germany-1974-17",
+      "name": "Erich Hamann",
+      "shirtNumber": 17,
+      "position": "MID"
+    },
+    {
+      "id": "east-germany-1974-18",
+      "name": "Gerd Kische",
+      "shirtNumber": 18,
+      "position": "DEF"
+    },
+    {
+      "id": "east-germany-1974-19",
+      "name": "Wolfgang Seguin",
+      "shirtNumber": 19,
+      "position": "MID"
+    },
+    {
+      "id": "east-germany-1974-20",
+      "name": "Martin Hoffmann",
+      "shirtNumber": 20,
+      "position": "ATT"
+    },
+    {
+      "id": "east-germany-1974-21",
+      "name": "Wolfgang Blochwitz",
+      "shirtNumber": 21,
+      "position": "GK"
+    },
+    {
+      "id": "east-germany-1974-22",
+      "name": "Werner Friese",
+      "shirtNumber": 22,
+      "position": "GK"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "Australia",
+      "score": "2–0",
+      "scorers": [
+        {
+          "name": "Colin Curran",
+          "minute": "58'",
+          "ownGoal": true
+        },
+        {
+          "name": "Joachim Streich",
+          "minute": "72'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1974-06-14"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Chile",
+      "score": "1–1",
+      "scorers": [
+        {
+          "name": "Martin Hoffmann",
+          "minute": "55'",
+          "ownGoal": false
+        },
+        {
+          "name": "Sergio Ahumada",
+          "minute": "69'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1974-06-18"
+    },
+    {
+      "stage": "Group",
+      "opponent": "West Germany",
+      "score": "1–0",
+      "scorers": [
+        {
+          "name": "Jürgen Sparwasser",
+          "minute": "77'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1974-06-22"
+    },
+    {
+      "stage": "Second Group Stage",
+      "opponent": "Brazil",
+      "score": "1–0",
+      "scorers": [
+        {
+          "name": "Rivellino",
+          "minute": "60'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1974-06-26"
+    },
+    {
+      "stage": "Second Group Stage",
+      "opponent": "Netherlands",
+      "score": "0–2",
+      "scorers": [
+        {
+          "name": "Johan Neeskens",
+          "minute": "7'",
+          "ownGoal": false
+        },
+        {
+          "name": "Rob Rensenbrink",
+          "minute": "59'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1974-06-30"
+    },
+    {
+      "stage": "Second Group Stage",
+      "opponent": "Argentina",
+      "score": "1–1",
+      "scorers": [
+        {
+          "name": "Joachim Streich",
+          "minute": "14'",
+          "ownGoal": false
+        },
+        {
+          "name": "René Houseman",
+          "minute": "20'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1974-07-03"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

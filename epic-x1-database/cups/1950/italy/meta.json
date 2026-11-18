@@ -1,0 +1,204 @@
+{
+  "country": "Italy",
+  "countrySlug": "italy",
+  "year": 1950,
+  "edition": "1950",
+  "host": "Brazil",
+  "coach": "Ferruccio Novo",
+  "finalPhase": "Group Stage",
+  "result": "Group Stage",
+  "squad": [
+    {
+      "id": "italy-1950-005",
+      "name": "Aldo Campatelli",
+      "shirtNumber": null,
+      "position": "ATT"
+    },
+    {
+      "id": "italy-1950-001",
+      "name": "Amedeo Amadei",
+      "shirtNumber": null,
+      "position": "ATT"
+    },
+    {
+      "id": "italy-1950-012",
+      "name": "Attilio Giovannini",
+      "shirtNumber": null,
+      "position": "DEF"
+    },
+    {
+      "id": "italy-1950-014",
+      "name": "Augusto Magli",
+      "shirtNumber": null,
+      "position": "MID"
+    },
+    {
+      "id": "italy-1950-013",
+      "name": "Benito Lorenzi",
+      "shirtNumber": null,
+      "position": "ATT"
+    },
+    {
+      "id": "italy-1950-002",
+      "name": "Carlo Annovazzi",
+      "shirtNumber": null,
+      "position": "DEF"
+    },
+    {
+      "id": "italy-1950-019",
+      "name": "Carlo Parola",
+      "shirtNumber": null,
+      "position": "MID"
+    },
+    {
+      "id": "italy-1950-018",
+      "name": "Egisto Pandolfini",
+      "shirtNumber": null,
+      "position": "ATT"
+    },
+    {
+      "id": "italy-1950-007",
+      "name": "Emilio Caprile",
+      "shirtNumber": null,
+      "position": "ATT"
+    },
+    {
+      "id": "italy-1950-017",
+      "name": "Ermes Muccinelli",
+      "shirtNumber": null,
+      "position": "ATT"
+    },
+    {
+      "id": "italy-1950-015",
+      "name": "Giacomo Mari",
+      "shirtNumber": null,
+      "position": "MID"
+    },
+    {
+      "id": "italy-1950-004",
+      "name": "Giampiero Boniperti",
+      "shirtNumber": null,
+      "position": "ATT"
+    },
+    {
+      "id": "italy-1950-006",
+      "name": "Gino Cappello",
+      "shirtNumber": null,
+      "position": "ATT"
+    },
+    {
+      "id": "italy-1950-009",
+      "name": "Giuseppe Casari",
+      "shirtNumber": null,
+      "position": "GK"
+    },
+    {
+      "id": "italy-1950-016",
+      "name": "Giuseppe Moro",
+      "shirtNumber": null,
+      "position": "GK"
+    },
+    {
+      "id": "italy-1950-003",
+      "name": "Ivano Blason",
+      "shirtNumber": null,
+      "position": "DEF"
+    },
+    {
+      "id": "italy-1950-020",
+      "name": "Leandro Remondini",
+      "shirtNumber": null,
+      "position": "MID"
+    },
+    {
+      "id": "italy-1950-021",
+      "name": "Lucidio Sentimenti",
+      "shirtNumber": null,
+      "position": "GK"
+    },
+    {
+      "id": "italy-1950-022",
+      "name": "Omero Tognon",
+      "shirtNumber": null,
+      "position": "MID"
+    },
+    {
+      "id": "italy-1950-010",
+      "name": "Osvaldo Fattori",
+      "shirtNumber": null,
+      "position": "DEF"
+    },
+    {
+      "id": "italy-1950-008",
+      "name": "Riccardo Carapellese",
+      "shirtNumber": null,
+      "position": "ATT"
+    },
+    {
+      "id": "italy-1950-011",
+      "name": "Zeffiro Furiassi",
+      "shirtNumber": null,
+      "position": "DEF"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "Sweden",
+      "score": "3–2",
+      "scorers": [
+        {
+          "name": "Riccardo Carapellese",
+          "minute": "7'",
+          "ownGoal": false
+        },
+        {
+          "name": "Hasse Jeppson",
+          "minute": "25'",
+          "ownGoal": false
+        },
+        {
+          "name": "Sune Andersson",
+          "minute": "33'",
+          "ownGoal": false
+        },
+        {
+          "name": "Hasse Jeppson",
+          "minute": "68'",
+          "ownGoal": false
+        },
+        {
+          "name": "Ermes Muccinelli",
+          "minute": "75'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1950-06-25"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Paraguay",
+      "score": "2–0",
+      "scorers": [
+        {
+          "name": "Riccardo Carapellese",
+          "minute": "12'",
+          "ownGoal": false
+        },
+        {
+          "name": "Egisto Pandolfini",
+          "minute": "62'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1950-07-02"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

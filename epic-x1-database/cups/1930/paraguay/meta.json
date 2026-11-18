@@ -1,0 +1,189 @@
+{
+  "country": "Paraguay",
+  "countrySlug": "paraguay",
+  "year": 1930,
+  "edition": "1930",
+  "host": "Uruguay",
+  "coach": "José Durand Laguna",
+  "finalPhase": "Group Stage",
+  "result": "Group Stage",
+  "squad": [
+    {
+      "id": "paraguay-1930-018",
+      "name": "Amadeo Ortega",
+      "shirtNumber": null,
+      "position": "ATT"
+    },
+    {
+      "id": "paraguay-1930-014",
+      "name": "Aurelio González",
+      "shirtNumber": null,
+      "position": "ATT"
+    },
+    {
+      "id": "paraguay-1930-019",
+      "name": "Bernabé Rivera",
+      "shirtNumber": null,
+      "position": "ATT"
+    },
+    {
+      "id": "paraguay-1930-004",
+      "name": "Delfín Benítez Cáceres",
+      "shirtNumber": null,
+      "position": "ATT"
+    },
+    {
+      "id": "paraguay-1930-011",
+      "name": "Diego Florentín",
+      "shirtNumber": null,
+      "position": "MID"
+    },
+    {
+      "id": "paraguay-1930-008",
+      "name": "Diógenes Domínguez",
+      "shirtNumber": null,
+      "position": "ATT"
+    },
+    {
+      "id": "paraguay-1930-009",
+      "name": "Eusebio Díaz",
+      "shirtNumber": null,
+      "position": "MID"
+    },
+    {
+      "id": "paraguay-1930-006",
+      "name": "Eustacio Chamorro",
+      "shirtNumber": null,
+      "position": "DEF"
+    },
+    {
+      "id": "paraguay-1930-001",
+      "name": "Francisco Aguirre",
+      "shirtNumber": null,
+      "position": "MID"
+    },
+    {
+      "id": "paraguay-1930-020",
+      "name": "Gerardo Romero",
+      "shirtNumber": null,
+      "position": "ATT"
+    },
+    {
+      "id": "paraguay-1930-022",
+      "name": "Jacinto Villalba",
+      "shirtNumber": null,
+      "position": "ATT"
+    },
+    {
+      "id": "paraguay-1930-015",
+      "name": "José Miracca",
+      "shirtNumber": null,
+      "position": "DEF"
+    },
+    {
+      "id": "paraguay-1930-016",
+      "name": "Lino Nessi",
+      "shirtNumber": null,
+      "position": "ATT"
+    },
+    {
+      "id": "paraguay-1930-021",
+      "name": "Luis Vargas Peña",
+      "shirtNumber": null,
+      "position": "ATT"
+    },
+    {
+      "id": "paraguay-1930-007",
+      "name": "Modesto Denis",
+      "shirtNumber": null,
+      "position": "GK"
+    },
+    {
+      "id": "paraguay-1930-002",
+      "name": "Pedro Benítez",
+      "shirtNumber": null,
+      "position": "GK"
+    },
+    {
+      "id": "paraguay-1930-017",
+      "name": "Quiterio Olmedo",
+      "shirtNumber": null,
+      "position": "DEF"
+    },
+    {
+      "id": "paraguay-1930-010",
+      "name": "Romildo Etcheverry",
+      "shirtNumber": null,
+      "position": "MID"
+    },
+    {
+      "id": "paraguay-1930-005",
+      "name": "Saguier Carreras",
+      "shirtNumber": null,
+      "position": "ATT"
+    },
+    {
+      "id": "paraguay-1930-012",
+      "name": "Salvador Flores",
+      "shirtNumber": null,
+      "position": "DEF"
+    },
+    {
+      "id": "paraguay-1930-003",
+      "name": "Santiago Benítez",
+      "shirtNumber": null,
+      "position": "MID"
+    },
+    {
+      "id": "paraguay-1930-013",
+      "name": "Tranquilino Garcete",
+      "shirtNumber": null,
+      "position": "MID"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "United States",
+      "score": "3–0",
+      "scorers": [
+        {
+          "name": "Bert Patenaude",
+          "minute": "10'",
+          "ownGoal": false
+        },
+        {
+          "name": "Bert Patenaude",
+          "minute": "15'",
+          "ownGoal": false
+        },
+        {
+          "name": "Bert Patenaude",
+          "minute": "50'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1930-07-17"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Belgium",
+      "score": "1–0",
+      "scorers": [
+        {
+          "name": "Luis Vargas Peña",
+          "minute": "40'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1930-07-20"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

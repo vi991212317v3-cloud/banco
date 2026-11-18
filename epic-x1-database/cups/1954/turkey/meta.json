@@ -1,0 +1,282 @@
+{
+  "country": "Turkey",
+  "countrySlug": "turkey",
+  "year": 1954,
+  "edition": "1954",
+  "host": "Switzerland",
+  "coach": "Sandro Puppo",
+  "finalPhase": "Group Stage",
+  "result": "Group Stage",
+  "squad": [
+    {
+      "id": "turkey-1954-1",
+      "name": "Turgay Şeren",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "turkey-1954-2",
+      "name": "Rıdvan Bolatlı",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "turkey-1954-3",
+      "name": "Basri Dirimlili",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "turkey-1954-4",
+      "name": "Mustafa Ertan",
+      "shirtNumber": 4,
+      "position": "DEF"
+    },
+    {
+      "id": "turkey-1954-5",
+      "name": "Çetin Zeybek",
+      "shirtNumber": 5,
+      "position": "MID"
+    },
+    {
+      "id": "turkey-1954-6",
+      "name": "Rober Eryol",
+      "shirtNumber": 6,
+      "position": "MID"
+    },
+    {
+      "id": "turkey-1954-7",
+      "name": "Erol Keskin",
+      "shirtNumber": 7,
+      "position": "ATT"
+    },
+    {
+      "id": "turkey-1954-8",
+      "name": "Suat Mamat",
+      "shirtNumber": 8,
+      "position": "ATT"
+    },
+    {
+      "id": "turkey-1954-9",
+      "name": "Feridun Buğeker",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "turkey-1954-10",
+      "name": "Burhan Sargun",
+      "shirtNumber": 10,
+      "position": "ATT"
+    },
+    {
+      "id": "turkey-1954-11",
+      "name": "Lefter Küçükandonyadis",
+      "shirtNumber": 11,
+      "position": "ATT"
+    },
+    {
+      "id": "turkey-1954-12",
+      "name": "Şükrü Ersoy",
+      "shirtNumber": 12,
+      "position": "GK"
+    },
+    {
+      "id": "turkey-1954-13",
+      "name": "Bülent Eken",
+      "shirtNumber": 13,
+      "position": "GK"
+    },
+    {
+      "id": "turkey-1954-14",
+      "name": "Ali Beratlıgil",
+      "shirtNumber": 14,
+      "position": "DEF"
+    },
+    {
+      "id": "turkey-1954-15",
+      "name": "Mehmet Dinçer",
+      "shirtNumber": 15,
+      "position": "MID"
+    },
+    {
+      "id": "turkey-1954-16",
+      "name": "Nedim Günar",
+      "shirtNumber": 16,
+      "position": "DEF"
+    },
+    {
+      "id": "turkey-1954-17",
+      "name": "Naci Erdem",
+      "shirtNumber": 17,
+      "position": "DEF"
+    },
+    {
+      "id": "turkey-1954-18",
+      "name": "Kaçmaz Akgün",
+      "shirtNumber": 18,
+      "position": "DEF"
+    },
+    {
+      "id": "turkey-1954-19",
+      "name": "Ahmet Berman",
+      "shirtNumber": 19,
+      "position": "DEF"
+    },
+    {
+      "id": "turkey-1954-20",
+      "name": "Necmi Onarıcı",
+      "shirtNumber": 20,
+      "position": "ATT"
+    },
+    {
+      "id": "turkey-1954-21",
+      "name": "Kadri Aytaç",
+      "shirtNumber": 21,
+      "position": "ATT"
+    },
+    {
+      "id": "turkey-1954-22",
+      "name": "Coşkun Taş",
+      "shirtNumber": 22,
+      "position": "ATT"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "West Germany",
+      "score": "4–1",
+      "scorers": [
+        {
+          "name": "Suat Mamat",
+          "minute": "2'",
+          "ownGoal": false
+        },
+        {
+          "name": "Hans Schäfer",
+          "minute": "14'",
+          "ownGoal": false
+        },
+        {
+          "name": "Bernhard Klodt",
+          "minute": "52'",
+          "ownGoal": false
+        },
+        {
+          "name": "Ottmar Walter",
+          "minute": "60'",
+          "ownGoal": false
+        },
+        {
+          "name": "Max Morlock",
+          "minute": "84'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1954-06-17"
+    },
+    {
+      "stage": "Group",
+      "opponent": "South Korea",
+      "score": "7–0",
+      "scorers": [
+        {
+          "name": "Suat Mamat",
+          "minute": "10'",
+          "ownGoal": false
+        },
+        {
+          "name": "Lefter Küçükandonyadis",
+          "minute": "24'",
+          "ownGoal": false
+        },
+        {
+          "name": "Suat Mamat",
+          "minute": "30'",
+          "ownGoal": false
+        },
+        {
+          "name": "Burhan Sargun",
+          "minute": "37'",
+          "ownGoal": false
+        },
+        {
+          "name": "Burhan Sargun",
+          "minute": "64'",
+          "ownGoal": false
+        },
+        {
+          "name": "Burhan Sargun",
+          "minute": "70'",
+          "ownGoal": false
+        },
+        {
+          "name": "Erol Keskin",
+          "minute": "76'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1954-06-20"
+    },
+    {
+      "stage": "Group",
+      "opponent": "West Germany",
+      "score": "7–2",
+      "scorers": [
+        {
+          "name": "Ottmar Walter",
+          "minute": "7'",
+          "ownGoal": false
+        },
+        {
+          "name": "Hans Schäfer",
+          "minute": "12'",
+          "ownGoal": false
+        },
+        {
+          "name": "Mustafa Ertan",
+          "minute": "21'",
+          "ownGoal": false
+        },
+        {
+          "name": "Max Morlock",
+          "minute": "30'",
+          "ownGoal": false
+        },
+        {
+          "name": "Max Morlock",
+          "minute": "60'",
+          "ownGoal": false
+        },
+        {
+          "name": "Fritz Walter",
+          "minute": "62'",
+          "ownGoal": false
+        },
+        {
+          "name": "Max Morlock",
+          "minute": "77'",
+          "ownGoal": false
+        },
+        {
+          "name": "Hans Schäfer",
+          "minute": "79'",
+          "ownGoal": false
+        },
+        {
+          "name": "Lefter Küçükandonyadis",
+          "minute": "82'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1954-06-23"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

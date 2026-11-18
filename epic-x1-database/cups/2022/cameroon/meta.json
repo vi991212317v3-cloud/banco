@@ -1,0 +1,241 @@
+{
+  "country": "Cameroon",
+  "countrySlug": "cameroon",
+  "year": 2022,
+  "edition": "2022",
+  "host": "Qatar",
+  "coach": "Rigobert Song",
+  "finalPhase": "Group Stage",
+  "result": "Group Stage",
+  "squad": [
+    {
+      "id": "cameroon-2022-1",
+      "name": "Simon Ngapandouetnbu",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "cameroon-2022-2",
+      "name": "Jerome Ngom Mbekeli",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "cameroon-2022-3",
+      "name": "Nicolas Nkoulou",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "cameroon-2022-4",
+      "name": "Christopher Wooh",
+      "shirtNumber": 4,
+      "position": "DEF"
+    },
+    {
+      "id": "cameroon-2022-5",
+      "name": "Gaël Ondoua",
+      "shirtNumber": 5,
+      "position": "MID"
+    },
+    {
+      "id": "cameroon-2022-6",
+      "name": "Moumi Ngamaleu",
+      "shirtNumber": 6,
+      "position": "ATT"
+    },
+    {
+      "id": "cameroon-2022-7",
+      "name": "Georges-Kévin Nkoudou",
+      "shirtNumber": 7,
+      "position": "MID"
+    },
+    {
+      "id": "cameroon-2022-8",
+      "name": "André-Frank Zambo Anguissa",
+      "shirtNumber": 8,
+      "position": "MID"
+    },
+    {
+      "id": "cameroon-2022-9",
+      "name": "Jean-Pierre Nsame",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "cameroon-2022-10",
+      "name": "Vincent Aboubakar",
+      "shirtNumber": 10,
+      "position": "ATT"
+    },
+    {
+      "id": "cameroon-2022-11",
+      "name": "Christian Bassogog",
+      "shirtNumber": 11,
+      "position": "ATT"
+    },
+    {
+      "id": "cameroon-2022-12",
+      "name": "Karl Toko Ekambi",
+      "shirtNumber": 12,
+      "position": "ATT"
+    },
+    {
+      "id": "cameroon-2022-13",
+      "name": "Eric Maxim Choupo-Moting",
+      "shirtNumber": 13,
+      "position": "ATT"
+    },
+    {
+      "id": "cameroon-2022-14",
+      "name": "Samuel Gouet",
+      "shirtNumber": 14,
+      "position": "MID"
+    },
+    {
+      "id": "cameroon-2022-15",
+      "name": "Pierre Kunde",
+      "shirtNumber": 15,
+      "position": "MID"
+    },
+    {
+      "id": "cameroon-2022-16",
+      "name": "Devis Epassy",
+      "shirtNumber": 16,
+      "position": "GK"
+    },
+    {
+      "id": "cameroon-2022-17",
+      "name": "Olivier Mbaizo",
+      "shirtNumber": 17,
+      "position": "DEF"
+    },
+    {
+      "id": "cameroon-2022-18",
+      "name": "Martin Hongla",
+      "shirtNumber": 18,
+      "position": "MID"
+    },
+    {
+      "id": "cameroon-2022-19",
+      "name": "Collins Fai",
+      "shirtNumber": 19,
+      "position": "DEF"
+    },
+    {
+      "id": "cameroon-2022-20",
+      "name": "Bryan Mbeumo",
+      "shirtNumber": 20,
+      "position": "ATT"
+    },
+    {
+      "id": "cameroon-2022-21",
+      "name": "Jean-Charles Castelletto",
+      "shirtNumber": 21,
+      "position": "DEF"
+    },
+    {
+      "id": "cameroon-2022-22",
+      "name": "Olivier Ntcham",
+      "shirtNumber": 22,
+      "position": "MID"
+    },
+    {
+      "id": "cameroon-2022-23",
+      "name": "André Onana",
+      "shirtNumber": 23,
+      "position": "GK"
+    },
+    {
+      "id": "cameroon-2022-24",
+      "name": "Enzo Ebosse",
+      "shirtNumber": 24,
+      "position": "DEF"
+    },
+    {
+      "id": "cameroon-2022-25",
+      "name": "Nouhou Tolo",
+      "shirtNumber": 25,
+      "position": "DEF"
+    },
+    {
+      "id": "cameroon-2022-26",
+      "name": "Souaibou Marou",
+      "shirtNumber": 26,
+      "position": "MID"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "Switzerland",
+      "score": "1–0",
+      "scorers": [
+        {
+          "name": "Breel Embolo",
+          "minute": "48'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2022-11-24"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Serbia",
+      "score": "3–3",
+      "scorers": [
+        {
+          "name": "Jean-Charles Castelletto",
+          "minute": "29'",
+          "ownGoal": false
+        },
+        {
+          "name": "Strahinja Pavlović",
+          "minute": "45'+1'",
+          "ownGoal": false
+        },
+        {
+          "name": "Sergej Milinković-Savić",
+          "minute": "45'+3'",
+          "ownGoal": false
+        },
+        {
+          "name": "Aleksandar Mitrović",
+          "minute": "53'",
+          "ownGoal": false
+        },
+        {
+          "name": "Vincent Aboubakar",
+          "minute": "63'",
+          "ownGoal": false
+        },
+        {
+          "name": "Eric Maxim Choupo-Moting",
+          "minute": "66'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2022-11-28"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Brazil",
+      "score": "1–0",
+      "scorers": [
+        {
+          "name": "Vincent Aboubakar",
+          "minute": "90'+2'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2022-12-02"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

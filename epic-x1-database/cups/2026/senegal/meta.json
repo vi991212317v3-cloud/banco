@@ -1,0 +1,304 @@
+{
+  "country": "Senegal",
+  "countrySlug": "senegal",
+  "year": 2026,
+  "edition": "2026",
+  "host": "Canada, Mexico and United States",
+  "coach": "THIAW Pape",
+  "finalPhase": "Round of 32",
+  "result": "Round of 32",
+  "squad": [
+    {
+      "id": "senegal-2026-1",
+      "name": "Yehvann Djibril Victor DIOUF",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "senegal-2026-2",
+      "name": "Mamadou SARR",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "senegal-2026-3",
+      "name": "Kalidou KOULIBALY",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "senegal-2026-4",
+      "name": "Abdoulaye SECK",
+      "shirtNumber": 4,
+      "position": "DEF"
+    },
+    {
+      "id": "senegal-2026-5",
+      "name": "Idrissa Gana GUEYE",
+      "shirtNumber": 5,
+      "position": "MID"
+    },
+    {
+      "id": "senegal-2026-6",
+      "name": "Ismaila Pathe CISS",
+      "shirtNumber": 6,
+      "position": "MID"
+    },
+    {
+      "id": "senegal-2026-7",
+      "name": "Assane DIAO",
+      "shirtNumber": 7,
+      "position": "ATT"
+    },
+    {
+      "id": "senegal-2026-8",
+      "name": "Lamine CAMARA",
+      "shirtNumber": 8,
+      "position": "MID"
+    },
+    {
+      "id": "senegal-2026-9",
+      "name": "Cheikh Ahmadou Bamba Mbacke DIENG",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "senegal-2026-10",
+      "name": "Sadio MANE",
+      "shirtNumber": 10,
+      "position": "ATT"
+    },
+    {
+      "id": "senegal-2026-11",
+      "name": "Nicolas JACKSON",
+      "shirtNumber": 11,
+      "position": "ATT"
+    },
+    {
+      "id": "senegal-2026-12",
+      "name": "Pape Cherif NDIAYE",
+      "shirtNumber": 12,
+      "position": "ATT"
+    },
+    {
+      "id": "senegal-2026-13",
+      "name": "Iliman Cheikh Baroy NDIAYE",
+      "shirtNumber": 13,
+      "position": "ATT"
+    },
+    {
+      "id": "senegal-2026-14",
+      "name": "Ismail Joshua JAKOBS",
+      "shirtNumber": 14,
+      "position": "DEF"
+    },
+    {
+      "id": "senegal-2026-15",
+      "name": "Krepin DIATTA",
+      "shirtNumber": 15,
+      "position": "DEF"
+    },
+    {
+      "id": "senegal-2026-16",
+      "name": "Edouard Osoque MENDY",
+      "shirtNumber": 16,
+      "position": "GK"
+    },
+    {
+      "id": "senegal-2026-17",
+      "name": "Pape Matar SARR",
+      "shirtNumber": 17,
+      "position": "MID"
+    },
+    {
+      "id": "senegal-2026-18",
+      "name": "Ismaila SARR",
+      "shirtNumber": 18,
+      "position": "ATT"
+    },
+    {
+      "id": "senegal-2026-19",
+      "name": "Moussa NIAKHATE",
+      "shirtNumber": 19,
+      "position": "DEF"
+    },
+    {
+      "id": "senegal-2026-20",
+      "name": "Ibrahim MBAYE",
+      "shirtNumber": 20,
+      "position": "ATT"
+    },
+    {
+      "id": "senegal-2026-21",
+      "name": "Mouhamadou Habib Mbacke DIARRA",
+      "shirtNumber": 21,
+      "position": "MID"
+    },
+    {
+      "id": "senegal-2026-22",
+      "name": "Bara Sapoko NDIAYE",
+      "shirtNumber": 22,
+      "position": "MID"
+    },
+    {
+      "id": "senegal-2026-23",
+      "name": "Mory DIAW",
+      "shirtNumber": 23,
+      "position": "GK"
+    },
+    {
+      "id": "senegal-2026-24",
+      "name": "Antoine Alpha MENDY",
+      "shirtNumber": 24,
+      "position": "DEF"
+    },
+    {
+      "id": "senegal-2026-25",
+      "name": "El Hadji Malick DIOUF",
+      "shirtNumber": 25,
+      "position": "DEF"
+    },
+    {
+      "id": "senegal-2026-26",
+      "name": "Pape Alassane GUEYE",
+      "shirtNumber": 26,
+      "position": "MID"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group Stage",
+      "opponent": "France",
+      "score": "3–1",
+      "scorers": [
+        {
+          "name": "Kylian MBAPPE LOTTIN",
+          "minute": 66,
+          "ownGoal": false
+        },
+        {
+          "name": "Bradley Jean-Manuel Essolisa A BARCOLA",
+          "minute": 82,
+          "ownGoal": false
+        },
+        {
+          "name": "Kylian MBAPPE LOTTIN",
+          "minute": 90,
+          "ownGoal": false
+        },
+        {
+          "name": "Ibrahim MBAYE",
+          "minute": 90,
+          "ownGoal": false
+        }
+      ],
+      "date": "2026-06-16"
+    },
+    {
+      "stage": "Group Stage",
+      "opponent": "Norway",
+      "score": "3–2",
+      "scorers": [
+        {
+          "name": "Marcus Holmgren PEDERSEN",
+          "minute": 43,
+          "ownGoal": false
+        },
+        {
+          "name": "Erling Braut HAALAND",
+          "minute": 48,
+          "ownGoal": false
+        },
+        {
+          "name": "Ismaila SARR",
+          "minute": 53,
+          "ownGoal": false
+        },
+        {
+          "name": "Erling Braut HAALAND",
+          "minute": 58,
+          "ownGoal": false
+        },
+        {
+          "name": "Ismaila SARR",
+          "minute": 90,
+          "ownGoal": false
+        }
+      ],
+      "date": "2026-06-22"
+    },
+    {
+      "stage": "Group Stage",
+      "opponent": "Iraq",
+      "score": "5–0",
+      "scorers": [
+        {
+          "name": "Mouhamadou Habib Mbacke DIARRA",
+          "minute": 4,
+          "ownGoal": false
+        },
+        {
+          "name": "Ismaila SARR",
+          "minute": 56,
+          "ownGoal": false
+        },
+        {
+          "name": "Pape Alassane GUEYE",
+          "minute": 59,
+          "ownGoal": false
+        },
+        {
+          "name": "Pape Alassane GUEYE",
+          "minute": 71,
+          "ownGoal": false
+        },
+        {
+          "name": "Iliman Cheikh Baroy NDIAYE",
+          "minute": 82,
+          "ownGoal": false
+        }
+      ],
+      "date": "2026-06-26"
+    },
+    {
+      "stage": "Round of 32",
+      "opponent": "Belgium",
+      "score": "3–2",
+      "scorers": [
+        {
+          "name": "Mouhamadou Habib Mbacke DIARRA",
+          "minute": 25,
+          "ownGoal": false
+        },
+        {
+          "name": "Ismaila SARR",
+          "minute": 51,
+          "ownGoal": false
+        },
+        {
+          "name": "Romelu LUKAKU BOLINGOLI",
+          "minute": 86,
+          "ownGoal": false
+        },
+        {
+          "name": "Youri Marion A TIELEMANS",
+          "minute": 89,
+          "ownGoal": false
+        },
+        {
+          "name": "Youri Marion A TIELEMANS",
+          "minute": 120,
+          "ownGoal": false
+        }
+      ],
+      "date": "2026-07-02"
+    }
+  ],
+  "sources": [
+    "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/final-tournament-standings",
+    "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/teams",
+    "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+    "https://github.com/openfootball/worldcup.json",
+    "https://github.com/mominullptr/FIFA-World-Cup-2026-Dataset"
+  ]
+}

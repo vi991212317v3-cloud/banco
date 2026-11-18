@@ -1,0 +1,299 @@
+{
+  "country": "France",
+  "countrySlug": "france",
+  "year": 1986,
+  "edition": "1986",
+  "host": "Mexico",
+  "coach": "Henri Michel",
+  "finalPhase": "Third-place match",
+  "result": "Third place",
+  "squad": [
+    {
+      "id": "france-1986-1",
+      "name": "Joël Bats",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "france-1986-2",
+      "name": "Manuel Amoros",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "france-1986-3",
+      "name": "William Ayache",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "france-1986-4",
+      "name": "Patrick Battiston",
+      "shirtNumber": 4,
+      "position": "DEF"
+    },
+    {
+      "id": "france-1986-5",
+      "name": "Michel Bibard",
+      "shirtNumber": 5,
+      "position": "DEF"
+    },
+    {
+      "id": "france-1986-6",
+      "name": "Maxime Bossis",
+      "shirtNumber": 6,
+      "position": "DEF"
+    },
+    {
+      "id": "france-1986-7",
+      "name": "Yvon Le Roux",
+      "shirtNumber": 7,
+      "position": "DEF"
+    },
+    {
+      "id": "france-1986-8",
+      "name": "Thierry Tusseau",
+      "shirtNumber": 8,
+      "position": "DEF"
+    },
+    {
+      "id": "france-1986-9",
+      "name": "Luis Fernández",
+      "shirtNumber": 9,
+      "position": "MID"
+    },
+    {
+      "id": "france-1986-10",
+      "name": "Michel Platini",
+      "shirtNumber": 10,
+      "position": "MID"
+    },
+    {
+      "id": "france-1986-11",
+      "name": "Jean-Marc Ferreri",
+      "shirtNumber": 11,
+      "position": "MID"
+    },
+    {
+      "id": "france-1986-12",
+      "name": "Alain Giresse",
+      "shirtNumber": 12,
+      "position": "MID"
+    },
+    {
+      "id": "france-1986-13",
+      "name": "Bernard Genghini",
+      "shirtNumber": 13,
+      "position": "MID"
+    },
+    {
+      "id": "france-1986-14",
+      "name": "Jean Tigana",
+      "shirtNumber": 14,
+      "position": "MID"
+    },
+    {
+      "id": "france-1986-15",
+      "name": "Philippe Vercruysse",
+      "shirtNumber": 15,
+      "position": "MID"
+    },
+    {
+      "id": "france-1986-16",
+      "name": "Bruno Bellone",
+      "shirtNumber": 16,
+      "position": "ATT"
+    },
+    {
+      "id": "france-1986-17",
+      "name": "Jean-Pierre Papin",
+      "shirtNumber": 17,
+      "position": "ATT"
+    },
+    {
+      "id": "france-1986-18",
+      "name": "Dominique Rocheteau",
+      "shirtNumber": 18,
+      "position": "ATT"
+    },
+    {
+      "id": "france-1986-19",
+      "name": "Yannick Stopyra",
+      "shirtNumber": 19,
+      "position": "ATT"
+    },
+    {
+      "id": "france-1986-20",
+      "name": "Daniel Xuereb",
+      "shirtNumber": 20,
+      "position": "ATT"
+    },
+    {
+      "id": "france-1986-21",
+      "name": "Philippe Bergeroo",
+      "shirtNumber": 21,
+      "position": "GK"
+    },
+    {
+      "id": "france-1986-22",
+      "name": "Albert Rust",
+      "shirtNumber": 22,
+      "position": "GK"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "Canada",
+      "score": "0–1",
+      "scorers": [
+        {
+          "name": "Jean-Pierre Papin",
+          "minute": "79'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1986-06-01"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Soviet Union",
+      "score": "1–1",
+      "scorers": [
+        {
+          "name": "Vasyl Rats",
+          "minute": "53'",
+          "ownGoal": false
+        },
+        {
+          "name": "Luis Fernández",
+          "minute": "62'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1986-06-05"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Hungary",
+      "score": "0–3",
+      "scorers": [
+        {
+          "name": "Yannick Stopyra",
+          "minute": "29'",
+          "ownGoal": false
+        },
+        {
+          "name": "Jean Tigana",
+          "minute": "62'",
+          "ownGoal": false
+        },
+        {
+          "name": "Dominique Rocheteau",
+          "minute": "84'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1986-06-09"
+    },
+    {
+      "stage": "Round of 16",
+      "opponent": "Italy",
+      "score": "0–2",
+      "scorers": [
+        {
+          "name": "Michel Platini",
+          "minute": "15'",
+          "ownGoal": false
+        },
+        {
+          "name": "Yannick Stopyra",
+          "minute": "57'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1986-06-17"
+    },
+    {
+      "stage": "Quarter-final",
+      "opponent": "Brazil",
+      "score": "1–1",
+      "scorers": [
+        {
+          "name": "Careca",
+          "minute": "17'",
+          "ownGoal": false
+        },
+        {
+          "name": "Michel Platini",
+          "minute": "40'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1986-06-21"
+    },
+    {
+      "stage": "Semi-final",
+      "opponent": "West Germany",
+      "score": "0–2",
+      "scorers": [
+        {
+          "name": "Andreas Brehme",
+          "minute": "9'",
+          "ownGoal": false
+        },
+        {
+          "name": "Rudi Völler",
+          "minute": "90'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1986-06-25"
+    },
+    {
+      "stage": "Third-place match",
+      "opponent": "Belgium",
+      "score": "2–4",
+      "scorers": [
+        {
+          "name": "Jan Ceulemans",
+          "minute": "11'",
+          "ownGoal": false
+        },
+        {
+          "name": "Jean-Marc Ferreri",
+          "minute": "27'",
+          "ownGoal": false
+        },
+        {
+          "name": "Jean-Pierre Papin",
+          "minute": "43'",
+          "ownGoal": false
+        },
+        {
+          "name": "Nico Claesen",
+          "minute": "73'",
+          "ownGoal": false
+        },
+        {
+          "name": "Bernard Genghini",
+          "minute": "104'",
+          "ownGoal": false
+        },
+        {
+          "name": "Manuel Amoros",
+          "minute": "111'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1986-06-28"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

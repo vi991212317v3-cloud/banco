@@ -1,0 +1,270 @@
+{
+  "country": "Soviet Union",
+  "countrySlug": "soviet-union",
+  "year": 1986,
+  "edition": "1986",
+  "host": "Mexico",
+  "coach": "Valeri Lobanovsky",
+  "finalPhase": "Round of 16",
+  "result": "Round of 16",
+  "squad": [
+    {
+      "id": "soviet-union-1986-1",
+      "name": "Rinat Dasayev",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "soviet-union-1986-2",
+      "name": "Volodymyr Bezsonov",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "soviet-union-1986-3",
+      "name": "Aleksandr Chivadze",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "soviet-union-1986-4",
+      "name": "Gennady Morozov",
+      "shirtNumber": 4,
+      "position": "DEF"
+    },
+    {
+      "id": "soviet-union-1986-5",
+      "name": "Anatoliy Demyanenko",
+      "shirtNumber": 5,
+      "position": "DEF"
+    },
+    {
+      "id": "soviet-union-1986-6",
+      "name": "Aleksandr Bubnov",
+      "shirtNumber": 6,
+      "position": "DEF"
+    },
+    {
+      "id": "soviet-union-1986-7",
+      "name": "Ivan Yaremchuk",
+      "shirtNumber": 7,
+      "position": "MID"
+    },
+    {
+      "id": "soviet-union-1986-8",
+      "name": "Pavel Yakovenko",
+      "shirtNumber": 8,
+      "position": "MID"
+    },
+    {
+      "id": "soviet-union-1986-9",
+      "name": "Oleksandr Zavarov",
+      "shirtNumber": 9,
+      "position": "MID"
+    },
+    {
+      "id": "soviet-union-1986-10",
+      "name": "Oleh Kuznetsov",
+      "shirtNumber": 10,
+      "position": "DEF"
+    },
+    {
+      "id": "soviet-union-1986-11",
+      "name": "Oleh Blokhin",
+      "shirtNumber": 11,
+      "position": "ATT"
+    },
+    {
+      "id": "soviet-union-1986-12",
+      "name": "Andriy Bal",
+      "shirtNumber": 12,
+      "position": "MID"
+    },
+    {
+      "id": "soviet-union-1986-13",
+      "name": "Gennadiy Litovchenko",
+      "shirtNumber": 13,
+      "position": "MID"
+    },
+    {
+      "id": "soviet-union-1986-14",
+      "name": "Sergey Rodionov",
+      "shirtNumber": 14,
+      "position": "ATT"
+    },
+    {
+      "id": "soviet-union-1986-15",
+      "name": "Nikolay Larionov",
+      "shirtNumber": 15,
+      "position": "DEF"
+    },
+    {
+      "id": "soviet-union-1986-16",
+      "name": "Viktor Chanov",
+      "shirtNumber": 16,
+      "position": "GK"
+    },
+    {
+      "id": "soviet-union-1986-17",
+      "name": "Vadym Yevtushenko",
+      "shirtNumber": 17,
+      "position": "MID"
+    },
+    {
+      "id": "soviet-union-1986-18",
+      "name": "Oleh Protasov",
+      "shirtNumber": 18,
+      "position": "ATT"
+    },
+    {
+      "id": "soviet-union-1986-19",
+      "name": "Ihor Belanov",
+      "shirtNumber": 19,
+      "position": "MID"
+    },
+    {
+      "id": "soviet-union-1986-20",
+      "name": "Sergei Aleinikov",
+      "shirtNumber": 20,
+      "position": "MID"
+    },
+    {
+      "id": "soviet-union-1986-21",
+      "name": "Vasyl Rats",
+      "shirtNumber": 21,
+      "position": "MID"
+    },
+    {
+      "id": "soviet-union-1986-22",
+      "name": "Serhiy Krakovskiy",
+      "shirtNumber": 22,
+      "position": "GK"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "Hungary",
+      "score": "6–0",
+      "scorers": [
+        {
+          "name": "Pavel Yakovenko",
+          "minute": "2'",
+          "ownGoal": false
+        },
+        {
+          "name": "Sergei Aleinikov",
+          "minute": "4'",
+          "ownGoal": false
+        },
+        {
+          "name": "Ihor Belanov",
+          "minute": "24'",
+          "ownGoal": false
+        },
+        {
+          "name": "Ivan Yaremchuk",
+          "minute": "66'",
+          "ownGoal": false
+        },
+        {
+          "name": "László Dajka",
+          "minute": "73'",
+          "ownGoal": true
+        },
+        {
+          "name": "Sergey Rodionov",
+          "minute": "80'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1986-06-02"
+    },
+    {
+      "stage": "Group",
+      "opponent": "France",
+      "score": "1–1",
+      "scorers": [
+        {
+          "name": "Vasyl Rats",
+          "minute": "53'",
+          "ownGoal": false
+        },
+        {
+          "name": "Luis Fernández",
+          "minute": "62'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1986-06-05"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Canada",
+      "score": "2–0",
+      "scorers": [
+        {
+          "name": "Oleh Blokhin",
+          "minute": "58'",
+          "ownGoal": false
+        },
+        {
+          "name": "Oleksandr Zavarov",
+          "minute": "74'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1986-06-09"
+    },
+    {
+      "stage": "Round of 16",
+      "opponent": "Belgium",
+      "score": "3–4",
+      "scorers": [
+        {
+          "name": "Ihor Belanov",
+          "minute": "27'",
+          "ownGoal": false
+        },
+        {
+          "name": "Enzo Scifo",
+          "minute": "56'",
+          "ownGoal": false
+        },
+        {
+          "name": "Ihor Belanov",
+          "minute": "70'",
+          "ownGoal": false
+        },
+        {
+          "name": "Jan Ceulemans",
+          "minute": "77'",
+          "ownGoal": false
+        },
+        {
+          "name": "Stéphane Demol",
+          "minute": "102'",
+          "ownGoal": false
+        },
+        {
+          "name": "Nico Claesen",
+          "minute": "110'",
+          "ownGoal": false
+        },
+        {
+          "name": "Ihor Belanov",
+          "minute": "111'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1986-06-15"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

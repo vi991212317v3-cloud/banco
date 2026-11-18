@@ -1,0 +1,201 @@
+{
+  "country": "Australia",
+  "countrySlug": "australia",
+  "year": 1974,
+  "edition": "1974",
+  "host": "West Germany",
+  "coach": "Rale Rasic",
+  "finalPhase": "Group Stage",
+  "result": "Group Stage",
+  "squad": [
+    {
+      "id": "australia-1974-1",
+      "name": "Jack Reilly",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "australia-1974-2",
+      "name": "Doug Utjesenovic",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "australia-1974-3",
+      "name": "Peter Wilson",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "australia-1974-4",
+      "name": "Manfred Schaefer",
+      "shirtNumber": 4,
+      "position": "DEF"
+    },
+    {
+      "id": "australia-1974-5",
+      "name": "Colin Curran",
+      "shirtNumber": 5,
+      "position": "DEF"
+    },
+    {
+      "id": "australia-1974-6",
+      "name": "Ray Richards",
+      "shirtNumber": 6,
+      "position": "MID"
+    },
+    {
+      "id": "australia-1974-7",
+      "name": "Jimmy Rooney",
+      "shirtNumber": 7,
+      "position": "MID"
+    },
+    {
+      "id": "australia-1974-8",
+      "name": "Jimmy Mackay",
+      "shirtNumber": 8,
+      "position": "MID"
+    },
+    {
+      "id": "australia-1974-9",
+      "name": "Johnny Warren",
+      "shirtNumber": 9,
+      "position": "MID"
+    },
+    {
+      "id": "australia-1974-10",
+      "name": "Garry Manuel",
+      "shirtNumber": 10,
+      "position": "ATT"
+    },
+    {
+      "id": "australia-1974-11",
+      "name": "Attila Abonyi",
+      "shirtNumber": 11,
+      "position": "ATT"
+    },
+    {
+      "id": "australia-1974-12",
+      "name": "Adrian Alston",
+      "shirtNumber": 12,
+      "position": "ATT"
+    },
+    {
+      "id": "australia-1974-13",
+      "name": "Peter Ollerton",
+      "shirtNumber": 13,
+      "position": "MID"
+    },
+    {
+      "id": "australia-1974-14",
+      "name": "Max Tolson",
+      "shirtNumber": 14,
+      "position": "MID"
+    },
+    {
+      "id": "australia-1974-15",
+      "name": "Harry Williams",
+      "shirtNumber": 15,
+      "position": "DEF"
+    },
+    {
+      "id": "australia-1974-16",
+      "name": "Ivo Rudic",
+      "shirtNumber": 16,
+      "position": "DEF"
+    },
+    {
+      "id": "australia-1974-17",
+      "name": "Dave Harding",
+      "shirtNumber": 17,
+      "position": "DEF"
+    },
+    {
+      "id": "australia-1974-18",
+      "name": "Johnny Watkiss",
+      "shirtNumber": 18,
+      "position": "MID"
+    },
+    {
+      "id": "australia-1974-19",
+      "name": "Ernie Campbell",
+      "shirtNumber": 19,
+      "position": "MID"
+    },
+    {
+      "id": "australia-1974-20",
+      "name": "Branko Buljevic",
+      "shirtNumber": 20,
+      "position": "ATT"
+    },
+    {
+      "id": "australia-1974-21",
+      "name": "Jim Milisavljevic",
+      "shirtNumber": 21,
+      "position": "GK"
+    },
+    {
+      "id": "australia-1974-22",
+      "name": "Allan Maher",
+      "shirtNumber": 22,
+      "position": "GK"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "East Germany",
+      "score": "2–0",
+      "scorers": [
+        {
+          "name": "Colin Curran",
+          "minute": "58'",
+          "ownGoal": true
+        },
+        {
+          "name": "Joachim Streich",
+          "minute": "72'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1974-06-14"
+    },
+    {
+      "stage": "Group",
+      "opponent": "West Germany",
+      "score": "0–3",
+      "scorers": [
+        {
+          "name": "Wolfgang Overath",
+          "minute": "12'",
+          "ownGoal": false
+        },
+        {
+          "name": "Bernhard Cullmann",
+          "minute": "34'",
+          "ownGoal": false
+        },
+        {
+          "name": "Gerd Müller",
+          "minute": "53'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1974-06-18"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Chile",
+      "score": "0–0",
+      "scorers": [],
+      "date": "1974-06-22"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

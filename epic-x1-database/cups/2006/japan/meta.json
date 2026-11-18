@@ -1,0 +1,227 @@
+{
+  "country": "Japan",
+  "countrySlug": "japan",
+  "year": 2006,
+  "edition": "2006",
+  "host": "Germany",
+  "coach": "Zico",
+  "finalPhase": "Group Stage",
+  "result": "Group Stage",
+  "squad": [
+    {
+      "id": "japan-2006-1",
+      "name": "Seigo Narazaki",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "japan-2006-2",
+      "name": "Teruyuki Moniwa",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "japan-2006-3",
+      "name": "Yūichi Komano",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "japan-2006-4",
+      "name": "Yasuhito Endō",
+      "shirtNumber": 4,
+      "position": "MID"
+    },
+    {
+      "id": "japan-2006-5",
+      "name": "Tsuneyasu Miyamoto",
+      "shirtNumber": 5,
+      "position": "DEF"
+    },
+    {
+      "id": "japan-2006-6",
+      "name": "Kōji Nakata",
+      "shirtNumber": 6,
+      "position": "DEF"
+    },
+    {
+      "id": "japan-2006-7",
+      "name": "Hidetoshi Nakata",
+      "shirtNumber": 7,
+      "position": "MID"
+    },
+    {
+      "id": "japan-2006-8",
+      "name": "Mitsuo Ogasawara",
+      "shirtNumber": 8,
+      "position": "MID"
+    },
+    {
+      "id": "japan-2006-9",
+      "name": "Naohiro Takahara",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "japan-2006-10",
+      "name": "Shunsuke Nakamura",
+      "shirtNumber": 10,
+      "position": "MID"
+    },
+    {
+      "id": "japan-2006-11",
+      "name": "Seiichiro Maki",
+      "shirtNumber": 11,
+      "position": "ATT"
+    },
+    {
+      "id": "japan-2006-12",
+      "name": "Yoichi Doi",
+      "shirtNumber": 12,
+      "position": "GK"
+    },
+    {
+      "id": "japan-2006-13",
+      "name": "Atsushi Yanagisawa",
+      "shirtNumber": 13,
+      "position": "ATT"
+    },
+    {
+      "id": "japan-2006-14",
+      "name": "Alessandro Santos",
+      "shirtNumber": 14,
+      "position": "DEF"
+    },
+    {
+      "id": "japan-2006-15",
+      "name": "Takashi Fukunishi",
+      "shirtNumber": 15,
+      "position": "MID"
+    },
+    {
+      "id": "japan-2006-16",
+      "name": "Masashi Oguro",
+      "shirtNumber": 16,
+      "position": "ATT"
+    },
+    {
+      "id": "japan-2006-17",
+      "name": "Junichi Inamoto",
+      "shirtNumber": 17,
+      "position": "MID"
+    },
+    {
+      "id": "japan-2006-18",
+      "name": "Shinji Ono",
+      "shirtNumber": 18,
+      "position": "MID"
+    },
+    {
+      "id": "japan-2006-19",
+      "name": "Keisuke Tsuboi",
+      "shirtNumber": 19,
+      "position": "DEF"
+    },
+    {
+      "id": "japan-2006-20",
+      "name": "Keiji Tamada",
+      "shirtNumber": 20,
+      "position": "ATT"
+    },
+    {
+      "id": "japan-2006-21",
+      "name": "Akira Kaji",
+      "shirtNumber": 21,
+      "position": "DEF"
+    },
+    {
+      "id": "japan-2006-22",
+      "name": "Yuji Nakazawa",
+      "shirtNumber": 22,
+      "position": "DEF"
+    },
+    {
+      "id": "japan-2006-23",
+      "name": "Yoshikatsu Kawaguchi",
+      "shirtNumber": 23,
+      "position": "GK"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "Australia",
+      "score": "3–1",
+      "scorers": [
+        {
+          "name": "Shunsuke Nakamura",
+          "minute": "26'",
+          "ownGoal": false
+        },
+        {
+          "name": "Tim Cahill",
+          "minute": "84'",
+          "ownGoal": false
+        },
+        {
+          "name": "Tim Cahill",
+          "minute": "89'",
+          "ownGoal": false
+        },
+        {
+          "name": "John Aloisi",
+          "minute": "90'+2'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2006-06-12"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Croatia",
+      "score": "0–0",
+      "scorers": [],
+      "date": "2006-06-18"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Brazil",
+      "score": "1–4",
+      "scorers": [
+        {
+          "name": "Keiji Tamada",
+          "minute": "34'",
+          "ownGoal": false
+        },
+        {
+          "name": "Ronaldo",
+          "minute": "45'+1'",
+          "ownGoal": false
+        },
+        {
+          "name": "Juninho Pernambucano",
+          "minute": "53'",
+          "ownGoal": false
+        },
+        {
+          "name": "Gilberto",
+          "minute": "59'",
+          "ownGoal": false
+        },
+        {
+          "name": "Ronaldo",
+          "minute": "81'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2006-06-22"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

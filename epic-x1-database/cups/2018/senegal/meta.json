@@ -1,0 +1,223 @@
+{
+  "country": "Senegal",
+  "countrySlug": "senegal",
+  "year": 2018,
+  "edition": "2018",
+  "host": "Russia",
+  "coach": "Aliou Cissé",
+  "finalPhase": "Group Stage",
+  "result": "Group Stage",
+  "squad": [
+    {
+      "id": "senegal-2018-1",
+      "name": "Abdoulaye Diallo",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "senegal-2018-2",
+      "name": "Adama Mbengue",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "senegal-2018-3",
+      "name": "Kalidou Koulibaly",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "senegal-2018-4",
+      "name": "Kara Mbodji",
+      "shirtNumber": 4,
+      "position": "DEF"
+    },
+    {
+      "id": "senegal-2018-5",
+      "name": "Idrissa Gueye",
+      "shirtNumber": 5,
+      "position": "MID"
+    },
+    {
+      "id": "senegal-2018-6",
+      "name": "Salif Sané",
+      "shirtNumber": 6,
+      "position": "MID"
+    },
+    {
+      "id": "senegal-2018-7",
+      "name": "Moussa Sow",
+      "shirtNumber": 7,
+      "position": "ATT"
+    },
+    {
+      "id": "senegal-2018-8",
+      "name": "Cheikhou Kouyaté",
+      "shirtNumber": 8,
+      "position": "MID"
+    },
+    {
+      "id": "senegal-2018-9",
+      "name": "Mame Biram Diouf",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "senegal-2018-10",
+      "name": "Sadio Mané",
+      "shirtNumber": 10,
+      "position": "ATT"
+    },
+    {
+      "id": "senegal-2018-11",
+      "name": "Cheikh N'Doye",
+      "shirtNumber": 11,
+      "position": "MID"
+    },
+    {
+      "id": "senegal-2018-12",
+      "name": "Youssouf Sabaly",
+      "shirtNumber": 12,
+      "position": "DEF"
+    },
+    {
+      "id": "senegal-2018-13",
+      "name": "Alfred N'Diaye",
+      "shirtNumber": 13,
+      "position": "MID"
+    },
+    {
+      "id": "senegal-2018-14",
+      "name": "Moussa Konaté",
+      "shirtNumber": 14,
+      "position": "ATT"
+    },
+    {
+      "id": "senegal-2018-15",
+      "name": "Diafra Sakho",
+      "shirtNumber": 15,
+      "position": "ATT"
+    },
+    {
+      "id": "senegal-2018-16",
+      "name": "Khadim N'Diaye",
+      "shirtNumber": 16,
+      "position": "GK"
+    },
+    {
+      "id": "senegal-2018-17",
+      "name": "Badou Ndiaye",
+      "shirtNumber": 17,
+      "position": "MID"
+    },
+    {
+      "id": "senegal-2018-18",
+      "name": "Ismaïla Sarr",
+      "shirtNumber": 18,
+      "position": "ATT"
+    },
+    {
+      "id": "senegal-2018-19",
+      "name": "M'Baye Niang",
+      "shirtNumber": 19,
+      "position": "ATT"
+    },
+    {
+      "id": "senegal-2018-20",
+      "name": "Keita Baldé",
+      "shirtNumber": 20,
+      "position": "ATT"
+    },
+    {
+      "id": "senegal-2018-21",
+      "name": "Lamine Gassama",
+      "shirtNumber": 21,
+      "position": "DEF"
+    },
+    {
+      "id": "senegal-2018-22",
+      "name": "Moussa Wagué",
+      "shirtNumber": 22,
+      "position": "DEF"
+    },
+    {
+      "id": "senegal-2018-23",
+      "name": "Alfred Gomis",
+      "shirtNumber": 23,
+      "position": "GK"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "Poland",
+      "score": "1–2",
+      "scorers": [
+        {
+          "name": "Thiago Cionek",
+          "minute": "37'",
+          "ownGoal": true
+        },
+        {
+          "name": "M'Baye Niang",
+          "minute": "60'",
+          "ownGoal": false
+        },
+        {
+          "name": "Grzegorz Krychowiak",
+          "minute": "86'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2018-06-19"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Japan",
+      "score": "2–2",
+      "scorers": [
+        {
+          "name": "Sadio Mané",
+          "minute": "11'",
+          "ownGoal": false
+        },
+        {
+          "name": "Takashi Inui",
+          "minute": "34'",
+          "ownGoal": false
+        },
+        {
+          "name": "Moussa Wagué",
+          "minute": "71'",
+          "ownGoal": false
+        },
+        {
+          "name": "Keisuke Honda",
+          "minute": "78'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2018-06-24"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Colombia",
+      "score": "0–1",
+      "scorers": [
+        {
+          "name": "Yerry Mina",
+          "minute": "74'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2018-06-28"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

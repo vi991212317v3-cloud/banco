@@ -1,0 +1,400 @@
+{
+  "country": "England",
+  "countrySlug": "england",
+  "year": 2026,
+  "edition": "2026",
+  "host": "Canada, Mexico and United States",
+  "coach": "TUCHEL Thomas",
+  "finalPhase": "Third-place match",
+  "result": "Third place",
+  "squad": [
+    {
+      "id": "england-2026-1",
+      "name": "Jordan Lee PICKFORD",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "england-2026-2",
+      "name": "Ezri Ngoyo KONSA",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "england-2026-3",
+      "name": "Nico O'REILLY",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "england-2026-4",
+      "name": "Declan RICE",
+      "shirtNumber": 4,
+      "position": "MID"
+    },
+    {
+      "id": "england-2026-5",
+      "name": "John STONES",
+      "shirtNumber": 5,
+      "position": "DEF"
+    },
+    {
+      "id": "england-2026-6",
+      "name": "Addji Keaninkin Marc-Isreal GUEHI",
+      "shirtNumber": 6,
+      "position": "DEF"
+    },
+    {
+      "id": "england-2026-7",
+      "name": "Bukayo Ayoyinka SAKA",
+      "shirtNumber": 7,
+      "position": "ATT"
+    },
+    {
+      "id": "england-2026-8",
+      "name": "Elliot Junior ANDERSON",
+      "shirtNumber": 8,
+      "position": "MID"
+    },
+    {
+      "id": "england-2026-9",
+      "name": "Harry Edward KANE",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "england-2026-10",
+      "name": "Jude Victor William BELLINGHAM",
+      "shirtNumber": 10,
+      "position": "MID"
+    },
+    {
+      "id": "england-2026-11",
+      "name": "Marcus RASHFORD",
+      "shirtNumber": 11,
+      "position": "ATT"
+    },
+    {
+      "id": "england-2026-12",
+      "name": "Trevoh Tom CHALOBAH",
+      "shirtNumber": 12,
+      "position": "DEF"
+    },
+    {
+      "id": "england-2026-13",
+      "name": "Dean Bradley HENDERSON",
+      "shirtNumber": 13,
+      "position": "GK"
+    },
+    {
+      "id": "england-2026-14",
+      "name": "Jordan Brian HENDERSON",
+      "shirtNumber": 14,
+      "position": "MID"
+    },
+    {
+      "id": "england-2026-15",
+      "name": "Daniel Johnson BURN",
+      "shirtNumber": 15,
+      "position": "DEF"
+    },
+    {
+      "id": "england-2026-16",
+      "name": "Kobbie Boateng MAINOO",
+      "shirtNumber": 16,
+      "position": "MID"
+    },
+    {
+      "id": "england-2026-17",
+      "name": "Morgan Elliot ROGERS",
+      "shirtNumber": 17,
+      "position": "MID"
+    },
+    {
+      "id": "england-2026-18",
+      "name": "Anthony Michael GORDON",
+      "shirtNumber": 18,
+      "position": "ATT"
+    },
+    {
+      "id": "england-2026-19",
+      "name": "Oliver George Arthur WATKINS",
+      "shirtNumber": 19,
+      "position": "ATT"
+    },
+    {
+      "id": "england-2026-20",
+      "name": "Chukwunonso Azuka Tristan MADUEKE",
+      "shirtNumber": 20,
+      "position": "ATT"
+    },
+    {
+      "id": "england-2026-21",
+      "name": "Eberechi Oluchi EZE",
+      "shirtNumber": 21,
+      "position": "MID"
+    },
+    {
+      "id": "england-2026-22",
+      "name": "Ivan Benjamin Elijah TONEY",
+      "shirtNumber": 22,
+      "position": "ATT"
+    },
+    {
+      "id": "england-2026-23",
+      "name": "James Harrington TRAFFORD",
+      "shirtNumber": 23,
+      "position": "GK"
+    },
+    {
+      "id": "england-2026-24",
+      "name": "Reece Lewis JAMES",
+      "shirtNumber": 24,
+      "position": "DEF"
+    },
+    {
+      "id": "england-2026-25",
+      "name": "Diop Tehuti Djed-Hotep SPENCE",
+      "shirtNumber": 25,
+      "position": "DEF"
+    },
+    {
+      "id": "england-2026-26",
+      "name": "Jarell Amorin QUANSAH",
+      "shirtNumber": 26,
+      "position": "DEF"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group Stage",
+      "opponent": "Croatia",
+      "score": "4–2",
+      "scorers": [
+        {
+          "name": "Harry Edward KANE",
+          "minute": 12,
+          "ownGoal": false
+        },
+        {
+          "name": "Martin BATURINA",
+          "minute": 36,
+          "ownGoal": false
+        },
+        {
+          "name": "Harry Edward KANE",
+          "minute": 42,
+          "ownGoal": false
+        },
+        {
+          "name": "Petar MUSA",
+          "minute": 45,
+          "ownGoal": false
+        },
+        {
+          "name": "Jude Victor William BELLINGHAM",
+          "minute": 47,
+          "ownGoal": false
+        },
+        {
+          "name": "Marcus RASHFORD",
+          "minute": 85,
+          "ownGoal": false
+        }
+      ],
+      "date": "2026-06-17"
+    },
+    {
+      "stage": "Group Stage",
+      "opponent": "Ghana",
+      "score": "0–0",
+      "scorers": [],
+      "date": "2026-06-23"
+    },
+    {
+      "stage": "Group Stage",
+      "opponent": "Panama",
+      "score": "0–2",
+      "scorers": [
+        {
+          "name": "Jude Victor William BELLINGHAM",
+          "minute": 62,
+          "ownGoal": false
+        },
+        {
+          "name": "Harry Edward KANE",
+          "minute": 67,
+          "ownGoal": false
+        }
+      ],
+      "date": "2026-06-28"
+    },
+    {
+      "stage": "Round of 32",
+      "opponent": "Congo DR",
+      "score": "2–1",
+      "scorers": [
+        {
+          "name": "Kibambe Brian CIPENGA",
+          "minute": 7,
+          "ownGoal": false
+        },
+        {
+          "name": "Harry Edward KANE",
+          "minute": 75,
+          "ownGoal": false
+        },
+        {
+          "name": "Harry Edward KANE",
+          "minute": 86,
+          "ownGoal": false
+        }
+      ],
+      "date": "2026-07-01"
+    },
+    {
+      "stage": "Round of 16",
+      "opponent": "Mexico",
+      "score": "2–3",
+      "scorers": [
+        {
+          "name": "Jude Victor William BELLINGHAM",
+          "minute": 36,
+          "ownGoal": false
+        },
+        {
+          "name": "Jude Victor William BELLINGHAM",
+          "minute": 38,
+          "ownGoal": false
+        },
+        {
+          "name": "Julián Andrés QUIÑONES QUIÑONES",
+          "minute": 42,
+          "ownGoal": false
+        },
+        {
+          "name": "Harry Edward KANE",
+          "minute": 60,
+          "ownGoal": false
+        },
+        {
+          "name": "Raúl Alonso JIMÉNEZ RODRÍGUEZ",
+          "minute": 69,
+          "ownGoal": false
+        }
+      ],
+      "date": "2026-07-06"
+    },
+    {
+      "stage": "Quarter-finals",
+      "opponent": "Norway",
+      "score": "1–2",
+      "scorers": [
+        {
+          "name": "Andreas Rædergård SCHJELDERUP",
+          "minute": 36,
+          "ownGoal": false
+        },
+        {
+          "name": "Jude Victor William BELLINGHAM",
+          "minute": 45,
+          "ownGoal": false
+        },
+        {
+          "name": "Jude Victor William BELLINGHAM",
+          "minute": 93,
+          "ownGoal": false
+        }
+      ],
+      "date": "2026-07-11"
+    },
+    {
+      "stage": "Semi-finals",
+      "opponent": "Argentina",
+      "score": "1–2",
+      "scorers": [
+        {
+          "name": "Anthony Michael GORDON",
+          "minute": 55,
+          "ownGoal": false
+        },
+        {
+          "name": "Enzo Jeremías FERNÁNDEZ",
+          "minute": 85,
+          "ownGoal": false
+        },
+        {
+          "name": "Lautaro Javier MARTÍNEZ",
+          "minute": 90,
+          "ownGoal": false
+        }
+      ],
+      "date": "2026-07-15"
+    },
+    {
+      "stage": "Third-place match",
+      "opponent": "France",
+      "score": "4–6",
+      "scorers": [
+        {
+          "name": "Declan RICE",
+          "minute": 3,
+          "ownGoal": false
+        },
+        {
+          "name": "Ezri Ngoyo KONSA",
+          "minute": 18,
+          "ownGoal": false
+        },
+        {
+          "name": "Bukayo Ayoyinka SAKA",
+          "minute": 37,
+          "ownGoal": false
+        },
+        {
+          "name": "Bukayo Ayoyinka SAKA",
+          "minute": 45,
+          "ownGoal": false
+        },
+        {
+          "name": "Kylian MBAPPE LOTTIN",
+          "minute": 48,
+          "ownGoal": false
+        },
+        {
+          "name": "Bradley Jean-Manuel Essolisa A BARCOLA",
+          "minute": 54,
+          "ownGoal": false
+        },
+        {
+          "name": "Kylian MBAPPE LOTTIN",
+          "minute": 66,
+          "ownGoal": false
+        },
+        {
+          "name": "Bukayo Ayoyinka SAKA",
+          "minute": 87,
+          "ownGoal": false
+        },
+        {
+          "name": "Masour Ousmane DEMBELE",
+          "minute": 90,
+          "ownGoal": false
+        },
+        {
+          "name": "Jude Victor William BELLINGHAM",
+          "minute": 90,
+          "ownGoal": false
+        }
+      ],
+      "date": "2026-07-18"
+    }
+  ],
+  "sources": [
+    "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/final-tournament-standings",
+    "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/teams",
+    "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+    "https://github.com/openfootball/worldcup.json",
+    "https://github.com/mominullptr/FIFA-World-Cup-2026-Dataset"
+  ]
+}

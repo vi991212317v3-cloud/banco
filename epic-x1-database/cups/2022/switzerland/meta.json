@@ -1,0 +1,279 @@
+{
+  "country": "Switzerland",
+  "countrySlug": "switzerland",
+  "year": 2022,
+  "edition": "2022",
+  "host": "Qatar",
+  "coach": "Murat Yakin",
+  "finalPhase": "Round of 16",
+  "result": "Round of 16",
+  "squad": [
+    {
+      "id": "switzerland-2022-1",
+      "name": "Yann Sommer",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "switzerland-2022-2",
+      "name": "Edimilson Fernandes",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "switzerland-2022-3",
+      "name": "Silvan Widmer",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "switzerland-2022-4",
+      "name": "Nico Elvedi",
+      "shirtNumber": 4,
+      "position": "DEF"
+    },
+    {
+      "id": "switzerland-2022-5",
+      "name": "Manuel Akanji",
+      "shirtNumber": 5,
+      "position": "DEF"
+    },
+    {
+      "id": "switzerland-2022-6",
+      "name": "Denis Zakaria",
+      "shirtNumber": 6,
+      "position": "MID"
+    },
+    {
+      "id": "switzerland-2022-7",
+      "name": "Breel Embolo",
+      "shirtNumber": 7,
+      "position": "ATT"
+    },
+    {
+      "id": "switzerland-2022-8",
+      "name": "Remo Freuler",
+      "shirtNumber": 8,
+      "position": "MID"
+    },
+    {
+      "id": "switzerland-2022-9",
+      "name": "Haris Seferovic",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "switzerland-2022-10",
+      "name": "Granit Xhaka",
+      "shirtNumber": 10,
+      "position": "MID"
+    },
+    {
+      "id": "switzerland-2022-11",
+      "name": "Renato Steffen",
+      "shirtNumber": 11,
+      "position": "DEF"
+    },
+    {
+      "id": "switzerland-2022-12",
+      "name": "Jonas Omlin",
+      "shirtNumber": 12,
+      "position": "GK"
+    },
+    {
+      "id": "switzerland-2022-13",
+      "name": "Ricardo Rodríguez",
+      "shirtNumber": 13,
+      "position": "DEF"
+    },
+    {
+      "id": "switzerland-2022-14",
+      "name": "Michel Aebischer",
+      "shirtNumber": 14,
+      "position": "MID"
+    },
+    {
+      "id": "switzerland-2022-15",
+      "name": "Djibril Sow",
+      "shirtNumber": 15,
+      "position": "MID"
+    },
+    {
+      "id": "switzerland-2022-16",
+      "name": "Christian Fassnacht",
+      "shirtNumber": 16,
+      "position": "MID"
+    },
+    {
+      "id": "switzerland-2022-17",
+      "name": "Ruben Vargas",
+      "shirtNumber": 17,
+      "position": "ATT"
+    },
+    {
+      "id": "switzerland-2022-18",
+      "name": "Eray Cömert",
+      "shirtNumber": 18,
+      "position": "DEF"
+    },
+    {
+      "id": "switzerland-2022-19",
+      "name": "Noah Okafor",
+      "shirtNumber": 19,
+      "position": "ATT"
+    },
+    {
+      "id": "switzerland-2022-20",
+      "name": "Fabian Frei",
+      "shirtNumber": 20,
+      "position": "MID"
+    },
+    {
+      "id": "switzerland-2022-21",
+      "name": "Gregor Kobel",
+      "shirtNumber": 21,
+      "position": "GK"
+    },
+    {
+      "id": "switzerland-2022-22",
+      "name": "Fabian Schär",
+      "shirtNumber": 22,
+      "position": "DEF"
+    },
+    {
+      "id": "switzerland-2022-23",
+      "name": "Xherdan Shaqiri",
+      "shirtNumber": 23,
+      "position": "MID"
+    },
+    {
+      "id": "switzerland-2022-24",
+      "name": "Philipp Köhn",
+      "shirtNumber": 24,
+      "position": "GK"
+    },
+    {
+      "id": "switzerland-2022-25",
+      "name": "Fabian Rieder",
+      "shirtNumber": 25,
+      "position": "MID"
+    },
+    {
+      "id": "switzerland-2022-26",
+      "name": "Ardon Jashari",
+      "shirtNumber": 26,
+      "position": "MID"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "Cameroon",
+      "score": "1–0",
+      "scorers": [
+        {
+          "name": "Breel Embolo",
+          "minute": "48'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2022-11-24"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Brazil",
+      "score": "1–0",
+      "scorers": [
+        {
+          "name": "Casemiro",
+          "minute": "83'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2022-11-28"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Serbia",
+      "score": "2–3",
+      "scorers": [
+        {
+          "name": "Xherdan Shaqiri",
+          "minute": "20'",
+          "ownGoal": false
+        },
+        {
+          "name": "Aleksandar Mitrović",
+          "minute": "26'",
+          "ownGoal": false
+        },
+        {
+          "name": "Dušan Vlahović",
+          "minute": "35'",
+          "ownGoal": false
+        },
+        {
+          "name": "Breel Embolo",
+          "minute": "44'",
+          "ownGoal": false
+        },
+        {
+          "name": "Remo Freuler",
+          "minute": "48'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2022-12-02"
+    },
+    {
+      "stage": "Round of 16",
+      "opponent": "Portugal",
+      "score": "6–1",
+      "scorers": [
+        {
+          "name": "Gonçalo Ramos",
+          "minute": "17'",
+          "ownGoal": false
+        },
+        {
+          "name": "Pepe",
+          "minute": "33'",
+          "ownGoal": false
+        },
+        {
+          "name": "Gonçalo Ramos",
+          "minute": "51'",
+          "ownGoal": false
+        },
+        {
+          "name": "Raphaël Guerreiro",
+          "minute": "55'",
+          "ownGoal": false
+        },
+        {
+          "name": "Manuel Akanji",
+          "minute": "58'",
+          "ownGoal": false
+        },
+        {
+          "name": "Gonçalo Ramos",
+          "minute": "67'",
+          "ownGoal": false
+        },
+        {
+          "name": "Rafael Leão",
+          "minute": "90'+2'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2022-12-06"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

@@ -1,0 +1,243 @@
+{
+  "country": "Croatia",
+  "countrySlug": "croatia",
+  "year": 2014,
+  "edition": "2014",
+  "host": "Brazil",
+  "coach": "Niko Kovač",
+  "finalPhase": "Group Stage",
+  "result": "Group Stage",
+  "squad": [
+    {
+      "id": "croatia-2014-1",
+      "name": "Stipe Pletikosa",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "croatia-2014-2",
+      "name": "Šime Vrsaljko",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "croatia-2014-3",
+      "name": "Danijel Pranjić",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "croatia-2014-4",
+      "name": "Ivan Perišić",
+      "shirtNumber": 4,
+      "position": "MID"
+    },
+    {
+      "id": "croatia-2014-5",
+      "name": "Vedran Ćorluka",
+      "shirtNumber": 5,
+      "position": "DEF"
+    },
+    {
+      "id": "croatia-2014-6",
+      "name": "Dejan Lovren",
+      "shirtNumber": 6,
+      "position": "DEF"
+    },
+    {
+      "id": "croatia-2014-7",
+      "name": "Ivan Rakitić",
+      "shirtNumber": 7,
+      "position": "MID"
+    },
+    {
+      "id": "croatia-2014-8",
+      "name": "Ognjen Vukojević",
+      "shirtNumber": 8,
+      "position": "MID"
+    },
+    {
+      "id": "croatia-2014-9",
+      "name": "Nikica Jelavić",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "croatia-2014-10",
+      "name": "Luka Modrić",
+      "shirtNumber": 10,
+      "position": "MID"
+    },
+    {
+      "id": "croatia-2014-11",
+      "name": "Darijo Srna",
+      "shirtNumber": 11,
+      "position": "DEF"
+    },
+    {
+      "id": "croatia-2014-12",
+      "name": "Oliver Zelenika",
+      "shirtNumber": 12,
+      "position": "GK"
+    },
+    {
+      "id": "croatia-2014-13",
+      "name": "Gordon Schildenfeld",
+      "shirtNumber": 13,
+      "position": "DEF"
+    },
+    {
+      "id": "croatia-2014-14",
+      "name": "Marcelo Brozović",
+      "shirtNumber": 14,
+      "position": "MID"
+    },
+    {
+      "id": "croatia-2014-15",
+      "name": "Milan Badelj",
+      "shirtNumber": 15,
+      "position": "MID"
+    },
+    {
+      "id": "croatia-2014-16",
+      "name": "Ante Rebić",
+      "shirtNumber": 16,
+      "position": "ATT"
+    },
+    {
+      "id": "croatia-2014-17",
+      "name": "Mario Mandžukić",
+      "shirtNumber": 17,
+      "position": "ATT"
+    },
+    {
+      "id": "croatia-2014-18",
+      "name": "Ivica Olić",
+      "shirtNumber": 18,
+      "position": "ATT"
+    },
+    {
+      "id": "croatia-2014-19",
+      "name": "Sammir",
+      "shirtNumber": 19,
+      "position": "MID"
+    },
+    {
+      "id": "croatia-2014-20",
+      "name": "Mateo Kovačić",
+      "shirtNumber": 20,
+      "position": "MID"
+    },
+    {
+      "id": "croatia-2014-21",
+      "name": "Domagoj Vida",
+      "shirtNumber": 21,
+      "position": "DEF"
+    },
+    {
+      "id": "croatia-2014-22",
+      "name": "Eduardo",
+      "shirtNumber": 22,
+      "position": "ATT"
+    },
+    {
+      "id": "croatia-2014-23",
+      "name": "Danijel Subašić",
+      "shirtNumber": 23,
+      "position": "GK"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "Brazil",
+      "score": "3–1",
+      "scorers": [
+        {
+          "name": "Marcelo",
+          "minute": "12'",
+          "ownGoal": true
+        },
+        {
+          "name": "Neymar",
+          "minute": "29'",
+          "ownGoal": false
+        },
+        {
+          "name": "Neymar",
+          "minute": "71'",
+          "ownGoal": false
+        },
+        {
+          "name": "Oscar",
+          "minute": "90'+1'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2014-06-12"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Cameroon",
+      "score": "0–4",
+      "scorers": [
+        {
+          "name": "Ivica Olić",
+          "minute": "11'",
+          "ownGoal": false
+        },
+        {
+          "name": "Ivan Perišić",
+          "minute": "48'",
+          "ownGoal": false
+        },
+        {
+          "name": "Mario Mandžukić",
+          "minute": "61'",
+          "ownGoal": false
+        },
+        {
+          "name": "Mario Mandžukić",
+          "minute": "73'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2014-06-18"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Mexico",
+      "score": "1–3",
+      "scorers": [
+        {
+          "name": "Rafael Márquez",
+          "minute": "72'",
+          "ownGoal": false
+        },
+        {
+          "name": "Andrés Guardado",
+          "minute": "75'",
+          "ownGoal": false
+        },
+        {
+          "name": "Javier Hernández",
+          "minute": "82'",
+          "ownGoal": false
+        },
+        {
+          "name": "Ivan Perišić",
+          "minute": "87'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2014-06-23"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

@@ -1,0 +1,348 @@
+{
+  "country": "Argentina",
+  "countrySlug": "argentina",
+  "year": 2022,
+  "edition": "2022",
+  "host": "Qatar",
+  "coach": "Lionel Scaloni",
+  "finalPhase": "Final",
+  "result": "Champion",
+  "squad": [
+    {
+      "id": "argentina-2022-1",
+      "name": "Franco Armani",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "argentina-2022-2",
+      "name": "Juan Foyth",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "argentina-2022-3",
+      "name": "Nicolás Tagliafico",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "argentina-2022-4",
+      "name": "Gonzalo Montiel",
+      "shirtNumber": 4,
+      "position": "DEF"
+    },
+    {
+      "id": "argentina-2022-5",
+      "name": "Leandro Paredes",
+      "shirtNumber": 5,
+      "position": "MID"
+    },
+    {
+      "id": "argentina-2022-6",
+      "name": "Germán Pezzella",
+      "shirtNumber": 6,
+      "position": "DEF"
+    },
+    {
+      "id": "argentina-2022-7",
+      "name": "Rodrigo De Paul",
+      "shirtNumber": 7,
+      "position": "MID"
+    },
+    {
+      "id": "argentina-2022-8",
+      "name": "Marcos Acuña",
+      "shirtNumber": 8,
+      "position": "MID"
+    },
+    {
+      "id": "argentina-2022-9",
+      "name": "Julián Álvarez",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "argentina-2022-10",
+      "name": "Lionel Messi",
+      "shirtNumber": 10,
+      "position": "ATT"
+    },
+    {
+      "id": "argentina-2022-11",
+      "name": "Ángel Di María",
+      "shirtNumber": 11,
+      "position": "ATT"
+    },
+    {
+      "id": "argentina-2022-12",
+      "name": "Gerónimo Rulli",
+      "shirtNumber": 12,
+      "position": "GK"
+    },
+    {
+      "id": "argentina-2022-13",
+      "name": "Cristian Romero",
+      "shirtNumber": 13,
+      "position": "DEF"
+    },
+    {
+      "id": "argentina-2022-14",
+      "name": "Exequiel Palacios",
+      "shirtNumber": 14,
+      "position": "MID"
+    },
+    {
+      "id": "argentina-2022-15",
+      "name": "Ángel Correa",
+      "shirtNumber": 15,
+      "position": "ATT"
+    },
+    {
+      "id": "argentina-2022-16",
+      "name": "Thiago Almada",
+      "shirtNumber": 16,
+      "position": "MID"
+    },
+    {
+      "id": "argentina-2022-17",
+      "name": "Papu Gómez",
+      "shirtNumber": 17,
+      "position": "MID"
+    },
+    {
+      "id": "argentina-2022-18",
+      "name": "Guido Rodríguez",
+      "shirtNumber": 18,
+      "position": "MID"
+    },
+    {
+      "id": "argentina-2022-19",
+      "name": "Nicolás Otamendi",
+      "shirtNumber": 19,
+      "position": "DEF"
+    },
+    {
+      "id": "argentina-2022-20",
+      "name": "Alexis Mac Allister",
+      "shirtNumber": 20,
+      "position": "MID"
+    },
+    {
+      "id": "argentina-2022-21",
+      "name": "Paulo Dybala",
+      "shirtNumber": 21,
+      "position": "ATT"
+    },
+    {
+      "id": "argentina-2022-22",
+      "name": "Lautaro Martínez",
+      "shirtNumber": 22,
+      "position": "ATT"
+    },
+    {
+      "id": "argentina-2022-23",
+      "name": "Emiliano Martínez",
+      "shirtNumber": 23,
+      "position": "GK"
+    },
+    {
+      "id": "argentina-2022-24",
+      "name": "Enzo Fernández",
+      "shirtNumber": 24,
+      "position": "MID"
+    },
+    {
+      "id": "argentina-2022-25",
+      "name": "Lisandro Martínez",
+      "shirtNumber": 25,
+      "position": "DEF"
+    },
+    {
+      "id": "argentina-2022-26",
+      "name": "Nahuel Molina",
+      "shirtNumber": 26,
+      "position": "DEF"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "Saudi Arabia",
+      "score": "1–2",
+      "scorers": [
+        {
+          "name": "Lionel Messi",
+          "minute": "10'",
+          "ownGoal": false
+        },
+        {
+          "name": "Saleh Al-Shehri",
+          "minute": "48'",
+          "ownGoal": false
+        },
+        {
+          "name": "Salem Al-Dawsari",
+          "minute": "53'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2022-11-22"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Mexico",
+      "score": "2–0",
+      "scorers": [
+        {
+          "name": "Lionel Messi",
+          "minute": "64'",
+          "ownGoal": false
+        },
+        {
+          "name": "Enzo Fernández",
+          "minute": "87'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2022-11-26"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Poland",
+      "score": "0–2",
+      "scorers": [
+        {
+          "name": "Alexis Mac Allister",
+          "minute": "46'",
+          "ownGoal": false
+        },
+        {
+          "name": "Julián Álvarez",
+          "minute": "67'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2022-11-30"
+    },
+    {
+      "stage": "Round of 16",
+      "opponent": "Australia",
+      "score": "2–1",
+      "scorers": [
+        {
+          "name": "Lionel Messi",
+          "minute": "35'",
+          "ownGoal": false
+        },
+        {
+          "name": "Julián Álvarez",
+          "minute": "57'",
+          "ownGoal": false
+        },
+        {
+          "name": "Enzo Fernández",
+          "minute": "77'",
+          "ownGoal": true
+        }
+      ],
+      "date": "2022-12-03"
+    },
+    {
+      "stage": "Quarter-final",
+      "opponent": "Netherlands",
+      "score": "2–2",
+      "scorers": [
+        {
+          "name": "Nahuel Molina",
+          "minute": "35'",
+          "ownGoal": false
+        },
+        {
+          "name": "Lionel Messi",
+          "minute": "73'",
+          "ownGoal": false
+        },
+        {
+          "name": "Wout Weghorst",
+          "minute": "83'",
+          "ownGoal": false
+        },
+        {
+          "name": "Wout Weghorst",
+          "minute": "90'+11'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2022-12-09"
+    },
+    {
+      "stage": "Semi-final",
+      "opponent": "Croatia",
+      "score": "3–0",
+      "scorers": [
+        {
+          "name": "Lionel Messi",
+          "minute": "34'",
+          "ownGoal": false
+        },
+        {
+          "name": "Julián Álvarez",
+          "minute": "39'",
+          "ownGoal": false
+        },
+        {
+          "name": "Julián Álvarez",
+          "minute": "69'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2022-12-13"
+    },
+    {
+      "stage": "Final",
+      "opponent": "France",
+      "score": "3–3",
+      "scorers": [
+        {
+          "name": "Lionel Messi",
+          "minute": "23'",
+          "ownGoal": false
+        },
+        {
+          "name": "Ángel Di María",
+          "minute": "36'",
+          "ownGoal": false
+        },
+        {
+          "name": "Kylian Mbappé",
+          "minute": "80'",
+          "ownGoal": false
+        },
+        {
+          "name": "Kylian Mbappé",
+          "minute": "81'",
+          "ownGoal": false
+        },
+        {
+          "name": "Lionel Messi",
+          "minute": "108'",
+          "ownGoal": false
+        },
+        {
+          "name": "Kylian Mbappé",
+          "minute": "118'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2022-12-18"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

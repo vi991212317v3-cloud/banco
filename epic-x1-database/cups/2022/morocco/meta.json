@@ -1,0 +1,286 @@
+{
+  "country": "Morocco",
+  "countrySlug": "morocco",
+  "year": 2022,
+  "edition": "2022",
+  "host": "Qatar",
+  "coach": "Walid Regragui",
+  "finalPhase": "Third-place match",
+  "result": "Fourth place",
+  "squad": [
+    {
+      "id": "morocco-2022-1",
+      "name": "Yassine Bounou",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "morocco-2022-2",
+      "name": "Achraf Hakimi",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "morocco-2022-3",
+      "name": "Noussair Mazraoui",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "morocco-2022-4",
+      "name": "Sofyan Amrabat",
+      "shirtNumber": 4,
+      "position": "MID"
+    },
+    {
+      "id": "morocco-2022-5",
+      "name": "Nayef Aguerd",
+      "shirtNumber": 5,
+      "position": "DEF"
+    },
+    {
+      "id": "morocco-2022-6",
+      "name": "Romain Saïss",
+      "shirtNumber": 6,
+      "position": "DEF"
+    },
+    {
+      "id": "morocco-2022-7",
+      "name": "Hakim Ziyech",
+      "shirtNumber": 7,
+      "position": "MID"
+    },
+    {
+      "id": "morocco-2022-8",
+      "name": "Azzedine Ounahi",
+      "shirtNumber": 8,
+      "position": "MID"
+    },
+    {
+      "id": "morocco-2022-9",
+      "name": "Abderrazak Hamdallah",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "morocco-2022-10",
+      "name": "Anass Zaroury",
+      "shirtNumber": 10,
+      "position": "MID"
+    },
+    {
+      "id": "morocco-2022-11",
+      "name": "Abdelhamid Sabiri",
+      "shirtNumber": 11,
+      "position": "ATT"
+    },
+    {
+      "id": "morocco-2022-12",
+      "name": "Munir Mohamedi",
+      "shirtNumber": 12,
+      "position": "GK"
+    },
+    {
+      "id": "morocco-2022-13",
+      "name": "Ilias Chair",
+      "shirtNumber": 13,
+      "position": "MID"
+    },
+    {
+      "id": "morocco-2022-14",
+      "name": "Zakaria Aboukhlal",
+      "shirtNumber": 14,
+      "position": "MID"
+    },
+    {
+      "id": "morocco-2022-15",
+      "name": "Selim Amallah",
+      "shirtNumber": 15,
+      "position": "MID"
+    },
+    {
+      "id": "morocco-2022-16",
+      "name": "Abde Ezzalzouli",
+      "shirtNumber": 16,
+      "position": "ATT"
+    },
+    {
+      "id": "morocco-2022-17",
+      "name": "Sofiane Boufal",
+      "shirtNumber": 17,
+      "position": "MID"
+    },
+    {
+      "id": "morocco-2022-18",
+      "name": "Jawad El Yamiq",
+      "shirtNumber": 18,
+      "position": "DEF"
+    },
+    {
+      "id": "morocco-2022-19",
+      "name": "Youssef En-Nesyri",
+      "shirtNumber": 19,
+      "position": "ATT"
+    },
+    {
+      "id": "morocco-2022-20",
+      "name": "Achraf Dari",
+      "shirtNumber": 20,
+      "position": "DEF"
+    },
+    {
+      "id": "morocco-2022-21",
+      "name": "Walid Cheddira",
+      "shirtNumber": 21,
+      "position": "ATT"
+    },
+    {
+      "id": "morocco-2022-22",
+      "name": "Ahmed Reda Tagnaouti",
+      "shirtNumber": 22,
+      "position": "GK"
+    },
+    {
+      "id": "morocco-2022-23",
+      "name": "Bilal El Khannous",
+      "shirtNumber": 23,
+      "position": "MID"
+    },
+    {
+      "id": "morocco-2022-24",
+      "name": "Badr Benoun",
+      "shirtNumber": 24,
+      "position": "DEF"
+    },
+    {
+      "id": "morocco-2022-25",
+      "name": "Yahia Attiyat Allah",
+      "shirtNumber": 25,
+      "position": "DEF"
+    },
+    {
+      "id": "morocco-2022-26",
+      "name": "Yahya Jabrane",
+      "shirtNumber": 26,
+      "position": "MID"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "Croatia",
+      "score": "0–0",
+      "scorers": [],
+      "date": "2022-11-23"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Belgium",
+      "score": "0–2",
+      "scorers": [
+        {
+          "name": "Romain Saïss",
+          "minute": "73'",
+          "ownGoal": false
+        },
+        {
+          "name": "Zakaria Aboukhlal",
+          "minute": "90'+2'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2022-11-27"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Canada",
+      "score": "1–2",
+      "scorers": [
+        {
+          "name": "Hakim Ziyech",
+          "minute": "4'",
+          "ownGoal": false
+        },
+        {
+          "name": "Youssef En-Nesyri",
+          "minute": "23'",
+          "ownGoal": false
+        },
+        {
+          "name": "Nayef Aguerd",
+          "minute": "40'",
+          "ownGoal": true
+        }
+      ],
+      "date": "2022-12-01"
+    },
+    {
+      "stage": "Round of 16",
+      "opponent": "Spain",
+      "score": "0–0",
+      "scorers": [],
+      "date": "2022-12-06"
+    },
+    {
+      "stage": "Quarter-final",
+      "opponent": "Portugal",
+      "score": "1–0",
+      "scorers": [
+        {
+          "name": "Youssef En-Nesyri",
+          "minute": "42'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2022-12-10"
+    },
+    {
+      "stage": "Semi-final",
+      "opponent": "France",
+      "score": "2–0",
+      "scorers": [
+        {
+          "name": "Théo Hernandez",
+          "minute": "5'",
+          "ownGoal": false
+        },
+        {
+          "name": "Randal Kolo Muani",
+          "minute": "79'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2022-12-14"
+    },
+    {
+      "stage": "Third-place match",
+      "opponent": "Croatia",
+      "score": "2–1",
+      "scorers": [
+        {
+          "name": "Joško Gvardiol",
+          "minute": "7'",
+          "ownGoal": false
+        },
+        {
+          "name": "Achraf Dari",
+          "minute": "9'",
+          "ownGoal": false
+        },
+        {
+          "name": "Mislav Oršić",
+          "minute": "42'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2022-12-17"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

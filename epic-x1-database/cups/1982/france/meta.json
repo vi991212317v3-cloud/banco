@@ -1,0 +1,349 @@
+{
+  "country": "France",
+  "countrySlug": "france",
+  "year": 1982,
+  "edition": "1982",
+  "host": "Spain",
+  "coach": "Michel Hidalgo",
+  "finalPhase": "Third-place match",
+  "result": "Fourth place",
+  "squad": [
+    {
+      "id": "france-1982-1",
+      "name": "Dominique Baratelli",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "france-1982-2",
+      "name": "Manuel Amoros",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "france-1982-3",
+      "name": "Patrick Battiston",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "france-1982-4",
+      "name": "Maxime Bossis",
+      "shirtNumber": 4,
+      "position": "DEF"
+    },
+    {
+      "id": "france-1982-5",
+      "name": "Gérard Janvion",
+      "shirtNumber": 5,
+      "position": "DEF"
+    },
+    {
+      "id": "france-1982-6",
+      "name": "Christian Lopez",
+      "shirtNumber": 6,
+      "position": "DEF"
+    },
+    {
+      "id": "france-1982-7",
+      "name": "Philippe Mahut",
+      "shirtNumber": 7,
+      "position": "DEF"
+    },
+    {
+      "id": "france-1982-8",
+      "name": "Marius Trésor",
+      "shirtNumber": 8,
+      "position": "DEF"
+    },
+    {
+      "id": "france-1982-9",
+      "name": "Bernard Genghini",
+      "shirtNumber": 9,
+      "position": "MID"
+    },
+    {
+      "id": "france-1982-10",
+      "name": "Michel Platini",
+      "shirtNumber": 10,
+      "position": "MID"
+    },
+    {
+      "id": "france-1982-11",
+      "name": "René Girard",
+      "shirtNumber": 11,
+      "position": "MID"
+    },
+    {
+      "id": "france-1982-12",
+      "name": "Alain Giresse",
+      "shirtNumber": 12,
+      "position": "MID"
+    },
+    {
+      "id": "france-1982-13",
+      "name": "Jean-François Larios",
+      "shirtNumber": 13,
+      "position": "MID"
+    },
+    {
+      "id": "france-1982-14",
+      "name": "Jean Tigana",
+      "shirtNumber": 14,
+      "position": "MID"
+    },
+    {
+      "id": "france-1982-15",
+      "name": "Bruno Bellone",
+      "shirtNumber": 15,
+      "position": "ATT"
+    },
+    {
+      "id": "france-1982-16",
+      "name": "Alain Couriol",
+      "shirtNumber": 16,
+      "position": "ATT"
+    },
+    {
+      "id": "france-1982-17",
+      "name": "Bernard Lacombe",
+      "shirtNumber": 17,
+      "position": "ATT"
+    },
+    {
+      "id": "france-1982-18",
+      "name": "Dominique Rocheteau",
+      "shirtNumber": 18,
+      "position": "ATT"
+    },
+    {
+      "id": "france-1982-19",
+      "name": "Didier Six",
+      "shirtNumber": 19,
+      "position": "ATT"
+    },
+    {
+      "id": "france-1982-20",
+      "name": "Gérard Soler",
+      "shirtNumber": 20,
+      "position": "ATT"
+    },
+    {
+      "id": "france-1982-21",
+      "name": "Jean Castaneda",
+      "shirtNumber": 21,
+      "position": "GK"
+    },
+    {
+      "id": "france-1982-22",
+      "name": "Jean-Luc Ettori",
+      "shirtNumber": 22,
+      "position": "GK"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "England",
+      "score": "3–1",
+      "scorers": [
+        {
+          "name": "Bryan Robson",
+          "minute": "1'",
+          "ownGoal": false
+        },
+        {
+          "name": "Gérard Soler",
+          "minute": "24'",
+          "ownGoal": false
+        },
+        {
+          "name": "Bryan Robson",
+          "minute": "67'",
+          "ownGoal": false
+        },
+        {
+          "name": "Paul Mariner",
+          "minute": "83'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1982-06-16"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Kuwait",
+      "score": "4–1",
+      "scorers": [
+        {
+          "name": "Bernard Genghini",
+          "minute": "31'",
+          "ownGoal": false
+        },
+        {
+          "name": "Michel Platini",
+          "minute": "43'",
+          "ownGoal": false
+        },
+        {
+          "name": "Didier Six",
+          "minute": "48'",
+          "ownGoal": false
+        },
+        {
+          "name": "Abdullah Al-Buloushi",
+          "minute": "75'",
+          "ownGoal": false
+        },
+        {
+          "name": "Maxime Bossis",
+          "minute": "89'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1982-06-21"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Czechoslovakia",
+      "score": "1–1",
+      "scorers": [
+        {
+          "name": "Didier Six",
+          "minute": "66'",
+          "ownGoal": false
+        },
+        {
+          "name": "Antonín Panenka",
+          "minute": "84'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1982-06-24"
+    },
+    {
+      "stage": "Second Group Stage",
+      "opponent": "Austria",
+      "score": "0–1",
+      "scorers": [
+        {
+          "name": "Bernard Genghini",
+          "minute": "39'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1982-06-28"
+    },
+    {
+      "stage": "Second Group Stage",
+      "opponent": "Northern Ireland",
+      "score": "4–1",
+      "scorers": [
+        {
+          "name": "Alain Giresse",
+          "minute": "33'",
+          "ownGoal": false
+        },
+        {
+          "name": "Dominique Rocheteau",
+          "minute": "46'",
+          "ownGoal": false
+        },
+        {
+          "name": "Dominique Rocheteau",
+          "minute": "68'",
+          "ownGoal": false
+        },
+        {
+          "name": "Gerry Armstrong",
+          "minute": "75'",
+          "ownGoal": false
+        },
+        {
+          "name": "Alain Giresse",
+          "minute": "80'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1982-07-04"
+    },
+    {
+      "stage": "Semi-final",
+      "opponent": "West Germany",
+      "score": "3–3",
+      "scorers": [
+        {
+          "name": "Pierre Littbarski",
+          "minute": "17'",
+          "ownGoal": false
+        },
+        {
+          "name": "Michel Platini",
+          "minute": "26'",
+          "ownGoal": false
+        },
+        {
+          "name": "Marius Trésor",
+          "minute": "92'",
+          "ownGoal": false
+        },
+        {
+          "name": "Alain Giresse",
+          "minute": "98'",
+          "ownGoal": false
+        },
+        {
+          "name": "Karl-Heinz Rummenigge",
+          "minute": "102'",
+          "ownGoal": false
+        },
+        {
+          "name": "Klaus Fischer",
+          "minute": "108'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1982-07-08"
+    },
+    {
+      "stage": "Third-place match",
+      "opponent": "Poland",
+      "score": "3–2",
+      "scorers": [
+        {
+          "name": "René Girard",
+          "minute": "13'",
+          "ownGoal": false
+        },
+        {
+          "name": "Andrzej Szarmach",
+          "minute": "40'",
+          "ownGoal": false
+        },
+        {
+          "name": "Stefan Majewski",
+          "minute": "44'",
+          "ownGoal": false
+        },
+        {
+          "name": "Janusz Kupcewicz",
+          "minute": "46'",
+          "ownGoal": false
+        },
+        {
+          "name": "Alain Couriol",
+          "minute": "72'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1982-07-10"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

@@ -1,0 +1,228 @@
+{
+  "country": "Slovenia",
+  "countrySlug": "slovenia",
+  "year": 2002,
+  "edition": "2002",
+  "host": "Korea, Japan",
+  "coach": "Srečko Katanec",
+  "finalPhase": "Group Stage",
+  "result": "Group Stage",
+  "squad": [
+    {
+      "id": "slovenia-2002-1",
+      "name": "Marko Simeunovič",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "slovenia-2002-2",
+      "name": "Goran Sankovič",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "slovenia-2002-3",
+      "name": "Željko Milinovič",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "slovenia-2002-4",
+      "name": "Muamer Vugdalić",
+      "shirtNumber": 4,
+      "position": "DEF"
+    },
+    {
+      "id": "slovenia-2002-5",
+      "name": "Marinko Galič",
+      "shirtNumber": 5,
+      "position": "DEF"
+    },
+    {
+      "id": "slovenia-2002-6",
+      "name": "Aleksander Knavs",
+      "shirtNumber": 6,
+      "position": "DEF"
+    },
+    {
+      "id": "slovenia-2002-7",
+      "name": "Džoni Novak",
+      "shirtNumber": 7,
+      "position": "MID"
+    },
+    {
+      "id": "slovenia-2002-8",
+      "name": "Aleš Čeh",
+      "shirtNumber": 8,
+      "position": "MID"
+    },
+    {
+      "id": "slovenia-2002-9",
+      "name": "Milan Osterc",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "slovenia-2002-10",
+      "name": "Zlatko Zahovič",
+      "shirtNumber": 10,
+      "position": "MID"
+    },
+    {
+      "id": "slovenia-2002-11",
+      "name": "Miran Pavlin",
+      "shirtNumber": 11,
+      "position": "MID"
+    },
+    {
+      "id": "slovenia-2002-12",
+      "name": "Mladen Dabanovič",
+      "shirtNumber": 12,
+      "position": "GK"
+    },
+    {
+      "id": "slovenia-2002-13",
+      "name": "Mladen Rudonja",
+      "shirtNumber": 13,
+      "position": "ATT"
+    },
+    {
+      "id": "slovenia-2002-14",
+      "name": "Saša Gajser",
+      "shirtNumber": 14,
+      "position": "DEF"
+    },
+    {
+      "id": "slovenia-2002-15",
+      "name": "Rajko Tavčar",
+      "shirtNumber": 15,
+      "position": "MID"
+    },
+    {
+      "id": "slovenia-2002-16",
+      "name": "Senad Tiganj",
+      "shirtNumber": 16,
+      "position": "ATT"
+    },
+    {
+      "id": "slovenia-2002-17",
+      "name": "Zoran Pavlović",
+      "shirtNumber": 17,
+      "position": "MID"
+    },
+    {
+      "id": "slovenia-2002-18",
+      "name": "Milenko Ačimovič",
+      "shirtNumber": 18,
+      "position": "ATT"
+    },
+    {
+      "id": "slovenia-2002-19",
+      "name": "Amir Karić",
+      "shirtNumber": 19,
+      "position": "DEF"
+    },
+    {
+      "id": "slovenia-2002-20",
+      "name": "Nastja Čeh",
+      "shirtNumber": 20,
+      "position": "MID"
+    },
+    {
+      "id": "slovenia-2002-21",
+      "name": "Sebastjan Cimirotič",
+      "shirtNumber": 21,
+      "position": "ATT"
+    },
+    {
+      "id": "slovenia-2002-22",
+      "name": "Dejan Nemec",
+      "shirtNumber": 22,
+      "position": "GK"
+    },
+    {
+      "id": "slovenia-2002-23",
+      "name": "Spasoje Bulajič",
+      "shirtNumber": 23,
+      "position": "DEF"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "Spain",
+      "score": "3–1",
+      "scorers": [
+        {
+          "name": "Raúl",
+          "minute": "44'",
+          "ownGoal": false
+        },
+        {
+          "name": "Juan Carlos Valerón",
+          "minute": "74'",
+          "ownGoal": false
+        },
+        {
+          "name": "Sebastjan Cimirotič",
+          "minute": "82'",
+          "ownGoal": false
+        },
+        {
+          "name": "Fernando Hierro",
+          "minute": "87'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2002-06-02"
+    },
+    {
+      "stage": "Group",
+      "opponent": "South Africa",
+      "score": "1–0",
+      "scorers": [
+        {
+          "name": "Siyabonga Nomvethe",
+          "minute": "4'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2002-06-08"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Paraguay",
+      "score": "1–3",
+      "scorers": [
+        {
+          "name": "Milenko Ačimovič",
+          "minute": "45'+1'",
+          "ownGoal": false
+        },
+        {
+          "name": "Nelson Cuevas",
+          "minute": "65'",
+          "ownGoal": false
+        },
+        {
+          "name": "Jorge Luis Campos",
+          "minute": "73'",
+          "ownGoal": false
+        },
+        {
+          "name": "Nelson Cuevas",
+          "minute": "84'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2002-06-12"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

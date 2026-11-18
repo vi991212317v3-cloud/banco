@@ -1,0 +1,329 @@
+{
+  "country": "Belgium",
+  "countrySlug": "belgium",
+  "year": 2026,
+  "edition": "2026",
+  "host": "Canada, Mexico and United States",
+  "coach": "GARCIA Rudi",
+  "finalPhase": "Quarter-finals",
+  "result": "Quarter-finals",
+  "squad": [
+    {
+      "id": "belgium-2026-1",
+      "name": "Thibaut Nicolas M COURTOIS",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "belgium-2026-2",
+      "name": "Zeno Koen DEBAST",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "belgium-2026-3",
+      "name": "Arthur Nicolas R THEATE",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "belgium-2026-4",
+      "name": "Brandon Erik MECHELE",
+      "shirtNumber": 4,
+      "position": "DEF"
+    },
+    {
+      "id": "belgium-2026-5",
+      "name": "Maxim Peter M DE CUYPER",
+      "shirtNumber": 5,
+      "position": "DEF"
+    },
+    {
+      "id": "belgium-2026-6",
+      "name": "Axel Laurent A WITSEL",
+      "shirtNumber": 6,
+      "position": "MID"
+    },
+    {
+      "id": "belgium-2026-7",
+      "name": "Kevin DE BRUYNE",
+      "shirtNumber": 7,
+      "position": "MID"
+    },
+    {
+      "id": "belgium-2026-8",
+      "name": "Youri Marion A TIELEMANS",
+      "shirtNumber": 8,
+      "position": "MID"
+    },
+    {
+      "id": "belgium-2026-9",
+      "name": "Romelu LUKAKU BOLINGOLI",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "belgium-2026-10",
+      "name": "Leandro TROSSARD",
+      "shirtNumber": 10,
+      "position": "ATT"
+    },
+    {
+      "id": "belgium-2026-11",
+      "name": "Jeremy Baffour DOKU",
+      "shirtNumber": 11,
+      "position": "ATT"
+    },
+    {
+      "id": "belgium-2026-12",
+      "name": "Senne LAMMENS",
+      "shirtNumber": 12,
+      "position": "GK"
+    },
+    {
+      "id": "belgium-2026-13",
+      "name": "Mike Louis PENDERS",
+      "shirtNumber": 13,
+      "position": "GK"
+    },
+    {
+      "id": "belgium-2026-14",
+      "name": "Dodi LUKEBAKIO NGANDOLI",
+      "shirtNumber": 14,
+      "position": "ATT"
+    },
+    {
+      "id": "belgium-2026-15",
+      "name": "Thomas Andre A MEUNIER",
+      "shirtNumber": 15,
+      "position": "DEF"
+    },
+    {
+      "id": "belgium-2026-16",
+      "name": "Koni DE WINTER",
+      "shirtNumber": 16,
+      "position": "DEF"
+    },
+    {
+      "id": "belgium-2026-17",
+      "name": "Charles Marc S DE KETELAERE",
+      "shirtNumber": 17,
+      "position": "ATT"
+    },
+    {
+      "id": "belgium-2026-18",
+      "name": "Joaquin Ronny SEYS",
+      "shirtNumber": 18,
+      "position": "DEF"
+    },
+    {
+      "id": "belgium-2026-19",
+      "name": "Diego Manuel J DA SILVA MOREIRA",
+      "shirtNumber": 19,
+      "position": "MID"
+    },
+    {
+      "id": "belgium-2026-20",
+      "name": "Hans VANAKEN",
+      "shirtNumber": 20,
+      "position": "MID"
+    },
+    {
+      "id": "belgium-2026-21",
+      "name": "Timothy CASTAGNE",
+      "shirtNumber": 21,
+      "position": "DEF"
+    },
+    {
+      "id": "belgium-2026-22",
+      "name": "Alexis Jesse M SAELEMAEKERS",
+      "shirtNumber": 22,
+      "position": "MID"
+    },
+    {
+      "id": "belgium-2026-23",
+      "name": "Nicolas Thierry Y RASKIN",
+      "shirtNumber": 23,
+      "position": "MID"
+    },
+    {
+      "id": "belgium-2026-24",
+      "name": "Amadou Ba Z MVOM ONANA",
+      "shirtNumber": 24,
+      "position": "MID"
+    },
+    {
+      "id": "belgium-2026-25",
+      "name": "Nathan NGOY",
+      "shirtNumber": 25,
+      "position": "DEF"
+    },
+    {
+      "id": "belgium-2026-26",
+      "name": "Matias FERNANDEZ-PARDO",
+      "shirtNumber": 26,
+      "position": "ATT"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group Stage",
+      "opponent": "Egypt",
+      "score": "1–1",
+      "scorers": [
+        {
+          "name": "Emam Ashour Metwaly ABDELGHANY",
+          "minute": 19,
+          "ownGoal": false
+        },
+        {
+          "name": "Mohamed Hany Gamal ELDEMERDASH",
+          "minute": 66,
+          "ownGoal": true
+        }
+      ],
+      "date": "2026-06-15"
+    },
+    {
+      "stage": "Group Stage",
+      "opponent": "IR Iran",
+      "score": "0–0",
+      "scorers": [],
+      "date": "2026-06-21"
+    },
+    {
+      "stage": "Group Stage",
+      "opponent": "New Zealand",
+      "score": "1–5",
+      "scorers": [
+        {
+          "name": "Leandro TROSSARD",
+          "minute": 28,
+          "ownGoal": false
+        },
+        {
+          "name": "Leandro TROSSARD",
+          "minute": 50,
+          "ownGoal": false
+        },
+        {
+          "name": "Kevin DE BRUYNE",
+          "minute": 66,
+          "ownGoal": false
+        },
+        {
+          "name": "Elijah Henry JUST",
+          "minute": 84,
+          "ownGoal": false
+        },
+        {
+          "name": "Romelu LUKAKU BOLINGOLI",
+          "minute": 86,
+          "ownGoal": false
+        },
+        {
+          "name": "Alexis Jesse M SAELEMAEKERS",
+          "minute": 90,
+          "ownGoal": false
+        }
+      ],
+      "date": "2026-06-27"
+    },
+    {
+      "stage": "Round of 32",
+      "opponent": "Senegal",
+      "score": "3–2",
+      "scorers": [
+        {
+          "name": "Mouhamadou Habib Mbacke DIARRA",
+          "minute": 25,
+          "ownGoal": false
+        },
+        {
+          "name": "Ismaila SARR",
+          "minute": 51,
+          "ownGoal": false
+        },
+        {
+          "name": "Romelu LUKAKU BOLINGOLI",
+          "minute": 86,
+          "ownGoal": false
+        },
+        {
+          "name": "Youri Marion A TIELEMANS",
+          "minute": 89,
+          "ownGoal": false
+        },
+        {
+          "name": "Youri Marion A TIELEMANS",
+          "minute": 120,
+          "ownGoal": false
+        }
+      ],
+      "date": "2026-07-02"
+    },
+    {
+      "stage": "Round of 16",
+      "opponent": "USA",
+      "score": "1–4",
+      "scorers": [
+        {
+          "name": "Charles Marc S DE KETELAERE",
+          "minute": 9,
+          "ownGoal": false
+        },
+        {
+          "name": "Malik Leon TILLMAN",
+          "minute": 31,
+          "ownGoal": false
+        },
+        {
+          "name": "Charles Marc S DE KETELAERE",
+          "minute": 33,
+          "ownGoal": false
+        },
+        {
+          "name": "Hans VANAKEN",
+          "minute": 57,
+          "ownGoal": false
+        },
+        {
+          "name": "Romelu LUKAKU BOLINGOLI",
+          "minute": 90,
+          "ownGoal": false
+        }
+      ],
+      "date": "2026-07-07"
+    },
+    {
+      "stage": "Quarter-finals",
+      "opponent": "Spain",
+      "score": "2–1",
+      "scorers": [
+        {
+          "name": "Daniel OLMO CARVAJAL",
+          "minute": 30,
+          "ownGoal": false
+        },
+        {
+          "name": "Charles Marc S DE KETELAERE",
+          "minute": 41,
+          "ownGoal": false
+        },
+        {
+          "name": "Lamine Yamal NASRAOUI EBANA",
+          "minute": 88,
+          "ownGoal": false
+        }
+      ],
+      "date": "2026-07-10"
+    }
+  ],
+  "sources": [
+    "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/final-tournament-standings",
+    "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/teams",
+    "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+    "https://github.com/openfootball/worldcup.json",
+    "https://github.com/mominullptr/FIFA-World-Cup-2026-Dataset"
+  ]
+}

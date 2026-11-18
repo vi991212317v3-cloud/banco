@@ -1,0 +1,227 @@
+{
+  "country": "Switzerland",
+  "countrySlug": "switzerland",
+  "year": 1950,
+  "edition": "1950",
+  "host": "Brazil",
+  "coach": "Franco Andreoli",
+  "finalPhase": "Group Stage",
+  "result": "Group Stage",
+  "squad": [
+    {
+      "id": "switzerland-1950-011",
+      "name": "Adolphe Hug",
+      "shirtNumber": null,
+      "position": "GK"
+    },
+    {
+      "id": "switzerland-1950-004",
+      "name": "Alfred Bickel",
+      "shirtNumber": null,
+      "position": "ATT"
+    },
+    {
+      "id": "switzerland-1950-014",
+      "name": "André Neury",
+      "shirtNumber": null,
+      "position": "DEF"
+    },
+    {
+      "id": "switzerland-1950-001",
+      "name": "Charles Antenen",
+      "shirtNumber": null,
+      "position": "ATT"
+    },
+    {
+      "id": "switzerland-1950-006",
+      "name": "Eugen Corrodi",
+      "shirtNumber": null,
+      "position": "GK"
+    },
+    {
+      "id": "switzerland-1950-019",
+      "name": "Felice Soldini",
+      "shirtNumber": null,
+      "position": "MID"
+    },
+    {
+      "id": "switzerland-1950-021",
+      "name": "Georges Stuber",
+      "shirtNumber": null,
+      "position": "GK"
+    },
+    {
+      "id": "switzerland-1950-013",
+      "name": "Gerhard Lusenti",
+      "shirtNumber": null,
+      "position": "ATT"
+    },
+    {
+      "id": "switzerland-1950-018",
+      "name": "Hans Siegenthaler",
+      "shirtNumber": null,
+      "position": "ATT"
+    },
+    {
+      "id": "switzerland-1950-009",
+      "name": "Hans-Peter Friedländer",
+      "shirtNumber": null,
+      "position": "ATT"
+    },
+    {
+      "id": "switzerland-1950-008",
+      "name": "Jacques Fatton",
+      "shirtNumber": null,
+      "position": "ATT"
+    },
+    {
+      "id": "switzerland-1950-022",
+      "name": "Jean Tamini",
+      "shirtNumber": null,
+      "position": "ATT"
+    },
+    {
+      "id": "switzerland-1950-016",
+      "name": "Kurt Rey",
+      "shirtNumber": null,
+      "position": "DEF"
+    },
+    {
+      "id": "switzerland-1950-007",
+      "name": "Oliver Eggimann",
+      "shirtNumber": null,
+      "position": "MID"
+    },
+    {
+      "id": "switzerland-1950-002",
+      "name": "René Bader",
+      "shirtNumber": null,
+      "position": "ATT"
+    },
+    {
+      "id": "switzerland-1950-005",
+      "name": "Roger Bocquet",
+      "shirtNumber": null,
+      "position": "DEF"
+    },
+    {
+      "id": "switzerland-1950-015",
+      "name": "Roger Quinche",
+      "shirtNumber": null,
+      "position": "MID"
+    },
+    {
+      "id": "switzerland-1950-010",
+      "name": "Rudolf Gyger",
+      "shirtNumber": null,
+      "position": "DEF"
+    },
+    {
+      "id": "switzerland-1950-003",
+      "name": "Walter Beerli",
+      "shirtNumber": null,
+      "position": "ATT"
+    },
+    {
+      "id": "switzerland-1950-017",
+      "name": "Walter Schneiter",
+      "shirtNumber": null,
+      "position": "ATT"
+    },
+    {
+      "id": "switzerland-1950-020",
+      "name": "Willi Steffen",
+      "shirtNumber": null,
+      "position": "DEF"
+    },
+    {
+      "id": "switzerland-1950-012",
+      "name": "Willy Kernen",
+      "shirtNumber": null,
+      "position": "DEF"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "Yugoslavia",
+      "score": "3–0",
+      "scorers": [
+        {
+          "name": "Rajko Mitić",
+          "minute": "59'",
+          "ownGoal": false
+        },
+        {
+          "name": "Kosta Tomašević",
+          "minute": "70'",
+          "ownGoal": false
+        },
+        {
+          "name": "Tihomir Ognjanov",
+          "minute": "84'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1950-06-25"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Brazil",
+      "score": "2–2",
+      "scorers": [
+        {
+          "name": "Alfredo",
+          "minute": "3'",
+          "ownGoal": false
+        },
+        {
+          "name": "Jacques Fatton",
+          "minute": "17'",
+          "ownGoal": false
+        },
+        {
+          "name": "Baltazar",
+          "minute": "32'",
+          "ownGoal": false
+        },
+        {
+          "name": "Jacques Fatton",
+          "minute": "88'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1950-06-28"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Mexico",
+      "score": "2–1",
+      "scorers": [
+        {
+          "name": "René Bader",
+          "minute": "10'",
+          "ownGoal": false
+        },
+        {
+          "name": "Charles Antenen",
+          "minute": "44'",
+          "ownGoal": false
+        },
+        {
+          "name": "Horacio Casarín",
+          "minute": "89'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1950-07-02"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

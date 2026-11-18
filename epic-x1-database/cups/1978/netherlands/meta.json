@@ -1,0 +1,333 @@
+{
+  "country": "Netherlands",
+  "countrySlug": "netherlands",
+  "year": 1978,
+  "edition": "1978",
+  "host": "Argentina",
+  "coach": "Ernst Happel",
+  "finalPhase": "Final",
+  "result": "Runner-up",
+  "squad": [
+    {
+      "id": "netherlands-1978-1",
+      "name": "Piet Schrijvers",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "netherlands-1978-2",
+      "name": "Jan Poortvliet",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "netherlands-1978-3",
+      "name": "Dick Schoenaker",
+      "shirtNumber": 3,
+      "position": "MID"
+    },
+    {
+      "id": "netherlands-1978-4",
+      "name": "Adrie van Kraay",
+      "shirtNumber": 4,
+      "position": "DEF"
+    },
+    {
+      "id": "netherlands-1978-5",
+      "name": "Ruud Krol",
+      "shirtNumber": 5,
+      "position": "DEF"
+    },
+    {
+      "id": "netherlands-1978-6",
+      "name": "Wim Jansen",
+      "shirtNumber": 6,
+      "position": "MID"
+    },
+    {
+      "id": "netherlands-1978-7",
+      "name": "Piet Wildschut",
+      "shirtNumber": 7,
+      "position": "DEF"
+    },
+    {
+      "id": "netherlands-1978-8",
+      "name": "Jan Jongbloed",
+      "shirtNumber": 8,
+      "position": "GK"
+    },
+    {
+      "id": "netherlands-1978-9",
+      "name": "Arie Haan",
+      "shirtNumber": 9,
+      "position": "MID"
+    },
+    {
+      "id": "netherlands-1978-10",
+      "name": "René van de Kerkhof",
+      "shirtNumber": 10,
+      "position": "MID"
+    },
+    {
+      "id": "netherlands-1978-11",
+      "name": "Willy van de Kerkhof",
+      "shirtNumber": 11,
+      "position": "MID"
+    },
+    {
+      "id": "netherlands-1978-12",
+      "name": "Rob Rensenbrink",
+      "shirtNumber": 12,
+      "position": "ATT"
+    },
+    {
+      "id": "netherlands-1978-13",
+      "name": "Johan Neeskens",
+      "shirtNumber": 13,
+      "position": "MID"
+    },
+    {
+      "id": "netherlands-1978-14",
+      "name": "Johan Boskamp",
+      "shirtNumber": 14,
+      "position": "MID"
+    },
+    {
+      "id": "netherlands-1978-15",
+      "name": "Hugo Hovenkamp",
+      "shirtNumber": 15,
+      "position": "DEF"
+    },
+    {
+      "id": "netherlands-1978-16",
+      "name": "Johnny Rep",
+      "shirtNumber": 16,
+      "position": "ATT"
+    },
+    {
+      "id": "netherlands-1978-17",
+      "name": "Wim Rijsbergen",
+      "shirtNumber": 17,
+      "position": "DEF"
+    },
+    {
+      "id": "netherlands-1978-18",
+      "name": "Dick Nanninga",
+      "shirtNumber": 18,
+      "position": "ATT"
+    },
+    {
+      "id": "netherlands-1978-19",
+      "name": "Pim Doesburg",
+      "shirtNumber": 19,
+      "position": "GK"
+    },
+    {
+      "id": "netherlands-1978-20",
+      "name": "Wim Suurbier",
+      "shirtNumber": 20,
+      "position": "DEF"
+    },
+    {
+      "id": "netherlands-1978-21",
+      "name": "Harry Lubse",
+      "shirtNumber": 21,
+      "position": "ATT"
+    },
+    {
+      "id": "netherlands-1978-22",
+      "name": "Ernie Brandts",
+      "shirtNumber": 22,
+      "position": "DEF"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "Iran",
+      "score": "3–0",
+      "scorers": [
+        {
+          "name": "Rob Rensenbrink",
+          "minute": "40'",
+          "ownGoal": false
+        },
+        {
+          "name": "Rob Rensenbrink",
+          "minute": "62'",
+          "ownGoal": false
+        },
+        {
+          "name": "Rob Rensenbrink",
+          "minute": "78'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1978-06-03"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Peru",
+      "score": "0–0",
+      "scorers": [],
+      "date": "1978-06-07"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Scotland",
+      "score": "3–2",
+      "scorers": [
+        {
+          "name": "Rob Rensenbrink",
+          "minute": "34'",
+          "ownGoal": false
+        },
+        {
+          "name": "Kenny Dalglish",
+          "minute": "45'",
+          "ownGoal": false
+        },
+        {
+          "name": "Archie Gemmill",
+          "minute": "46'",
+          "ownGoal": false
+        },
+        {
+          "name": "Archie Gemmill",
+          "minute": "68'",
+          "ownGoal": false
+        },
+        {
+          "name": "Johnny Rep",
+          "minute": "71'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1978-06-11"
+    },
+    {
+      "stage": "Second Group Stage",
+      "opponent": "Austria",
+      "score": "1–5",
+      "scorers": [
+        {
+          "name": "Ernie Brandts",
+          "minute": "6'",
+          "ownGoal": false
+        },
+        {
+          "name": "Rob Rensenbrink",
+          "minute": "35'",
+          "ownGoal": false
+        },
+        {
+          "name": "Johnny Rep",
+          "minute": "36'",
+          "ownGoal": false
+        },
+        {
+          "name": "Johnny Rep",
+          "minute": "53'",
+          "ownGoal": false
+        },
+        {
+          "name": "Erich Obermayer",
+          "minute": "80'",
+          "ownGoal": false
+        },
+        {
+          "name": "Willy van de Kerkhof",
+          "minute": "82'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1978-06-14"
+    },
+    {
+      "stage": "Second Group Stage",
+      "opponent": "West Germany",
+      "score": "2–2",
+      "scorers": [
+        {
+          "name": "Rüdiger Abramczik",
+          "minute": "3'",
+          "ownGoal": false
+        },
+        {
+          "name": "Arie Haan",
+          "minute": "27'",
+          "ownGoal": false
+        },
+        {
+          "name": "Dieter Müller",
+          "minute": "70'",
+          "ownGoal": false
+        },
+        {
+          "name": "René van de Kerkhof",
+          "minute": "82'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1978-06-18"
+    },
+    {
+      "stage": "Second Group Stage",
+      "opponent": "Italy",
+      "score": "1–2",
+      "scorers": [
+        {
+          "name": "Ernie Brandts",
+          "minute": "19'",
+          "ownGoal": true
+        },
+        {
+          "name": "Ernie Brandts",
+          "minute": "49'",
+          "ownGoal": false
+        },
+        {
+          "name": "Arie Haan",
+          "minute": "76'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1978-06-21"
+    },
+    {
+      "stage": "Final",
+      "opponent": "Argentina",
+      "score": "3–1",
+      "scorers": [
+        {
+          "name": "Mario Kempes",
+          "minute": "38'",
+          "ownGoal": false
+        },
+        {
+          "name": "Dick Nanninga",
+          "minute": "82'",
+          "ownGoal": false
+        },
+        {
+          "name": "Mario Kempes",
+          "minute": "105'",
+          "ownGoal": false
+        },
+        {
+          "name": "Daniel Bertoni",
+          "minute": "115'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1978-06-25"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

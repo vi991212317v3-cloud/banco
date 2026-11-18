@@ -1,0 +1,268 @@
+{
+  "country": "Argentina",
+  "countrySlug": "argentina",
+  "year": 1982,
+  "edition": "1982",
+  "host": "Spain",
+  "coach": "César Luis Menotti",
+  "finalPhase": "Second Group Stage",
+  "result": "Second Group Stage",
+  "squad": [
+    {
+      "id": "argentina-1982-1",
+      "name": "Osvaldo Ardiles",
+      "shirtNumber": 1,
+      "position": "MID"
+    },
+    {
+      "id": "argentina-1982-2",
+      "name": "Héctor Baley",
+      "shirtNumber": 2,
+      "position": "GK"
+    },
+    {
+      "id": "argentina-1982-3",
+      "name": "Juan Barbas",
+      "shirtNumber": 3,
+      "position": "MID"
+    },
+    {
+      "id": "argentina-1982-4",
+      "name": "Daniel Bertoni",
+      "shirtNumber": 4,
+      "position": "ATT"
+    },
+    {
+      "id": "argentina-1982-5",
+      "name": "Gabriel Calderón",
+      "shirtNumber": 5,
+      "position": "ATT"
+    },
+    {
+      "id": "argentina-1982-6",
+      "name": "Ramón Díaz",
+      "shirtNumber": 6,
+      "position": "ATT"
+    },
+    {
+      "id": "argentina-1982-7",
+      "name": "Ubaldo Fillol",
+      "shirtNumber": 7,
+      "position": "GK"
+    },
+    {
+      "id": "argentina-1982-8",
+      "name": "Luis Galván",
+      "shirtNumber": 8,
+      "position": "DEF"
+    },
+    {
+      "id": "argentina-1982-9",
+      "name": "Américo Gallego",
+      "shirtNumber": 9,
+      "position": "MID"
+    },
+    {
+      "id": "argentina-1982-10",
+      "name": "Diego Maradona",
+      "shirtNumber": 10,
+      "position": "MID"
+    },
+    {
+      "id": "argentina-1982-11",
+      "name": "Mario Kempes",
+      "shirtNumber": 11,
+      "position": "ATT"
+    },
+    {
+      "id": "argentina-1982-12",
+      "name": "Patricio Hernández",
+      "shirtNumber": 12,
+      "position": "MID"
+    },
+    {
+      "id": "argentina-1982-13",
+      "name": "Julio Olarticoechea",
+      "shirtNumber": 13,
+      "position": "DEF"
+    },
+    {
+      "id": "argentina-1982-14",
+      "name": "Jorge Olguín",
+      "shirtNumber": 14,
+      "position": "DEF"
+    },
+    {
+      "id": "argentina-1982-15",
+      "name": "Daniel Passarella",
+      "shirtNumber": 15,
+      "position": "DEF"
+    },
+    {
+      "id": "argentina-1982-16",
+      "name": "Nery Pumpido",
+      "shirtNumber": 16,
+      "position": "GK"
+    },
+    {
+      "id": "argentina-1982-17",
+      "name": "Santiago Santamaría",
+      "shirtNumber": 17,
+      "position": "ATT"
+    },
+    {
+      "id": "argentina-1982-18",
+      "name": "Alberto Tarantini",
+      "shirtNumber": 18,
+      "position": "DEF"
+    },
+    {
+      "id": "argentina-1982-19",
+      "name": "Enzo Trossero",
+      "shirtNumber": 19,
+      "position": "DEF"
+    },
+    {
+      "id": "argentina-1982-20",
+      "name": "Jorge Valdano",
+      "shirtNumber": 20,
+      "position": "ATT"
+    },
+    {
+      "id": "argentina-1982-21",
+      "name": "José Daniel Valencia",
+      "shirtNumber": 21,
+      "position": "MID"
+    },
+    {
+      "id": "argentina-1982-22",
+      "name": "José Van Tuyne",
+      "shirtNumber": 22,
+      "position": "DEF"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "Belgium",
+      "score": "0–1",
+      "scorers": [
+        {
+          "name": "Erwin Vandenbergh",
+          "minute": "62'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1982-06-13"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Hungary",
+      "score": "4–1",
+      "scorers": [
+        {
+          "name": "Daniel Bertoni",
+          "minute": "26'",
+          "ownGoal": false
+        },
+        {
+          "name": "Diego Maradona",
+          "minute": "28'",
+          "ownGoal": false
+        },
+        {
+          "name": "Diego Maradona",
+          "minute": "57'",
+          "ownGoal": false
+        },
+        {
+          "name": "Osvaldo Ardiles",
+          "minute": "60'",
+          "ownGoal": false
+        },
+        {
+          "name": "Gábor Pölöskei",
+          "minute": "76'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1982-06-18"
+    },
+    {
+      "stage": "Group",
+      "opponent": "El Salvador",
+      "score": "2–0",
+      "scorers": [
+        {
+          "name": "Daniel Passarella",
+          "minute": "22'",
+          "ownGoal": false
+        },
+        {
+          "name": "Daniel Bertoni",
+          "minute": "54'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1982-06-23"
+    },
+    {
+      "stage": "Second Group Stage",
+      "opponent": "Italy",
+      "score": "2–1",
+      "scorers": [
+        {
+          "name": "Marco Tardelli",
+          "minute": "57'",
+          "ownGoal": false
+        },
+        {
+          "name": "Antonio Cabrini",
+          "minute": "67'",
+          "ownGoal": false
+        },
+        {
+          "name": "Daniel Passarella",
+          "minute": "83'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1982-06-29"
+    },
+    {
+      "stage": "Second Group Stage",
+      "opponent": "Brazil",
+      "score": "1–3",
+      "scorers": [
+        {
+          "name": "Zico",
+          "minute": "11'",
+          "ownGoal": false
+        },
+        {
+          "name": "Serginho",
+          "minute": "66'",
+          "ownGoal": false
+        },
+        {
+          "name": "Júnior",
+          "minute": "75'",
+          "ownGoal": false
+        },
+        {
+          "name": "Ramón Díaz",
+          "minute": "89'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1982-07-02"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

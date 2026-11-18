@@ -1,0 +1,376 @@
+{
+  "country": "Argentina",
+  "countrySlug": "argentina",
+  "year": 2026,
+  "edition": "2026",
+  "host": "Canada, Mexico and United States",
+  "coach": "SCALONI Lionel",
+  "finalPhase": "Final",
+  "result": "Runner-up",
+  "squad": [
+    {
+      "id": "argentina-2026-1",
+      "name": "Juan Agustín MUSSO",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "argentina-2026-2",
+      "name": "Marcos Nicolás SENESI BARON",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "argentina-2026-3",
+      "name": "Nicolás Alejandro TAGLIAFICO",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "argentina-2026-4",
+      "name": "Gonzalo Ariel MONTIEL",
+      "shirtNumber": 4,
+      "position": "DEF"
+    },
+    {
+      "id": "argentina-2026-5",
+      "name": "Leandro Daniel PAREDES",
+      "shirtNumber": 5,
+      "position": "MID"
+    },
+    {
+      "id": "argentina-2026-6",
+      "name": "Lisandro MARTÍNEZ",
+      "shirtNumber": 6,
+      "position": "DEF"
+    },
+    {
+      "id": "argentina-2026-7",
+      "name": "Rodrigo Javier DE PAUL",
+      "shirtNumber": 7,
+      "position": "MID"
+    },
+    {
+      "id": "argentina-2026-8",
+      "name": "Valentin BARCO",
+      "shirtNumber": 8,
+      "position": "MID"
+    },
+    {
+      "id": "argentina-2026-9",
+      "name": "Julián ÁLVAREZ",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "argentina-2026-10",
+      "name": "Lionel Andrés MESSI",
+      "shirtNumber": 10,
+      "position": "ATT"
+    },
+    {
+      "id": "argentina-2026-11",
+      "name": "Giovani LO CELSO",
+      "shirtNumber": 11,
+      "position": "MID"
+    },
+    {
+      "id": "argentina-2026-12",
+      "name": "Geronimo RULLI",
+      "shirtNumber": 12,
+      "position": "GK"
+    },
+    {
+      "id": "argentina-2026-13",
+      "name": "Cristian Gabriel ROMERO",
+      "shirtNumber": 13,
+      "position": "DEF"
+    },
+    {
+      "id": "argentina-2026-14",
+      "name": "Exequiel Alejandro PALACIOS",
+      "shirtNumber": 14,
+      "position": "MID"
+    },
+    {
+      "id": "argentina-2026-15",
+      "name": "Nicolas Ivan GONZALEZ",
+      "shirtNumber": 15,
+      "position": "MID"
+    },
+    {
+      "id": "argentina-2026-16",
+      "name": "Thiago Ezequiel ALMADA",
+      "shirtNumber": 16,
+      "position": "ATT"
+    },
+    {
+      "id": "argentina-2026-17",
+      "name": "Giuliano SIMEONE",
+      "shirtNumber": 17,
+      "position": "ATT"
+    },
+    {
+      "id": "argentina-2026-18",
+      "name": "Nicolas PAZ MARTÍNEZ",
+      "shirtNumber": 18,
+      "position": "ATT"
+    },
+    {
+      "id": "argentina-2026-19",
+      "name": "Nicolas Hernan Gonzalo OTAMENDI",
+      "shirtNumber": 19,
+      "position": "DEF"
+    },
+    {
+      "id": "argentina-2026-20",
+      "name": "Alexis MAC ALLISTER",
+      "shirtNumber": 20,
+      "position": "MID"
+    },
+    {
+      "id": "argentina-2026-21",
+      "name": "Jose Manuel Alberto LOPEZ",
+      "shirtNumber": 21,
+      "position": "ATT"
+    },
+    {
+      "id": "argentina-2026-22",
+      "name": "Lautaro Javier MARTÍNEZ",
+      "shirtNumber": 22,
+      "position": "ATT"
+    },
+    {
+      "id": "argentina-2026-23",
+      "name": "Damián Emiliano MARTÍNEZ",
+      "shirtNumber": 23,
+      "position": "GK"
+    },
+    {
+      "id": "argentina-2026-24",
+      "name": "Enzo Jeremías FERNÁNDEZ",
+      "shirtNumber": 24,
+      "position": "MID"
+    },
+    {
+      "id": "argentina-2026-25",
+      "name": "Facundo Axel MEDINA",
+      "shirtNumber": 25,
+      "position": "DEF"
+    },
+    {
+      "id": "argentina-2026-26",
+      "name": "Nahuel MOLINA LUCERO",
+      "shirtNumber": 26,
+      "position": "DEF"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group Stage",
+      "opponent": "Algeria",
+      "score": "3–0",
+      "scorers": [
+        {
+          "name": "Lionel Andrés MESSI",
+          "minute": 17,
+          "ownGoal": false
+        },
+        {
+          "name": "Lionel Andrés MESSI",
+          "minute": 60,
+          "ownGoal": false
+        },
+        {
+          "name": "Lionel Andrés MESSI",
+          "minute": 76,
+          "ownGoal": false
+        }
+      ],
+      "date": "2026-06-16"
+    },
+    {
+      "stage": "Group Stage",
+      "opponent": "Austria",
+      "score": "2–0",
+      "scorers": [
+        {
+          "name": "Lionel Andrés MESSI",
+          "minute": 38,
+          "ownGoal": false
+        },
+        {
+          "name": "Lionel Andrés MESSI",
+          "minute": 90,
+          "ownGoal": false
+        }
+      ],
+      "date": "2026-06-22"
+    },
+    {
+      "stage": "Group Stage",
+      "opponent": "Jordan",
+      "score": "1–3",
+      "scorers": [
+        {
+          "name": "Giovani LO CELSO",
+          "minute": 19,
+          "ownGoal": false
+        },
+        {
+          "name": "Lautaro Javier MARTÍNEZ",
+          "minute": 31,
+          "ownGoal": false
+        },
+        {
+          "name": "Mousa Mohammad Mousa SULEIMAN",
+          "minute": 55,
+          "ownGoal": false
+        },
+        {
+          "name": "Lionel Andrés MESSI",
+          "minute": 80,
+          "ownGoal": false
+        }
+      ],
+      "date": "2026-06-27"
+    },
+    {
+      "stage": "Round of 32",
+      "opponent": "Cabo Verde",
+      "score": "3–2",
+      "scorers": [
+        {
+          "name": "Lionel Andrés MESSI",
+          "minute": 29,
+          "ownGoal": false
+        },
+        {
+          "name": "Deroy D'ENCARNAÇÃO DUARTE",
+          "minute": 59,
+          "ownGoal": false
+        },
+        {
+          "name": "Lisandro MARTÍNEZ",
+          "minute": 92,
+          "ownGoal": false
+        },
+        {
+          "name": "Sidny LOPES CABRAL",
+          "minute": 103,
+          "ownGoal": false
+        },
+        {
+          "name": "Edilson Alberto MONTEIRO SANCHES BORGES",
+          "minute": 111,
+          "ownGoal": true
+        }
+      ],
+      "date": "2026-07-04"
+    },
+    {
+      "stage": "Round of 16",
+      "opponent": "Egypt",
+      "score": "3–2",
+      "scorers": [
+        {
+          "name": "Yasser Ahmed Ibrahim ELHANAFY",
+          "minute": 15,
+          "ownGoal": false
+        },
+        {
+          "name": "Cristian Gabriel ROMERO",
+          "minute": 26,
+          "ownGoal": false
+        },
+        {
+          "name": "Lionel Andrés MESSI",
+          "minute": 40,
+          "ownGoal": false
+        },
+        {
+          "name": "Julián ÁLVAREZ",
+          "minute": 55,
+          "ownGoal": false
+        },
+        {
+          "name": "Mostafa Mohamed Zaky ABDELRAOUF",
+          "minute": 67,
+          "ownGoal": false
+        }
+      ],
+      "date": "2026-07-07"
+    },
+    {
+      "stage": "Quarter-finals",
+      "opponent": "Switzerland",
+      "score": "3–1",
+      "scorers": [
+        {
+          "name": "Alexis MAC ALLISTER",
+          "minute": 10,
+          "ownGoal": false
+        },
+        {
+          "name": "Dan NDOYE",
+          "minute": 67,
+          "ownGoal": false
+        },
+        {
+          "name": "Julián ÁLVAREZ",
+          "minute": 112,
+          "ownGoal": false
+        },
+        {
+          "name": "Lautaro Javier MARTÍNEZ",
+          "minute": 120,
+          "ownGoal": false
+        }
+      ],
+      "date": "2026-07-12"
+    },
+    {
+      "stage": "Semi-finals",
+      "opponent": "England",
+      "score": "1–2",
+      "scorers": [
+        {
+          "name": "Anthony Michael GORDON",
+          "minute": 55,
+          "ownGoal": false
+        },
+        {
+          "name": "Enzo Jeremías FERNÁNDEZ",
+          "minute": 85,
+          "ownGoal": false
+        },
+        {
+          "name": "Lautaro Javier MARTÍNEZ",
+          "minute": 90,
+          "ownGoal": false
+        }
+      ],
+      "date": "2026-07-15"
+    },
+    {
+      "stage": "Final",
+      "opponent": "Spain",
+      "score": "1–0",
+      "scorers": [
+        {
+          "name": "Ferran TORRES GARCÍA",
+          "minute": 106,
+          "ownGoal": false
+        }
+      ],
+      "date": "2026-07-19"
+    }
+  ],
+  "sources": [
+    "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/final-tournament-standings",
+    "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/teams",
+    "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+    "https://github.com/openfootball/worldcup.json",
+    "https://github.com/mominullptr/FIFA-World-Cup-2026-Dataset"
+  ]
+}

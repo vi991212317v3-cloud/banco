@@ -1,0 +1,227 @@
+{
+  "country": "Switzerland",
+  "countrySlug": "switzerland",
+  "year": 1962,
+  "edition": "1962",
+  "host": "Chile",
+  "coach": "Karl Rappan",
+  "finalPhase": "Group Stage",
+  "result": "Group Stage",
+  "squad": [
+    {
+      "id": "switzerland-1962-1",
+      "name": "Karl Elsener",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "switzerland-1962-2",
+      "name": "Antonio Permunian",
+      "shirtNumber": 2,
+      "position": "GK"
+    },
+    {
+      "id": "switzerland-1962-3",
+      "name": "Kurt Stettler",
+      "shirtNumber": 3,
+      "position": "GK"
+    },
+    {
+      "id": "switzerland-1962-4",
+      "name": "Willy Kernen",
+      "shirtNumber": 4,
+      "position": "MID"
+    },
+    {
+      "id": "switzerland-1962-5",
+      "name": "Fritz Morf",
+      "shirtNumber": 5,
+      "position": "DEF"
+    },
+    {
+      "id": "switzerland-1962-6",
+      "name": "Peter Rösch",
+      "shirtNumber": 6,
+      "position": "DEF"
+    },
+    {
+      "id": "switzerland-1962-7",
+      "name": "Heinz Schneiter",
+      "shirtNumber": 7,
+      "position": "DEF"
+    },
+    {
+      "id": "switzerland-1962-8",
+      "name": "Ely Tacchella",
+      "shirtNumber": 8,
+      "position": "DEF"
+    },
+    {
+      "id": "switzerland-1962-9",
+      "name": "André Grobéty",
+      "shirtNumber": 9,
+      "position": "DEF"
+    },
+    {
+      "id": "switzerland-1962-10",
+      "name": "Fritz Kehl",
+      "shirtNumber": 10,
+      "position": "DEF"
+    },
+    {
+      "id": "switzerland-1962-11",
+      "name": "Eugen Meier",
+      "shirtNumber": 11,
+      "position": "DEF"
+    },
+    {
+      "id": "switzerland-1962-12",
+      "name": "Marcel Vonlanthen",
+      "shirtNumber": 12,
+      "position": "ATT"
+    },
+    {
+      "id": "switzerland-1962-13",
+      "name": "Hans Weber",
+      "shirtNumber": 13,
+      "position": "MID"
+    },
+    {
+      "id": "switzerland-1962-14",
+      "name": "Anton Allemann",
+      "shirtNumber": 14,
+      "position": "MID"
+    },
+    {
+      "id": "switzerland-1962-15",
+      "name": "Charles Antenen",
+      "shirtNumber": 15,
+      "position": "ATT"
+    },
+    {
+      "id": "switzerland-1962-16",
+      "name": "Richard Dürr",
+      "shirtNumber": 16,
+      "position": "ATT"
+    },
+    {
+      "id": "switzerland-1962-17",
+      "name": "Norbert Eschmann",
+      "shirtNumber": 17,
+      "position": "ATT"
+    },
+    {
+      "id": "switzerland-1962-18",
+      "name": "Philippe Pottier",
+      "shirtNumber": 18,
+      "position": "ATT"
+    },
+    {
+      "id": "switzerland-1962-19",
+      "name": "Gilbert Rey",
+      "shirtNumber": 19,
+      "position": "ATT"
+    },
+    {
+      "id": "switzerland-1962-20",
+      "name": "Roger Vonlanthen",
+      "shirtNumber": 20,
+      "position": "MID"
+    },
+    {
+      "id": "switzerland-1962-21",
+      "name": "Rolf Wüthrich",
+      "shirtNumber": 21,
+      "position": "ATT"
+    },
+    {
+      "id": "switzerland-1962-22",
+      "name": "Roberto Frigerio",
+      "shirtNumber": 22,
+      "position": "ATT"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "Chile",
+      "score": "3–1",
+      "scorers": [
+        {
+          "name": "Rolf Wüthrich",
+          "minute": "6'",
+          "ownGoal": false
+        },
+        {
+          "name": "Leonel Sánchez",
+          "minute": "44'",
+          "ownGoal": false
+        },
+        {
+          "name": "Jaime Ramírez",
+          "minute": "51'",
+          "ownGoal": false
+        },
+        {
+          "name": "Leonel Sánchez",
+          "minute": "55'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1962-05-30"
+    },
+    {
+      "stage": "Group",
+      "opponent": "West Germany",
+      "score": "2–1",
+      "scorers": [
+        {
+          "name": "Albert Brülls",
+          "minute": "45'",
+          "ownGoal": false
+        },
+        {
+          "name": "Uwe Seeler",
+          "minute": "59'",
+          "ownGoal": false
+        },
+        {
+          "name": "Heinz Schneiter",
+          "minute": "73'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1962-06-03"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Italy",
+      "score": "3–0",
+      "scorers": [
+        {
+          "name": "Bruno Mora",
+          "minute": "2'",
+          "ownGoal": false
+        },
+        {
+          "name": "Giacomo Bulgarelli",
+          "minute": "65'",
+          "ownGoal": false
+        },
+        {
+          "name": "Giacomo Bulgarelli",
+          "minute": "67'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1962-06-07"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

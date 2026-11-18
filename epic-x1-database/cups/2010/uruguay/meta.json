@@ -1,0 +1,309 @@
+{
+  "country": "Uruguay",
+  "countrySlug": "uruguay",
+  "year": 2010,
+  "edition": "2010",
+  "host": "South Africa",
+  "coach": "Óscar Tabárez",
+  "finalPhase": "Third-place match",
+  "result": "Fourth place",
+  "squad": [
+    {
+      "id": "uruguay-2010-1",
+      "name": "Fernando Muslera",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "uruguay-2010-2",
+      "name": "Diego Lugano",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "uruguay-2010-3",
+      "name": "Diego Godín",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "uruguay-2010-4",
+      "name": "Jorge Fucile",
+      "shirtNumber": 4,
+      "position": "DEF"
+    },
+    {
+      "id": "uruguay-2010-5",
+      "name": "Walter Gargano",
+      "shirtNumber": 5,
+      "position": "MID"
+    },
+    {
+      "id": "uruguay-2010-6",
+      "name": "Mauricio Victorino",
+      "shirtNumber": 6,
+      "position": "DEF"
+    },
+    {
+      "id": "uruguay-2010-7",
+      "name": "Edinson Cavani",
+      "shirtNumber": 7,
+      "position": "ATT"
+    },
+    {
+      "id": "uruguay-2010-8",
+      "name": "Sebastián Eguren",
+      "shirtNumber": 8,
+      "position": "MID"
+    },
+    {
+      "id": "uruguay-2010-9",
+      "name": "Luis Suárez",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "uruguay-2010-10",
+      "name": "Diego Forlán",
+      "shirtNumber": 10,
+      "position": "ATT"
+    },
+    {
+      "id": "uruguay-2010-11",
+      "name": "Álvaro Pereira",
+      "shirtNumber": 11,
+      "position": "MID"
+    },
+    {
+      "id": "uruguay-2010-12",
+      "name": "Juan Castillo",
+      "shirtNumber": 12,
+      "position": "GK"
+    },
+    {
+      "id": "uruguay-2010-13",
+      "name": "Sebastián Abreu",
+      "shirtNumber": 13,
+      "position": "ATT"
+    },
+    {
+      "id": "uruguay-2010-14",
+      "name": "Nicolás Lodeiro",
+      "shirtNumber": 14,
+      "position": "MID"
+    },
+    {
+      "id": "uruguay-2010-15",
+      "name": "Diego Pérez",
+      "shirtNumber": 15,
+      "position": "MID"
+    },
+    {
+      "id": "uruguay-2010-16",
+      "name": "Maxi Pereira",
+      "shirtNumber": 16,
+      "position": "DEF"
+    },
+    {
+      "id": "uruguay-2010-17",
+      "name": "Egidio Arévalo Ríos",
+      "shirtNumber": 17,
+      "position": "MID"
+    },
+    {
+      "id": "uruguay-2010-18",
+      "name": "Ignacio González",
+      "shirtNumber": 18,
+      "position": "MID"
+    },
+    {
+      "id": "uruguay-2010-19",
+      "name": "Andrés Scotti",
+      "shirtNumber": 19,
+      "position": "DEF"
+    },
+    {
+      "id": "uruguay-2010-20",
+      "name": "Álvaro Fernández",
+      "shirtNumber": 20,
+      "position": "MID"
+    },
+    {
+      "id": "uruguay-2010-21",
+      "name": "Sebastián Fernández",
+      "shirtNumber": 21,
+      "position": "ATT"
+    },
+    {
+      "id": "uruguay-2010-22",
+      "name": "Martín Cáceres",
+      "shirtNumber": 22,
+      "position": "DEF"
+    },
+    {
+      "id": "uruguay-2010-23",
+      "name": "Martín Silva",
+      "shirtNumber": 23,
+      "position": "GK"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "France",
+      "score": "0–0",
+      "scorers": [],
+      "date": "2010-06-11"
+    },
+    {
+      "stage": "Group",
+      "opponent": "South Africa",
+      "score": "0–3",
+      "scorers": [
+        {
+          "name": "Diego Forlán",
+          "minute": "24'",
+          "ownGoal": false
+        },
+        {
+          "name": "Diego Forlán",
+          "minute": "80'",
+          "ownGoal": false
+        },
+        {
+          "name": "Álvaro Pereira",
+          "minute": "90'+5'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2010-06-16"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Mexico",
+      "score": "0–1",
+      "scorers": [
+        {
+          "name": "Luis Suárez",
+          "minute": "43'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2010-06-22"
+    },
+    {
+      "stage": "Round of 16",
+      "opponent": "South Korea",
+      "score": "2–1",
+      "scorers": [
+        {
+          "name": "Luis Suárez",
+          "minute": "8'",
+          "ownGoal": false
+        },
+        {
+          "name": "Chung-yong Lee",
+          "minute": "68'",
+          "ownGoal": false
+        },
+        {
+          "name": "Luis Suárez",
+          "minute": "80'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2010-06-26"
+    },
+    {
+      "stage": "Quarter-final",
+      "opponent": "Ghana",
+      "score": "1–1",
+      "scorers": [
+        {
+          "name": "Sulley Muntari",
+          "minute": "45'+2'",
+          "ownGoal": false
+        },
+        {
+          "name": "Diego Forlán",
+          "minute": "55'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2010-07-02"
+    },
+    {
+      "stage": "Semi-final",
+      "opponent": "Netherlands",
+      "score": "2–3",
+      "scorers": [
+        {
+          "name": "Giovanni van Bronckhorst",
+          "minute": "18'",
+          "ownGoal": false
+        },
+        {
+          "name": "Diego Forlán",
+          "minute": "41'",
+          "ownGoal": false
+        },
+        {
+          "name": "Wesley Sneijder",
+          "minute": "70'",
+          "ownGoal": false
+        },
+        {
+          "name": "Arjen Robben",
+          "minute": "73'",
+          "ownGoal": false
+        },
+        {
+          "name": "Maxi Pereira",
+          "minute": "90'+2'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2010-07-06"
+    },
+    {
+      "stage": "Third-place match",
+      "opponent": "Germany",
+      "score": "2–3",
+      "scorers": [
+        {
+          "name": "Thomas Müller",
+          "minute": "19'",
+          "ownGoal": false
+        },
+        {
+          "name": "Edinson Cavani",
+          "minute": "28'",
+          "ownGoal": false
+        },
+        {
+          "name": "Diego Forlán",
+          "minute": "51'",
+          "ownGoal": false
+        },
+        {
+          "name": "Marcell Jansen",
+          "minute": "56'",
+          "ownGoal": false
+        },
+        {
+          "name": "Sami Khedira",
+          "minute": "82'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2010-07-10"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

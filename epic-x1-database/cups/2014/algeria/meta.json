@@ -1,0 +1,261 @@
+{
+  "country": "Algeria",
+  "countrySlug": "algeria",
+  "year": 2014,
+  "edition": "2014",
+  "host": "Brazil",
+  "coach": "Vahid Halilhodžić",
+  "finalPhase": "Round of 16",
+  "result": "Round of 16",
+  "squad": [
+    {
+      "id": "algeria-2014-1",
+      "name": "Cédric Si Mohamed",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "algeria-2014-2",
+      "name": "Madjid Bougherra",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "algeria-2014-3",
+      "name": "Faouzi Ghoulam",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "algeria-2014-4",
+      "name": "Essaïd Belkalem",
+      "shirtNumber": 4,
+      "position": "DEF"
+    },
+    {
+      "id": "algeria-2014-5",
+      "name": "Rafik Halliche",
+      "shirtNumber": 5,
+      "position": "DEF"
+    },
+    {
+      "id": "algeria-2014-6",
+      "name": "Djamel Mesbah",
+      "shirtNumber": 6,
+      "position": "DEF"
+    },
+    {
+      "id": "algeria-2014-7",
+      "name": "Hassan Yebda",
+      "shirtNumber": 7,
+      "position": "MID"
+    },
+    {
+      "id": "algeria-2014-8",
+      "name": "Mehdi Lacen",
+      "shirtNumber": 8,
+      "position": "MID"
+    },
+    {
+      "id": "algeria-2014-9",
+      "name": "Nabil Ghilas",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "algeria-2014-10",
+      "name": "Sofiane Feghouli",
+      "shirtNumber": 10,
+      "position": "MID"
+    },
+    {
+      "id": "algeria-2014-11",
+      "name": "Yacine Brahimi",
+      "shirtNumber": 11,
+      "position": "MID"
+    },
+    {
+      "id": "algeria-2014-12",
+      "name": "Carl Medjani",
+      "shirtNumber": 12,
+      "position": "DEF"
+    },
+    {
+      "id": "algeria-2014-13",
+      "name": "Islam Slimani",
+      "shirtNumber": 13,
+      "position": "ATT"
+    },
+    {
+      "id": "algeria-2014-14",
+      "name": "Nabil Bentaleb",
+      "shirtNumber": 14,
+      "position": "MID"
+    },
+    {
+      "id": "algeria-2014-15",
+      "name": "Hillal Soudani",
+      "shirtNumber": 15,
+      "position": "ATT"
+    },
+    {
+      "id": "algeria-2014-16",
+      "name": "Mohamed Zemmamouche",
+      "shirtNumber": 16,
+      "position": "GK"
+    },
+    {
+      "id": "algeria-2014-17",
+      "name": "Liassine Cadamuro-Bentaïba",
+      "shirtNumber": 17,
+      "position": "DEF"
+    },
+    {
+      "id": "algeria-2014-18",
+      "name": "Abdelmoumene Djabou",
+      "shirtNumber": 18,
+      "position": "MID"
+    },
+    {
+      "id": "algeria-2014-19",
+      "name": "Saphir Taïder",
+      "shirtNumber": 19,
+      "position": "MID"
+    },
+    {
+      "id": "algeria-2014-20",
+      "name": "Aïssa Mandi",
+      "shirtNumber": 20,
+      "position": "DEF"
+    },
+    {
+      "id": "algeria-2014-21",
+      "name": "Riyad Mahrez",
+      "shirtNumber": 21,
+      "position": "MID"
+    },
+    {
+      "id": "algeria-2014-22",
+      "name": "Mehdi Mostefa",
+      "shirtNumber": 22,
+      "position": "MID"
+    },
+    {
+      "id": "algeria-2014-23",
+      "name": "Raïs M'Bolhi",
+      "shirtNumber": 23,
+      "position": "GK"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "Belgium",
+      "score": "2–1",
+      "scorers": [
+        {
+          "name": "Sofiane Feghouli",
+          "minute": "25'",
+          "ownGoal": false
+        },
+        {
+          "name": "Marouane Fellaini",
+          "minute": "70'",
+          "ownGoal": false
+        },
+        {
+          "name": "Dries Mertens",
+          "minute": "80'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2014-06-17"
+    },
+    {
+      "stage": "Group",
+      "opponent": "South Korea",
+      "score": "2–4",
+      "scorers": [
+        {
+          "name": "Islam Slimani",
+          "minute": "26'",
+          "ownGoal": false
+        },
+        {
+          "name": "Rafik Halliche",
+          "minute": "28'",
+          "ownGoal": false
+        },
+        {
+          "name": "Abdelmoumene Djabou",
+          "minute": "38'",
+          "ownGoal": false
+        },
+        {
+          "name": "Heung-min Son",
+          "minute": "50'",
+          "ownGoal": false
+        },
+        {
+          "name": "Yacine Brahimi",
+          "minute": "62'",
+          "ownGoal": false
+        },
+        {
+          "name": "Ja-cheol Koo",
+          "minute": "72'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2014-06-22"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Russia",
+      "score": "1–1",
+      "scorers": [
+        {
+          "name": "Aleksandr Kokorin",
+          "minute": "6'",
+          "ownGoal": false
+        },
+        {
+          "name": "Islam Slimani",
+          "minute": "60'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2014-06-26"
+    },
+    {
+      "stage": "Round of 16",
+      "opponent": "Germany",
+      "score": "2–1",
+      "scorers": [
+        {
+          "name": "André Schürrle",
+          "minute": "92'",
+          "ownGoal": false
+        },
+        {
+          "name": "Mesut Özil",
+          "minute": "120'",
+          "ownGoal": false
+        },
+        {
+          "name": "Abdelmoumene Djabou",
+          "minute": "120'+1'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2014-06-30"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}
