@@ -1,0 +1,233 @@
+{
+  "country": "Ghana",
+  "countrySlug": "ghana",
+  "year": 2026,
+  "edition": "2026",
+  "host": "Canada, Mexico and United States",
+  "coach": "CARLOS QUEIROZ",
+  "finalPhase": "Round of 32",
+  "result": "Round of 32",
+  "squad": [
+    {
+      "id": "ghana-2026-1",
+      "name": "Lawrence Ati ZIGI",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "ghana-2026-2",
+      "name": "Alidu SEIDU",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "ghana-2026-3",
+      "name": "Caleb Marfo YIRENKYI",
+      "shirtNumber": 3,
+      "position": "MID"
+    },
+    {
+      "id": "ghana-2026-4",
+      "name": "Jonas Adjei ADJETEY",
+      "shirtNumber": 4,
+      "position": "DEF"
+    },
+    {
+      "id": "ghana-2026-5",
+      "name": "Thomas Teye PARTEY",
+      "shirtNumber": 5,
+      "position": "MID"
+    },
+    {
+      "id": "ghana-2026-6",
+      "name": "Abdul Mumin SULEMAN",
+      "shirtNumber": 6,
+      "position": "DEF"
+    },
+    {
+      "id": "ghana-2026-7",
+      "name": "Abdul Fatawu ISSAHAKU",
+      "shirtNumber": 7,
+      "position": "ATT"
+    },
+    {
+      "id": "ghana-2026-8",
+      "name": "Kwasi SIBO",
+      "shirtNumber": 8,
+      "position": "MID"
+    },
+    {
+      "id": "ghana-2026-9",
+      "name": "Jordan Pierre AYEW",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "ghana-2026-10",
+      "name": "Solomon Brandon Michael Clarke THOMAS-ASANTE",
+      "shirtNumber": 10,
+      "position": "ATT"
+    },
+    {
+      "id": "ghana-2026-11",
+      "name": "Antoine Serlom SEMENYO",
+      "shirtNumber": 11,
+      "position": "MID"
+    },
+    {
+      "id": "ghana-2026-12",
+      "name": "Joseph Tetteh ANANG",
+      "shirtNumber": 12,
+      "position": "GK"
+    },
+    {
+      "id": "ghana-2026-13",
+      "name": "Christopher Bonsu BAAH",
+      "shirtNumber": 13,
+      "position": "ATT"
+    },
+    {
+      "id": "ghana-2026-14",
+      "name": "Gideon MENSAH",
+      "shirtNumber": 14,
+      "position": "DEF"
+    },
+    {
+      "id": "ghana-2026-15",
+      "name": "Elisha OWUSU",
+      "shirtNumber": 15,
+      "position": "MID"
+    },
+    {
+      "id": "ghana-2026-16",
+      "name": "Benjamin ASARE",
+      "shirtNumber": 16,
+      "position": "GK"
+    },
+    {
+      "id": "ghana-2026-17",
+      "name": "Abdul Rahman BABA",
+      "shirtNumber": 17,
+      "position": "DEF"
+    },
+    {
+      "id": "ghana-2026-18",
+      "name": "Jerome OPOKU",
+      "shirtNumber": 18,
+      "position": "DEF"
+    },
+    {
+      "id": "ghana-2026-19",
+      "name": "Inaki WILLIAMS ARTHUER",
+      "shirtNumber": 19,
+      "position": "ATT"
+    },
+    {
+      "id": "ghana-2026-20",
+      "name": "Augustine BOAKYE",
+      "shirtNumber": 20,
+      "position": "MID"
+    },
+    {
+      "id": "ghana-2026-21",
+      "name": "Kojo Peprah OPPONG",
+      "shirtNumber": 21,
+      "position": "DEF"
+    },
+    {
+      "id": "ghana-2026-22",
+      "name": "Kamal Deen SULEMANA",
+      "shirtNumber": 22,
+      "position": "ATT"
+    },
+    {
+      "id": "ghana-2026-23",
+      "name": "Derrick LUCKASSEN",
+      "shirtNumber": 23,
+      "position": "DEF"
+    },
+    {
+      "id": "ghana-2026-24",
+      "name": "Ernest Nuamah APPIAH",
+      "shirtNumber": 24,
+      "position": "ATT"
+    },
+    {
+      "id": "ghana-2026-25",
+      "name": "Prince Kwabena ADU",
+      "shirtNumber": 25,
+      "position": "ATT"
+    },
+    {
+      "id": "ghana-2026-26",
+      "name": "Marvin Elom SENAYA",
+      "shirtNumber": 26,
+      "position": "DEF"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group Stage",
+      "opponent": "Panama",
+      "score": "1–0",
+      "scorers": [
+        {
+          "name": "Caleb Marfo YIRENKYI",
+          "minute": 90,
+          "ownGoal": false
+        }
+      ],
+      "date": "2026-06-17"
+    },
+    {
+      "stage": "Group Stage",
+      "opponent": "England",
+      "score": "0–0",
+      "scorers": [],
+      "date": "2026-06-23"
+    },
+    {
+      "stage": "Group Stage",
+      "opponent": "Croatia",
+      "score": "2–1",
+      "scorers": [
+        {
+          "name": "Petar SUČIĆ",
+          "minute": 31,
+          "ownGoal": false
+        },
+        {
+          "name": "Derrick LUCKASSEN",
+          "minute": 73,
+          "ownGoal": false
+        },
+        {
+          "name": "Nikola VLAŠIĆ",
+          "minute": 83,
+          "ownGoal": false
+        }
+      ],
+      "date": "2026-06-28"
+    },
+    {
+      "stage": "Round of 32",
+      "opponent": "Colombia",
+      "score": "1–0",
+      "scorers": [
+        {
+          "name": "Jhon Adolfo ARIAS ANDRADE",
+          "minute": 14,
+          "ownGoal": false
+        }
+      ],
+      "date": "2026-07-04"
+    }
+  ],
+  "sources": [
+    "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/final-tournament-standings",
+    "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/teams",
+    "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+    "https://github.com/openfootball/worldcup.json",
+    "https://github.com/mominullptr/FIFA-World-Cup-2026-Dataset"
+  ]
+}

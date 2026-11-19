@@ -1,0 +1,295 @@
+{
+  "country": "Peru",
+  "countrySlug": "peru",
+  "year": 1978,
+  "edition": "1978",
+  "host": "Argentina",
+  "coach": "Marcos Calderón",
+  "finalPhase": "Second Group Stage",
+  "result": "Second Group Stage",
+  "squad": [
+    {
+      "id": "peru-1978-1",
+      "name": "Ottorino Sartor",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "peru-1978-2",
+      "name": "Jaime Duarte",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "peru-1978-3",
+      "name": "Rodolfo Manzo",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "peru-1978-4",
+      "name": "Héctor Chumpitaz",
+      "shirtNumber": 4,
+      "position": "DEF"
+    },
+    {
+      "id": "peru-1978-5",
+      "name": "Rubén Toribio Díaz",
+      "shirtNumber": 5,
+      "position": "DEF"
+    },
+    {
+      "id": "peru-1978-6",
+      "name": "José Velásquez",
+      "shirtNumber": 6,
+      "position": "MID"
+    },
+    {
+      "id": "peru-1978-7",
+      "name": "Juan Muñante",
+      "shirtNumber": 7,
+      "position": "ATT"
+    },
+    {
+      "id": "peru-1978-8",
+      "name": "César Cueto",
+      "shirtNumber": 8,
+      "position": "MID"
+    },
+    {
+      "id": "peru-1978-9",
+      "name": "Percy Rojas",
+      "shirtNumber": 9,
+      "position": "MID"
+    },
+    {
+      "id": "peru-1978-10",
+      "name": "Teófilo Cubillas",
+      "shirtNumber": 10,
+      "position": "MID"
+    },
+    {
+      "id": "peru-1978-11",
+      "name": "Carlos Juan Oblitas",
+      "shirtNumber": 11,
+      "position": "ATT"
+    },
+    {
+      "id": "peru-1978-12",
+      "name": "Roberto Mosquera",
+      "shirtNumber": 12,
+      "position": "ATT"
+    },
+    {
+      "id": "peru-1978-13",
+      "name": "Juan Cáceres",
+      "shirtNumber": 13,
+      "position": "GK"
+    },
+    {
+      "id": "peru-1978-14",
+      "name": "José Navarro",
+      "shirtNumber": 14,
+      "position": "DEF"
+    },
+    {
+      "id": "peru-1978-15",
+      "name": "Germán Leguía",
+      "shirtNumber": 15,
+      "position": "MID"
+    },
+    {
+      "id": "peru-1978-16",
+      "name": "Raúl Gorriti",
+      "shirtNumber": 16,
+      "position": "MID"
+    },
+    {
+      "id": "peru-1978-17",
+      "name": "Alfredo Quesada",
+      "shirtNumber": 17,
+      "position": "MID"
+    },
+    {
+      "id": "peru-1978-18",
+      "name": "Ernesto Labarthe",
+      "shirtNumber": 18,
+      "position": "MID"
+    },
+    {
+      "id": "peru-1978-19",
+      "name": "Guillermo La Rosa",
+      "shirtNumber": 19,
+      "position": "ATT"
+    },
+    {
+      "id": "peru-1978-20",
+      "name": "Hugo Sotil",
+      "shirtNumber": 20,
+      "position": "ATT"
+    },
+    {
+      "id": "peru-1978-21",
+      "name": "Ramón Quiroga",
+      "shirtNumber": 21,
+      "position": "GK"
+    },
+    {
+      "id": "peru-1978-22",
+      "name": "Roberto Rojas",
+      "shirtNumber": 22,
+      "position": "DEF"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "Scotland",
+      "score": "3–1",
+      "scorers": [
+        {
+          "name": "Joe Jordan",
+          "minute": "14'",
+          "ownGoal": false
+        },
+        {
+          "name": "César Cueto",
+          "minute": "43'",
+          "ownGoal": false
+        },
+        {
+          "name": "Teófilo Cubillas",
+          "minute": "71'",
+          "ownGoal": false
+        },
+        {
+          "name": "Teófilo Cubillas",
+          "minute": "77'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1978-06-03"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Netherlands",
+      "score": "0–0",
+      "scorers": [],
+      "date": "1978-06-07"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Iran",
+      "score": "4–1",
+      "scorers": [
+        {
+          "name": "José Velásquez",
+          "minute": "2'",
+          "ownGoal": false
+        },
+        {
+          "name": "Teófilo Cubillas",
+          "minute": "36'",
+          "ownGoal": false
+        },
+        {
+          "name": "Teófilo Cubillas",
+          "minute": "39'",
+          "ownGoal": false
+        },
+        {
+          "name": "Hassan Roshan",
+          "minute": "41'",
+          "ownGoal": false
+        },
+        {
+          "name": "Teófilo Cubillas",
+          "minute": "79'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1978-06-11"
+    },
+    {
+      "stage": "Second Group Stage",
+      "opponent": "Brazil",
+      "score": "3–0",
+      "scorers": [
+        {
+          "name": "Dirceu",
+          "minute": "15'",
+          "ownGoal": false
+        },
+        {
+          "name": "Dirceu",
+          "minute": "27'",
+          "ownGoal": false
+        },
+        {
+          "name": "Zico",
+          "minute": "72'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1978-06-14"
+    },
+    {
+      "stage": "Second Group Stage",
+      "opponent": "Poland",
+      "score": "0–1",
+      "scorers": [
+        {
+          "name": "Andrzej Szarmach",
+          "minute": "65'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1978-06-18"
+    },
+    {
+      "stage": "Second Group Stage",
+      "opponent": "Argentina",
+      "score": "6–0",
+      "scorers": [
+        {
+          "name": "Mario Kempes",
+          "minute": "21'",
+          "ownGoal": false
+        },
+        {
+          "name": "Alberto Tarantini",
+          "minute": "43'",
+          "ownGoal": false
+        },
+        {
+          "name": "Mario Kempes",
+          "minute": "49'",
+          "ownGoal": false
+        },
+        {
+          "name": "Leopoldo Luque",
+          "minute": "50'",
+          "ownGoal": false
+        },
+        {
+          "name": "René Houseman",
+          "minute": "67'",
+          "ownGoal": false
+        },
+        {
+          "name": "Leopoldo Luque",
+          "minute": "72'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1978-06-21"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

@@ -1,0 +1,303 @@
+{
+  "country": "Argentina",
+  "countrySlug": "argentina",
+  "year": 1978,
+  "edition": "1978",
+  "host": "Argentina",
+  "coach": "César Luis Menotti",
+  "finalPhase": "Final",
+  "result": "Champion",
+  "squad": [
+    {
+      "id": "argentina-1978-1",
+      "name": "Norberto Alonso",
+      "shirtNumber": 1,
+      "position": "MID"
+    },
+    {
+      "id": "argentina-1978-2",
+      "name": "Osvaldo Ardiles",
+      "shirtNumber": 2,
+      "position": "MID"
+    },
+    {
+      "id": "argentina-1978-3",
+      "name": "Héctor Baley",
+      "shirtNumber": 3,
+      "position": "GK"
+    },
+    {
+      "id": "argentina-1978-4",
+      "name": "Daniel Bertoni",
+      "shirtNumber": 4,
+      "position": "ATT"
+    },
+    {
+      "id": "argentina-1978-5",
+      "name": "Ubaldo Fillol",
+      "shirtNumber": 5,
+      "position": "GK"
+    },
+    {
+      "id": "argentina-1978-6",
+      "name": "Américo Gallego",
+      "shirtNumber": 6,
+      "position": "MID"
+    },
+    {
+      "id": "argentina-1978-7",
+      "name": "Luis Galván",
+      "shirtNumber": 7,
+      "position": "DEF"
+    },
+    {
+      "id": "argentina-1978-8",
+      "name": "Rubén Galván",
+      "shirtNumber": 8,
+      "position": "MID"
+    },
+    {
+      "id": "argentina-1978-9",
+      "name": "René Houseman",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "argentina-1978-10",
+      "name": "Mario Kempes",
+      "shirtNumber": 10,
+      "position": "ATT"
+    },
+    {
+      "id": "argentina-1978-11",
+      "name": "Daniel Killer",
+      "shirtNumber": 11,
+      "position": "DEF"
+    },
+    {
+      "id": "argentina-1978-12",
+      "name": "Omar Larrosa",
+      "shirtNumber": 12,
+      "position": "MID"
+    },
+    {
+      "id": "argentina-1978-13",
+      "name": "Ricardo La Volpe",
+      "shirtNumber": 13,
+      "position": "GK"
+    },
+    {
+      "id": "argentina-1978-14",
+      "name": "Leopoldo Luque",
+      "shirtNumber": 14,
+      "position": "ATT"
+    },
+    {
+      "id": "argentina-1978-15",
+      "name": "Jorge Olguín",
+      "shirtNumber": 15,
+      "position": "DEF"
+    },
+    {
+      "id": "argentina-1978-16",
+      "name": "Oscar Ortiz",
+      "shirtNumber": 16,
+      "position": "ATT"
+    },
+    {
+      "id": "argentina-1978-17",
+      "name": "Miguel Oviedo",
+      "shirtNumber": 17,
+      "position": "MID"
+    },
+    {
+      "id": "argentina-1978-18",
+      "name": "Rubén Pagnanini",
+      "shirtNumber": 18,
+      "position": "DEF"
+    },
+    {
+      "id": "argentina-1978-19",
+      "name": "Daniel Passarella",
+      "shirtNumber": 19,
+      "position": "DEF"
+    },
+    {
+      "id": "argentina-1978-20",
+      "name": "Alberto Tarantini",
+      "shirtNumber": 20,
+      "position": "DEF"
+    },
+    {
+      "id": "argentina-1978-21",
+      "name": "José Daniel Valencia",
+      "shirtNumber": 21,
+      "position": "MID"
+    },
+    {
+      "id": "argentina-1978-22",
+      "name": "Ricardo Villa",
+      "shirtNumber": 22,
+      "position": "MID"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "Hungary",
+      "score": "2–1",
+      "scorers": [
+        {
+          "name": "Károly Csapó",
+          "minute": "9'",
+          "ownGoal": false
+        },
+        {
+          "name": "Leopoldo Luque",
+          "minute": "14'",
+          "ownGoal": false
+        },
+        {
+          "name": "Daniel Bertoni",
+          "minute": "83'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1978-06-02"
+    },
+    {
+      "stage": "Group",
+      "opponent": "France",
+      "score": "2–1",
+      "scorers": [
+        {
+          "name": "Daniel Passarella",
+          "minute": "45'",
+          "ownGoal": false
+        },
+        {
+          "name": "Michel Platini",
+          "minute": "60'",
+          "ownGoal": false
+        },
+        {
+          "name": "Leopoldo Luque",
+          "minute": "73'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1978-06-06"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Italy",
+      "score": "0–1",
+      "scorers": [
+        {
+          "name": "Roberto Bettega",
+          "minute": "67'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1978-06-10"
+    },
+    {
+      "stage": "Second Group Stage",
+      "opponent": "Poland",
+      "score": "2–0",
+      "scorers": [
+        {
+          "name": "Mario Kempes",
+          "minute": "16'",
+          "ownGoal": false
+        },
+        {
+          "name": "Mario Kempes",
+          "minute": "71'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1978-06-14"
+    },
+    {
+      "stage": "Second Group Stage",
+      "opponent": "Brazil",
+      "score": "0–0",
+      "scorers": [],
+      "date": "1978-06-18"
+    },
+    {
+      "stage": "Second Group Stage",
+      "opponent": "Peru",
+      "score": "6–0",
+      "scorers": [
+        {
+          "name": "Mario Kempes",
+          "minute": "21'",
+          "ownGoal": false
+        },
+        {
+          "name": "Alberto Tarantini",
+          "minute": "43'",
+          "ownGoal": false
+        },
+        {
+          "name": "Mario Kempes",
+          "minute": "49'",
+          "ownGoal": false
+        },
+        {
+          "name": "Leopoldo Luque",
+          "minute": "50'",
+          "ownGoal": false
+        },
+        {
+          "name": "René Houseman",
+          "minute": "67'",
+          "ownGoal": false
+        },
+        {
+          "name": "Leopoldo Luque",
+          "minute": "72'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1978-06-21"
+    },
+    {
+      "stage": "Final",
+      "opponent": "Netherlands",
+      "score": "3–1",
+      "scorers": [
+        {
+          "name": "Mario Kempes",
+          "minute": "38'",
+          "ownGoal": false
+        },
+        {
+          "name": "Dick Nanninga",
+          "minute": "82'",
+          "ownGoal": false
+        },
+        {
+          "name": "Mario Kempes",
+          "minute": "105'",
+          "ownGoal": false
+        },
+        {
+          "name": "Daniel Bertoni",
+          "minute": "115'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1978-06-25"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

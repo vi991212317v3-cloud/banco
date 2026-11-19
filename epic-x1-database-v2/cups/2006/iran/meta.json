@@ -1,0 +1,223 @@
+{
+  "country": "Iran",
+  "countrySlug": "iran",
+  "year": 2006,
+  "edition": "2006",
+  "host": "Germany",
+  "coach": "Branko Ivanković",
+  "finalPhase": "Group Stage",
+  "result": "Group Stage",
+  "squad": [
+    {
+      "id": "iran-2006-1",
+      "name": "Ebrahim Mirzapour",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "iran-2006-2",
+      "name": "Mehdi Mahdavikia",
+      "shirtNumber": 2,
+      "position": "MID"
+    },
+    {
+      "id": "iran-2006-3",
+      "name": "Sohrab Bakhtiarizadeh",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "iran-2006-4",
+      "name": "Yahya Golmohammadi",
+      "shirtNumber": 4,
+      "position": "DEF"
+    },
+    {
+      "id": "iran-2006-5",
+      "name": "Rahman Rezaei",
+      "shirtNumber": 5,
+      "position": "DEF"
+    },
+    {
+      "id": "iran-2006-6",
+      "name": "Javad Nekounam",
+      "shirtNumber": 6,
+      "position": "MID"
+    },
+    {
+      "id": "iran-2006-7",
+      "name": "Ferydoon Zandi",
+      "shirtNumber": 7,
+      "position": "MID"
+    },
+    {
+      "id": "iran-2006-8",
+      "name": "Ali Karimi",
+      "shirtNumber": 8,
+      "position": "MID"
+    },
+    {
+      "id": "iran-2006-9",
+      "name": "Vahid Hashemian",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "iran-2006-10",
+      "name": "Ali Daei",
+      "shirtNumber": 10,
+      "position": "ATT"
+    },
+    {
+      "id": "iran-2006-11",
+      "name": "Rasoul Khatibi",
+      "shirtNumber": 11,
+      "position": "ATT"
+    },
+    {
+      "id": "iran-2006-12",
+      "name": "Hassan Roudbarian",
+      "shirtNumber": 12,
+      "position": "GK"
+    },
+    {
+      "id": "iran-2006-13",
+      "name": "Hossein Kaebi",
+      "shirtNumber": 13,
+      "position": "DEF"
+    },
+    {
+      "id": "iran-2006-14",
+      "name": "Andranik Teymourian",
+      "shirtNumber": 14,
+      "position": "MID"
+    },
+    {
+      "id": "iran-2006-15",
+      "name": "Arash Borhani",
+      "shirtNumber": 15,
+      "position": "ATT"
+    },
+    {
+      "id": "iran-2006-16",
+      "name": "Reza Enayati",
+      "shirtNumber": 16,
+      "position": "ATT"
+    },
+    {
+      "id": "iran-2006-17",
+      "name": "Javad Kazemian",
+      "shirtNumber": 17,
+      "position": "ATT"
+    },
+    {
+      "id": "iran-2006-18",
+      "name": "Moharram Navidkia",
+      "shirtNumber": 18,
+      "position": "MID"
+    },
+    {
+      "id": "iran-2006-19",
+      "name": "Amir Hossein Sadeghi",
+      "shirtNumber": 19,
+      "position": "DEF"
+    },
+    {
+      "id": "iran-2006-20",
+      "name": "Mohammad Nosrati",
+      "shirtNumber": 20,
+      "position": "DEF"
+    },
+    {
+      "id": "iran-2006-21",
+      "name": "Mehrzad Madanchi",
+      "shirtNumber": 21,
+      "position": "MID"
+    },
+    {
+      "id": "iran-2006-22",
+      "name": "Vahid Talebloo",
+      "shirtNumber": 22,
+      "position": "GK"
+    },
+    {
+      "id": "iran-2006-23",
+      "name": "Masoud Shojaei",
+      "shirtNumber": 23,
+      "position": "MID"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "Mexico",
+      "score": "3–1",
+      "scorers": [
+        {
+          "name": "Omar Bravo",
+          "minute": "28'",
+          "ownGoal": false
+        },
+        {
+          "name": "Yahya Golmohammadi",
+          "minute": "36'",
+          "ownGoal": false
+        },
+        {
+          "name": "Omar Bravo",
+          "minute": "76'",
+          "ownGoal": false
+        },
+        {
+          "name": "Sinha",
+          "minute": "79'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2006-06-11"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Portugal",
+      "score": "2–0",
+      "scorers": [
+        {
+          "name": "Deco",
+          "minute": "63'",
+          "ownGoal": false
+        },
+        {
+          "name": "Cristiano Ronaldo",
+          "minute": "80'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2006-06-17"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Angola",
+      "score": "1–1",
+      "scorers": [
+        {
+          "name": "Flávio",
+          "minute": "60'",
+          "ownGoal": false
+        },
+        {
+          "name": "Sohrab Bakhtiarizadeh",
+          "minute": "75'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2006-06-21"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

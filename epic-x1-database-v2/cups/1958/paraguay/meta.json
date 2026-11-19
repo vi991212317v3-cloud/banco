@@ -1,0 +1,282 @@
+{
+  "country": "Paraguay",
+  "countrySlug": "paraguay",
+  "year": 1958,
+  "edition": "1958",
+  "host": "Sweden",
+  "coach": "Aurelio González",
+  "finalPhase": "Group Stage",
+  "result": "Group Stage",
+  "squad": [
+    {
+      "id": "paraguay-1958-1",
+      "name": "Ramón Mayeregger",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "paraguay-1958-2",
+      "name": "Edelmiro Arévalo",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "paraguay-1958-3",
+      "name": "Juan Vicente Lezcano",
+      "shirtNumber": 3,
+      "position": "MID"
+    },
+    {
+      "id": "paraguay-1958-4",
+      "name": "Ignacio Achúcarro",
+      "shirtNumber": 4,
+      "position": "DEF"
+    },
+    {
+      "id": "paraguay-1958-5",
+      "name": "Salvador Villalba",
+      "shirtNumber": 5,
+      "position": "MID"
+    },
+    {
+      "id": "paraguay-1958-6",
+      "name": "Eligio Echagüe",
+      "shirtNumber": 6,
+      "position": "DEF"
+    },
+    {
+      "id": "paraguay-1958-7",
+      "name": "Juan Bautista Agüero",
+      "shirtNumber": 7,
+      "position": "ATT"
+    },
+    {
+      "id": "paraguay-1958-8",
+      "name": "José Parodi",
+      "shirtNumber": 8,
+      "position": "ATT"
+    },
+    {
+      "id": "paraguay-1958-9",
+      "name": "Jorge Lino Romero",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "paraguay-1958-10",
+      "name": "Oscar Aguilera",
+      "shirtNumber": 10,
+      "position": "ATT"
+    },
+    {
+      "id": "paraguay-1958-11",
+      "name": "Florencio Amarilla",
+      "shirtNumber": 11,
+      "position": "ATT"
+    },
+    {
+      "id": "paraguay-1958-12",
+      "name": "Samuel Aguilar",
+      "shirtNumber": 12,
+      "position": "GK"
+    },
+    {
+      "id": "paraguay-1958-13",
+      "name": "Luis Gini",
+      "shirtNumber": 13,
+      "position": "DEF"
+    },
+    {
+      "id": "paraguay-1958-14",
+      "name": "Darío Segovia",
+      "shirtNumber": 14,
+      "position": "DEF"
+    },
+    {
+      "id": "paraguay-1958-15",
+      "name": "Luis Santos Silva",
+      "shirtNumber": 15,
+      "position": "MID"
+    },
+    {
+      "id": "paraguay-1958-16",
+      "name": "Claudio Lezcano",
+      "shirtNumber": 16,
+      "position": "ATT"
+    },
+    {
+      "id": "paraguay-1958-17",
+      "name": "Agustín Miranda",
+      "shirtNumber": 17,
+      "position": "DEF"
+    },
+    {
+      "id": "paraguay-1958-18",
+      "name": "Gilberto Penayo",
+      "shirtNumber": 18,
+      "position": "ATT"
+    },
+    {
+      "id": "paraguay-1958-19",
+      "name": "Eliseo Insfrán",
+      "shirtNumber": 19,
+      "position": "ATT"
+    },
+    {
+      "id": "paraguay-1958-20",
+      "name": "José Raúl Aveiro",
+      "shirtNumber": 20,
+      "position": "ATT"
+    },
+    {
+      "id": "paraguay-1958-21",
+      "name": "Cayetano Ré",
+      "shirtNumber": 21,
+      "position": "ATT"
+    },
+    {
+      "id": "paraguay-1958-22",
+      "name": "Eligio Insfrán",
+      "shirtNumber": 22,
+      "position": "ATT"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "France",
+      "score": "7–3",
+      "scorers": [
+        {
+          "name": "Florencio Amarilla",
+          "minute": "20'",
+          "ownGoal": false
+        },
+        {
+          "name": "Just Fontaine",
+          "minute": "24'",
+          "ownGoal": false
+        },
+        {
+          "name": "Just Fontaine",
+          "minute": "30'",
+          "ownGoal": false
+        },
+        {
+          "name": "Florencio Amarilla",
+          "minute": "44'",
+          "ownGoal": false
+        },
+        {
+          "name": "Jorge Lino Romero",
+          "minute": "50'",
+          "ownGoal": false
+        },
+        {
+          "name": "Roger Piantoni",
+          "minute": "52'",
+          "ownGoal": false
+        },
+        {
+          "name": "Maryan Wisnieski",
+          "minute": "61'",
+          "ownGoal": false
+        },
+        {
+          "name": "Just Fontaine",
+          "minute": "67'",
+          "ownGoal": false
+        },
+        {
+          "name": "Raymond Kopa",
+          "minute": "70'",
+          "ownGoal": false
+        },
+        {
+          "name": "Jean Vincent",
+          "minute": "83'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1958-06-08"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Scotland",
+      "score": "3–2",
+      "scorers": [
+        {
+          "name": "Juan Bautista Agüero",
+          "minute": "4'",
+          "ownGoal": false
+        },
+        {
+          "name": "Jackie Mudie",
+          "minute": "24'",
+          "ownGoal": false
+        },
+        {
+          "name": "Cayetano Ré",
+          "minute": "45'",
+          "ownGoal": false
+        },
+        {
+          "name": "José Parodi",
+          "minute": "73'",
+          "ownGoal": false
+        },
+        {
+          "name": "Bobby Collins",
+          "minute": "74'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1958-06-11"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Yugoslavia",
+      "score": "3–3",
+      "scorers": [
+        {
+          "name": "Radivoje Ognjanović",
+          "minute": "18'",
+          "ownGoal": false
+        },
+        {
+          "name": "José Parodi",
+          "minute": "20'",
+          "ownGoal": false
+        },
+        {
+          "name": "Todor Veselinović",
+          "minute": "21'",
+          "ownGoal": false
+        },
+        {
+          "name": "Juan Bautista Agüero",
+          "minute": "52'",
+          "ownGoal": false
+        },
+        {
+          "name": "Zdravko Rajkov",
+          "minute": "73'",
+          "ownGoal": false
+        },
+        {
+          "name": "Jorge Lino Romero",
+          "minute": "80'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1958-06-15"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

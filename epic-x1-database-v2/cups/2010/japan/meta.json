@@ -1,0 +1,220 @@
+{
+  "country": "Japan",
+  "countrySlug": "japan",
+  "year": 2010,
+  "edition": "2010",
+  "host": "South Africa",
+  "coach": "Takeshi Okada",
+  "finalPhase": "Round of 16",
+  "result": "Round of 16",
+  "squad": [
+    {
+      "id": "japan-2010-1",
+      "name": "Seigo Narazaki",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "japan-2010-2",
+      "name": "Yuki Abe",
+      "shirtNumber": 2,
+      "position": "MID"
+    },
+    {
+      "id": "japan-2010-3",
+      "name": "Yūichi Komano",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "japan-2010-4",
+      "name": "Marcus Tulio Tanaka",
+      "shirtNumber": 4,
+      "position": "DEF"
+    },
+    {
+      "id": "japan-2010-5",
+      "name": "Yuto Nagatomo",
+      "shirtNumber": 5,
+      "position": "DEF"
+    },
+    {
+      "id": "japan-2010-6",
+      "name": "Atsuto Uchida",
+      "shirtNumber": 6,
+      "position": "DEF"
+    },
+    {
+      "id": "japan-2010-7",
+      "name": "Yasuhito Endō",
+      "shirtNumber": 7,
+      "position": "MID"
+    },
+    {
+      "id": "japan-2010-8",
+      "name": "Daisuke Matsui",
+      "shirtNumber": 8,
+      "position": "ATT"
+    },
+    {
+      "id": "japan-2010-9",
+      "name": "Shinji Okazaki",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "japan-2010-10",
+      "name": "Shunsuke Nakamura",
+      "shirtNumber": 10,
+      "position": "MID"
+    },
+    {
+      "id": "japan-2010-11",
+      "name": "Keiji Tamada",
+      "shirtNumber": 11,
+      "position": "ATT"
+    },
+    {
+      "id": "japan-2010-12",
+      "name": "Kisho Yano",
+      "shirtNumber": 12,
+      "position": "ATT"
+    },
+    {
+      "id": "japan-2010-13",
+      "name": "Daiki Iwamasa",
+      "shirtNumber": 13,
+      "position": "DEF"
+    },
+    {
+      "id": "japan-2010-14",
+      "name": "Kengo Nakamura",
+      "shirtNumber": 14,
+      "position": "MID"
+    },
+    {
+      "id": "japan-2010-15",
+      "name": "Yasuyuki Konno",
+      "shirtNumber": 15,
+      "position": "DEF"
+    },
+    {
+      "id": "japan-2010-16",
+      "name": "Yoshito Ōkubo",
+      "shirtNumber": 16,
+      "position": "ATT"
+    },
+    {
+      "id": "japan-2010-17",
+      "name": "Makoto Hasebe",
+      "shirtNumber": 17,
+      "position": "MID"
+    },
+    {
+      "id": "japan-2010-18",
+      "name": "Keisuke Honda",
+      "shirtNumber": 18,
+      "position": "MID"
+    },
+    {
+      "id": "japan-2010-19",
+      "name": "Takayuki Morimoto",
+      "shirtNumber": 19,
+      "position": "ATT"
+    },
+    {
+      "id": "japan-2010-20",
+      "name": "Junichi Inamoto",
+      "shirtNumber": 20,
+      "position": "MID"
+    },
+    {
+      "id": "japan-2010-21",
+      "name": "Eiji Kawashima",
+      "shirtNumber": 21,
+      "position": "GK"
+    },
+    {
+      "id": "japan-2010-22",
+      "name": "Yuji Nakazawa",
+      "shirtNumber": 22,
+      "position": "DEF"
+    },
+    {
+      "id": "japan-2010-23",
+      "name": "Yoshikatsu Kawaguchi",
+      "shirtNumber": 23,
+      "position": "GK"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "Cameroon",
+      "score": "1–0",
+      "scorers": [
+        {
+          "name": "Keisuke Honda",
+          "minute": "39'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2010-06-14"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Netherlands",
+      "score": "1–0",
+      "scorers": [
+        {
+          "name": "Wesley Sneijder",
+          "minute": "53'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2010-06-19"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Denmark",
+      "score": "1–3",
+      "scorers": [
+        {
+          "name": "Keisuke Honda",
+          "minute": "17'",
+          "ownGoal": false
+        },
+        {
+          "name": "Yasuhito Endō",
+          "minute": "30'",
+          "ownGoal": false
+        },
+        {
+          "name": "Jon Dahl Tomasson",
+          "minute": "81'",
+          "ownGoal": false
+        },
+        {
+          "name": "Shinji Okazaki",
+          "minute": "87'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2010-06-24"
+    },
+    {
+      "stage": "Round of 16",
+      "opponent": "Paraguay",
+      "score": "0–0",
+      "scorers": [],
+      "date": "2010-06-29"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

@@ -1,0 +1,236 @@
+{
+  "country": "Republic of Ireland",
+  "countrySlug": "republic-of-ireland",
+  "year": 2002,
+  "edition": "2002",
+  "host": "Korea, Japan",
+  "coach": "Mick McCarthy",
+  "finalPhase": "Round of 16",
+  "result": "Round of 16",
+  "squad": [
+    {
+      "id": "republic-of-ireland-2002-1",
+      "name": "Shay Given",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "republic-of-ireland-2002-2",
+      "name": "Steve Finnan",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "republic-of-ireland-2002-3",
+      "name": "Ian Harte",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "republic-of-ireland-2002-4",
+      "name": "Kenny Cunningham",
+      "shirtNumber": 4,
+      "position": "DEF"
+    },
+    {
+      "id": "republic-of-ireland-2002-5",
+      "name": "Steve Staunton",
+      "shirtNumber": 5,
+      "position": "DEF"
+    },
+    {
+      "id": "republic-of-ireland-2002-6",
+      "name": "Roy Keane",
+      "shirtNumber": 6,
+      "position": "MID"
+    },
+    {
+      "id": "republic-of-ireland-2002-7",
+      "name": "Jason McAteer",
+      "shirtNumber": 7,
+      "position": "MID"
+    },
+    {
+      "id": "republic-of-ireland-2002-8",
+      "name": "Matt Holland",
+      "shirtNumber": 8,
+      "position": "MID"
+    },
+    {
+      "id": "republic-of-ireland-2002-9",
+      "name": "Damien Duff",
+      "shirtNumber": 9,
+      "position": "MID"
+    },
+    {
+      "id": "republic-of-ireland-2002-10",
+      "name": "Robbie Keane",
+      "shirtNumber": 10,
+      "position": "ATT"
+    },
+    {
+      "id": "republic-of-ireland-2002-11",
+      "name": "Kevin Kilbane",
+      "shirtNumber": 11,
+      "position": "MID"
+    },
+    {
+      "id": "republic-of-ireland-2002-12",
+      "name": "Mark Kinsella",
+      "shirtNumber": 12,
+      "position": "MID"
+    },
+    {
+      "id": "republic-of-ireland-2002-13",
+      "name": "David Connolly",
+      "shirtNumber": 13,
+      "position": "ATT"
+    },
+    {
+      "id": "republic-of-ireland-2002-14",
+      "name": "Gary Breen",
+      "shirtNumber": 14,
+      "position": "DEF"
+    },
+    {
+      "id": "republic-of-ireland-2002-15",
+      "name": "Richard Dunne",
+      "shirtNumber": 15,
+      "position": "DEF"
+    },
+    {
+      "id": "republic-of-ireland-2002-16",
+      "name": "Dean Kiely",
+      "shirtNumber": 16,
+      "position": "GK"
+    },
+    {
+      "id": "republic-of-ireland-2002-17",
+      "name": "Niall Quinn",
+      "shirtNumber": 17,
+      "position": "ATT"
+    },
+    {
+      "id": "republic-of-ireland-2002-18",
+      "name": "Gary Kelly",
+      "shirtNumber": 18,
+      "position": "DEF"
+    },
+    {
+      "id": "republic-of-ireland-2002-19",
+      "name": "Clinton Morrison",
+      "shirtNumber": 19,
+      "position": "ATT"
+    },
+    {
+      "id": "republic-of-ireland-2002-20",
+      "name": "Andrew O'Brien",
+      "shirtNumber": 20,
+      "position": "DEF"
+    },
+    {
+      "id": "republic-of-ireland-2002-21",
+      "name": "Steven Reid",
+      "shirtNumber": 21,
+      "position": "MID"
+    },
+    {
+      "id": "republic-of-ireland-2002-22",
+      "name": "Lee Carsley",
+      "shirtNumber": 22,
+      "position": "MID"
+    },
+    {
+      "id": "republic-of-ireland-2002-23",
+      "name": "Alan Kelly",
+      "shirtNumber": 23,
+      "position": "GK"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "Cameroon",
+      "score": "1–1",
+      "scorers": [
+        {
+          "name": "Patrick M'Boma",
+          "minute": "39'",
+          "ownGoal": false
+        },
+        {
+          "name": "Matt Holland",
+          "minute": "52'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2002-06-01"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Germany",
+      "score": "1–1",
+      "scorers": [
+        {
+          "name": "Miroslav Klose",
+          "minute": "19'",
+          "ownGoal": false
+        },
+        {
+          "name": "Robbie Keane",
+          "minute": "90'+2'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2002-06-05"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Saudi Arabia",
+      "score": "0–3",
+      "scorers": [
+        {
+          "name": "Robbie Keane",
+          "minute": "7'",
+          "ownGoal": false
+        },
+        {
+          "name": "Gary Breen",
+          "minute": "61'",
+          "ownGoal": false
+        },
+        {
+          "name": "Damien Duff",
+          "minute": "87'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2002-06-11"
+    },
+    {
+      "stage": "Round of 16",
+      "opponent": "Spain",
+      "score": "1–1",
+      "scorers": [
+        {
+          "name": "Fernando Morientes",
+          "minute": "8'",
+          "ownGoal": false
+        },
+        {
+          "name": "Robbie Keane",
+          "minute": "90'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2002-06-16"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

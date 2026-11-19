@@ -1,0 +1,225 @@
+{
+  "country": "Bulgaria",
+  "countrySlug": "bulgaria",
+  "year": 1986,
+  "edition": "1986",
+  "host": "Mexico",
+  "coach": "Ivan Vutsov",
+  "finalPhase": "Round of 16",
+  "result": "Round of 16",
+  "squad": [
+    {
+      "id": "bulgaria-1986-1",
+      "name": "Borislav Mihaylov",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "bulgaria-1986-2",
+      "name": "Nasko Sirakov",
+      "shirtNumber": 2,
+      "position": "ATT"
+    },
+    {
+      "id": "bulgaria-1986-3",
+      "name": "Nikolay Arabov",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "bulgaria-1986-4",
+      "name": "Petar Petrov",
+      "shirtNumber": 4,
+      "position": "DEF"
+    },
+    {
+      "id": "bulgaria-1986-5",
+      "name": "Georgi Dimitrov",
+      "shirtNumber": 5,
+      "position": "DEF"
+    },
+    {
+      "id": "bulgaria-1986-6",
+      "name": "Andrey Zhelyazkov",
+      "shirtNumber": 6,
+      "position": "ATT"
+    },
+    {
+      "id": "bulgaria-1986-7",
+      "name": "Bozhidar Iskrenov",
+      "shirtNumber": 7,
+      "position": "MID"
+    },
+    {
+      "id": "bulgaria-1986-8",
+      "name": "Ayan Sadakov",
+      "shirtNumber": 8,
+      "position": "MID"
+    },
+    {
+      "id": "bulgaria-1986-9",
+      "name": "Stoycho Mladenov",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "bulgaria-1986-10",
+      "name": "Zhivko Gospodinov",
+      "shirtNumber": 10,
+      "position": "MID"
+    },
+    {
+      "id": "bulgaria-1986-11",
+      "name": "Plamen Getov",
+      "shirtNumber": 11,
+      "position": "MID"
+    },
+    {
+      "id": "bulgaria-1986-12",
+      "name": "Radoslav Zdravkov",
+      "shirtNumber": 12,
+      "position": "MID"
+    },
+    {
+      "id": "bulgaria-1986-13",
+      "name": "Aleksandar Markov",
+      "shirtNumber": 13,
+      "position": "DEF"
+    },
+    {
+      "id": "bulgaria-1986-14",
+      "name": "Plamen Markov",
+      "shirtNumber": 14,
+      "position": "MID"
+    },
+    {
+      "id": "bulgaria-1986-15",
+      "name": "Georgi Yordanov",
+      "shirtNumber": 15,
+      "position": "MID"
+    },
+    {
+      "id": "bulgaria-1986-16",
+      "name": "Vasil Dragolov",
+      "shirtNumber": 16,
+      "position": "ATT"
+    },
+    {
+      "id": "bulgaria-1986-17",
+      "name": "Hristo Kolev",
+      "shirtNumber": 17,
+      "position": "MID"
+    },
+    {
+      "id": "bulgaria-1986-18",
+      "name": "Boycho Velichkov",
+      "shirtNumber": 18,
+      "position": "ATT"
+    },
+    {
+      "id": "bulgaria-1986-19",
+      "name": "Atanas Pashev",
+      "shirtNumber": 19,
+      "position": "ATT"
+    },
+    {
+      "id": "bulgaria-1986-20",
+      "name": "Kostadin Kostadinov",
+      "shirtNumber": 20,
+      "position": "ATT"
+    },
+    {
+      "id": "bulgaria-1986-21",
+      "name": "Iliya Dyakov",
+      "shirtNumber": 21,
+      "position": "DEF"
+    },
+    {
+      "id": "bulgaria-1986-22",
+      "name": "Iliya Valov",
+      "shirtNumber": 22,
+      "position": "GK"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "Italy",
+      "score": "1–1",
+      "scorers": [
+        {
+          "name": "Alessandro Altobelli",
+          "minute": "44'",
+          "ownGoal": false
+        },
+        {
+          "name": "Nasko Sirakov",
+          "minute": "85'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1986-05-31"
+    },
+    {
+      "stage": "Group",
+      "opponent": "South Korea",
+      "score": "1–1",
+      "scorers": [
+        {
+          "name": "Plamen Getov",
+          "minute": "11'",
+          "ownGoal": false
+        },
+        {
+          "name": "Jong-boo Kim",
+          "minute": "70'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1986-06-05"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Argentina",
+      "score": "2–0",
+      "scorers": [
+        {
+          "name": "Jorge Valdano",
+          "minute": "4'",
+          "ownGoal": false
+        },
+        {
+          "name": "Jorge Burruchaga",
+          "minute": "77'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1986-06-10"
+    },
+    {
+      "stage": "Round of 16",
+      "opponent": "Mexico",
+      "score": "2–0",
+      "scorers": [
+        {
+          "name": "Manuel Negrete",
+          "minute": "34'",
+          "ownGoal": false
+        },
+        {
+          "name": "Raúl Servín",
+          "minute": "61'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1986-06-15"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

@@ -1,0 +1,223 @@
+{
+  "country": "Nigeria",
+  "countrySlug": "nigeria",
+  "year": 2010,
+  "edition": "2010",
+  "host": "South Africa",
+  "coach": "Lars Lagerbäck",
+  "finalPhase": "Group Stage",
+  "result": "Group Stage",
+  "squad": [
+    {
+      "id": "nigeria-2010-1",
+      "name": "Vincent Enyeama",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "nigeria-2010-2",
+      "name": "Joseph Yobo",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "nigeria-2010-3",
+      "name": "Taye Taiwo",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "nigeria-2010-4",
+      "name": "Nwankwo Kanu",
+      "shirtNumber": 4,
+      "position": "ATT"
+    },
+    {
+      "id": "nigeria-2010-5",
+      "name": "Rabiu Afolabi",
+      "shirtNumber": 5,
+      "position": "DEF"
+    },
+    {
+      "id": "nigeria-2010-6",
+      "name": "Danny Shittu",
+      "shirtNumber": 6,
+      "position": "DEF"
+    },
+    {
+      "id": "nigeria-2010-7",
+      "name": "John Utaka",
+      "shirtNumber": 7,
+      "position": "ATT"
+    },
+    {
+      "id": "nigeria-2010-8",
+      "name": "Yakubu",
+      "shirtNumber": 8,
+      "position": "ATT"
+    },
+    {
+      "id": "nigeria-2010-9",
+      "name": "Obafemi Martins",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "nigeria-2010-10",
+      "name": "Brown Ideye",
+      "shirtNumber": 10,
+      "position": "ATT"
+    },
+    {
+      "id": "nigeria-2010-11",
+      "name": "Peter Odemwingie",
+      "shirtNumber": 11,
+      "position": "ATT"
+    },
+    {
+      "id": "nigeria-2010-12",
+      "name": "Kalu Uche",
+      "shirtNumber": 12,
+      "position": "ATT"
+    },
+    {
+      "id": "nigeria-2010-13",
+      "name": "Ayila Yussuf",
+      "shirtNumber": 13,
+      "position": "MID"
+    },
+    {
+      "id": "nigeria-2010-14",
+      "name": "Sani Kaita",
+      "shirtNumber": 14,
+      "position": "MID"
+    },
+    {
+      "id": "nigeria-2010-15",
+      "name": "Lukman Haruna",
+      "shirtNumber": 15,
+      "position": "MID"
+    },
+    {
+      "id": "nigeria-2010-16",
+      "name": "Austin Ejide",
+      "shirtNumber": 16,
+      "position": "GK"
+    },
+    {
+      "id": "nigeria-2010-17",
+      "name": "Chidi Odiah",
+      "shirtNumber": 17,
+      "position": "DEF"
+    },
+    {
+      "id": "nigeria-2010-18",
+      "name": "Victor Obinna",
+      "shirtNumber": 18,
+      "position": "ATT"
+    },
+    {
+      "id": "nigeria-2010-19",
+      "name": "Chinedu Obasi",
+      "shirtNumber": 19,
+      "position": "ATT"
+    },
+    {
+      "id": "nigeria-2010-20",
+      "name": "Dickson Etuhu",
+      "shirtNumber": 20,
+      "position": "MID"
+    },
+    {
+      "id": "nigeria-2010-21",
+      "name": "Elderson Echiéjilé",
+      "shirtNumber": 21,
+      "position": "DEF"
+    },
+    {
+      "id": "nigeria-2010-22",
+      "name": "Dele Adeleye",
+      "shirtNumber": 22,
+      "position": "DEF"
+    },
+    {
+      "id": "nigeria-2010-23",
+      "name": "Dele Aiyenugba",
+      "shirtNumber": 23,
+      "position": "GK"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "Argentina",
+      "score": "1–0",
+      "scorers": [
+        {
+          "name": "Gabriel Heinze",
+          "minute": "6'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2010-06-12"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Greece",
+      "score": "2–1",
+      "scorers": [
+        {
+          "name": "Kalu Uche",
+          "minute": "16'",
+          "ownGoal": false
+        },
+        {
+          "name": "Dimitris Salpingidis",
+          "minute": "44'",
+          "ownGoal": false
+        },
+        {
+          "name": "Vasilis Torosidis",
+          "minute": "71'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2010-06-17"
+    },
+    {
+      "stage": "Group",
+      "opponent": "South Korea",
+      "score": "2–2",
+      "scorers": [
+        {
+          "name": "Kalu Uche",
+          "minute": "12'",
+          "ownGoal": false
+        },
+        {
+          "name": "Jung-soo Lee",
+          "minute": "38'",
+          "ownGoal": false
+        },
+        {
+          "name": "Chu-young Park",
+          "minute": "49'",
+          "ownGoal": false
+        },
+        {
+          "name": "Yakubu",
+          "minute": "69'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2010-06-22"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

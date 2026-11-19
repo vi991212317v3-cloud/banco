@@ -1,0 +1,236 @@
+{
+  "country": "Wales",
+  "countrySlug": "wales",
+  "year": 2022,
+  "edition": "2022",
+  "host": "Qatar",
+  "coach": "Rob Page",
+  "finalPhase": "Group Stage",
+  "result": "Group Stage",
+  "squad": [
+    {
+      "id": "wales-2022-1",
+      "name": "Wayne Hennessey",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "wales-2022-2",
+      "name": "Chris Gunter",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "wales-2022-3",
+      "name": "Neco Williams",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "wales-2022-4",
+      "name": "Ben Davies",
+      "shirtNumber": 4,
+      "position": "DEF"
+    },
+    {
+      "id": "wales-2022-5",
+      "name": "Chris Mepham",
+      "shirtNumber": 5,
+      "position": "DEF"
+    },
+    {
+      "id": "wales-2022-6",
+      "name": "Joe Rodon",
+      "shirtNumber": 6,
+      "position": "DEF"
+    },
+    {
+      "id": "wales-2022-7",
+      "name": "Joe Allen",
+      "shirtNumber": 7,
+      "position": "MID"
+    },
+    {
+      "id": "wales-2022-8",
+      "name": "Harry Wilson",
+      "shirtNumber": 8,
+      "position": "MID"
+    },
+    {
+      "id": "wales-2022-9",
+      "name": "Brennan Johnson",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "wales-2022-10",
+      "name": "Aaron Ramsey",
+      "shirtNumber": 10,
+      "position": "MID"
+    },
+    {
+      "id": "wales-2022-11",
+      "name": "Gareth Bale",
+      "shirtNumber": 11,
+      "position": "ATT"
+    },
+    {
+      "id": "wales-2022-12",
+      "name": "Danny Ward",
+      "shirtNumber": 12,
+      "position": "GK"
+    },
+    {
+      "id": "wales-2022-13",
+      "name": "Kieffer Moore",
+      "shirtNumber": 13,
+      "position": "ATT"
+    },
+    {
+      "id": "wales-2022-14",
+      "name": "Connor Roberts",
+      "shirtNumber": 14,
+      "position": "DEF"
+    },
+    {
+      "id": "wales-2022-15",
+      "name": "Ethan Ampadu",
+      "shirtNumber": 15,
+      "position": "DEF"
+    },
+    {
+      "id": "wales-2022-16",
+      "name": "Joe Morrell",
+      "shirtNumber": 16,
+      "position": "MID"
+    },
+    {
+      "id": "wales-2022-17",
+      "name": "Tom Lockyer",
+      "shirtNumber": 17,
+      "position": "DEF"
+    },
+    {
+      "id": "wales-2022-18",
+      "name": "Jonny Williams",
+      "shirtNumber": 18,
+      "position": "MID"
+    },
+    {
+      "id": "wales-2022-19",
+      "name": "Mark Harris",
+      "shirtNumber": 19,
+      "position": "ATT"
+    },
+    {
+      "id": "wales-2022-20",
+      "name": "Daniel James",
+      "shirtNumber": 20,
+      "position": "ATT"
+    },
+    {
+      "id": "wales-2022-21",
+      "name": "Adam Davies",
+      "shirtNumber": 21,
+      "position": "GK"
+    },
+    {
+      "id": "wales-2022-22",
+      "name": "Sorba Thomas",
+      "shirtNumber": 22,
+      "position": "MID"
+    },
+    {
+      "id": "wales-2022-23",
+      "name": "Dylan Levitt",
+      "shirtNumber": 23,
+      "position": "MID"
+    },
+    {
+      "id": "wales-2022-24",
+      "name": "Ben Cabango",
+      "shirtNumber": 24,
+      "position": "DEF"
+    },
+    {
+      "id": "wales-2022-25",
+      "name": "Rubin Colwill",
+      "shirtNumber": 25,
+      "position": "MID"
+    },
+    {
+      "id": "wales-2022-26",
+      "name": "Matthew Smith",
+      "shirtNumber": 26,
+      "position": "MID"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "United States",
+      "score": "1–1",
+      "scorers": [
+        {
+          "name": "Timothy Weah",
+          "minute": "36'",
+          "ownGoal": false
+        },
+        {
+          "name": "Gareth Bale",
+          "minute": "82'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2022-11-21"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Iran",
+      "score": "0–2",
+      "scorers": [
+        {
+          "name": "Rouzbeh Cheshmi",
+          "minute": "90'+8'",
+          "ownGoal": false
+        },
+        {
+          "name": "Ramin Rezaeian",
+          "minute": "90'+11'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2022-11-25"
+    },
+    {
+      "stage": "Group",
+      "opponent": "England",
+      "score": "0–3",
+      "scorers": [
+        {
+          "name": "Marcus Rashford",
+          "minute": "50'",
+          "ownGoal": false
+        },
+        {
+          "name": "Phil Foden",
+          "minute": "51'",
+          "ownGoal": false
+        },
+        {
+          "name": "Marcus Rashford",
+          "minute": "68'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2022-11-29"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

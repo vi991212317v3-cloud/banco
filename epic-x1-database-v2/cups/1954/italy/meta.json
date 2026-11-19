@@ -1,0 +1,242 @@
+{
+  "country": "Italy",
+  "countrySlug": "italy",
+  "year": 1954,
+  "edition": "1954",
+  "host": "Switzerland",
+  "coach": "Lajos Czeizler",
+  "finalPhase": "Group Stage",
+  "result": "Group Stage",
+  "squad": [
+    {
+      "id": "italy-1954-1",
+      "name": "Giorgio Ghezzi",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "italy-1954-2",
+      "name": "Guido Vincenzi",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "italy-1954-3",
+      "name": "Giovanni Giacomazzi",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "italy-1954-4",
+      "name": "Maino Neri",
+      "shirtNumber": 4,
+      "position": "MID"
+    },
+    {
+      "id": "italy-1954-5",
+      "name": "Omero Tognon",
+      "shirtNumber": 5,
+      "position": "MID"
+    },
+    {
+      "id": "italy-1954-6",
+      "name": "Fulvio Nesti",
+      "shirtNumber": 6,
+      "position": "MID"
+    },
+    {
+      "id": "italy-1954-7",
+      "name": "Ermes Muccinelli",
+      "shirtNumber": 7,
+      "position": "ATT"
+    },
+    {
+      "id": "italy-1954-8",
+      "name": "Egisto Pandolfini",
+      "shirtNumber": 8,
+      "position": "ATT"
+    },
+    {
+      "id": "italy-1954-9",
+      "name": "Carlo Galli",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "italy-1954-10",
+      "name": "Gino Cappello",
+      "shirtNumber": 10,
+      "position": "ATT"
+    },
+    {
+      "id": "italy-1954-11",
+      "name": "Benito Lorenzi",
+      "shirtNumber": 11,
+      "position": "ATT"
+    },
+    {
+      "id": "italy-1954-12",
+      "name": "Giovanni Viola",
+      "shirtNumber": 12,
+      "position": "GK"
+    },
+    {
+      "id": "italy-1954-13",
+      "name": "Ardico Magnini",
+      "shirtNumber": 13,
+      "position": "DEF"
+    },
+    {
+      "id": "italy-1954-14",
+      "name": "Sergio Cervato",
+      "shirtNumber": 14,
+      "position": "DEF"
+    },
+    {
+      "id": "italy-1954-15",
+      "name": "Giacomo Mari",
+      "shirtNumber": 15,
+      "position": "MID"
+    },
+    {
+      "id": "italy-1954-16",
+      "name": "Rino Ferrario",
+      "shirtNumber": 16,
+      "position": "MID"
+    },
+    {
+      "id": "italy-1954-17",
+      "name": "Armando Segato",
+      "shirtNumber": 17,
+      "position": "ATT"
+    },
+    {
+      "id": "italy-1954-18",
+      "name": "Gino Pivatelli",
+      "shirtNumber": 18,
+      "position": "ATT"
+    },
+    {
+      "id": "italy-1954-19",
+      "name": "Giampiero Boniperti",
+      "shirtNumber": 19,
+      "position": "ATT"
+    },
+    {
+      "id": "italy-1954-20",
+      "name": "Guido Gratton",
+      "shirtNumber": 20,
+      "position": "MID"
+    },
+    {
+      "id": "italy-1954-21",
+      "name": "Amleto Frignani",
+      "shirtNumber": 21,
+      "position": "ATT"
+    },
+    {
+      "id": "italy-1954-22",
+      "name": "Leonardo Costagliola",
+      "shirtNumber": 22,
+      "position": "GK"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "Switzerland",
+      "score": "2–1",
+      "scorers": [
+        {
+          "name": "Robert Ballaman",
+          "minute": "18'",
+          "ownGoal": false
+        },
+        {
+          "name": "Giampiero Boniperti",
+          "minute": "44'",
+          "ownGoal": false
+        },
+        {
+          "name": "Josef Hügi",
+          "minute": "78'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1954-06-17"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Belgium",
+      "score": "4–1",
+      "scorers": [
+        {
+          "name": "Egisto Pandolfini",
+          "minute": "41'",
+          "ownGoal": false
+        },
+        {
+          "name": "Carlo Galli",
+          "minute": "48'",
+          "ownGoal": false
+        },
+        {
+          "name": "Amleto Frignani",
+          "minute": "58'",
+          "ownGoal": false
+        },
+        {
+          "name": "Benito Lorenzi",
+          "minute": "78'",
+          "ownGoal": false
+        },
+        {
+          "name": "Léopold Anoul",
+          "minute": "81'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1954-06-20"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Switzerland",
+      "score": "4–1",
+      "scorers": [
+        {
+          "name": "Josef Hügi",
+          "minute": "14'",
+          "ownGoal": false
+        },
+        {
+          "name": "Robert Ballaman",
+          "minute": "48'",
+          "ownGoal": false
+        },
+        {
+          "name": "Fulvio Nesti",
+          "minute": "67'",
+          "ownGoal": false
+        },
+        {
+          "name": "Josef Hügi",
+          "minute": "85'",
+          "ownGoal": false
+        },
+        {
+          "name": "Jacques Fatton",
+          "minute": "90'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1954-06-23"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

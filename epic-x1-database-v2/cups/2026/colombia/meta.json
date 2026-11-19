@@ -1,0 +1,245 @@
+{
+  "country": "Colombia",
+  "countrySlug": "colombia",
+  "year": 2026,
+  "edition": "2026",
+  "host": "Canada, Mexico and United States",
+  "coach": "LORENZO Nestor",
+  "finalPhase": "Round of 16",
+  "result": "Round of 16",
+  "squad": [
+    {
+      "id": "colombia-2026-1",
+      "name": "David OSPINA RAMIREZ",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "colombia-2026-2",
+      "name": "Daniel MUÑOZ MEJIA",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "colombia-2026-3",
+      "name": "Jhon Janer LUCUMI BONILLA",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "colombia-2026-4",
+      "name": "Santiago ARIAS NARANJO",
+      "shirtNumber": 4,
+      "position": "DEF"
+    },
+    {
+      "id": "colombia-2026-5",
+      "name": "Kevin Duvan CASTAÑO GIL",
+      "shirtNumber": 5,
+      "position": "MID"
+    },
+    {
+      "id": "colombia-2026-6",
+      "name": "Richard RÍOS MONTOYA",
+      "shirtNumber": 6,
+      "position": "MID"
+    },
+    {
+      "id": "colombia-2026-7",
+      "name": "Luis Fernando DÍAZ MARULANDA",
+      "shirtNumber": 7,
+      "position": "ATT"
+    },
+    {
+      "id": "colombia-2026-8",
+      "name": "Jorge Andres CARRASCAL GUARDO",
+      "shirtNumber": 8,
+      "position": "MID"
+    },
+    {
+      "id": "colombia-2026-9",
+      "name": "Jhon Andrés CÓRDOBA COPETE",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "colombia-2026-10",
+      "name": "James David RODRÍGUEZ RUBIO",
+      "shirtNumber": 10,
+      "position": "MID"
+    },
+    {
+      "id": "colombia-2026-11",
+      "name": "Jhon Adolfo ARIAS ANDRADE",
+      "shirtNumber": 11,
+      "position": "MID"
+    },
+    {
+      "id": "colombia-2026-12",
+      "name": "Camilo Andres VARGAS GIL",
+      "shirtNumber": 12,
+      "position": "GK"
+    },
+    {
+      "id": "colombia-2026-13",
+      "name": "Yerry Fernando MINA GONZALEZ",
+      "shirtNumber": 13,
+      "position": "DEF"
+    },
+    {
+      "id": "colombia-2026-14",
+      "name": "Gustavo Adolfo PUERTA MOLANO",
+      "shirtNumber": 14,
+      "position": "DEF"
+    },
+    {
+      "id": "colombia-2026-15",
+      "name": "Juan Camilo PORTILLA OROZCO",
+      "shirtNumber": 15,
+      "position": "MID"
+    },
+    {
+      "id": "colombia-2026-16",
+      "name": "Jefferson Andrés LERMA SOLIS",
+      "shirtNumber": 16,
+      "position": "MID"
+    },
+    {
+      "id": "colombia-2026-17",
+      "name": "Johan Andrés MOJICA PALACIO",
+      "shirtNumber": 17,
+      "position": "DEF"
+    },
+    {
+      "id": "colombia-2026-18",
+      "name": "Willer Emilio DITTA PEREZ",
+      "shirtNumber": 18,
+      "position": "DEF"
+    },
+    {
+      "id": "colombia-2026-19",
+      "name": "Juan Camilo HERNANDEZ SUAREZ",
+      "shirtNumber": 19,
+      "position": "ATT"
+    },
+    {
+      "id": "colombia-2026-20",
+      "name": "Juan Fernando QUINTERO PANIAGUA",
+      "shirtNumber": 20,
+      "position": "MID"
+    },
+    {
+      "id": "colombia-2026-21",
+      "name": "Jaminton Leandro CAMPAZ",
+      "shirtNumber": 21,
+      "position": "ATT"
+    },
+    {
+      "id": "colombia-2026-22",
+      "name": "Deiver MACHADO MENA",
+      "shirtNumber": 22,
+      "position": "DEF"
+    },
+    {
+      "id": "colombia-2026-23",
+      "name": "Davinson SÁNCHEZ MINA",
+      "shirtNumber": 23,
+      "position": "DEF"
+    },
+    {
+      "id": "colombia-2026-24",
+      "name": "Álvaro David MONTERO PERALES",
+      "shirtNumber": 24,
+      "position": "GK"
+    },
+    {
+      "id": "colombia-2026-25",
+      "name": "Luis Javier SUÁREZ CHARRIS",
+      "shirtNumber": 25,
+      "position": "ATT"
+    },
+    {
+      "id": "colombia-2026-26",
+      "name": "Carlos Andrés GÓMEZ HINESTROZA",
+      "shirtNumber": 26,
+      "position": "ATT"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group Stage",
+      "opponent": "Uzbekistan",
+      "score": "1–3",
+      "scorers": [
+        {
+          "name": "Daniel MUÑOZ MEJIA",
+          "minute": 40,
+          "ownGoal": false
+        },
+        {
+          "name": "Abbosbek FAYZULLAEV",
+          "minute": 60,
+          "ownGoal": false
+        },
+        {
+          "name": "Luis Fernando DÍAZ MARULANDA",
+          "minute": 65,
+          "ownGoal": false
+        },
+        {
+          "name": "Jaminton Leandro CAMPAZ",
+          "minute": 90,
+          "ownGoal": false
+        }
+      ],
+      "date": "2026-06-17"
+    },
+    {
+      "stage": "Group Stage",
+      "opponent": "Congo DR",
+      "score": "1–0",
+      "scorers": [
+        {
+          "name": "Daniel MUÑOZ MEJIA",
+          "minute": 76,
+          "ownGoal": false
+        }
+      ],
+      "date": "2026-06-23"
+    },
+    {
+      "stage": "Group Stage",
+      "opponent": "Portugal",
+      "score": "0–0",
+      "scorers": [],
+      "date": "2026-06-28"
+    },
+    {
+      "stage": "Round of 32",
+      "opponent": "Ghana",
+      "score": "1–0",
+      "scorers": [
+        {
+          "name": "Jhon Adolfo ARIAS ANDRADE",
+          "minute": 14,
+          "ownGoal": false
+        }
+      ],
+      "date": "2026-07-04"
+    },
+    {
+      "stage": "Round of 16",
+      "opponent": "Switzerland",
+      "score": "0–0",
+      "scorers": [],
+      "date": "2026-07-07"
+    }
+  ],
+  "sources": [
+    "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/final-tournament-standings",
+    "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/teams",
+    "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+    "https://github.com/openfootball/worldcup.json",
+    "https://github.com/mominullptr/FIFA-World-Cup-2026-Dataset"
+  ]
+}

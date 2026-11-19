@@ -1,0 +1,196 @@
+{
+  "country": "Yugoslavia",
+  "countrySlug": "yugoslavia",
+  "year": 1982,
+  "edition": "1982",
+  "host": "Spain",
+  "coach": "Miljan Miljanić",
+  "finalPhase": "Group Stage",
+  "result": "Group Stage",
+  "squad": [
+    {
+      "id": "yugoslavia-1982-1",
+      "name": "Dragan Pantelić",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "yugoslavia-1982-2",
+      "name": "Ive Jerolimov",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "yugoslavia-1982-3",
+      "name": "Ivan Gudelj",
+      "shirtNumber": 3,
+      "position": "MID"
+    },
+    {
+      "id": "yugoslavia-1982-4",
+      "name": "Velimir Zajec",
+      "shirtNumber": 4,
+      "position": "DEF"
+    },
+    {
+      "id": "yugoslavia-1982-5",
+      "name": "Nenad Stojković",
+      "shirtNumber": 5,
+      "position": "DEF"
+    },
+    {
+      "id": "yugoslavia-1982-6",
+      "name": "Zlatko Krmpotić",
+      "shirtNumber": 6,
+      "position": "DEF"
+    },
+    {
+      "id": "yugoslavia-1982-7",
+      "name": "Vladimir Petrović",
+      "shirtNumber": 7,
+      "position": "MID"
+    },
+    {
+      "id": "yugoslavia-1982-8",
+      "name": "Edhem Šljivo",
+      "shirtNumber": 8,
+      "position": "MID"
+    },
+    {
+      "id": "yugoslavia-1982-9",
+      "name": "Zoran Vujović",
+      "shirtNumber": 9,
+      "position": "DEF"
+    },
+    {
+      "id": "yugoslavia-1982-10",
+      "name": "Zvonko Živković",
+      "shirtNumber": 10,
+      "position": "ATT"
+    },
+    {
+      "id": "yugoslavia-1982-11",
+      "name": "Zlatko Vujović",
+      "shirtNumber": 11,
+      "position": "ATT"
+    },
+    {
+      "id": "yugoslavia-1982-12",
+      "name": "Ivan Pudar",
+      "shirtNumber": 12,
+      "position": "GK"
+    },
+    {
+      "id": "yugoslavia-1982-13",
+      "name": "Safet Sušić",
+      "shirtNumber": 13,
+      "position": "ATT"
+    },
+    {
+      "id": "yugoslavia-1982-14",
+      "name": "Nikola Jovanović",
+      "shirtNumber": 14,
+      "position": "DEF"
+    },
+    {
+      "id": "yugoslavia-1982-15",
+      "name": "Miloš Hrstić",
+      "shirtNumber": 15,
+      "position": "DEF"
+    },
+    {
+      "id": "yugoslavia-1982-16",
+      "name": "Miloš Šestić",
+      "shirtNumber": 16,
+      "position": "ATT"
+    },
+    {
+      "id": "yugoslavia-1982-17",
+      "name": "Jurica Jerković",
+      "shirtNumber": 17,
+      "position": "MID"
+    },
+    {
+      "id": "yugoslavia-1982-18",
+      "name": "Stjepan Deverić",
+      "shirtNumber": 18,
+      "position": "ATT"
+    },
+    {
+      "id": "yugoslavia-1982-19",
+      "name": "Vahid Halilhodžić",
+      "shirtNumber": 19,
+      "position": "ATT"
+    },
+    {
+      "id": "yugoslavia-1982-20",
+      "name": "Ivica Šurjak",
+      "shirtNumber": 20,
+      "position": "MID"
+    },
+    {
+      "id": "yugoslavia-1982-21",
+      "name": "Predrag Pašić",
+      "shirtNumber": 21,
+      "position": "MID"
+    },
+    {
+      "id": "yugoslavia-1982-22",
+      "name": "Ratko Svilar",
+      "shirtNumber": 22,
+      "position": "GK"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "Northern Ireland",
+      "score": "0–0",
+      "scorers": [],
+      "date": "1982-06-17"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Spain",
+      "score": "2–1",
+      "scorers": [
+        {
+          "name": "Ivan Gudelj",
+          "minute": "10'",
+          "ownGoal": false
+        },
+        {
+          "name": "Juanito",
+          "minute": "14'",
+          "ownGoal": false
+        },
+        {
+          "name": "Enrique Saura",
+          "minute": "66'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1982-06-20"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Honduras",
+      "score": "0–1",
+      "scorers": [
+        {
+          "name": "Vladimir Petrović",
+          "minute": "88'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1982-06-24"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

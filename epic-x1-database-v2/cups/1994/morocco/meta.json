@@ -1,0 +1,212 @@
+{
+  "country": "Morocco",
+  "countrySlug": "morocco",
+  "year": 1994,
+  "edition": "1994",
+  "host": "United States",
+  "coach": "Abdellah Blinda",
+  "finalPhase": "Group Stage",
+  "result": "Group Stage",
+  "squad": [
+    {
+      "id": "morocco-1994-1",
+      "name": "Khalil Azmi",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "morocco-1994-2",
+      "name": "Nacer Abdellah",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "morocco-1994-3",
+      "name": "Abdelkrim El Hadrioui",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "morocco-1994-4",
+      "name": "Tahar El Khalej",
+      "shirtNumber": 4,
+      "position": "MID"
+    },
+    {
+      "id": "morocco-1994-5",
+      "name": "Smahi Triki",
+      "shirtNumber": 5,
+      "position": "DEF"
+    },
+    {
+      "id": "morocco-1994-6",
+      "name": "Noureddine Naybet",
+      "shirtNumber": 6,
+      "position": "DEF"
+    },
+    {
+      "id": "morocco-1994-7",
+      "name": "Mustapha Hadji",
+      "shirtNumber": 7,
+      "position": "MID"
+    },
+    {
+      "id": "morocco-1994-8",
+      "name": "Rachid Azzouzi",
+      "shirtNumber": 8,
+      "position": "MID"
+    },
+    {
+      "id": "morocco-1994-9",
+      "name": "Mohammed Chaouch",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "morocco-1994-10",
+      "name": "Mustafa El Haddaoui",
+      "shirtNumber": 10,
+      "position": "MID"
+    },
+    {
+      "id": "morocco-1994-11",
+      "name": "Rachid Daoudi",
+      "shirtNumber": 11,
+      "position": "MID"
+    },
+    {
+      "id": "morocco-1994-12",
+      "name": "Said Dghay",
+      "shirtNumber": 12,
+      "position": "GK"
+    },
+    {
+      "id": "morocco-1994-13",
+      "name": "Ahmed Bahja",
+      "shirtNumber": 13,
+      "position": "ATT"
+    },
+    {
+      "id": "morocco-1994-14",
+      "name": "Ahmed Masbahi",
+      "shirtNumber": 14,
+      "position": "DEF"
+    },
+    {
+      "id": "morocco-1994-15",
+      "name": "El Arbi Hababi Hababi",
+      "shirtNumber": 15,
+      "position": "MID"
+    },
+    {
+      "id": "morocco-1994-16",
+      "name": "Hassan Nader",
+      "shirtNumber": 16,
+      "position": "ATT"
+    },
+    {
+      "id": "morocco-1994-17",
+      "name": "Abdeslam Laghrissi",
+      "shirtNumber": 17,
+      "position": "ATT"
+    },
+    {
+      "id": "morocco-1994-18",
+      "name": "Rachid Neqrouz",
+      "shirtNumber": 18,
+      "position": "DEF"
+    },
+    {
+      "id": "morocco-1994-19",
+      "name": "Abdelmajid Bouyboud",
+      "shirtNumber": 19,
+      "position": "ATT"
+    },
+    {
+      "id": "morocco-1994-20",
+      "name": "Hassan Kachloul",
+      "shirtNumber": 20,
+      "position": "MID"
+    },
+    {
+      "id": "morocco-1994-21",
+      "name": "Mohamed Samadi",
+      "shirtNumber": 21,
+      "position": "MID"
+    },
+    {
+      "id": "morocco-1994-22",
+      "name": "Zakaria Alaoui",
+      "shirtNumber": 22,
+      "position": "GK"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "Belgium",
+      "score": "1–0",
+      "scorers": [
+        {
+          "name": "Marc Degryse",
+          "minute": "11'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1994-06-19"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Saudi Arabia",
+      "score": "2–1",
+      "scorers": [
+        {
+          "name": "Sami Al-Jaber",
+          "minute": "7'",
+          "ownGoal": false
+        },
+        {
+          "name": "Mohammed Chaouch",
+          "minute": "26'",
+          "ownGoal": false
+        },
+        {
+          "name": "Fuad Anwar",
+          "minute": "45'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1994-06-25"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Netherlands",
+      "score": "1–2",
+      "scorers": [
+        {
+          "name": "Dennis Bergkamp",
+          "minute": "43'",
+          "ownGoal": false
+        },
+        {
+          "name": "Hassan Nader",
+          "minute": "47'",
+          "ownGoal": false
+        },
+        {
+          "name": "Bryan Roy",
+          "minute": "77'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1994-06-29"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

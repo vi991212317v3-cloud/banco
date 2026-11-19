@@ -1,0 +1,279 @@
+{
+  "country": "Colombia",
+  "countrySlug": "colombia",
+  "year": 2014,
+  "edition": "2014",
+  "host": "Brazil",
+  "coach": "José Pékerman",
+  "finalPhase": "Quarter-final",
+  "result": "Quarter-final",
+  "squad": [
+    {
+      "id": "colombia-2014-1",
+      "name": "David Ospina",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "colombia-2014-2",
+      "name": "Cristián Zapata",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "colombia-2014-3",
+      "name": "Mario Yepes",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "colombia-2014-4",
+      "name": "Santiago Arias",
+      "shirtNumber": 4,
+      "position": "DEF"
+    },
+    {
+      "id": "colombia-2014-5",
+      "name": "Carlos Carbonero",
+      "shirtNumber": 5,
+      "position": "MID"
+    },
+    {
+      "id": "colombia-2014-6",
+      "name": "Carlos Sánchez",
+      "shirtNumber": 6,
+      "position": "MID"
+    },
+    {
+      "id": "colombia-2014-7",
+      "name": "Pablo Armero",
+      "shirtNumber": 7,
+      "position": "DEF"
+    },
+    {
+      "id": "colombia-2014-8",
+      "name": "Abel Aguilar",
+      "shirtNumber": 8,
+      "position": "MID"
+    },
+    {
+      "id": "colombia-2014-9",
+      "name": "Teófilo Gutiérrez",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "colombia-2014-10",
+      "name": "James Rodríguez",
+      "shirtNumber": 10,
+      "position": "MID"
+    },
+    {
+      "id": "colombia-2014-11",
+      "name": "Juan Cuadrado",
+      "shirtNumber": 11,
+      "position": "MID"
+    },
+    {
+      "id": "colombia-2014-12",
+      "name": "Camilo Vargas",
+      "shirtNumber": 12,
+      "position": "GK"
+    },
+    {
+      "id": "colombia-2014-13",
+      "name": "Fredy Guarín",
+      "shirtNumber": 13,
+      "position": "MID"
+    },
+    {
+      "id": "colombia-2014-14",
+      "name": "Víctor Ibarbo",
+      "shirtNumber": 14,
+      "position": "ATT"
+    },
+    {
+      "id": "colombia-2014-15",
+      "name": "Alexander Mejía",
+      "shirtNumber": 15,
+      "position": "MID"
+    },
+    {
+      "id": "colombia-2014-16",
+      "name": "Éder Álvarez Balanta",
+      "shirtNumber": 16,
+      "position": "DEF"
+    },
+    {
+      "id": "colombia-2014-17",
+      "name": "Carlos Bacca",
+      "shirtNumber": 17,
+      "position": "ATT"
+    },
+    {
+      "id": "colombia-2014-18",
+      "name": "Juan Camilo Zúñiga",
+      "shirtNumber": 18,
+      "position": "DEF"
+    },
+    {
+      "id": "colombia-2014-19",
+      "name": "Adrián Ramos",
+      "shirtNumber": 19,
+      "position": "ATT"
+    },
+    {
+      "id": "colombia-2014-20",
+      "name": "Juan Fernando Quintero",
+      "shirtNumber": 20,
+      "position": "MID"
+    },
+    {
+      "id": "colombia-2014-21",
+      "name": "Jackson Martínez",
+      "shirtNumber": 21,
+      "position": "ATT"
+    },
+    {
+      "id": "colombia-2014-22",
+      "name": "Faryd Mondragón",
+      "shirtNumber": 22,
+      "position": "GK"
+    },
+    {
+      "id": "colombia-2014-23",
+      "name": "Carlos Valdés",
+      "shirtNumber": 23,
+      "position": "DEF"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "Greece",
+      "score": "3–0",
+      "scorers": [
+        {
+          "name": "Pablo Armero",
+          "minute": "5'",
+          "ownGoal": false
+        },
+        {
+          "name": "Teófilo Gutiérrez",
+          "minute": "58'",
+          "ownGoal": false
+        },
+        {
+          "name": "James Rodríguez",
+          "minute": "90'+3'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2014-06-14"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Ivory Coast",
+      "score": "2–1",
+      "scorers": [
+        {
+          "name": "James Rodríguez",
+          "minute": "64'",
+          "ownGoal": false
+        },
+        {
+          "name": "Juan Fernando Quintero",
+          "minute": "70'",
+          "ownGoal": false
+        },
+        {
+          "name": "Gervinho",
+          "minute": "73'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2014-06-19"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Japan",
+      "score": "1–4",
+      "scorers": [
+        {
+          "name": "Juan Cuadrado",
+          "minute": "17'",
+          "ownGoal": false
+        },
+        {
+          "name": "Shinji Okazaki",
+          "minute": "45'+1'",
+          "ownGoal": false
+        },
+        {
+          "name": "Jackson Martínez",
+          "minute": "55'",
+          "ownGoal": false
+        },
+        {
+          "name": "Jackson Martínez",
+          "minute": "82'",
+          "ownGoal": false
+        },
+        {
+          "name": "James Rodríguez",
+          "minute": "90'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2014-06-24"
+    },
+    {
+      "stage": "Round of 16",
+      "opponent": "Uruguay",
+      "score": "2–0",
+      "scorers": [
+        {
+          "name": "James Rodríguez",
+          "minute": "28'",
+          "ownGoal": false
+        },
+        {
+          "name": "James Rodríguez",
+          "minute": "50'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2014-06-28"
+    },
+    {
+      "stage": "Quarter-final",
+      "opponent": "Brazil",
+      "score": "2–1",
+      "scorers": [
+        {
+          "name": "Thiago Silva",
+          "minute": "7'",
+          "ownGoal": false
+        },
+        {
+          "name": "David Luiz",
+          "minute": "69'",
+          "ownGoal": false
+        },
+        {
+          "name": "James Rodríguez",
+          "minute": "80'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2014-07-04"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

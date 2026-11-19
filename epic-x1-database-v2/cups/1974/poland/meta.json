@@ -1,0 +1,314 @@
+{
+  "country": "Poland",
+  "countrySlug": "poland",
+  "year": 1974,
+  "edition": "1974",
+  "host": "West Germany",
+  "coach": "Kazimierz Górski",
+  "finalPhase": "Third-place match",
+  "result": "Third place",
+  "squad": [
+    {
+      "id": "poland-1974-1",
+      "name": "Andrzej Fischer",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "poland-1974-2",
+      "name": "Jan Tomaszewski",
+      "shirtNumber": 2,
+      "position": "GK"
+    },
+    {
+      "id": "poland-1974-3",
+      "name": "Zygmunt Kalinowski",
+      "shirtNumber": 3,
+      "position": "GK"
+    },
+    {
+      "id": "poland-1974-4",
+      "name": "Antoni Szymanowski",
+      "shirtNumber": 4,
+      "position": "DEF"
+    },
+    {
+      "id": "poland-1974-5",
+      "name": "Zbigniew Gut",
+      "shirtNumber": 5,
+      "position": "DEF"
+    },
+    {
+      "id": "poland-1974-6",
+      "name": "Jerzy Gorgoń",
+      "shirtNumber": 6,
+      "position": "DEF"
+    },
+    {
+      "id": "poland-1974-7",
+      "name": "Henryk Wieczorek",
+      "shirtNumber": 7,
+      "position": "MID"
+    },
+    {
+      "id": "poland-1974-8",
+      "name": "Mirosław Bulzacki",
+      "shirtNumber": 8,
+      "position": "DEF"
+    },
+    {
+      "id": "poland-1974-9",
+      "name": "Władysław Żmuda",
+      "shirtNumber": 9,
+      "position": "DEF"
+    },
+    {
+      "id": "poland-1974-10",
+      "name": "Adam Musiał",
+      "shirtNumber": 10,
+      "position": "DEF"
+    },
+    {
+      "id": "poland-1974-11",
+      "name": "Lesław Ćmikiewicz",
+      "shirtNumber": 11,
+      "position": "MID"
+    },
+    {
+      "id": "poland-1974-12",
+      "name": "Kazimierz Deyna",
+      "shirtNumber": 12,
+      "position": "MID"
+    },
+    {
+      "id": "poland-1974-13",
+      "name": "Henryk Kasperczak",
+      "shirtNumber": 13,
+      "position": "MID"
+    },
+    {
+      "id": "poland-1974-14",
+      "name": "Zygmunt Maszczyk",
+      "shirtNumber": 14,
+      "position": "MID"
+    },
+    {
+      "id": "poland-1974-15",
+      "name": "Roman Jakóbczak",
+      "shirtNumber": 15,
+      "position": "ATT"
+    },
+    {
+      "id": "poland-1974-16",
+      "name": "Grzegorz Lato",
+      "shirtNumber": 16,
+      "position": "ATT"
+    },
+    {
+      "id": "poland-1974-17",
+      "name": "Andrzej Szarmach",
+      "shirtNumber": 17,
+      "position": "ATT"
+    },
+    {
+      "id": "poland-1974-18",
+      "name": "Robert Gadocha",
+      "shirtNumber": 18,
+      "position": "ATT"
+    },
+    {
+      "id": "poland-1974-19",
+      "name": "Jan Domarski",
+      "shirtNumber": 19,
+      "position": "ATT"
+    },
+    {
+      "id": "poland-1974-20",
+      "name": "Zdzisław Kapka",
+      "shirtNumber": 20,
+      "position": "ATT"
+    },
+    {
+      "id": "poland-1974-21",
+      "name": "Kazimierz Kmiecik",
+      "shirtNumber": 21,
+      "position": "ATT"
+    },
+    {
+      "id": "poland-1974-22",
+      "name": "Marek Kusto",
+      "shirtNumber": 22,
+      "position": "ATT"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "Argentina",
+      "score": "3–2",
+      "scorers": [
+        {
+          "name": "Grzegorz Lato",
+          "minute": "7'",
+          "ownGoal": false
+        },
+        {
+          "name": "Andrzej Szarmach",
+          "minute": "8'",
+          "ownGoal": false
+        },
+        {
+          "name": "Ramón Heredia",
+          "minute": "60'",
+          "ownGoal": false
+        },
+        {
+          "name": "Grzegorz Lato",
+          "minute": "62'",
+          "ownGoal": false
+        },
+        {
+          "name": "Carlos Babington",
+          "minute": "66'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1974-06-15"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Haiti",
+      "score": "0–7",
+      "scorers": [
+        {
+          "name": "Grzegorz Lato",
+          "minute": "17'",
+          "ownGoal": false
+        },
+        {
+          "name": "Kazimierz Deyna",
+          "minute": "18'",
+          "ownGoal": false
+        },
+        {
+          "name": "Andrzej Szarmach",
+          "minute": "30'",
+          "ownGoal": false
+        },
+        {
+          "name": "Jerzy Gorgoń",
+          "minute": "31'",
+          "ownGoal": false
+        },
+        {
+          "name": "Andrzej Szarmach",
+          "minute": "34'",
+          "ownGoal": false
+        },
+        {
+          "name": "Andrzej Szarmach",
+          "minute": "50'",
+          "ownGoal": false
+        },
+        {
+          "name": "Grzegorz Lato",
+          "minute": "87'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1974-06-19"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Italy",
+      "score": "2–1",
+      "scorers": [
+        {
+          "name": "Andrzej Szarmach",
+          "minute": "38'",
+          "ownGoal": false
+        },
+        {
+          "name": "Kazimierz Deyna",
+          "minute": "44'",
+          "ownGoal": false
+        },
+        {
+          "name": "Fabio Capello",
+          "minute": "85'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1974-06-23"
+    },
+    {
+      "stage": "Second Group Stage",
+      "opponent": "Sweden",
+      "score": "0–1",
+      "scorers": [
+        {
+          "name": "Grzegorz Lato",
+          "minute": "43'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1974-06-26"
+    },
+    {
+      "stage": "Second Group Stage",
+      "opponent": "Yugoslavia",
+      "score": "2–1",
+      "scorers": [
+        {
+          "name": "Kazimierz Deyna",
+          "minute": "24'",
+          "ownGoal": false
+        },
+        {
+          "name": "Stanislav Karasi",
+          "minute": "43'",
+          "ownGoal": false
+        },
+        {
+          "name": "Grzegorz Lato",
+          "minute": "62'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1974-06-30"
+    },
+    {
+      "stage": "Second Group Stage",
+      "opponent": "West Germany",
+      "score": "0–1",
+      "scorers": [
+        {
+          "name": "Gerd Müller",
+          "minute": "76'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1974-07-03"
+    },
+    {
+      "stage": "Third-place match",
+      "opponent": "Brazil",
+      "score": "0–1",
+      "scorers": [
+        {
+          "name": "Grzegorz Lato",
+          "minute": "76'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1974-07-06"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

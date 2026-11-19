@@ -1,0 +1,247 @@
+{
+  "country": "Cameroon",
+  "countrySlug": "cameroon",
+  "year": 1994,
+  "edition": "1994",
+  "host": "United States",
+  "coach": "Henri Michel",
+  "finalPhase": "Group Stage",
+  "result": "Group Stage",
+  "squad": [
+    {
+      "id": "cameroon-1994-1",
+      "name": "Joseph-Antoine Bell",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "cameroon-1994-2",
+      "name": "André Kana-Biyik",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "cameroon-1994-3",
+      "name": "Rigobert Song",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "cameroon-1994-4",
+      "name": "Samuel Ekemé",
+      "shirtNumber": 4,
+      "position": "DEF"
+    },
+    {
+      "id": "cameroon-1994-5",
+      "name": "Victor N'Dip",
+      "shirtNumber": 5,
+      "position": "DEF"
+    },
+    {
+      "id": "cameroon-1994-6",
+      "name": "Thomas Libiih",
+      "shirtNumber": 6,
+      "position": "MID"
+    },
+    {
+      "id": "cameroon-1994-7",
+      "name": "François Omam-Biyik",
+      "shirtNumber": 7,
+      "position": "ATT"
+    },
+    {
+      "id": "cameroon-1994-8",
+      "name": "Émile Mbouh",
+      "shirtNumber": 8,
+      "position": "MID"
+    },
+    {
+      "id": "cameroon-1994-9",
+      "name": "Roger Milla",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "cameroon-1994-10",
+      "name": "Louis-Paul M'Fédé",
+      "shirtNumber": 10,
+      "position": "ATT"
+    },
+    {
+      "id": "cameroon-1994-11",
+      "name": "Emmanuel Maboang",
+      "shirtNumber": 11,
+      "position": "MID"
+    },
+    {
+      "id": "cameroon-1994-12",
+      "name": "Paul Loga",
+      "shirtNumber": 12,
+      "position": "MID"
+    },
+    {
+      "id": "cameroon-1994-13",
+      "name": "Raymond Kalla",
+      "shirtNumber": 13,
+      "position": "DEF"
+    },
+    {
+      "id": "cameroon-1994-14",
+      "name": "Stephen Tataw",
+      "shirtNumber": 14,
+      "position": "DEF"
+    },
+    {
+      "id": "cameroon-1994-15",
+      "name": "Hans Agbo",
+      "shirtNumber": 15,
+      "position": "DEF"
+    },
+    {
+      "id": "cameroon-1994-16",
+      "name": "Alphonse Tchami",
+      "shirtNumber": 16,
+      "position": "ATT"
+    },
+    {
+      "id": "cameroon-1994-17",
+      "name": "Marc-Vivien Foé",
+      "shirtNumber": 17,
+      "position": "MID"
+    },
+    {
+      "id": "cameroon-1994-18",
+      "name": "Jean-Pierre Fiala",
+      "shirtNumber": 18,
+      "position": "MID"
+    },
+    {
+      "id": "cameroon-1994-19",
+      "name": "David Embé",
+      "shirtNumber": 19,
+      "position": "ATT"
+    },
+    {
+      "id": "cameroon-1994-20",
+      "name": "Georges Mouyémé",
+      "shirtNumber": 20,
+      "position": "ATT"
+    },
+    {
+      "id": "cameroon-1994-21",
+      "name": "Thomas N'Kono",
+      "shirtNumber": 21,
+      "position": "GK"
+    },
+    {
+      "id": "cameroon-1994-22",
+      "name": "Jacques Songo'o",
+      "shirtNumber": 22,
+      "position": "GK"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "Sweden",
+      "score": "2–2",
+      "scorers": [
+        {
+          "name": "Roger Ljung",
+          "minute": "8'",
+          "ownGoal": false
+        },
+        {
+          "name": "David Embé",
+          "minute": "31'",
+          "ownGoal": false
+        },
+        {
+          "name": "François Omam-Biyik",
+          "minute": "47'",
+          "ownGoal": false
+        },
+        {
+          "name": "Martin Dahlin",
+          "minute": "75'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1994-06-19"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Brazil",
+      "score": "3–0",
+      "scorers": [
+        {
+          "name": "Romário",
+          "minute": "39'",
+          "ownGoal": false
+        },
+        {
+          "name": "Márcio Santos",
+          "minute": "66'",
+          "ownGoal": false
+        },
+        {
+          "name": "Bebeto",
+          "minute": "73'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1994-06-24"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Russia",
+      "score": "6–1",
+      "scorers": [
+        {
+          "name": "Oleg Salenko",
+          "minute": "15'",
+          "ownGoal": false
+        },
+        {
+          "name": "Oleg Salenko",
+          "minute": "41'",
+          "ownGoal": false
+        },
+        {
+          "name": "Oleg Salenko",
+          "minute": "44'",
+          "ownGoal": false
+        },
+        {
+          "name": "Roger Milla",
+          "minute": "46'",
+          "ownGoal": false
+        },
+        {
+          "name": "Oleg Salenko",
+          "minute": "72'",
+          "ownGoal": false
+        },
+        {
+          "name": "Oleg Salenko",
+          "minute": "75'",
+          "ownGoal": false
+        },
+        {
+          "name": "Dmitri Radchenko",
+          "minute": "81'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1994-06-28"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

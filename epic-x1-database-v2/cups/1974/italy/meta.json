@@ -1,0 +1,222 @@
+{
+  "country": "Italy",
+  "countrySlug": "italy",
+  "year": 1974,
+  "edition": "1974",
+  "host": "West Germany",
+  "coach": "Ferruccio Valcareggi",
+  "finalPhase": "Group Stage",
+  "result": "Group Stage",
+  "squad": [
+    {
+      "id": "italy-1974-1",
+      "name": "Dino Zoff",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "italy-1974-2",
+      "name": "Luciano Spinosi",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "italy-1974-3",
+      "name": "Giacinto Facchetti",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "italy-1974-4",
+      "name": "Romeo Benetti",
+      "shirtNumber": 4,
+      "position": "MID"
+    },
+    {
+      "id": "italy-1974-5",
+      "name": "Francesco Morini",
+      "shirtNumber": 5,
+      "position": "DEF"
+    },
+    {
+      "id": "italy-1974-6",
+      "name": "Tarcisio Burgnich",
+      "shirtNumber": 6,
+      "position": "DEF"
+    },
+    {
+      "id": "italy-1974-7",
+      "name": "Sandro Mazzola",
+      "shirtNumber": 7,
+      "position": "MID"
+    },
+    {
+      "id": "italy-1974-8",
+      "name": "Fabio Capello",
+      "shirtNumber": 8,
+      "position": "MID"
+    },
+    {
+      "id": "italy-1974-9",
+      "name": "Giorgio Chinaglia",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "italy-1974-10",
+      "name": "Gianni Rivera",
+      "shirtNumber": 10,
+      "position": "MID"
+    },
+    {
+      "id": "italy-1974-11",
+      "name": "Gigi Riva",
+      "shirtNumber": 11,
+      "position": "ATT"
+    },
+    {
+      "id": "italy-1974-12",
+      "name": "Enrico Albertosi",
+      "shirtNumber": 12,
+      "position": "GK"
+    },
+    {
+      "id": "italy-1974-13",
+      "name": "Giuseppe Sabadini",
+      "shirtNumber": 13,
+      "position": "DEF"
+    },
+    {
+      "id": "italy-1974-14",
+      "name": "Mauro Bellugi",
+      "shirtNumber": 14,
+      "position": "DEF"
+    },
+    {
+      "id": "italy-1974-15",
+      "name": "Giuseppe Wilson",
+      "shirtNumber": 15,
+      "position": "DEF"
+    },
+    {
+      "id": "italy-1974-16",
+      "name": "Antonio Juliano",
+      "shirtNumber": 16,
+      "position": "MID"
+    },
+    {
+      "id": "italy-1974-17",
+      "name": "Luciano Re Cecconi",
+      "shirtNumber": 17,
+      "position": "MID"
+    },
+    {
+      "id": "italy-1974-18",
+      "name": "Franco Causio",
+      "shirtNumber": 18,
+      "position": "MID"
+    },
+    {
+      "id": "italy-1974-19",
+      "name": "Pietro Anastasi",
+      "shirtNumber": 19,
+      "position": "ATT"
+    },
+    {
+      "id": "italy-1974-20",
+      "name": "Roberto Boninsegna",
+      "shirtNumber": 20,
+      "position": "ATT"
+    },
+    {
+      "id": "italy-1974-21",
+      "name": "Paolo Pulici",
+      "shirtNumber": 21,
+      "position": "ATT"
+    },
+    {
+      "id": "italy-1974-22",
+      "name": "Luciano Castellini",
+      "shirtNumber": 22,
+      "position": "GK"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "Haiti",
+      "score": "3–1",
+      "scorers": [
+        {
+          "name": "Emmanuel Sanon",
+          "minute": "46'",
+          "ownGoal": false
+        },
+        {
+          "name": "Gianni Rivera",
+          "minute": "52'",
+          "ownGoal": false
+        },
+        {
+          "name": "Romeo Benetti",
+          "minute": "66'",
+          "ownGoal": false
+        },
+        {
+          "name": "Pietro Anastasi",
+          "minute": "79'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1974-06-15"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Argentina",
+      "score": "1–1",
+      "scorers": [
+        {
+          "name": "René Houseman",
+          "minute": "20'",
+          "ownGoal": false
+        },
+        {
+          "name": "Roberto Perfumo",
+          "minute": "35'",
+          "ownGoal": true
+        }
+      ],
+      "date": "1974-06-19"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Poland",
+      "score": "2–1",
+      "scorers": [
+        {
+          "name": "Andrzej Szarmach",
+          "minute": "38'",
+          "ownGoal": false
+        },
+        {
+          "name": "Kazimierz Deyna",
+          "minute": "44'",
+          "ownGoal": false
+        },
+        {
+          "name": "Fabio Capello",
+          "minute": "85'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1974-06-23"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

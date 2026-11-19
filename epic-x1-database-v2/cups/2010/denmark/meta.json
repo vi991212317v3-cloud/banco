@@ -1,0 +1,228 @@
+{
+  "country": "Denmark",
+  "countrySlug": "denmark",
+  "year": 2010,
+  "edition": "2010",
+  "host": "South Africa",
+  "coach": "Morten Olsen",
+  "finalPhase": "Group Stage",
+  "result": "Group Stage",
+  "squad": [
+    {
+      "id": "denmark-2010-1",
+      "name": "Thomas Sørensen",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "denmark-2010-2",
+      "name": "Christian Poulsen",
+      "shirtNumber": 2,
+      "position": "MID"
+    },
+    {
+      "id": "denmark-2010-3",
+      "name": "Simon Kjær",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "denmark-2010-4",
+      "name": "Daniel Agger",
+      "shirtNumber": 4,
+      "position": "DEF"
+    },
+    {
+      "id": "denmark-2010-5",
+      "name": "William Kvist",
+      "shirtNumber": 5,
+      "position": "DEF"
+    },
+    {
+      "id": "denmark-2010-6",
+      "name": "Lars Jacobsen",
+      "shirtNumber": 6,
+      "position": "DEF"
+    },
+    {
+      "id": "denmark-2010-7",
+      "name": "Daniel Jensen",
+      "shirtNumber": 7,
+      "position": "MID"
+    },
+    {
+      "id": "denmark-2010-8",
+      "name": "Jesper Grønkjær",
+      "shirtNumber": 8,
+      "position": "MID"
+    },
+    {
+      "id": "denmark-2010-9",
+      "name": "Jon Dahl Tomasson",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "denmark-2010-10",
+      "name": "Martin Jørgensen",
+      "shirtNumber": 10,
+      "position": "MID"
+    },
+    {
+      "id": "denmark-2010-11",
+      "name": "Nicklas Bendtner",
+      "shirtNumber": 11,
+      "position": "ATT"
+    },
+    {
+      "id": "denmark-2010-12",
+      "name": "Thomas Kahlenberg",
+      "shirtNumber": 12,
+      "position": "MID"
+    },
+    {
+      "id": "denmark-2010-13",
+      "name": "Per Krøldrup",
+      "shirtNumber": 13,
+      "position": "DEF"
+    },
+    {
+      "id": "denmark-2010-14",
+      "name": "Jakob Poulsen",
+      "shirtNumber": 14,
+      "position": "MID"
+    },
+    {
+      "id": "denmark-2010-15",
+      "name": "Simon Poulsen",
+      "shirtNumber": 15,
+      "position": "DEF"
+    },
+    {
+      "id": "denmark-2010-16",
+      "name": "Stephan Andersen",
+      "shirtNumber": 16,
+      "position": "GK"
+    },
+    {
+      "id": "denmark-2010-17",
+      "name": "Mikkel Beckmann",
+      "shirtNumber": 17,
+      "position": "MID"
+    },
+    {
+      "id": "denmark-2010-18",
+      "name": "Søren Larsen",
+      "shirtNumber": 18,
+      "position": "ATT"
+    },
+    {
+      "id": "denmark-2010-19",
+      "name": "Dennis Rommedahl",
+      "shirtNumber": 19,
+      "position": "MID"
+    },
+    {
+      "id": "denmark-2010-20",
+      "name": "Thomas Enevoldsen",
+      "shirtNumber": 20,
+      "position": "MID"
+    },
+    {
+      "id": "denmark-2010-21",
+      "name": "Christian Eriksen",
+      "shirtNumber": 21,
+      "position": "MID"
+    },
+    {
+      "id": "denmark-2010-22",
+      "name": "Jesper Christiansen",
+      "shirtNumber": 22,
+      "position": "GK"
+    },
+    {
+      "id": "denmark-2010-23",
+      "name": "Patrick Mtiliga",
+      "shirtNumber": 23,
+      "position": "DEF"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "Netherlands",
+      "score": "2–0",
+      "scorers": [
+        {
+          "name": "Daniel Agger",
+          "minute": "46'",
+          "ownGoal": true
+        },
+        {
+          "name": "Dirk Kuyt",
+          "minute": "85'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2010-06-14"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Cameroon",
+      "score": "1–2",
+      "scorers": [
+        {
+          "name": "Samuel Eto'o",
+          "minute": "10'",
+          "ownGoal": false
+        },
+        {
+          "name": "Nicklas Bendtner",
+          "minute": "33'",
+          "ownGoal": false
+        },
+        {
+          "name": "Dennis Rommedahl",
+          "minute": "61'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2010-06-19"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Japan",
+      "score": "1–3",
+      "scorers": [
+        {
+          "name": "Keisuke Honda",
+          "minute": "17'",
+          "ownGoal": false
+        },
+        {
+          "name": "Yasuhito Endō",
+          "minute": "30'",
+          "ownGoal": false
+        },
+        {
+          "name": "Jon Dahl Tomasson",
+          "minute": "81'",
+          "ownGoal": false
+        },
+        {
+          "name": "Shinji Okazaki",
+          "minute": "87'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2010-06-24"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

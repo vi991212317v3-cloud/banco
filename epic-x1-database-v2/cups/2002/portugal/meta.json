@@ -1,0 +1,233 @@
+{
+  "country": "Portugal",
+  "countrySlug": "portugal",
+  "year": 2002,
+  "edition": "2002",
+  "host": "Korea, Japan",
+  "coach": "António Oliveira",
+  "finalPhase": "Group Stage",
+  "result": "Group Stage",
+  "squad": [
+    {
+      "id": "portugal-2002-1",
+      "name": "Vítor Baía",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "portugal-2002-2",
+      "name": "Jorge Costa",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "portugal-2002-3",
+      "name": "Abel Xavier",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "portugal-2002-4",
+      "name": "Marco Caneira",
+      "shirtNumber": 4,
+      "position": "DEF"
+    },
+    {
+      "id": "portugal-2002-5",
+      "name": "Fernando Couto",
+      "shirtNumber": 5,
+      "position": "DEF"
+    },
+    {
+      "id": "portugal-2002-6",
+      "name": "Paulo Sousa",
+      "shirtNumber": 6,
+      "position": "MID"
+    },
+    {
+      "id": "portugal-2002-7",
+      "name": "Luís Figo",
+      "shirtNumber": 7,
+      "position": "MID"
+    },
+    {
+      "id": "portugal-2002-8",
+      "name": "João Pinto",
+      "shirtNumber": 8,
+      "position": "ATT"
+    },
+    {
+      "id": "portugal-2002-9",
+      "name": "Pauleta",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "portugal-2002-10",
+      "name": "Rui Costa",
+      "shirtNumber": 10,
+      "position": "MID"
+    },
+    {
+      "id": "portugal-2002-11",
+      "name": "Sérgio Conceição",
+      "shirtNumber": 11,
+      "position": "MID"
+    },
+    {
+      "id": "portugal-2002-12",
+      "name": "Hugo Viana",
+      "shirtNumber": 12,
+      "position": "MID"
+    },
+    {
+      "id": "portugal-2002-13",
+      "name": "Jorge Andrade",
+      "shirtNumber": 13,
+      "position": "DEF"
+    },
+    {
+      "id": "portugal-2002-14",
+      "name": "Pedro Barbosa",
+      "shirtNumber": 14,
+      "position": "MID"
+    },
+    {
+      "id": "portugal-2002-15",
+      "name": "Nélson Pereira",
+      "shirtNumber": 15,
+      "position": "GK"
+    },
+    {
+      "id": "portugal-2002-16",
+      "name": "Ricardo",
+      "shirtNumber": 16,
+      "position": "GK"
+    },
+    {
+      "id": "portugal-2002-17",
+      "name": "Paulo Bento",
+      "shirtNumber": 17,
+      "position": "MID"
+    },
+    {
+      "id": "portugal-2002-18",
+      "name": "Nuno Frechaut",
+      "shirtNumber": 18,
+      "position": "DEF"
+    },
+    {
+      "id": "portugal-2002-19",
+      "name": "Capucho",
+      "shirtNumber": 19,
+      "position": "MID"
+    },
+    {
+      "id": "portugal-2002-20",
+      "name": "Petit",
+      "shirtNumber": 20,
+      "position": "MID"
+    },
+    {
+      "id": "portugal-2002-21",
+      "name": "Nuno Gomes",
+      "shirtNumber": 21,
+      "position": "ATT"
+    },
+    {
+      "id": "portugal-2002-22",
+      "name": "Beto",
+      "shirtNumber": 22,
+      "position": "DEF"
+    },
+    {
+      "id": "portugal-2002-23",
+      "name": "Rui Jorge",
+      "shirtNumber": 23,
+      "position": "DEF"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "United States",
+      "score": "3–2",
+      "scorers": [
+        {
+          "name": "John O'Brien",
+          "minute": "4'",
+          "ownGoal": false
+        },
+        {
+          "name": "Jorge Costa",
+          "minute": "29'",
+          "ownGoal": true
+        },
+        {
+          "name": "Brian McBride",
+          "minute": "36'",
+          "ownGoal": false
+        },
+        {
+          "name": "Beto",
+          "minute": "39'",
+          "ownGoal": false
+        },
+        {
+          "name": "Jeff Agoos",
+          "minute": "71'",
+          "ownGoal": true
+        }
+      ],
+      "date": "2002-06-05"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Poland",
+      "score": "4–0",
+      "scorers": [
+        {
+          "name": "Pauleta",
+          "minute": "14'",
+          "ownGoal": false
+        },
+        {
+          "name": "Pauleta",
+          "minute": "65'",
+          "ownGoal": false
+        },
+        {
+          "name": "Pauleta",
+          "minute": "77'",
+          "ownGoal": false
+        },
+        {
+          "name": "Rui Costa",
+          "minute": "88'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2002-06-10"
+    },
+    {
+      "stage": "Group",
+      "opponent": "South Korea",
+      "score": "0–1",
+      "scorers": [
+        {
+          "name": "Ji-sung Park",
+          "minute": "70'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2002-06-14"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

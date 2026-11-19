@@ -1,0 +1,207 @@
+{
+  "country": "Iran",
+  "countrySlug": "iran",
+  "year": 2014,
+  "edition": "2014",
+  "host": "Brazil",
+  "coach": "Carlos Queiroz",
+  "finalPhase": "Group Stage",
+  "result": "Group Stage",
+  "squad": [
+    {
+      "id": "iran-2014-1",
+      "name": "Rahman Ahmadi",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "iran-2014-2",
+      "name": "Khosro Heydari",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "iran-2014-3",
+      "name": "Ehsan Hajsafi",
+      "shirtNumber": 3,
+      "position": "MID"
+    },
+    {
+      "id": "iran-2014-4",
+      "name": "Jalal Hosseini",
+      "shirtNumber": 4,
+      "position": "DEF"
+    },
+    {
+      "id": "iran-2014-5",
+      "name": "Amir Hossein Sadeghi",
+      "shirtNumber": 5,
+      "position": "DEF"
+    },
+    {
+      "id": "iran-2014-6",
+      "name": "Javad Nekounam",
+      "shirtNumber": 6,
+      "position": "MID"
+    },
+    {
+      "id": "iran-2014-7",
+      "name": "Masoud Shojaei",
+      "shirtNumber": 7,
+      "position": "MID"
+    },
+    {
+      "id": "iran-2014-8",
+      "name": "Reza Haghighi",
+      "shirtNumber": 8,
+      "position": "MID"
+    },
+    {
+      "id": "iran-2014-9",
+      "name": "Alireza Jahanbakhsh",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "iran-2014-10",
+      "name": "Karim Ansarifard",
+      "shirtNumber": 10,
+      "position": "ATT"
+    },
+    {
+      "id": "iran-2014-11",
+      "name": "Ghasem Haddadifar",
+      "shirtNumber": 11,
+      "position": "MID"
+    },
+    {
+      "id": "iran-2014-12",
+      "name": "Alireza Haghighi",
+      "shirtNumber": 12,
+      "position": "GK"
+    },
+    {
+      "id": "iran-2014-13",
+      "name": "Hossein Mahini",
+      "shirtNumber": 13,
+      "position": "DEF"
+    },
+    {
+      "id": "iran-2014-14",
+      "name": "Andranik Teymourian",
+      "shirtNumber": 14,
+      "position": "MID"
+    },
+    {
+      "id": "iran-2014-15",
+      "name": "Pejman Montazeri",
+      "shirtNumber": 15,
+      "position": "DEF"
+    },
+    {
+      "id": "iran-2014-16",
+      "name": "Reza Ghoochannejhad",
+      "shirtNumber": 16,
+      "position": "ATT"
+    },
+    {
+      "id": "iran-2014-17",
+      "name": "Ahmad Alenemeh",
+      "shirtNumber": 17,
+      "position": "DEF"
+    },
+    {
+      "id": "iran-2014-18",
+      "name": "Bakhtiar Rahmani",
+      "shirtNumber": 18,
+      "position": "MID"
+    },
+    {
+      "id": "iran-2014-19",
+      "name": "Hashem Beikzadeh",
+      "shirtNumber": 19,
+      "position": "DEF"
+    },
+    {
+      "id": "iran-2014-20",
+      "name": "Steven Beitashour",
+      "shirtNumber": 20,
+      "position": "DEF"
+    },
+    {
+      "id": "iran-2014-21",
+      "name": "Ashkan Dejagah",
+      "shirtNumber": 21,
+      "position": "MID"
+    },
+    {
+      "id": "iran-2014-22",
+      "name": "Daniel Davari",
+      "shirtNumber": 22,
+      "position": "GK"
+    },
+    {
+      "id": "iran-2014-23",
+      "name": "Mehrdad Pooladi",
+      "shirtNumber": 23,
+      "position": "DEF"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "Nigeria",
+      "score": "0–0",
+      "scorers": [],
+      "date": "2014-06-16"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Argentina",
+      "score": "1–0",
+      "scorers": [
+        {
+          "name": "Lionel Messi",
+          "minute": "90'+1'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2014-06-21"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Bosnia and Herzegovina",
+      "score": "3–1",
+      "scorers": [
+        {
+          "name": "Edin Džeko",
+          "minute": "23'",
+          "ownGoal": false
+        },
+        {
+          "name": "Miralem Pjanić",
+          "minute": "59'",
+          "ownGoal": false
+        },
+        {
+          "name": "Reza Ghoochannejhad",
+          "minute": "82'",
+          "ownGoal": false
+        },
+        {
+          "name": "Avdija Vršajević",
+          "minute": "83'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2014-06-25"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

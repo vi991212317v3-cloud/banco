@@ -1,0 +1,231 @@
+{
+  "country": "Chile",
+  "countrySlug": "chile",
+  "year": 2010,
+  "edition": "2010",
+  "host": "South Africa",
+  "coach": "Marcelo Bielsa",
+  "finalPhase": "Round of 16",
+  "result": "Round of 16",
+  "squad": [
+    {
+      "id": "chile-2010-1",
+      "name": "Claudio Bravo",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "chile-2010-2",
+      "name": "Ismael Fuentes",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "chile-2010-3",
+      "name": "Waldo Ponce",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "chile-2010-4",
+      "name": "Mauricio Isla",
+      "shirtNumber": 4,
+      "position": "MID"
+    },
+    {
+      "id": "chile-2010-5",
+      "name": "Pablo Contreras",
+      "shirtNumber": 5,
+      "position": "DEF"
+    },
+    {
+      "id": "chile-2010-6",
+      "name": "Carlos Carmona",
+      "shirtNumber": 6,
+      "position": "MID"
+    },
+    {
+      "id": "chile-2010-7",
+      "name": "Alexis Sánchez",
+      "shirtNumber": 7,
+      "position": "ATT"
+    },
+    {
+      "id": "chile-2010-8",
+      "name": "Arturo Vidal",
+      "shirtNumber": 8,
+      "position": "MID"
+    },
+    {
+      "id": "chile-2010-9",
+      "name": "Humberto Suazo",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "chile-2010-10",
+      "name": "Jorge Valdivia",
+      "shirtNumber": 10,
+      "position": "MID"
+    },
+    {
+      "id": "chile-2010-11",
+      "name": "Mark González",
+      "shirtNumber": 11,
+      "position": "ATT"
+    },
+    {
+      "id": "chile-2010-12",
+      "name": "Miguel Pinto",
+      "shirtNumber": 12,
+      "position": "GK"
+    },
+    {
+      "id": "chile-2010-13",
+      "name": "Marco Estrada",
+      "shirtNumber": 13,
+      "position": "MID"
+    },
+    {
+      "id": "chile-2010-14",
+      "name": "Matías Fernández",
+      "shirtNumber": 14,
+      "position": "MID"
+    },
+    {
+      "id": "chile-2010-15",
+      "name": "Jean Beausejour",
+      "shirtNumber": 15,
+      "position": "ATT"
+    },
+    {
+      "id": "chile-2010-16",
+      "name": "Fabián Orellana",
+      "shirtNumber": 16,
+      "position": "ATT"
+    },
+    {
+      "id": "chile-2010-17",
+      "name": "Gary Medel",
+      "shirtNumber": 17,
+      "position": "DEF"
+    },
+    {
+      "id": "chile-2010-18",
+      "name": "Gonzalo Jara",
+      "shirtNumber": 18,
+      "position": "DEF"
+    },
+    {
+      "id": "chile-2010-19",
+      "name": "Gonzalo Fierro",
+      "shirtNumber": 19,
+      "position": "MID"
+    },
+    {
+      "id": "chile-2010-20",
+      "name": "Rodrigo Millar",
+      "shirtNumber": 20,
+      "position": "MID"
+    },
+    {
+      "id": "chile-2010-21",
+      "name": "Rodrigo Tello",
+      "shirtNumber": 21,
+      "position": "MID"
+    },
+    {
+      "id": "chile-2010-22",
+      "name": "Esteban Paredes",
+      "shirtNumber": 22,
+      "position": "ATT"
+    },
+    {
+      "id": "chile-2010-23",
+      "name": "Luis Marín",
+      "shirtNumber": 23,
+      "position": "GK"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "Honduras",
+      "score": "0–1",
+      "scorers": [
+        {
+          "name": "Jean Beausejour",
+          "minute": "34'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2010-06-16"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Switzerland",
+      "score": "1–0",
+      "scorers": [
+        {
+          "name": "Mark González",
+          "minute": "75'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2010-06-21"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Spain",
+      "score": "1–2",
+      "scorers": [
+        {
+          "name": "David Villa",
+          "minute": "24'",
+          "ownGoal": false
+        },
+        {
+          "name": "Andrés Iniesta",
+          "minute": "37'",
+          "ownGoal": false
+        },
+        {
+          "name": "Rodrigo Millar",
+          "minute": "47'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2010-06-25"
+    },
+    {
+      "stage": "Round of 16",
+      "opponent": "Brazil",
+      "score": "3–0",
+      "scorers": [
+        {
+          "name": "Juan",
+          "minute": "35'",
+          "ownGoal": false
+        },
+        {
+          "name": "Luís Fabiano",
+          "minute": "38'",
+          "ownGoal": false
+        },
+        {
+          "name": "Robinho",
+          "minute": "59'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2010-06-28"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

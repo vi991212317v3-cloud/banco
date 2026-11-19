@@ -1,0 +1,244 @@
+{
+  "country": "Belgium",
+  "countrySlug": "belgium",
+  "year": 2014,
+  "edition": "2014",
+  "host": "Brazil",
+  "coach": "Marc Wilmots",
+  "finalPhase": "Quarter-final",
+  "result": "Quarter-final",
+  "squad": [
+    {
+      "id": "belgium-2014-1",
+      "name": "Thibaut Courtois",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "belgium-2014-2",
+      "name": "Toby Alderweireld",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "belgium-2014-3",
+      "name": "Thomas Vermaelen",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "belgium-2014-4",
+      "name": "Vincent Kompany",
+      "shirtNumber": 4,
+      "position": "DEF"
+    },
+    {
+      "id": "belgium-2014-5",
+      "name": "Jan Vertonghen",
+      "shirtNumber": 5,
+      "position": "DEF"
+    },
+    {
+      "id": "belgium-2014-6",
+      "name": "Axel Witsel",
+      "shirtNumber": 6,
+      "position": "MID"
+    },
+    {
+      "id": "belgium-2014-7",
+      "name": "Kevin De Bruyne",
+      "shirtNumber": 7,
+      "position": "MID"
+    },
+    {
+      "id": "belgium-2014-8",
+      "name": "Marouane Fellaini",
+      "shirtNumber": 8,
+      "position": "MID"
+    },
+    {
+      "id": "belgium-2014-9",
+      "name": "Romelu Lukaku",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "belgium-2014-10",
+      "name": "Eden Hazard",
+      "shirtNumber": 10,
+      "position": "MID"
+    },
+    {
+      "id": "belgium-2014-11",
+      "name": "Kevin Mirallas",
+      "shirtNumber": 11,
+      "position": "MID"
+    },
+    {
+      "id": "belgium-2014-12",
+      "name": "Simon Mignolet",
+      "shirtNumber": 12,
+      "position": "GK"
+    },
+    {
+      "id": "belgium-2014-13",
+      "name": "Sammy Bossut",
+      "shirtNumber": 13,
+      "position": "GK"
+    },
+    {
+      "id": "belgium-2014-14",
+      "name": "Dries Mertens",
+      "shirtNumber": 14,
+      "position": "ATT"
+    },
+    {
+      "id": "belgium-2014-15",
+      "name": "Daniel Van Buyten",
+      "shirtNumber": 15,
+      "position": "DEF"
+    },
+    {
+      "id": "belgium-2014-16",
+      "name": "Steven Defour",
+      "shirtNumber": 16,
+      "position": "MID"
+    },
+    {
+      "id": "belgium-2014-17",
+      "name": "Divock Origi",
+      "shirtNumber": 17,
+      "position": "ATT"
+    },
+    {
+      "id": "belgium-2014-18",
+      "name": "Nicolas Lombaerts",
+      "shirtNumber": 18,
+      "position": "DEF"
+    },
+    {
+      "id": "belgium-2014-19",
+      "name": "Mousa Dembélé",
+      "shirtNumber": 19,
+      "position": "MID"
+    },
+    {
+      "id": "belgium-2014-20",
+      "name": "Adnan Januzaj",
+      "shirtNumber": 20,
+      "position": "MID"
+    },
+    {
+      "id": "belgium-2014-21",
+      "name": "Anthony Vanden Borre",
+      "shirtNumber": 21,
+      "position": "DEF"
+    },
+    {
+      "id": "belgium-2014-22",
+      "name": "Nacer Chadli",
+      "shirtNumber": 22,
+      "position": "MID"
+    },
+    {
+      "id": "belgium-2014-23",
+      "name": "Laurent Ciman",
+      "shirtNumber": 23,
+      "position": "DEF"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "Algeria",
+      "score": "2–1",
+      "scorers": [
+        {
+          "name": "Sofiane Feghouli",
+          "minute": "25'",
+          "ownGoal": false
+        },
+        {
+          "name": "Marouane Fellaini",
+          "minute": "70'",
+          "ownGoal": false
+        },
+        {
+          "name": "Dries Mertens",
+          "minute": "80'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2014-06-17"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Russia",
+      "score": "1–0",
+      "scorers": [
+        {
+          "name": "Divock Origi",
+          "minute": "88'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2014-06-22"
+    },
+    {
+      "stage": "Group",
+      "opponent": "South Korea",
+      "score": "0–1",
+      "scorers": [
+        {
+          "name": "Jan Vertonghen",
+          "minute": "78'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2014-06-26"
+    },
+    {
+      "stage": "Round of 16",
+      "opponent": "United States",
+      "score": "2–1",
+      "scorers": [
+        {
+          "name": "Kevin De Bruyne",
+          "minute": "93'",
+          "ownGoal": false
+        },
+        {
+          "name": "Romelu Lukaku",
+          "minute": "105'",
+          "ownGoal": false
+        },
+        {
+          "name": "Julian Green",
+          "minute": "107'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2014-07-01"
+    },
+    {
+      "stage": "Quarter-final",
+      "opponent": "Argentina",
+      "score": "1–0",
+      "scorers": [
+        {
+          "name": "Gonzalo Higuaín",
+          "minute": "8'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2014-07-05"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

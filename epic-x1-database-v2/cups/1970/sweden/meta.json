@@ -1,0 +1,197 @@
+{
+  "country": "Sweden",
+  "countrySlug": "sweden",
+  "year": 1970,
+  "edition": "1970",
+  "host": "Mexico",
+  "coach": "Orvar Bergmark",
+  "finalPhase": "Group Stage",
+  "result": "Group Stage",
+  "squad": [
+    {
+      "id": "sweden-1970-1",
+      "name": "Ronnie Hellström",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "sweden-1970-2",
+      "name": "Hans Selander",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "sweden-1970-3",
+      "name": "Kurt Axelsson",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "sweden-1970-4",
+      "name": "Björn Nordqvist",
+      "shirtNumber": 4,
+      "position": "DEF"
+    },
+    {
+      "id": "sweden-1970-5",
+      "name": "Roland Grip",
+      "shirtNumber": 5,
+      "position": "DEF"
+    },
+    {
+      "id": "sweden-1970-6",
+      "name": "Tommy Svensson",
+      "shirtNumber": 6,
+      "position": "MID"
+    },
+    {
+      "id": "sweden-1970-7",
+      "name": "Bo Larsson",
+      "shirtNumber": 7,
+      "position": "MID"
+    },
+    {
+      "id": "sweden-1970-8",
+      "name": "Leif Eriksson",
+      "shirtNumber": 8,
+      "position": "MID"
+    },
+    {
+      "id": "sweden-1970-9",
+      "name": "Ove Kindvall",
+      "shirtNumber": 9,
+      "position": "MID"
+    },
+    {
+      "id": "sweden-1970-10",
+      "name": "Ove Grahn",
+      "shirtNumber": 10,
+      "position": "MID"
+    },
+    {
+      "id": "sweden-1970-11",
+      "name": "Örjan Persson",
+      "shirtNumber": 11,
+      "position": "MID"
+    },
+    {
+      "id": "sweden-1970-12",
+      "name": "Sven-Gunnar Larsson",
+      "shirtNumber": 12,
+      "position": "GK"
+    },
+    {
+      "id": "sweden-1970-13",
+      "name": "Claes Cronqvist",
+      "shirtNumber": 13,
+      "position": "MID"
+    },
+    {
+      "id": "sweden-1970-14",
+      "name": "Krister Kristensson",
+      "shirtNumber": 14,
+      "position": "DEF"
+    },
+    {
+      "id": "sweden-1970-15",
+      "name": "Leif Målberg",
+      "shirtNumber": 15,
+      "position": "DEF"
+    },
+    {
+      "id": "sweden-1970-16",
+      "name": "Tomas Nordahl",
+      "shirtNumber": 16,
+      "position": "ATT"
+    },
+    {
+      "id": "sweden-1970-17",
+      "name": "Ronney Pettersson",
+      "shirtNumber": 17,
+      "position": "GK"
+    },
+    {
+      "id": "sweden-1970-18",
+      "name": "Tom Turesson",
+      "shirtNumber": 18,
+      "position": "ATT"
+    },
+    {
+      "id": "sweden-1970-19",
+      "name": "Göran Nicklasson",
+      "shirtNumber": 19,
+      "position": "MID"
+    },
+    {
+      "id": "sweden-1970-20",
+      "name": "Jan Olsson",
+      "shirtNumber": 20,
+      "position": "DEF"
+    },
+    {
+      "id": "sweden-1970-21",
+      "name": "Inge Ejderstedt",
+      "shirtNumber": 21,
+      "position": "ATT"
+    },
+    {
+      "id": "sweden-1970-22",
+      "name": "Sten Pålsson",
+      "shirtNumber": 22,
+      "position": "MID"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "Italy",
+      "score": "1–0",
+      "scorers": [
+        {
+          "name": "Angelo Domenghini",
+          "minute": "10'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1970-06-03"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Israel",
+      "score": "1–1",
+      "scorers": [
+        {
+          "name": "Tom Turesson",
+          "minute": "53'",
+          "ownGoal": false
+        },
+        {
+          "name": "Mordechai Spiegler",
+          "minute": "56'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1970-06-07"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Uruguay",
+      "score": "1–0",
+      "scorers": [
+        {
+          "name": "Ove Grahn",
+          "minute": "90'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1970-06-10"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

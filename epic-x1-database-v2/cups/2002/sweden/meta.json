@@ -1,0 +1,241 @@
+{
+  "country": "Sweden",
+  "countrySlug": "sweden",
+  "year": 2002,
+  "edition": "2002",
+  "host": "Korea, Japan",
+  "coach": "Lars Lagerbäck",
+  "finalPhase": "Round of 16",
+  "result": "Round of 16",
+  "squad": [
+    {
+      "id": "sweden-2002-1",
+      "name": "Magnus Hedman",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "sweden-2002-2",
+      "name": "Olof Mellberg",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "sweden-2002-3",
+      "name": "Patrik Andersson",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "sweden-2002-4",
+      "name": "Johan Mjällby",
+      "shirtNumber": 4,
+      "position": "DEF"
+    },
+    {
+      "id": "sweden-2002-5",
+      "name": "Michael Svensson",
+      "shirtNumber": 5,
+      "position": "DEF"
+    },
+    {
+      "id": "sweden-2002-6",
+      "name": "Tobias Linderoth",
+      "shirtNumber": 6,
+      "position": "MID"
+    },
+    {
+      "id": "sweden-2002-7",
+      "name": "Niclas Alexandersson",
+      "shirtNumber": 7,
+      "position": "MID"
+    },
+    {
+      "id": "sweden-2002-8",
+      "name": "Anders Svensson",
+      "shirtNumber": 8,
+      "position": "MID"
+    },
+    {
+      "id": "sweden-2002-9",
+      "name": "Freddie Ljungberg",
+      "shirtNumber": 9,
+      "position": "MID"
+    },
+    {
+      "id": "sweden-2002-10",
+      "name": "Marcus Allbäck",
+      "shirtNumber": 10,
+      "position": "ATT"
+    },
+    {
+      "id": "sweden-2002-11",
+      "name": "Henrik Larsson",
+      "shirtNumber": 11,
+      "position": "ATT"
+    },
+    {
+      "id": "sweden-2002-12",
+      "name": "Magnus Kihlstedt",
+      "shirtNumber": 12,
+      "position": "GK"
+    },
+    {
+      "id": "sweden-2002-13",
+      "name": "Tomas Antonelius",
+      "shirtNumber": 13,
+      "position": "DEF"
+    },
+    {
+      "id": "sweden-2002-14",
+      "name": "Erik Edman",
+      "shirtNumber": 14,
+      "position": "DEF"
+    },
+    {
+      "id": "sweden-2002-15",
+      "name": "Andreas Jakobsson",
+      "shirtNumber": 15,
+      "position": "DEF"
+    },
+    {
+      "id": "sweden-2002-16",
+      "name": "Teddy Lučić",
+      "shirtNumber": 16,
+      "position": "DEF"
+    },
+    {
+      "id": "sweden-2002-17",
+      "name": "Magnus Svensson",
+      "shirtNumber": 17,
+      "position": "MID"
+    },
+    {
+      "id": "sweden-2002-18",
+      "name": "Mattias Jonson",
+      "shirtNumber": 18,
+      "position": "MID"
+    },
+    {
+      "id": "sweden-2002-19",
+      "name": "Pontus Farnerud",
+      "shirtNumber": 19,
+      "position": "MID"
+    },
+    {
+      "id": "sweden-2002-20",
+      "name": "Daniel Andersson",
+      "shirtNumber": 20,
+      "position": "MID"
+    },
+    {
+      "id": "sweden-2002-21",
+      "name": "Zlatan Ibrahimović",
+      "shirtNumber": 21,
+      "position": "ATT"
+    },
+    {
+      "id": "sweden-2002-22",
+      "name": "Andreas Andersson",
+      "shirtNumber": 22,
+      "position": "ATT"
+    },
+    {
+      "id": "sweden-2002-23",
+      "name": "Andreas Isaksson",
+      "shirtNumber": 23,
+      "position": "GK"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "England",
+      "score": "1–1",
+      "scorers": [
+        {
+          "name": "Sol Campbell",
+          "minute": "24'",
+          "ownGoal": false
+        },
+        {
+          "name": "Niclas Alexandersson",
+          "minute": "59'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2002-06-02"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Nigeria",
+      "score": "2–1",
+      "scorers": [
+        {
+          "name": "Julius Aghahowa",
+          "minute": "27'",
+          "ownGoal": false
+        },
+        {
+          "name": "Henrik Larsson",
+          "minute": "35'",
+          "ownGoal": false
+        },
+        {
+          "name": "Henrik Larsson",
+          "minute": "63'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2002-06-07"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Argentina",
+      "score": "1–1",
+      "scorers": [
+        {
+          "name": "Anders Svensson",
+          "minute": "59'",
+          "ownGoal": false
+        },
+        {
+          "name": "Hernán Crespo",
+          "minute": "88'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2002-06-12"
+    },
+    {
+      "stage": "Round of 16",
+      "opponent": "Senegal",
+      "score": "1–2",
+      "scorers": [
+        {
+          "name": "Henrik Larsson",
+          "minute": "11'",
+          "ownGoal": false
+        },
+        {
+          "name": "Henri Camara",
+          "minute": "37'",
+          "ownGoal": false
+        },
+        {
+          "name": "Henri Camara",
+          "minute": "104'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2002-06-16"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

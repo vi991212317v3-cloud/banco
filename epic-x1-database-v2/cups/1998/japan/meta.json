@@ -1,0 +1,202 @@
+{
+  "country": "Japan",
+  "countrySlug": "japan",
+  "year": 1998,
+  "edition": "1998",
+  "host": "France",
+  "coach": "Takeshi Okada",
+  "finalPhase": "Group Stage",
+  "result": "Group Stage",
+  "squad": [
+    {
+      "id": "japan-1998-1",
+      "name": "Nobuyuki Kojima",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "japan-1998-2",
+      "name": "Akira Narahashi",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "japan-1998-3",
+      "name": "Naoki Soma",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "japan-1998-4",
+      "name": "Masami Ihara",
+      "shirtNumber": 4,
+      "position": "DEF"
+    },
+    {
+      "id": "japan-1998-5",
+      "name": "Norio Omura",
+      "shirtNumber": 5,
+      "position": "DEF"
+    },
+    {
+      "id": "japan-1998-6",
+      "name": "Motohiro Yamaguchi",
+      "shirtNumber": 6,
+      "position": "MID"
+    },
+    {
+      "id": "japan-1998-7",
+      "name": "Teruyoshi Ito",
+      "shirtNumber": 7,
+      "position": "MID"
+    },
+    {
+      "id": "japan-1998-8",
+      "name": "Hidetoshi Nakata",
+      "shirtNumber": 8,
+      "position": "MID"
+    },
+    {
+      "id": "japan-1998-9",
+      "name": "Masashi Nakayama",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "japan-1998-10",
+      "name": "Hiroshi Nanami",
+      "shirtNumber": 10,
+      "position": "MID"
+    },
+    {
+      "id": "japan-1998-11",
+      "name": "Shinji Ono",
+      "shirtNumber": 11,
+      "position": "MID"
+    },
+    {
+      "id": "japan-1998-12",
+      "name": "Wagner Lopes",
+      "shirtNumber": 12,
+      "position": "ATT"
+    },
+    {
+      "id": "japan-1998-13",
+      "name": "Toshihiro Hattori",
+      "shirtNumber": 13,
+      "position": "MID"
+    },
+    {
+      "id": "japan-1998-14",
+      "name": "Masayuki Okano",
+      "shirtNumber": 14,
+      "position": "ATT"
+    },
+    {
+      "id": "japan-1998-15",
+      "name": "Hiroaki Morishima",
+      "shirtNumber": 15,
+      "position": "MID"
+    },
+    {
+      "id": "japan-1998-16",
+      "name": "Toshihide Saito",
+      "shirtNumber": 16,
+      "position": "DEF"
+    },
+    {
+      "id": "japan-1998-17",
+      "name": "Yutaka Akita",
+      "shirtNumber": 17,
+      "position": "DEF"
+    },
+    {
+      "id": "japan-1998-18",
+      "name": "Shoji Jo",
+      "shirtNumber": 18,
+      "position": "ATT"
+    },
+    {
+      "id": "japan-1998-19",
+      "name": "Eisuke Nakanishi",
+      "shirtNumber": 19,
+      "position": "DEF"
+    },
+    {
+      "id": "japan-1998-20",
+      "name": "Yoshikatsu Kawaguchi",
+      "shirtNumber": 20,
+      "position": "GK"
+    },
+    {
+      "id": "japan-1998-21",
+      "name": "Seigo Narazaki",
+      "shirtNumber": 21,
+      "position": "GK"
+    },
+    {
+      "id": "japan-1998-22",
+      "name": "Takashi Hirano",
+      "shirtNumber": 22,
+      "position": "MID"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "Argentina",
+      "score": "1–0",
+      "scorers": [
+        {
+          "name": "Gabriel Batistuta",
+          "minute": "28'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1998-06-14"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Croatia",
+      "score": "0–1",
+      "scorers": [
+        {
+          "name": "Davor Šuker",
+          "minute": "77'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1998-06-20"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Jamaica",
+      "score": "1–2",
+      "scorers": [
+        {
+          "name": "Theodore Whitmore",
+          "minute": "39'",
+          "ownGoal": false
+        },
+        {
+          "name": "Theodore Whitmore",
+          "minute": "54'",
+          "ownGoal": false
+        },
+        {
+          "name": "Masashi Nakayama",
+          "minute": "74'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1998-06-26"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

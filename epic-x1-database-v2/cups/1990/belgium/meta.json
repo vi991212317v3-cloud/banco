@@ -1,0 +1,235 @@
+{
+  "country": "Belgium",
+  "countrySlug": "belgium",
+  "year": 1990,
+  "edition": "1990",
+  "host": "Italy",
+  "coach": "Guy Thys",
+  "finalPhase": "Round of 16",
+  "result": "Round of 16",
+  "squad": [
+    {
+      "id": "belgium-1990-1",
+      "name": "Michel Preud'homme",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "belgium-1990-2",
+      "name": "Eric Gerets",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "belgium-1990-3",
+      "name": "Philippe Albert",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "belgium-1990-4",
+      "name": "Leo Clijsters",
+      "shirtNumber": 4,
+      "position": "DEF"
+    },
+    {
+      "id": "belgium-1990-5",
+      "name": "Bruno Versavel",
+      "shirtNumber": 5,
+      "position": "MID"
+    },
+    {
+      "id": "belgium-1990-6",
+      "name": "Marc Emmers",
+      "shirtNumber": 6,
+      "position": "MID"
+    },
+    {
+      "id": "belgium-1990-7",
+      "name": "Stéphane Demol",
+      "shirtNumber": 7,
+      "position": "DEF"
+    },
+    {
+      "id": "belgium-1990-8",
+      "name": "Franky Van der Elst",
+      "shirtNumber": 8,
+      "position": "MID"
+    },
+    {
+      "id": "belgium-1990-9",
+      "name": "Marc Degryse",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "belgium-1990-10",
+      "name": "Enzo Scifo",
+      "shirtNumber": 10,
+      "position": "MID"
+    },
+    {
+      "id": "belgium-1990-11",
+      "name": "Jan Ceulemans",
+      "shirtNumber": 11,
+      "position": "MID"
+    },
+    {
+      "id": "belgium-1990-12",
+      "name": "Gilbert Bodart",
+      "shirtNumber": 12,
+      "position": "GK"
+    },
+    {
+      "id": "belgium-1990-13",
+      "name": "Georges Grün",
+      "shirtNumber": 13,
+      "position": "DEF"
+    },
+    {
+      "id": "belgium-1990-14",
+      "name": "Nico Claesen",
+      "shirtNumber": 14,
+      "position": "ATT"
+    },
+    {
+      "id": "belgium-1990-15",
+      "name": "Jean-François De Sart",
+      "shirtNumber": 15,
+      "position": "DEF"
+    },
+    {
+      "id": "belgium-1990-16",
+      "name": "Michel De Wolf",
+      "shirtNumber": 16,
+      "position": "DEF"
+    },
+    {
+      "id": "belgium-1990-17",
+      "name": "Pascal Plovie",
+      "shirtNumber": 17,
+      "position": "DEF"
+    },
+    {
+      "id": "belgium-1990-18",
+      "name": "Lorenzo Staelens",
+      "shirtNumber": 18,
+      "position": "MID"
+    },
+    {
+      "id": "belgium-1990-19",
+      "name": "Marc Van Der Linden",
+      "shirtNumber": 19,
+      "position": "ATT"
+    },
+    {
+      "id": "belgium-1990-20",
+      "name": "Filip De Wilde",
+      "shirtNumber": 20,
+      "position": "GK"
+    },
+    {
+      "id": "belgium-1990-21",
+      "name": "Marc Wilmots",
+      "shirtNumber": 21,
+      "position": "MID"
+    },
+    {
+      "id": "belgium-1990-22",
+      "name": "Patrick Vervoort",
+      "shirtNumber": 22,
+      "position": "MID"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "South Korea",
+      "score": "2–0",
+      "scorers": [
+        {
+          "name": "Marc Degryse",
+          "minute": "53'",
+          "ownGoal": false
+        },
+        {
+          "name": "Michel De Wolf",
+          "minute": "64'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1990-06-12"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Uruguay",
+      "score": "3–1",
+      "scorers": [
+        {
+          "name": "Leo Clijsters",
+          "minute": "15'",
+          "ownGoal": false
+        },
+        {
+          "name": "Enzo Scifo",
+          "minute": "24'",
+          "ownGoal": false
+        },
+        {
+          "name": "Jan Ceulemans",
+          "minute": "47'",
+          "ownGoal": false
+        },
+        {
+          "name": "Pablo Bengoechea",
+          "minute": "73'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1990-06-17"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Spain",
+      "score": "1–2",
+      "scorers": [
+        {
+          "name": "Míchel",
+          "minute": "26'",
+          "ownGoal": false
+        },
+        {
+          "name": "Patrick Vervoort",
+          "minute": "29'",
+          "ownGoal": false
+        },
+        {
+          "name": "Alberto Górriz",
+          "minute": "38'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1990-06-21"
+    },
+    {
+      "stage": "Round of 16",
+      "opponent": "England",
+      "score": "1–0",
+      "scorers": [
+        {
+          "name": "David Platt",
+          "minute": "119'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1990-06-26"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

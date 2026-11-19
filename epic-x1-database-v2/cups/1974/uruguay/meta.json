@@ -1,0 +1,212 @@
+{
+  "country": "Uruguay",
+  "countrySlug": "uruguay",
+  "year": 1974,
+  "edition": "1974",
+  "host": "West Germany",
+  "coach": "Roberto Porta",
+  "finalPhase": "Group Stage",
+  "result": "Group Stage",
+  "squad": [
+    {
+      "id": "uruguay-1974-1",
+      "name": "Ladislao Mazurkiewicz",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "uruguay-1974-2",
+      "name": "Baudilio Jáuregui",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "uruguay-1974-3",
+      "name": "Juan Carlos Masnik",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "uruguay-1974-4",
+      "name": "Pablo Forlán",
+      "shirtNumber": 4,
+      "position": "DEF"
+    },
+    {
+      "id": "uruguay-1974-5",
+      "name": "Julio Montero Castillo",
+      "shirtNumber": 5,
+      "position": "DEF"
+    },
+    {
+      "id": "uruguay-1974-6",
+      "name": "Ricardo Pavoni",
+      "shirtNumber": 6,
+      "position": "DEF"
+    },
+    {
+      "id": "uruguay-1974-7",
+      "name": "Luis Cubilla",
+      "shirtNumber": 7,
+      "position": "MID"
+    },
+    {
+      "id": "uruguay-1974-8",
+      "name": "Víctor Espárrago",
+      "shirtNumber": 8,
+      "position": "MID"
+    },
+    {
+      "id": "uruguay-1974-9",
+      "name": "Fernando Morena",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "uruguay-1974-10",
+      "name": "Pedro Rocha",
+      "shirtNumber": 10,
+      "position": "MID"
+    },
+    {
+      "id": "uruguay-1974-11",
+      "name": "Rubén Corbo",
+      "shirtNumber": 11,
+      "position": "ATT"
+    },
+    {
+      "id": "uruguay-1974-12",
+      "name": "Héctor Santos",
+      "shirtNumber": 12,
+      "position": "GK"
+    },
+    {
+      "id": "uruguay-1974-13",
+      "name": "Gustavo de Simone",
+      "shirtNumber": 13,
+      "position": "DEF"
+    },
+    {
+      "id": "uruguay-1974-14",
+      "name": "Luis Garisto",
+      "shirtNumber": 14,
+      "position": "DEF"
+    },
+    {
+      "id": "uruguay-1974-15",
+      "name": "Mario González",
+      "shirtNumber": 15,
+      "position": "DEF"
+    },
+    {
+      "id": "uruguay-1974-16",
+      "name": "Alberto Cardaccio",
+      "shirtNumber": 16,
+      "position": "MID"
+    },
+    {
+      "id": "uruguay-1974-17",
+      "name": "Julio César Jiménez",
+      "shirtNumber": 17,
+      "position": "MID"
+    },
+    {
+      "id": "uruguay-1974-18",
+      "name": "Walter Mantegazza",
+      "shirtNumber": 18,
+      "position": "MID"
+    },
+    {
+      "id": "uruguay-1974-19",
+      "name": "Denis Milar",
+      "shirtNumber": 19,
+      "position": "ATT"
+    },
+    {
+      "id": "uruguay-1974-20",
+      "name": "Juan Silva",
+      "shirtNumber": 20,
+      "position": "ATT"
+    },
+    {
+      "id": "uruguay-1974-21",
+      "name": "José Gómez",
+      "shirtNumber": 21,
+      "position": "ATT"
+    },
+    {
+      "id": "uruguay-1974-22",
+      "name": "Gustavo Fernández",
+      "shirtNumber": 22,
+      "position": "GK"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "Netherlands",
+      "score": "0–2",
+      "scorers": [
+        {
+          "name": "Johnny Rep",
+          "minute": "7'",
+          "ownGoal": false
+        },
+        {
+          "name": "Johnny Rep",
+          "minute": "86'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1974-06-15"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Bulgaria",
+      "score": "1–1",
+      "scorers": [
+        {
+          "name": "Hristo Bonev",
+          "minute": "75'",
+          "ownGoal": false
+        },
+        {
+          "name": "Ricardo Pavoni",
+          "minute": "87'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1974-06-19"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Sweden",
+      "score": "3–0",
+      "scorers": [
+        {
+          "name": "Ralf Edström",
+          "minute": "46'",
+          "ownGoal": false
+        },
+        {
+          "name": "Roland Sandberg",
+          "minute": "74'",
+          "ownGoal": false
+        },
+        {
+          "name": "Ralf Edström",
+          "minute": "77'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1974-06-23"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

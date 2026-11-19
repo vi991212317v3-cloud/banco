@@ -1,0 +1,232 @@
+{
+  "country": "Chile",
+  "countrySlug": "chile",
+  "year": 1950,
+  "edition": "1950",
+  "host": "Brazil",
+  "coach": "Alberto Buccicardi",
+  "finalPhase": "Group Stage",
+  "result": "Group Stage",
+  "squad": [
+    {
+      "id": "chile-1950-014",
+      "name": "Andrés Prieto",
+      "shirtNumber": null,
+      "position": "ATT"
+    },
+    {
+      "id": "chile-1950-006",
+      "name": "Arturo Farías",
+      "shirtNumber": null,
+      "position": "DEF"
+    },
+    {
+      "id": "chile-1950-004",
+      "name": "Atilio Cremaschi",
+      "shirtNumber": null,
+      "position": "ATT"
+    },
+    {
+      "id": "chile-1950-008",
+      "name": "Carlos Ibáñez",
+      "shirtNumber": null,
+      "position": "ATT"
+    },
+    {
+      "id": "chile-1950-018",
+      "name": "Carlos Rojas",
+      "shirtNumber": null,
+      "position": "MID"
+    },
+    {
+      "id": "chile-1950-002",
+      "name": "Fernando Campos",
+      "shirtNumber": null,
+      "position": "MID"
+    },
+    {
+      "id": "chile-1950-016",
+      "name": "Fernando Riera",
+      "shirtNumber": null,
+      "position": "ATT"
+    },
+    {
+      "id": "chile-1950-019",
+      "name": "Fernando Roldán",
+      "shirtNumber": null,
+      "position": "DEF"
+    },
+    {
+      "id": "chile-1950-021",
+      "name": "Francisco Urroz",
+      "shirtNumber": null,
+      "position": "DEF"
+    },
+    {
+      "id": "chile-1950-017",
+      "name": "George Robledo",
+      "shirtNumber": null,
+      "position": "ATT"
+    },
+    {
+      "id": "chile-1950-005",
+      "name": "Guillermo Díaz",
+      "shirtNumber": null,
+      "position": "ATT"
+    },
+    {
+      "id": "chile-1950-003",
+      "name": "Hernán Carvallo",
+      "shirtNumber": null,
+      "position": "MID"
+    },
+    {
+      "id": "chile-1950-012",
+      "name": "Luis Mayanés",
+      "shirtNumber": null,
+      "position": "ATT"
+    },
+    {
+      "id": "chile-1950-011",
+      "name": "Manuel Machuca",
+      "shirtNumber": null,
+      "position": "DEF"
+    },
+    {
+      "id": "chile-1950-013",
+      "name": "Manuel Muñoz",
+      "shirtNumber": null,
+      "position": "ATT"
+    },
+    {
+      "id": "chile-1950-022",
+      "name": "Manuel Álvarez Jiménez",
+      "shirtNumber": null,
+      "position": "DEF"
+    },
+    {
+      "id": "chile-1950-001",
+      "name": "Miguel Busquets",
+      "shirtNumber": null,
+      "position": "MID"
+    },
+    {
+      "id": "chile-1950-007",
+      "name": "Miguel Flores",
+      "shirtNumber": null,
+      "position": "DEF"
+    },
+    {
+      "id": "chile-1950-020",
+      "name": "Osvaldo Saez",
+      "shirtNumber": null,
+      "position": "MID"
+    },
+    {
+      "id": "chile-1950-009",
+      "name": "Raimundo Infante",
+      "shirtNumber": null,
+      "position": "ATT"
+    },
+    {
+      "id": "chile-1950-015",
+      "name": "René Quitral",
+      "shirtNumber": null,
+      "position": "GK"
+    },
+    {
+      "id": "chile-1950-010",
+      "name": "Sergio Livingstone",
+      "shirtNumber": null,
+      "position": "GK"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "England",
+      "score": "2–0",
+      "scorers": [
+        {
+          "name": "Stan Mortensen",
+          "minute": "39'",
+          "ownGoal": false
+        },
+        {
+          "name": "Wilf Mannion",
+          "minute": "51'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1950-06-25"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Spain",
+      "score": "2–0",
+      "scorers": [
+        {
+          "name": "Estanislau Basora",
+          "minute": "17'",
+          "ownGoal": false
+        },
+        {
+          "name": "Telmo Zarra",
+          "minute": "30'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1950-06-29"
+    },
+    {
+      "stage": "Group",
+      "opponent": "United States",
+      "score": "5–2",
+      "scorers": [
+        {
+          "name": "George Robledo",
+          "minute": "16'",
+          "ownGoal": false
+        },
+        {
+          "name": "Atilio Cremaschi",
+          "minute": "32'",
+          "ownGoal": false
+        },
+        {
+          "name": "Frank Wallace",
+          "minute": "47'",
+          "ownGoal": false
+        },
+        {
+          "name": "Joe Maca",
+          "minute": "48'",
+          "ownGoal": false
+        },
+        {
+          "name": "Andrés Prieto",
+          "minute": "54'",
+          "ownGoal": false
+        },
+        {
+          "name": "Atilio Cremaschi",
+          "minute": "60'",
+          "ownGoal": false
+        },
+        {
+          "name": "Fernando Riera",
+          "minute": "82'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1950-07-02"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

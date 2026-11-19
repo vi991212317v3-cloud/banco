@@ -1,0 +1,227 @@
+{
+  "country": "United States",
+  "countrySlug": "united-states",
+  "year": 1990,
+  "edition": "1990",
+  "host": "Italy",
+  "coach": "Bob Gansler",
+  "finalPhase": "Group Stage",
+  "result": "Group Stage",
+  "squad": [
+    {
+      "id": "united-states-1990-1",
+      "name": "Tony Meola",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "united-states-1990-2",
+      "name": "Steve Trittschuh",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "united-states-1990-3",
+      "name": "John Doyle",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "united-states-1990-4",
+      "name": "Jimmy Banks",
+      "shirtNumber": 4,
+      "position": "DEF"
+    },
+    {
+      "id": "united-states-1990-5",
+      "name": "Mike Windischmann",
+      "shirtNumber": 5,
+      "position": "DEF"
+    },
+    {
+      "id": "united-states-1990-6",
+      "name": "John Harkes",
+      "shirtNumber": 6,
+      "position": "MID"
+    },
+    {
+      "id": "united-states-1990-7",
+      "name": "Tab Ramos",
+      "shirtNumber": 7,
+      "position": "MID"
+    },
+    {
+      "id": "united-states-1990-8",
+      "name": "Brian Bliss",
+      "shirtNumber": 8,
+      "position": "DEF"
+    },
+    {
+      "id": "united-states-1990-9",
+      "name": "Christopher Sullivan",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "united-states-1990-10",
+      "name": "Peter Vermes",
+      "shirtNumber": 10,
+      "position": "ATT"
+    },
+    {
+      "id": "united-states-1990-11",
+      "name": "Eric Wynalda",
+      "shirtNumber": 11,
+      "position": "ATT"
+    },
+    {
+      "id": "united-states-1990-12",
+      "name": "Paul Krumpe",
+      "shirtNumber": 12,
+      "position": "DEF"
+    },
+    {
+      "id": "united-states-1990-13",
+      "name": "Eric Eichmann",
+      "shirtNumber": 13,
+      "position": "ATT"
+    },
+    {
+      "id": "united-states-1990-14",
+      "name": "John Stollmeyer",
+      "shirtNumber": 14,
+      "position": "MID"
+    },
+    {
+      "id": "united-states-1990-15",
+      "name": "Desmond Armstrong",
+      "shirtNumber": 15,
+      "position": "DEF"
+    },
+    {
+      "id": "united-states-1990-16",
+      "name": "Bruce Murray",
+      "shirtNumber": 16,
+      "position": "ATT"
+    },
+    {
+      "id": "united-states-1990-17",
+      "name": "Marcelo Balboa",
+      "shirtNumber": 17,
+      "position": "DEF"
+    },
+    {
+      "id": "united-states-1990-18",
+      "name": "Kasey Keller",
+      "shirtNumber": 18,
+      "position": "GK"
+    },
+    {
+      "id": "united-states-1990-19",
+      "name": "Chris Henderson",
+      "shirtNumber": 19,
+      "position": "MID"
+    },
+    {
+      "id": "united-states-1990-20",
+      "name": "Paul Caligiuri",
+      "shirtNumber": 20,
+      "position": "MID"
+    },
+    {
+      "id": "united-states-1990-21",
+      "name": "Neil Covone",
+      "shirtNumber": 21,
+      "position": "MID"
+    },
+    {
+      "id": "united-states-1990-22",
+      "name": "David Vanole",
+      "shirtNumber": 22,
+      "position": "GK"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "Czechoslovakia",
+      "score": "1–5",
+      "scorers": [
+        {
+          "name": "Tomáš Skuhravý",
+          "minute": "26'",
+          "ownGoal": false
+        },
+        {
+          "name": "Michal Bílek",
+          "minute": "40'",
+          "ownGoal": false
+        },
+        {
+          "name": "Ivan Hašek",
+          "minute": "50'",
+          "ownGoal": false
+        },
+        {
+          "name": "Paul Caligiuri",
+          "minute": "60'",
+          "ownGoal": false
+        },
+        {
+          "name": "Tomáš Skuhravý",
+          "minute": "78'",
+          "ownGoal": false
+        },
+        {
+          "name": "Milan Luhový",
+          "minute": "90'+3'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1990-06-10"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Italy",
+      "score": "1–0",
+      "scorers": [
+        {
+          "name": "Giuseppe Giannini",
+          "minute": "11'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1990-06-14"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Austria",
+      "score": "2–1",
+      "scorers": [
+        {
+          "name": "Andreas Ogris",
+          "minute": "49'",
+          "ownGoal": false
+        },
+        {
+          "name": "Gerhard Rodax",
+          "minute": "63'",
+          "ownGoal": false
+        },
+        {
+          "name": "Bruce Murray",
+          "minute": "83'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1990-06-19"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

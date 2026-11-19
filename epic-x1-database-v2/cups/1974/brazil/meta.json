@@ -1,0 +1,257 @@
+{
+  "country": "Brazil",
+  "countrySlug": "brazil",
+  "year": 1974,
+  "edition": "1974",
+  "host": "West Germany",
+  "coach": "Mário Zagallo",
+  "finalPhase": "Third-place match",
+  "result": "Fourth place",
+  "squad": [
+    {
+      "id": "brazil-1974-1",
+      "name": "Leão",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "brazil-1974-2",
+      "name": "Luís Pereira",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "brazil-1974-3",
+      "name": "Marinho Peres",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "brazil-1974-4",
+      "name": "Zé Maria",
+      "shirtNumber": 4,
+      "position": "DEF"
+    },
+    {
+      "id": "brazil-1974-5",
+      "name": "Piazza",
+      "shirtNumber": 5,
+      "position": "MID"
+    },
+    {
+      "id": "brazil-1974-6",
+      "name": "Marinho Chagas",
+      "shirtNumber": 6,
+      "position": "DEF"
+    },
+    {
+      "id": "brazil-1974-7",
+      "name": "Jairzinho",
+      "shirtNumber": 7,
+      "position": "ATT"
+    },
+    {
+      "id": "brazil-1974-8",
+      "name": "Leivinha",
+      "shirtNumber": 8,
+      "position": "MID"
+    },
+    {
+      "id": "brazil-1974-9",
+      "name": "César",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "brazil-1974-10",
+      "name": "Rivellino",
+      "shirtNumber": 10,
+      "position": "MID"
+    },
+    {
+      "id": "brazil-1974-11",
+      "name": "Caju",
+      "shirtNumber": 11,
+      "position": "MID"
+    },
+    {
+      "id": "brazil-1974-12",
+      "name": "Renato",
+      "shirtNumber": 12,
+      "position": "GK"
+    },
+    {
+      "id": "brazil-1974-13",
+      "name": "Valdomiro",
+      "shirtNumber": 13,
+      "position": "ATT"
+    },
+    {
+      "id": "brazil-1974-14",
+      "name": "Nelinho",
+      "shirtNumber": 14,
+      "position": "DEF"
+    },
+    {
+      "id": "brazil-1974-15",
+      "name": "Alfredo",
+      "shirtNumber": 15,
+      "position": "DEF"
+    },
+    {
+      "id": "brazil-1974-16",
+      "name": "Marco Antônio",
+      "shirtNumber": 16,
+      "position": "DEF"
+    },
+    {
+      "id": "brazil-1974-17",
+      "name": "Carpegiani",
+      "shirtNumber": 17,
+      "position": "MID"
+    },
+    {
+      "id": "brazil-1974-18",
+      "name": "Ademir da Guia",
+      "shirtNumber": 18,
+      "position": "MID"
+    },
+    {
+      "id": "brazil-1974-19",
+      "name": "Mirandinha",
+      "shirtNumber": 19,
+      "position": "ATT"
+    },
+    {
+      "id": "brazil-1974-20",
+      "name": "Edu",
+      "shirtNumber": 20,
+      "position": "ATT"
+    },
+    {
+      "id": "brazil-1974-21",
+      "name": "Dirceu",
+      "shirtNumber": 21,
+      "position": "ATT"
+    },
+    {
+      "id": "brazil-1974-22",
+      "name": "Waldir Peres",
+      "shirtNumber": 22,
+      "position": "GK"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "Yugoslavia",
+      "score": "0–0",
+      "scorers": [],
+      "date": "1974-06-13"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Scotland",
+      "score": "0–0",
+      "scorers": [],
+      "date": "1974-06-18"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Zaire",
+      "score": "0–3",
+      "scorers": [
+        {
+          "name": "Jairzinho",
+          "minute": "12'",
+          "ownGoal": false
+        },
+        {
+          "name": "Rivellino",
+          "minute": "66'",
+          "ownGoal": false
+        },
+        {
+          "name": "Valdomiro",
+          "minute": "79'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1974-06-22"
+    },
+    {
+      "stage": "Second Group Stage",
+      "opponent": "East Germany",
+      "score": "1–0",
+      "scorers": [
+        {
+          "name": "Rivellino",
+          "minute": "60'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1974-06-26"
+    },
+    {
+      "stage": "Second Group Stage",
+      "opponent": "Argentina",
+      "score": "1–2",
+      "scorers": [
+        {
+          "name": "Rivellino",
+          "minute": "32'",
+          "ownGoal": false
+        },
+        {
+          "name": "Miguel Ángel Brindisi",
+          "minute": "35'",
+          "ownGoal": false
+        },
+        {
+          "name": "Jairzinho",
+          "minute": "49'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1974-06-30"
+    },
+    {
+      "stage": "Second Group Stage",
+      "opponent": "Netherlands",
+      "score": "2–0",
+      "scorers": [
+        {
+          "name": "Johan Neeskens",
+          "minute": "50'",
+          "ownGoal": false
+        },
+        {
+          "name": "Johan Cruyff",
+          "minute": "65'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1974-07-03"
+    },
+    {
+      "stage": "Third-place match",
+      "opponent": "Poland",
+      "score": "0–1",
+      "scorers": [
+        {
+          "name": "Grzegorz Lato",
+          "minute": "76'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1974-07-06"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

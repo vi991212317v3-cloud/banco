@@ -1,0 +1,320 @@
+{
+  "country": "Germany",
+  "countrySlug": "germany",
+  "year": 2010,
+  "edition": "2010",
+  "host": "South Africa",
+  "coach": "Joachim Löw",
+  "finalPhase": "Third-place match",
+  "result": "Third place",
+  "squad": [
+    {
+      "id": "germany-2010-1",
+      "name": "Manuel Neuer",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "germany-2010-2",
+      "name": "Marcell Jansen",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "germany-2010-3",
+      "name": "Arne Friedrich",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "germany-2010-4",
+      "name": "Dennis Aogo",
+      "shirtNumber": 4,
+      "position": "DEF"
+    },
+    {
+      "id": "germany-2010-5",
+      "name": "Serdar Tasci",
+      "shirtNumber": 5,
+      "position": "DEF"
+    },
+    {
+      "id": "germany-2010-6",
+      "name": "Sami Khedira",
+      "shirtNumber": 6,
+      "position": "MID"
+    },
+    {
+      "id": "germany-2010-7",
+      "name": "Bastian Schweinsteiger",
+      "shirtNumber": 7,
+      "position": "MID"
+    },
+    {
+      "id": "germany-2010-8",
+      "name": "Mesut Özil",
+      "shirtNumber": 8,
+      "position": "MID"
+    },
+    {
+      "id": "germany-2010-9",
+      "name": "Stefan Kießling",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "germany-2010-10",
+      "name": "Lukas Podolski",
+      "shirtNumber": 10,
+      "position": "MID"
+    },
+    {
+      "id": "germany-2010-11",
+      "name": "Miroslav Klose",
+      "shirtNumber": 11,
+      "position": "ATT"
+    },
+    {
+      "id": "germany-2010-12",
+      "name": "Tim Wiese",
+      "shirtNumber": 12,
+      "position": "GK"
+    },
+    {
+      "id": "germany-2010-13",
+      "name": "Thomas Müller",
+      "shirtNumber": 13,
+      "position": "MID"
+    },
+    {
+      "id": "germany-2010-14",
+      "name": "Holger Badstuber",
+      "shirtNumber": 14,
+      "position": "DEF"
+    },
+    {
+      "id": "germany-2010-15",
+      "name": "Piotr Trochowski",
+      "shirtNumber": 15,
+      "position": "MID"
+    },
+    {
+      "id": "germany-2010-16",
+      "name": "Philipp Lahm",
+      "shirtNumber": 16,
+      "position": "DEF"
+    },
+    {
+      "id": "germany-2010-17",
+      "name": "Per Mertesacker",
+      "shirtNumber": 17,
+      "position": "DEF"
+    },
+    {
+      "id": "germany-2010-18",
+      "name": "Toni Kroos",
+      "shirtNumber": 18,
+      "position": "MID"
+    },
+    {
+      "id": "germany-2010-19",
+      "name": "Cacau",
+      "shirtNumber": 19,
+      "position": "ATT"
+    },
+    {
+      "id": "germany-2010-20",
+      "name": "Jérôme Boateng",
+      "shirtNumber": 20,
+      "position": "DEF"
+    },
+    {
+      "id": "germany-2010-21",
+      "name": "Marko Marin",
+      "shirtNumber": 21,
+      "position": "MID"
+    },
+    {
+      "id": "germany-2010-22",
+      "name": "Hans-Jörg Butt",
+      "shirtNumber": 22,
+      "position": "GK"
+    },
+    {
+      "id": "germany-2010-23",
+      "name": "Mario Gómez",
+      "shirtNumber": 23,
+      "position": "ATT"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "Australia",
+      "score": "4–0",
+      "scorers": [
+        {
+          "name": "Lukas Podolski",
+          "minute": "8'",
+          "ownGoal": false
+        },
+        {
+          "name": "Miroslav Klose",
+          "minute": "26'",
+          "ownGoal": false
+        },
+        {
+          "name": "Thomas Müller",
+          "minute": "68'",
+          "ownGoal": false
+        },
+        {
+          "name": "Cacau",
+          "minute": "70'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2010-06-13"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Serbia",
+      "score": "0–1",
+      "scorers": [
+        {
+          "name": "Milan Jovanović",
+          "minute": "38'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2010-06-18"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Ghana",
+      "score": "0–1",
+      "scorers": [
+        {
+          "name": "Mesut Özil",
+          "minute": "60'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2010-06-23"
+    },
+    {
+      "stage": "Round of 16",
+      "opponent": "England",
+      "score": "4–1",
+      "scorers": [
+        {
+          "name": "Miroslav Klose",
+          "minute": "20'",
+          "ownGoal": false
+        },
+        {
+          "name": "Lukas Podolski",
+          "minute": "32'",
+          "ownGoal": false
+        },
+        {
+          "name": "Matthew Upson",
+          "minute": "37'",
+          "ownGoal": false
+        },
+        {
+          "name": "Thomas Müller",
+          "minute": "67'",
+          "ownGoal": false
+        },
+        {
+          "name": "Thomas Müller",
+          "minute": "70'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2010-06-27"
+    },
+    {
+      "stage": "Quarter-final",
+      "opponent": "Argentina",
+      "score": "0–4",
+      "scorers": [
+        {
+          "name": "Thomas Müller",
+          "minute": "3'",
+          "ownGoal": false
+        },
+        {
+          "name": "Miroslav Klose",
+          "minute": "68'",
+          "ownGoal": false
+        },
+        {
+          "name": "Arne Friedrich",
+          "minute": "74'",
+          "ownGoal": false
+        },
+        {
+          "name": "Miroslav Klose",
+          "minute": "89'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2010-07-03"
+    },
+    {
+      "stage": "Semi-final",
+      "opponent": "Spain",
+      "score": "0–1",
+      "scorers": [
+        {
+          "name": "Carles Puyol",
+          "minute": "73'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2010-07-07"
+    },
+    {
+      "stage": "Third-place match",
+      "opponent": "Uruguay",
+      "score": "2–3",
+      "scorers": [
+        {
+          "name": "Thomas Müller",
+          "minute": "19'",
+          "ownGoal": false
+        },
+        {
+          "name": "Edinson Cavani",
+          "minute": "28'",
+          "ownGoal": false
+        },
+        {
+          "name": "Diego Forlán",
+          "minute": "51'",
+          "ownGoal": false
+        },
+        {
+          "name": "Marcell Jansen",
+          "minute": "56'",
+          "ownGoal": false
+        },
+        {
+          "name": "Sami Khedira",
+          "minute": "82'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2010-07-10"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

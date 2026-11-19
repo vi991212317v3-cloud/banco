@@ -1,0 +1,240 @@
+{
+  "country": "England",
+  "countrySlug": "england",
+  "year": 1998,
+  "edition": "1998",
+  "host": "France",
+  "coach": "Glenn Hoddle",
+  "finalPhase": "Round of 16",
+  "result": "Round of 16",
+  "squad": [
+    {
+      "id": "england-1998-1",
+      "name": "David Seaman",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "england-1998-2",
+      "name": "Sol Campbell",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "england-1998-3",
+      "name": "Graeme Le Saux",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "england-1998-4",
+      "name": "Paul Ince",
+      "shirtNumber": 4,
+      "position": "MID"
+    },
+    {
+      "id": "england-1998-5",
+      "name": "Tony Adams",
+      "shirtNumber": 5,
+      "position": "DEF"
+    },
+    {
+      "id": "england-1998-6",
+      "name": "Gareth Southgate",
+      "shirtNumber": 6,
+      "position": "DEF"
+    },
+    {
+      "id": "england-1998-7",
+      "name": "David Beckham",
+      "shirtNumber": 7,
+      "position": "MID"
+    },
+    {
+      "id": "england-1998-8",
+      "name": "David Batty",
+      "shirtNumber": 8,
+      "position": "MID"
+    },
+    {
+      "id": "england-1998-9",
+      "name": "Alan Shearer",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "england-1998-10",
+      "name": "Teddy Sheringham",
+      "shirtNumber": 10,
+      "position": "ATT"
+    },
+    {
+      "id": "england-1998-11",
+      "name": "Steve McManaman",
+      "shirtNumber": 11,
+      "position": "MID"
+    },
+    {
+      "id": "england-1998-12",
+      "name": "Gary Neville",
+      "shirtNumber": 12,
+      "position": "DEF"
+    },
+    {
+      "id": "england-1998-13",
+      "name": "Nigel Martyn",
+      "shirtNumber": 13,
+      "position": "GK"
+    },
+    {
+      "id": "england-1998-14",
+      "name": "Darren Anderton",
+      "shirtNumber": 14,
+      "position": "MID"
+    },
+    {
+      "id": "england-1998-15",
+      "name": "Paul Merson",
+      "shirtNumber": 15,
+      "position": "MID"
+    },
+    {
+      "id": "england-1998-16",
+      "name": "Paul Scholes",
+      "shirtNumber": 16,
+      "position": "MID"
+    },
+    {
+      "id": "england-1998-17",
+      "name": "Rob Lee",
+      "shirtNumber": 17,
+      "position": "MID"
+    },
+    {
+      "id": "england-1998-18",
+      "name": "Martin Keown",
+      "shirtNumber": 18,
+      "position": "DEF"
+    },
+    {
+      "id": "england-1998-19",
+      "name": "Les Ferdinand",
+      "shirtNumber": 19,
+      "position": "ATT"
+    },
+    {
+      "id": "england-1998-20",
+      "name": "Michael Owen",
+      "shirtNumber": 20,
+      "position": "ATT"
+    },
+    {
+      "id": "england-1998-21",
+      "name": "Rio Ferdinand",
+      "shirtNumber": 21,
+      "position": "DEF"
+    },
+    {
+      "id": "england-1998-22",
+      "name": "Tim Flowers",
+      "shirtNumber": 22,
+      "position": "GK"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "Tunisia",
+      "score": "2–0",
+      "scorers": [
+        {
+          "name": "Alan Shearer",
+          "minute": "42'",
+          "ownGoal": false
+        },
+        {
+          "name": "Paul Scholes",
+          "minute": "89'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1998-06-15"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Romania",
+      "score": "2–1",
+      "scorers": [
+        {
+          "name": "Viorel Moldovan",
+          "minute": "46'",
+          "ownGoal": false
+        },
+        {
+          "name": "Michael Owen",
+          "minute": "81'",
+          "ownGoal": false
+        },
+        {
+          "name": "Dan Petrescu",
+          "minute": "90'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1998-06-22"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Colombia",
+      "score": "0–2",
+      "scorers": [
+        {
+          "name": "Darren Anderton",
+          "minute": "20'",
+          "ownGoal": false
+        },
+        {
+          "name": "David Beckham",
+          "minute": "29'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1998-06-26"
+    },
+    {
+      "stage": "Round of 16",
+      "opponent": "Argentina",
+      "score": "2–2",
+      "scorers": [
+        {
+          "name": "Gabriel Batistuta",
+          "minute": "5'",
+          "ownGoal": false
+        },
+        {
+          "name": "Alan Shearer",
+          "minute": "9'",
+          "ownGoal": false
+        },
+        {
+          "name": "Michael Owen",
+          "minute": "16'",
+          "ownGoal": false
+        },
+        {
+          "name": "Javier Zanetti",
+          "minute": "45'+1'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1998-06-30"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

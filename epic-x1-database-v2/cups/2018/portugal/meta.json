@@ -1,0 +1,251 @@
+{
+  "country": "Portugal",
+  "countrySlug": "portugal",
+  "year": 2018,
+  "edition": "2018",
+  "host": "Russia",
+  "coach": "Fernando Santos",
+  "finalPhase": "Round of 16",
+  "result": "Round of 16",
+  "squad": [
+    {
+      "id": "portugal-2018-1",
+      "name": "Rui Patrício",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "portugal-2018-2",
+      "name": "Bruno Alves",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "portugal-2018-3",
+      "name": "Pepe",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "portugal-2018-4",
+      "name": "Manuel Fernandes",
+      "shirtNumber": 4,
+      "position": "MID"
+    },
+    {
+      "id": "portugal-2018-5",
+      "name": "Raphaël Guerreiro",
+      "shirtNumber": 5,
+      "position": "DEF"
+    },
+    {
+      "id": "portugal-2018-6",
+      "name": "José Fonte",
+      "shirtNumber": 6,
+      "position": "DEF"
+    },
+    {
+      "id": "portugal-2018-7",
+      "name": "Cristiano Ronaldo",
+      "shirtNumber": 7,
+      "position": "ATT"
+    },
+    {
+      "id": "portugal-2018-8",
+      "name": "João Moutinho",
+      "shirtNumber": 8,
+      "position": "MID"
+    },
+    {
+      "id": "portugal-2018-9",
+      "name": "André Silva",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "portugal-2018-10",
+      "name": "João Mário",
+      "shirtNumber": 10,
+      "position": "MID"
+    },
+    {
+      "id": "portugal-2018-11",
+      "name": "Bernardo Silva",
+      "shirtNumber": 11,
+      "position": "MID"
+    },
+    {
+      "id": "portugal-2018-12",
+      "name": "Anthony Lopes",
+      "shirtNumber": 12,
+      "position": "GK"
+    },
+    {
+      "id": "portugal-2018-13",
+      "name": "Rúben Dias",
+      "shirtNumber": 13,
+      "position": "DEF"
+    },
+    {
+      "id": "portugal-2018-14",
+      "name": "William Carvalho",
+      "shirtNumber": 14,
+      "position": "MID"
+    },
+    {
+      "id": "portugal-2018-15",
+      "name": "Ricardo Pereira",
+      "shirtNumber": 15,
+      "position": "DEF"
+    },
+    {
+      "id": "portugal-2018-16",
+      "name": "Bruno Fernandes",
+      "shirtNumber": 16,
+      "position": "MID"
+    },
+    {
+      "id": "portugal-2018-17",
+      "name": "Gonçalo Guedes",
+      "shirtNumber": 17,
+      "position": "ATT"
+    },
+    {
+      "id": "portugal-2018-18",
+      "name": "Gelson Martins",
+      "shirtNumber": 18,
+      "position": "ATT"
+    },
+    {
+      "id": "portugal-2018-19",
+      "name": "Mário Rui",
+      "shirtNumber": 19,
+      "position": "DEF"
+    },
+    {
+      "id": "portugal-2018-20",
+      "name": "Ricardo Quaresma",
+      "shirtNumber": 20,
+      "position": "ATT"
+    },
+    {
+      "id": "portugal-2018-21",
+      "name": "Cédric",
+      "shirtNumber": 21,
+      "position": "DEF"
+    },
+    {
+      "id": "portugal-2018-22",
+      "name": "Beto",
+      "shirtNumber": 22,
+      "position": "GK"
+    },
+    {
+      "id": "portugal-2018-23",
+      "name": "Adrien Silva",
+      "shirtNumber": 23,
+      "position": "MID"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "Spain",
+      "score": "3–3",
+      "scorers": [
+        {
+          "name": "Cristiano Ronaldo",
+          "minute": "4'",
+          "ownGoal": false
+        },
+        {
+          "name": "Diego Costa",
+          "minute": "24'",
+          "ownGoal": false
+        },
+        {
+          "name": "Cristiano Ronaldo",
+          "minute": "44'",
+          "ownGoal": false
+        },
+        {
+          "name": "Diego Costa",
+          "minute": "55'",
+          "ownGoal": false
+        },
+        {
+          "name": "Nacho",
+          "minute": "58'",
+          "ownGoal": false
+        },
+        {
+          "name": "Cristiano Ronaldo",
+          "minute": "88'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2018-06-15"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Morocco",
+      "score": "1–0",
+      "scorers": [
+        {
+          "name": "Cristiano Ronaldo",
+          "minute": "4'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2018-06-20"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Iran",
+      "score": "1–1",
+      "scorers": [
+        {
+          "name": "Ricardo Quaresma",
+          "minute": "45'",
+          "ownGoal": false
+        },
+        {
+          "name": "Karim Ansarifard",
+          "minute": "90'+3'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2018-06-25"
+    },
+    {
+      "stage": "Round of 16",
+      "opponent": "Uruguay",
+      "score": "2–1",
+      "scorers": [
+        {
+          "name": "Edinson Cavani",
+          "minute": "7'",
+          "ownGoal": false
+        },
+        {
+          "name": "Pepe",
+          "minute": "55'",
+          "ownGoal": false
+        },
+        {
+          "name": "Edinson Cavani",
+          "minute": "62'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2018-06-30"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

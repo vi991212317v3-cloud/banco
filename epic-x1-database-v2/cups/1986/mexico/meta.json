@@ -1,0 +1,232 @@
+{
+  "country": "Mexico",
+  "countrySlug": "mexico",
+  "year": 1986,
+  "edition": "1986",
+  "host": "Mexico",
+  "coach": "Bora Milutinović",
+  "finalPhase": "Quarter-final",
+  "result": "Quarter-final",
+  "squad": [
+    {
+      "id": "mexico-1986-1",
+      "name": "Pablo Larios",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "mexico-1986-2",
+      "name": "Mario Trejo",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "mexico-1986-3",
+      "name": "Fernando Quirarte",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "mexico-1986-4",
+      "name": "Armando Manzo",
+      "shirtNumber": 4,
+      "position": "DEF"
+    },
+    {
+      "id": "mexico-1986-5",
+      "name": "Francisco Javier Cruz",
+      "shirtNumber": 5,
+      "position": "ATT"
+    },
+    {
+      "id": "mexico-1986-6",
+      "name": "Carlos de los Cobos",
+      "shirtNumber": 6,
+      "position": "MID"
+    },
+    {
+      "id": "mexico-1986-7",
+      "name": "Miguel España",
+      "shirtNumber": 7,
+      "position": "MID"
+    },
+    {
+      "id": "mexico-1986-8",
+      "name": "Alejandro Domínguez",
+      "shirtNumber": 8,
+      "position": "MID"
+    },
+    {
+      "id": "mexico-1986-9",
+      "name": "Hugo Sánchez",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "mexico-1986-10",
+      "name": "Tomás Boy",
+      "shirtNumber": 10,
+      "position": "MID"
+    },
+    {
+      "id": "mexico-1986-11",
+      "name": "Carlos Hermosillo",
+      "shirtNumber": 11,
+      "position": "ATT"
+    },
+    {
+      "id": "mexico-1986-12",
+      "name": "Ignacio Rodríguez",
+      "shirtNumber": 12,
+      "position": "GK"
+    },
+    {
+      "id": "mexico-1986-13",
+      "name": "Javier Aguirre",
+      "shirtNumber": 13,
+      "position": "MID"
+    },
+    {
+      "id": "mexico-1986-14",
+      "name": "Felix Cruz",
+      "shirtNumber": 14,
+      "position": "DEF"
+    },
+    {
+      "id": "mexico-1986-15",
+      "name": "Luis Flores",
+      "shirtNumber": 15,
+      "position": "ATT"
+    },
+    {
+      "id": "mexico-1986-16",
+      "name": "Carlos Muñoz",
+      "shirtNumber": 16,
+      "position": "MID"
+    },
+    {
+      "id": "mexico-1986-17",
+      "name": "Raúl Servín",
+      "shirtNumber": 17,
+      "position": "DEF"
+    },
+    {
+      "id": "mexico-1986-18",
+      "name": "Rafael Amador",
+      "shirtNumber": 18,
+      "position": "DEF"
+    },
+    {
+      "id": "mexico-1986-19",
+      "name": "Javier Hernández",
+      "shirtNumber": 19,
+      "position": "MID"
+    },
+    {
+      "id": "mexico-1986-20",
+      "name": "Olaf Heredia",
+      "shirtNumber": 20,
+      "position": "GK"
+    },
+    {
+      "id": "mexico-1986-21",
+      "name": "Cristóbal Ortega",
+      "shirtNumber": 21,
+      "position": "ATT"
+    },
+    {
+      "id": "mexico-1986-22",
+      "name": "Manuel Negrete",
+      "shirtNumber": 22,
+      "position": "MID"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "Belgium",
+      "score": "1–2",
+      "scorers": [
+        {
+          "name": "Fernando Quirarte",
+          "minute": "23'",
+          "ownGoal": false
+        },
+        {
+          "name": "Hugo Sánchez",
+          "minute": "39'",
+          "ownGoal": false
+        },
+        {
+          "name": "Erwin Vandenbergh",
+          "minute": "45'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1986-06-03"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Paraguay",
+      "score": "1–1",
+      "scorers": [
+        {
+          "name": "Luis Flores",
+          "minute": "3'",
+          "ownGoal": false
+        },
+        {
+          "name": "Julio César Romero",
+          "minute": "85'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1986-06-07"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Iraq",
+      "score": "0–1",
+      "scorers": [
+        {
+          "name": "Fernando Quirarte",
+          "minute": "54'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1986-06-11"
+    },
+    {
+      "stage": "Round of 16",
+      "opponent": "Bulgaria",
+      "score": "2–0",
+      "scorers": [
+        {
+          "name": "Manuel Negrete",
+          "minute": "34'",
+          "ownGoal": false
+        },
+        {
+          "name": "Raúl Servín",
+          "minute": "61'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1986-06-15"
+    },
+    {
+      "stage": "Quarter-final",
+      "opponent": "West Germany",
+      "score": "0–0",
+      "scorers": [],
+      "date": "1986-06-21"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

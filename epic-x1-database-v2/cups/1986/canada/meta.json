@@ -1,0 +1,202 @@
+{
+  "country": "Canada",
+  "countrySlug": "canada",
+  "year": 1986,
+  "edition": "1986",
+  "host": "Mexico",
+  "coach": "Tony Waiters",
+  "finalPhase": "Group Stage",
+  "result": "Group Stage",
+  "squad": [
+    {
+      "id": "canada-1986-1",
+      "name": "Tino Lettieri",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "canada-1986-2",
+      "name": "Bob Lenarduzzi",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "canada-1986-3",
+      "name": "Bruce Wilson",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "canada-1986-4",
+      "name": "Randy Ragan",
+      "shirtNumber": 4,
+      "position": "MID"
+    },
+    {
+      "id": "canada-1986-5",
+      "name": "Terry Moore",
+      "shirtNumber": 5,
+      "position": "DEF"
+    },
+    {
+      "id": "canada-1986-6",
+      "name": "Ian Bridge",
+      "shirtNumber": 6,
+      "position": "DEF"
+    },
+    {
+      "id": "canada-1986-7",
+      "name": "Carl Valentine",
+      "shirtNumber": 7,
+      "position": "ATT"
+    },
+    {
+      "id": "canada-1986-8",
+      "name": "Gerry Gray",
+      "shirtNumber": 8,
+      "position": "MID"
+    },
+    {
+      "id": "canada-1986-9",
+      "name": "Branko Šegota",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "canada-1986-10",
+      "name": "Igor Vrablic",
+      "shirtNumber": 10,
+      "position": "ATT"
+    },
+    {
+      "id": "canada-1986-11",
+      "name": "Mike Sweeney",
+      "shirtNumber": 11,
+      "position": "MID"
+    },
+    {
+      "id": "canada-1986-12",
+      "name": "Randy Samuel",
+      "shirtNumber": 12,
+      "position": "DEF"
+    },
+    {
+      "id": "canada-1986-13",
+      "name": "George Pakos",
+      "shirtNumber": 13,
+      "position": "ATT"
+    },
+    {
+      "id": "canada-1986-14",
+      "name": "Dale Mitchell",
+      "shirtNumber": 14,
+      "position": "ATT"
+    },
+    {
+      "id": "canada-1986-15",
+      "name": "Paul James",
+      "shirtNumber": 15,
+      "position": "MID"
+    },
+    {
+      "id": "canada-1986-16",
+      "name": "Greg Ion",
+      "shirtNumber": 16,
+      "position": "MID"
+    },
+    {
+      "id": "canada-1986-17",
+      "name": "David Norman",
+      "shirtNumber": 17,
+      "position": "MID"
+    },
+    {
+      "id": "canada-1986-18",
+      "name": "Jamie Lowery",
+      "shirtNumber": 18,
+      "position": "MID"
+    },
+    {
+      "id": "canada-1986-19",
+      "name": "Pasquale De Luca",
+      "shirtNumber": 19,
+      "position": "DEF"
+    },
+    {
+      "id": "canada-1986-20",
+      "name": "Colin Miller",
+      "shirtNumber": 20,
+      "position": "DEF"
+    },
+    {
+      "id": "canada-1986-21",
+      "name": "Sven Habermann",
+      "shirtNumber": 21,
+      "position": "GK"
+    },
+    {
+      "id": "canada-1986-22",
+      "name": "Paul Dolan",
+      "shirtNumber": 22,
+      "position": "GK"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "France",
+      "score": "0–1",
+      "scorers": [
+        {
+          "name": "Jean-Pierre Papin",
+          "minute": "79'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1986-06-01"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Hungary",
+      "score": "2–0",
+      "scorers": [
+        {
+          "name": "Márton Esterházy",
+          "minute": "2'",
+          "ownGoal": false
+        },
+        {
+          "name": "Lajos Détári",
+          "minute": "75'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1986-06-06"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Soviet Union",
+      "score": "2–0",
+      "scorers": [
+        {
+          "name": "Oleh Blokhin",
+          "minute": "58'",
+          "ownGoal": false
+        },
+        {
+          "name": "Oleksandr Zavarov",
+          "minute": "74'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1986-06-09"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

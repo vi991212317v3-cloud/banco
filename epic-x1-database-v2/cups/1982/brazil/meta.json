@@ -1,0 +1,298 @@
+{
+  "country": "Brazil",
+  "countrySlug": "brazil",
+  "year": 1982,
+  "edition": "1982",
+  "host": "Spain",
+  "coach": "Telê Santana",
+  "finalPhase": "Second Group Stage",
+  "result": "Second Group Stage",
+  "squad": [
+    {
+      "id": "brazil-1982-1",
+      "name": "Waldir Peres",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "brazil-1982-2",
+      "name": "Leandro",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "brazil-1982-3",
+      "name": "Oscar",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "brazil-1982-4",
+      "name": "Luizinho",
+      "shirtNumber": 4,
+      "position": "DEF"
+    },
+    {
+      "id": "brazil-1982-5",
+      "name": "Toninho Cerezo",
+      "shirtNumber": 5,
+      "position": "MID"
+    },
+    {
+      "id": "brazil-1982-6",
+      "name": "Júnior",
+      "shirtNumber": 6,
+      "position": "DEF"
+    },
+    {
+      "id": "brazil-1982-7",
+      "name": "Paulo Isidoro",
+      "shirtNumber": 7,
+      "position": "MID"
+    },
+    {
+      "id": "brazil-1982-8",
+      "name": "Sócrates",
+      "shirtNumber": 8,
+      "position": "MID"
+    },
+    {
+      "id": "brazil-1982-9",
+      "name": "Serginho",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "brazil-1982-10",
+      "name": "Zico",
+      "shirtNumber": 10,
+      "position": "MID"
+    },
+    {
+      "id": "brazil-1982-11",
+      "name": "Éder",
+      "shirtNumber": 11,
+      "position": "ATT"
+    },
+    {
+      "id": "brazil-1982-12",
+      "name": "Paulo Sérgio",
+      "shirtNumber": 12,
+      "position": "GK"
+    },
+    {
+      "id": "brazil-1982-13",
+      "name": "Edevaldo",
+      "shirtNumber": 13,
+      "position": "DEF"
+    },
+    {
+      "id": "brazil-1982-14",
+      "name": "Juninho",
+      "shirtNumber": 14,
+      "position": "DEF"
+    },
+    {
+      "id": "brazil-1982-15",
+      "name": "Falcão",
+      "shirtNumber": 15,
+      "position": "MID"
+    },
+    {
+      "id": "brazil-1982-16",
+      "name": "Edinho",
+      "shirtNumber": 16,
+      "position": "DEF"
+    },
+    {
+      "id": "brazil-1982-17",
+      "name": "Pedrinho",
+      "shirtNumber": 17,
+      "position": "DEF"
+    },
+    {
+      "id": "brazil-1982-18",
+      "name": "Batista",
+      "shirtNumber": 18,
+      "position": "MID"
+    },
+    {
+      "id": "brazil-1982-19",
+      "name": "Renato",
+      "shirtNumber": 19,
+      "position": "MID"
+    },
+    {
+      "id": "brazil-1982-20",
+      "name": "Roberto Dinamite",
+      "shirtNumber": 20,
+      "position": "ATT"
+    },
+    {
+      "id": "brazil-1982-21",
+      "name": "Dirceu",
+      "shirtNumber": 21,
+      "position": "MID"
+    },
+    {
+      "id": "brazil-1982-22",
+      "name": "Carlos",
+      "shirtNumber": 22,
+      "position": "GK"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "Soviet Union",
+      "score": "2–1",
+      "scorers": [
+        {
+          "name": "Andriy Bal",
+          "minute": "34'",
+          "ownGoal": false
+        },
+        {
+          "name": "Sócrates",
+          "minute": "75'",
+          "ownGoal": false
+        },
+        {
+          "name": "Éder",
+          "minute": "88'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1982-06-14"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Scotland",
+      "score": "4–1",
+      "scorers": [
+        {
+          "name": "David Narey",
+          "minute": "18'",
+          "ownGoal": false
+        },
+        {
+          "name": "Zico",
+          "minute": "33'",
+          "ownGoal": false
+        },
+        {
+          "name": "Oscar",
+          "minute": "48'",
+          "ownGoal": false
+        },
+        {
+          "name": "Éder",
+          "minute": "63'",
+          "ownGoal": false
+        },
+        {
+          "name": "Falcão",
+          "minute": "87'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1982-06-18"
+    },
+    {
+      "stage": "Group",
+      "opponent": "New Zealand",
+      "score": "4–0",
+      "scorers": [
+        {
+          "name": "Zico",
+          "minute": "28'",
+          "ownGoal": false
+        },
+        {
+          "name": "Zico",
+          "minute": "31'",
+          "ownGoal": false
+        },
+        {
+          "name": "Falcão",
+          "minute": "64'",
+          "ownGoal": false
+        },
+        {
+          "name": "Serginho",
+          "minute": "70'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1982-06-23"
+    },
+    {
+      "stage": "Second Group Stage",
+      "opponent": "Argentina",
+      "score": "1–3",
+      "scorers": [
+        {
+          "name": "Zico",
+          "minute": "11'",
+          "ownGoal": false
+        },
+        {
+          "name": "Serginho",
+          "minute": "66'",
+          "ownGoal": false
+        },
+        {
+          "name": "Júnior",
+          "minute": "75'",
+          "ownGoal": false
+        },
+        {
+          "name": "Ramón Díaz",
+          "minute": "89'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1982-07-02"
+    },
+    {
+      "stage": "Second Group Stage",
+      "opponent": "Italy",
+      "score": "3–2",
+      "scorers": [
+        {
+          "name": "Paolo Rossi",
+          "minute": "5'",
+          "ownGoal": false
+        },
+        {
+          "name": "Sócrates",
+          "minute": "12'",
+          "ownGoal": false
+        },
+        {
+          "name": "Paolo Rossi",
+          "minute": "25'",
+          "ownGoal": false
+        },
+        {
+          "name": "Falcão",
+          "minute": "68'",
+          "ownGoal": false
+        },
+        {
+          "name": "Paolo Rossi",
+          "minute": "74'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1982-07-05"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

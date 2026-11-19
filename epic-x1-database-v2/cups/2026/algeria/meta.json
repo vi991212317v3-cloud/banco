@@ -1,0 +1,279 @@
+{
+  "country": "Algeria",
+  "countrySlug": "algeria",
+  "year": 2026,
+  "edition": "2026",
+  "host": "Canada, Mexico and United States",
+  "coach": "PETKOVIC Vladimir",
+  "finalPhase": "Round of 32",
+  "result": "Round of 32",
+  "squad": [
+    {
+      "id": "algeria-2026-1",
+      "name": "Melvin Feycal MASTIL",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "algeria-2026-2",
+      "name": "Aissa MANDI",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "algeria-2026-3",
+      "name": "Achref ABADA",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "algeria-2026-4",
+      "name": "Mohamed Amine TOUGAI",
+      "shirtNumber": 4,
+      "position": "DEF"
+    },
+    {
+      "id": "algeria-2026-5",
+      "name": "Zineddine BELAÏD",
+      "shirtNumber": 5,
+      "position": "DEF"
+    },
+    {
+      "id": "algeria-2026-6",
+      "name": "Ramiz Larbi ZERROUKI",
+      "shirtNumber": 6,
+      "position": "MID"
+    },
+    {
+      "id": "algeria-2026-7",
+      "name": "Riyad Karim MAHREZ",
+      "shirtNumber": 7,
+      "position": "ATT"
+    },
+    {
+      "id": "algeria-2026-8",
+      "name": "Houssem-Eddine Chaabane AOUAR",
+      "shirtNumber": 8,
+      "position": "MID"
+    },
+    {
+      "id": "algeria-2026-9",
+      "name": "Amine Ferid GHOUIRI",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "algeria-2026-10",
+      "name": "Fares CHAIBI",
+      "shirtNumber": 10,
+      "position": "MID"
+    },
+    {
+      "id": "algeria-2026-11",
+      "name": "Anis HADJ MOUSSA",
+      "shirtNumber": 11,
+      "position": "ATT"
+    },
+    {
+      "id": "algeria-2026-12",
+      "name": "Ahmed Nadhir BENBOUALI",
+      "shirtNumber": 12,
+      "position": "ATT"
+    },
+    {
+      "id": "algeria-2026-13",
+      "name": "Jaouen Djimmy HADJAM",
+      "shirtNumber": 13,
+      "position": "DEF"
+    },
+    {
+      "id": "algeria-2026-14",
+      "name": "Hicham BOUDAOUI",
+      "shirtNumber": 14,
+      "position": "MID"
+    },
+    {
+      "id": "algeria-2026-15",
+      "name": "Rayan AÏT-NOURI",
+      "shirtNumber": 15,
+      "position": "DEF"
+    },
+    {
+      "id": "algeria-2026-16",
+      "name": "Oussama BENBOT",
+      "shirtNumber": 16,
+      "position": "GK"
+    },
+    {
+      "id": "algeria-2026-17",
+      "name": "Ra k BELGHALI",
+      "shirtNumber": 17,
+      "position": "DEF"
+    },
+    {
+      "id": "algeria-2026-18",
+      "name": "Mohammed Elamine AMOURA",
+      "shirtNumber": 18,
+      "position": "ATT"
+    },
+    {
+      "id": "algeria-2026-19",
+      "name": "Nabil BENTALEB",
+      "shirtNumber": 19,
+      "position": "MID"
+    },
+    {
+      "id": "algeria-2026-20",
+      "name": "Adil BOULBINA",
+      "shirtNumber": 20,
+      "position": "ATT"
+    },
+    {
+      "id": "algeria-2026-21",
+      "name": "Amir Selmane Rami BENSEBAINI",
+      "shirtNumber": 21,
+      "position": "DEF"
+    },
+    {
+      "id": "algeria-2026-22",
+      "name": "Ibrahim MAZA",
+      "shirtNumber": 22,
+      "position": "MID"
+    },
+    {
+      "id": "algeria-2026-23",
+      "name": "Luca Zinedine ZIDANE",
+      "shirtNumber": 23,
+      "position": "GK"
+    },
+    {
+      "id": "algeria-2026-24",
+      "name": "Yassine M E G TITRAOUI",
+      "shirtNumber": 24,
+      "position": "MID"
+    },
+    {
+      "id": "algeria-2026-25",
+      "name": "Fares GHEDJEMIS",
+      "shirtNumber": 25,
+      "position": "ATT"
+    },
+    {
+      "id": "algeria-2026-26",
+      "name": "Samir Sophian CHERGUI",
+      "shirtNumber": 26,
+      "position": "DEF"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group Stage",
+      "opponent": "Argentina",
+      "score": "3–0",
+      "scorers": [
+        {
+          "name": "Lionel Andrés MESSI",
+          "minute": 17,
+          "ownGoal": false
+        },
+        {
+          "name": "Lionel Andrés MESSI",
+          "minute": 60,
+          "ownGoal": false
+        },
+        {
+          "name": "Lionel Andrés MESSI",
+          "minute": 76,
+          "ownGoal": false
+        }
+      ],
+      "date": "2026-06-16"
+    },
+    {
+      "stage": "Group Stage",
+      "opponent": "Jordan",
+      "score": "1–2",
+      "scorers": [
+        {
+          "name": "Nizar Mahmoud Ahmed AL-RASHDAN",
+          "minute": 36,
+          "ownGoal": false
+        },
+        {
+          "name": "Ahmed Nadhir BENBOUALI",
+          "minute": 69,
+          "ownGoal": false
+        },
+        {
+          "name": "Amine Ferid GHOUIRI",
+          "minute": 82,
+          "ownGoal": false
+        }
+      ],
+      "date": "2026-06-22"
+    },
+    {
+      "stage": "Group Stage",
+      "opponent": "Austria",
+      "score": "3–3",
+      "scorers": [
+        {
+          "name": "Marko ARNAUTOVIC",
+          "minute": 28,
+          "ownGoal": false
+        },
+        {
+          "name": "Ra k BELGHALI",
+          "minute": 45,
+          "ownGoal": false
+        },
+        {
+          "name": "Marcel SABITZER",
+          "minute": 55,
+          "ownGoal": false
+        },
+        {
+          "name": "Riyad Karim MAHREZ",
+          "minute": 60,
+          "ownGoal": false
+        },
+        {
+          "name": "Riyad Karim MAHREZ",
+          "minute": 90,
+          "ownGoal": false
+        },
+        {
+          "name": "Saša KALAJDŽIĆ",
+          "minute": 90,
+          "ownGoal": false
+        }
+      ],
+      "date": "2026-06-27"
+    },
+    {
+      "stage": "Round of 32",
+      "opponent": "Switzerland",
+      "score": "2–0",
+      "scorers": [
+        {
+          "name": "Breel Donald EMBOLO",
+          "minute": 10,
+          "ownGoal": false
+        },
+        {
+          "name": "Dan NDOYE",
+          "minute": 46,
+          "ownGoal": false
+        }
+      ],
+      "date": "2026-07-03"
+    }
+  ],
+  "sources": [
+    "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/final-tournament-standings",
+    "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/teams",
+    "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+    "https://github.com/openfootball/worldcup.json",
+    "https://github.com/mominullptr/FIFA-World-Cup-2026-Dataset"
+  ]
+}

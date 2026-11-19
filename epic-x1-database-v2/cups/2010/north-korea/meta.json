@@ -1,0 +1,248 @@
+{
+  "country": "North Korea",
+  "countrySlug": "north-korea",
+  "year": 2010,
+  "edition": "2010",
+  "host": "South Africa",
+  "coach": "Jong-hun Kim",
+  "finalPhase": "Group Stage",
+  "result": "Group Stage",
+  "squad": [
+    {
+      "id": "north-korea-2010-1",
+      "name": "Myong-guk Ri",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "north-korea-2010-2",
+      "name": "Jong-hyok Cha",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "north-korea-2010-3",
+      "name": "Jun-il Ri",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "north-korea-2010-4",
+      "name": "Nam-chol Pak",
+      "shirtNumber": 4,
+      "position": "MID"
+    },
+    {
+      "id": "north-korea-2010-5",
+      "name": "Kwang-chon Ri",
+      "shirtNumber": 5,
+      "position": "DEF"
+    },
+    {
+      "id": "north-korea-2010-6",
+      "name": "Kum-il Kim",
+      "shirtNumber": 6,
+      "position": "MID"
+    },
+    {
+      "id": "north-korea-2010-7",
+      "name": "Chol-hyok An",
+      "shirtNumber": 7,
+      "position": "ATT"
+    },
+    {
+      "id": "north-korea-2010-8",
+      "name": "Yun-nam Ji",
+      "shirtNumber": 8,
+      "position": "DEF"
+    },
+    {
+      "id": "north-korea-2010-9",
+      "name": "Tae-se Jong",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "north-korea-2010-10",
+      "name": "Yong-jo Hong",
+      "shirtNumber": 10,
+      "position": "ATT"
+    },
+    {
+      "id": "north-korea-2010-11",
+      "name": "In-guk Mun",
+      "shirtNumber": 11,
+      "position": "MID"
+    },
+    {
+      "id": "north-korea-2010-12",
+      "name": "Kum-chol Choe",
+      "shirtNumber": 12,
+      "position": "ATT"
+    },
+    {
+      "id": "north-korea-2010-13",
+      "name": "Chol-jin Pak",
+      "shirtNumber": 13,
+      "position": "DEF"
+    },
+    {
+      "id": "north-korea-2010-14",
+      "name": "Nam-Chol Pak",
+      "shirtNumber": 14,
+      "position": "DEF"
+    },
+    {
+      "id": "north-korea-2010-15",
+      "name": "Yong-jun Kim",
+      "shirtNumber": 15,
+      "position": "MID"
+    },
+    {
+      "id": "north-korea-2010-16",
+      "name": "Song-chol Nam",
+      "shirtNumber": 16,
+      "position": "DEF"
+    },
+    {
+      "id": "north-korea-2010-17",
+      "name": "Yong-hak An",
+      "shirtNumber": 17,
+      "position": "MID"
+    },
+    {
+      "id": "north-korea-2010-18",
+      "name": "Myong-gil Kim",
+      "shirtNumber": 18,
+      "position": "GK"
+    },
+    {
+      "id": "north-korea-2010-19",
+      "name": "Chol-myong Ri",
+      "shirtNumber": 19,
+      "position": "MID"
+    },
+    {
+      "id": "north-korea-2010-20",
+      "name": "Myong-won Kim",
+      "shirtNumber": 20,
+      "position": "GK"
+    },
+    {
+      "id": "north-korea-2010-21",
+      "name": "Kwang-hyok Ri",
+      "shirtNumber": 21,
+      "position": "DEF"
+    },
+    {
+      "id": "north-korea-2010-22",
+      "name": "Kyong-il Kim",
+      "shirtNumber": 22,
+      "position": "MID"
+    },
+    {
+      "id": "north-korea-2010-23",
+      "name": "Il-gwan Jong",
+      "shirtNumber": 23,
+      "position": "MID"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "Brazil",
+      "score": "2–1",
+      "scorers": [
+        {
+          "name": "Maicon",
+          "minute": "55'",
+          "ownGoal": false
+        },
+        {
+          "name": "Elano",
+          "minute": "72'",
+          "ownGoal": false
+        },
+        {
+          "name": "Yun-nam Ji",
+          "minute": "89'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2010-06-15"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Portugal",
+      "score": "7–0",
+      "scorers": [
+        {
+          "name": "Raul Meireles",
+          "minute": "29'",
+          "ownGoal": false
+        },
+        {
+          "name": "Simão",
+          "minute": "53'",
+          "ownGoal": false
+        },
+        {
+          "name": "Hugo Almeida",
+          "minute": "56'",
+          "ownGoal": false
+        },
+        {
+          "name": "Tiago",
+          "minute": "60'",
+          "ownGoal": false
+        },
+        {
+          "name": "Liédson",
+          "minute": "81'",
+          "ownGoal": false
+        },
+        {
+          "name": "Cristiano Ronaldo",
+          "minute": "87'",
+          "ownGoal": false
+        },
+        {
+          "name": "Tiago",
+          "minute": "89'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2010-06-21"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Ivory Coast",
+      "score": "0–3",
+      "scorers": [
+        {
+          "name": "Yaya Touré",
+          "minute": "14'",
+          "ownGoal": false
+        },
+        {
+          "name": "Romaric",
+          "minute": "20'",
+          "ownGoal": false
+        },
+        {
+          "name": "Salomon Kalou",
+          "minute": "82'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2010-06-25"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

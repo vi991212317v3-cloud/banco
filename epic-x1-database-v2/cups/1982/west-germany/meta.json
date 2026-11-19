@@ -1,0 +1,318 @@
+{
+  "country": "West Germany",
+  "countrySlug": "west-germany",
+  "year": 1982,
+  "edition": "1982",
+  "host": "Spain",
+  "coach": "Jupp Derwall",
+  "finalPhase": "Final",
+  "result": "Runner-up",
+  "squad": [
+    {
+      "id": "west-germany-1982-1",
+      "name": "Harald Schumacher",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "west-germany-1982-2",
+      "name": "Hans-Peter Briegel",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "west-germany-1982-3",
+      "name": "Paul Breitner",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "west-germany-1982-4",
+      "name": "Karlheinz Förster",
+      "shirtNumber": 4,
+      "position": "DEF"
+    },
+    {
+      "id": "west-germany-1982-5",
+      "name": "Bernd Förster",
+      "shirtNumber": 5,
+      "position": "DEF"
+    },
+    {
+      "id": "west-germany-1982-6",
+      "name": "Wolfgang Dremmler",
+      "shirtNumber": 6,
+      "position": "MID"
+    },
+    {
+      "id": "west-germany-1982-7",
+      "name": "Pierre Littbarski",
+      "shirtNumber": 7,
+      "position": "MID"
+    },
+    {
+      "id": "west-germany-1982-8",
+      "name": "Klaus Fischer",
+      "shirtNumber": 8,
+      "position": "ATT"
+    },
+    {
+      "id": "west-germany-1982-9",
+      "name": "Horst Hrubesch",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "west-germany-1982-10",
+      "name": "Hansi Müller",
+      "shirtNumber": 10,
+      "position": "MID"
+    },
+    {
+      "id": "west-germany-1982-11",
+      "name": "Karl-Heinz Rummenigge",
+      "shirtNumber": 11,
+      "position": "ATT"
+    },
+    {
+      "id": "west-germany-1982-12",
+      "name": "Wilfried Hannes",
+      "shirtNumber": 12,
+      "position": "DEF"
+    },
+    {
+      "id": "west-germany-1982-13",
+      "name": "Uwe Reinders",
+      "shirtNumber": 13,
+      "position": "ATT"
+    },
+    {
+      "id": "west-germany-1982-14",
+      "name": "Felix Magath",
+      "shirtNumber": 14,
+      "position": "MID"
+    },
+    {
+      "id": "west-germany-1982-15",
+      "name": "Uli Stielike",
+      "shirtNumber": 15,
+      "position": "DEF"
+    },
+    {
+      "id": "west-germany-1982-16",
+      "name": "Thomas Allofs",
+      "shirtNumber": 16,
+      "position": "ATT"
+    },
+    {
+      "id": "west-germany-1982-17",
+      "name": "Stephan Engels",
+      "shirtNumber": 17,
+      "position": "MID"
+    },
+    {
+      "id": "west-germany-1982-18",
+      "name": "Lothar Matthäus",
+      "shirtNumber": 18,
+      "position": "MID"
+    },
+    {
+      "id": "west-germany-1982-19",
+      "name": "Holger Hieronymus",
+      "shirtNumber": 19,
+      "position": "DEF"
+    },
+    {
+      "id": "west-germany-1982-20",
+      "name": "Manfred Kaltz",
+      "shirtNumber": 20,
+      "position": "DEF"
+    },
+    {
+      "id": "west-germany-1982-21",
+      "name": "Bernd Franke",
+      "shirtNumber": 21,
+      "position": "GK"
+    },
+    {
+      "id": "west-germany-1982-22",
+      "name": "Eike Immel",
+      "shirtNumber": 22,
+      "position": "GK"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "Algeria",
+      "score": "1–2",
+      "scorers": [
+        {
+          "name": "Rabah Madjer",
+          "minute": "54'",
+          "ownGoal": false
+        },
+        {
+          "name": "Karl-Heinz Rummenigge",
+          "minute": "67'",
+          "ownGoal": false
+        },
+        {
+          "name": "Lakhdar Belloumi",
+          "minute": "68'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1982-06-16"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Chile",
+      "score": "4–1",
+      "scorers": [
+        {
+          "name": "Karl-Heinz Rummenigge",
+          "minute": "9'",
+          "ownGoal": false
+        },
+        {
+          "name": "Karl-Heinz Rummenigge",
+          "minute": "57'",
+          "ownGoal": false
+        },
+        {
+          "name": "Karl-Heinz Rummenigge",
+          "minute": "66'",
+          "ownGoal": false
+        },
+        {
+          "name": "Uwe Reinders",
+          "minute": "81'",
+          "ownGoal": false
+        },
+        {
+          "name": "Gustavo Moscoso",
+          "minute": "90'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1982-06-20"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Austria",
+      "score": "1–0",
+      "scorers": [
+        {
+          "name": "Horst Hrubesch",
+          "minute": "10'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1982-06-25"
+    },
+    {
+      "stage": "Second Group Stage",
+      "opponent": "England",
+      "score": "0–0",
+      "scorers": [],
+      "date": "1982-06-29"
+    },
+    {
+      "stage": "Second Group Stage",
+      "opponent": "Spain",
+      "score": "2–1",
+      "scorers": [
+        {
+          "name": "Pierre Littbarski",
+          "minute": "50'",
+          "ownGoal": false
+        },
+        {
+          "name": "Klaus Fischer",
+          "minute": "75'",
+          "ownGoal": false
+        },
+        {
+          "name": "Jesús María Zamora",
+          "minute": "82'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1982-07-02"
+    },
+    {
+      "stage": "Semi-final",
+      "opponent": "France",
+      "score": "3–3",
+      "scorers": [
+        {
+          "name": "Pierre Littbarski",
+          "minute": "17'",
+          "ownGoal": false
+        },
+        {
+          "name": "Michel Platini",
+          "minute": "26'",
+          "ownGoal": false
+        },
+        {
+          "name": "Marius Trésor",
+          "minute": "92'",
+          "ownGoal": false
+        },
+        {
+          "name": "Alain Giresse",
+          "minute": "98'",
+          "ownGoal": false
+        },
+        {
+          "name": "Karl-Heinz Rummenigge",
+          "minute": "102'",
+          "ownGoal": false
+        },
+        {
+          "name": "Klaus Fischer",
+          "minute": "108'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1982-07-08"
+    },
+    {
+      "stage": "Final",
+      "opponent": "Italy",
+      "score": "3–1",
+      "scorers": [
+        {
+          "name": "Paolo Rossi",
+          "minute": "57'",
+          "ownGoal": false
+        },
+        {
+          "name": "Marco Tardelli",
+          "minute": "69'",
+          "ownGoal": false
+        },
+        {
+          "name": "Alessandro Altobelli",
+          "minute": "81'",
+          "ownGoal": false
+        },
+        {
+          "name": "Paul Breitner",
+          "minute": "83'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1982-07-11"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

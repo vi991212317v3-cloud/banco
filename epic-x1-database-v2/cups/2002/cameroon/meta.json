@@ -1,0 +1,208 @@
+{
+  "country": "Cameroon",
+  "countrySlug": "cameroon",
+  "year": 2002,
+  "edition": "2002",
+  "host": "Korea, Japan",
+  "coach": "Winfried Schäfer",
+  "finalPhase": "Group Stage",
+  "result": "Group Stage",
+  "squad": [
+    {
+      "id": "cameroon-2002-1",
+      "name": "Alioum Boukar",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "cameroon-2002-2",
+      "name": "Bill Tchato",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "cameroon-2002-3",
+      "name": "Pierre Womé",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "cameroon-2002-4",
+      "name": "Rigobert Song",
+      "shirtNumber": 4,
+      "position": "DEF"
+    },
+    {
+      "id": "cameroon-2002-5",
+      "name": "Raymond Kalla",
+      "shirtNumber": 5,
+      "position": "DEF"
+    },
+    {
+      "id": "cameroon-2002-6",
+      "name": "Pierre Njanka",
+      "shirtNumber": 6,
+      "position": "DEF"
+    },
+    {
+      "id": "cameroon-2002-7",
+      "name": "Joseph N'Do",
+      "shirtNumber": 7,
+      "position": "MID"
+    },
+    {
+      "id": "cameroon-2002-8",
+      "name": "Geremi",
+      "shirtNumber": 8,
+      "position": "DEF"
+    },
+    {
+      "id": "cameroon-2002-9",
+      "name": "Samuel Eto'o",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "cameroon-2002-10",
+      "name": "Patrick M'Boma",
+      "shirtNumber": 10,
+      "position": "ATT"
+    },
+    {
+      "id": "cameroon-2002-11",
+      "name": "Pius Ndiefi",
+      "shirtNumber": 11,
+      "position": "ATT"
+    },
+    {
+      "id": "cameroon-2002-12",
+      "name": "Lauren",
+      "shirtNumber": 12,
+      "position": "MID"
+    },
+    {
+      "id": "cameroon-2002-13",
+      "name": "Lucien Mettomo",
+      "shirtNumber": 13,
+      "position": "DEF"
+    },
+    {
+      "id": "cameroon-2002-14",
+      "name": "Joël Epalle",
+      "shirtNumber": 14,
+      "position": "MID"
+    },
+    {
+      "id": "cameroon-2002-15",
+      "name": "Nicolas Alnoudji",
+      "shirtNumber": 15,
+      "position": "MID"
+    },
+    {
+      "id": "cameroon-2002-16",
+      "name": "Jacques Songo'o",
+      "shirtNumber": 16,
+      "position": "GK"
+    },
+    {
+      "id": "cameroon-2002-17",
+      "name": "Marc-Vivien Foé",
+      "shirtNumber": 17,
+      "position": "MID"
+    },
+    {
+      "id": "cameroon-2002-18",
+      "name": "Patrick Suffo",
+      "shirtNumber": 18,
+      "position": "ATT"
+    },
+    {
+      "id": "cameroon-2002-19",
+      "name": "Eric Djemba-Djemba",
+      "shirtNumber": 19,
+      "position": "MID"
+    },
+    {
+      "id": "cameroon-2002-20",
+      "name": "Salomon Olembé",
+      "shirtNumber": 20,
+      "position": "MID"
+    },
+    {
+      "id": "cameroon-2002-21",
+      "name": "Joseph-Désiré Job",
+      "shirtNumber": 21,
+      "position": "ATT"
+    },
+    {
+      "id": "cameroon-2002-22",
+      "name": "Carlos Kameni",
+      "shirtNumber": 22,
+      "position": "GK"
+    },
+    {
+      "id": "cameroon-2002-23",
+      "name": "Daniel Kome",
+      "shirtNumber": 23,
+      "position": "MID"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "Republic of Ireland",
+      "score": "1–1",
+      "scorers": [
+        {
+          "name": "Patrick M'Boma",
+          "minute": "39'",
+          "ownGoal": false
+        },
+        {
+          "name": "Matt Holland",
+          "minute": "52'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2002-06-01"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Saudi Arabia",
+      "score": "1–0",
+      "scorers": [
+        {
+          "name": "Samuel Eto'o",
+          "minute": "66'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2002-06-06"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Germany",
+      "score": "0–2",
+      "scorers": [
+        {
+          "name": "Marco Bode",
+          "minute": "50'",
+          "ownGoal": false
+        },
+        {
+          "name": "Miroslav Klose",
+          "minute": "79'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2002-06-11"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

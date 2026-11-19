@@ -1,0 +1,245 @@
+{
+  "country": "Switzerland",
+  "countrySlug": "switzerland",
+  "year": 1994,
+  "edition": "1994",
+  "host": "United States",
+  "coach": "Roy Hodgson",
+  "finalPhase": "Round of 16",
+  "result": "Round of 16",
+  "squad": [
+    {
+      "id": "switzerland-1994-1",
+      "name": "Marco Pascolo",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "switzerland-1994-2",
+      "name": "Marc Hottiger",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "switzerland-1994-3",
+      "name": "Yvan Quentin",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "switzerland-1994-4",
+      "name": "Dominique Herr",
+      "shirtNumber": 4,
+      "position": "MID"
+    },
+    {
+      "id": "switzerland-1994-5",
+      "name": "Alain Geiger",
+      "shirtNumber": 5,
+      "position": "DEF"
+    },
+    {
+      "id": "switzerland-1994-6",
+      "name": "Georges Bregy",
+      "shirtNumber": 6,
+      "position": "MID"
+    },
+    {
+      "id": "switzerland-1994-7",
+      "name": "Alain Sutter",
+      "shirtNumber": 7,
+      "position": "MID"
+    },
+    {
+      "id": "switzerland-1994-8",
+      "name": "Christophe Ohrel",
+      "shirtNumber": 8,
+      "position": "DEF"
+    },
+    {
+      "id": "switzerland-1994-9",
+      "name": "Adrian Knup",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "switzerland-1994-10",
+      "name": "Ciriaco Sforza",
+      "shirtNumber": 10,
+      "position": "MID"
+    },
+    {
+      "id": "switzerland-1994-11",
+      "name": "Stéphane Chapuisat",
+      "shirtNumber": 11,
+      "position": "ATT"
+    },
+    {
+      "id": "switzerland-1994-12",
+      "name": "Stephan Lehmann",
+      "shirtNumber": 12,
+      "position": "GK"
+    },
+    {
+      "id": "switzerland-1994-13",
+      "name": "André Egli",
+      "shirtNumber": 13,
+      "position": "DEF"
+    },
+    {
+      "id": "switzerland-1994-14",
+      "name": "Nestor Subiat",
+      "shirtNumber": 14,
+      "position": "ATT"
+    },
+    {
+      "id": "switzerland-1994-15",
+      "name": "Marco Grassi",
+      "shirtNumber": 15,
+      "position": "ATT"
+    },
+    {
+      "id": "switzerland-1994-16",
+      "name": "Thomas Bickel",
+      "shirtNumber": 16,
+      "position": "MID"
+    },
+    {
+      "id": "switzerland-1994-17",
+      "name": "Sébastien Fournier",
+      "shirtNumber": 17,
+      "position": "MID"
+    },
+    {
+      "id": "switzerland-1994-18",
+      "name": "Martin Rueda",
+      "shirtNumber": 18,
+      "position": "DEF"
+    },
+    {
+      "id": "switzerland-1994-19",
+      "name": "Jürg Studer",
+      "shirtNumber": 19,
+      "position": "DEF"
+    },
+    {
+      "id": "switzerland-1994-20",
+      "name": "Patrick Sylvestre",
+      "shirtNumber": 20,
+      "position": "MID"
+    },
+    {
+      "id": "switzerland-1994-21",
+      "name": "Thomas Wyss",
+      "shirtNumber": 21,
+      "position": "MID"
+    },
+    {
+      "id": "switzerland-1994-22",
+      "name": "Martin Brunner",
+      "shirtNumber": 22,
+      "position": "GK"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "United States",
+      "score": "1–1",
+      "scorers": [
+        {
+          "name": "Georges Bregy",
+          "minute": "39'",
+          "ownGoal": false
+        },
+        {
+          "name": "Eric Wynalda",
+          "minute": "44'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1994-06-18"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Romania",
+      "score": "1–4",
+      "scorers": [
+        {
+          "name": "Alain Sutter",
+          "minute": "16'",
+          "ownGoal": false
+        },
+        {
+          "name": "Gheorghe Hagi",
+          "minute": "35'",
+          "ownGoal": false
+        },
+        {
+          "name": "Stéphane Chapuisat",
+          "minute": "52'",
+          "ownGoal": false
+        },
+        {
+          "name": "Adrian Knup",
+          "minute": "65'",
+          "ownGoal": false
+        },
+        {
+          "name": "Adrian Knup",
+          "minute": "72'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1994-06-22"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Colombia",
+      "score": "0–2",
+      "scorers": [
+        {
+          "name": "Hermán Gaviria",
+          "minute": "44'",
+          "ownGoal": false
+        },
+        {
+          "name": "John Harold Lozano",
+          "minute": "90'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1994-06-26"
+    },
+    {
+      "stage": "Round of 16",
+      "opponent": "Spain",
+      "score": "3–0",
+      "scorers": [
+        {
+          "name": "Fernando Hierro",
+          "minute": "15'",
+          "ownGoal": false
+        },
+        {
+          "name": "Luis Enrique",
+          "minute": "74'",
+          "ownGoal": false
+        },
+        {
+          "name": "Txiki Begiristain",
+          "minute": "86'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1994-07-02"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

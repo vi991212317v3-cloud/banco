@@ -1,0 +1,266 @@
+{
+  "country": "Uzbekistan",
+  "countrySlug": "uzbekistan",
+  "year": 2026,
+  "edition": "2026",
+  "host": "Canada, Mexico and United States",
+  "coach": "CANNAVARO Fabio",
+  "finalPhase": "Group Stage",
+  "result": "Group Stage",
+  "squad": [
+    {
+      "id": "uzbekistan-2026-1",
+      "name": "Utkir YUSUPOV",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "uzbekistan-2026-2",
+      "name": "Abdukodir KHUSANOV",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "uzbekistan-2026-3",
+      "name": "Khojiakbar ALIJONOV",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "uzbekistan-2026-4",
+      "name": "Farrukh SAYFIEV",
+      "shirtNumber": 4,
+      "position": "DEF"
+    },
+    {
+      "id": "uzbekistan-2026-5",
+      "name": "Rustamjon ASHURMATOV",
+      "shirtNumber": 5,
+      "position": "DEF"
+    },
+    {
+      "id": "uzbekistan-2026-6",
+      "name": "Akmal MOZGOVOY",
+      "shirtNumber": 6,
+      "position": "MID"
+    },
+    {
+      "id": "uzbekistan-2026-7",
+      "name": "Otabek SHUKUROV",
+      "shirtNumber": 7,
+      "position": "MID"
+    },
+    {
+      "id": "uzbekistan-2026-8",
+      "name": "Jamshid ISKANDEROV",
+      "shirtNumber": 8,
+      "position": "MID"
+    },
+    {
+      "id": "uzbekistan-2026-9",
+      "name": "Odiljon XAMROBEKOV",
+      "shirtNumber": 9,
+      "position": "MID"
+    },
+    {
+      "id": "uzbekistan-2026-10",
+      "name": "Ruslanbek JIYANOV",
+      "shirtNumber": 10,
+      "position": "MID"
+    },
+    {
+      "id": "uzbekistan-2026-11",
+      "name": "Oston URUNOV",
+      "shirtNumber": 11,
+      "position": "MID"
+    },
+    {
+      "id": "uzbekistan-2026-12",
+      "name": "Abduvakhid NEMATOV",
+      "shirtNumber": 12,
+      "position": "GK"
+    },
+    {
+      "id": "uzbekistan-2026-13",
+      "name": "Sherzod NASRULLAEV",
+      "shirtNumber": 13,
+      "position": "DEF"
+    },
+    {
+      "id": "uzbekistan-2026-14",
+      "name": "Eldor SHOMURODOV",
+      "shirtNumber": 14,
+      "position": "ATT"
+    },
+    {
+      "id": "uzbekistan-2026-15",
+      "name": "Umarbek ESHMURODOV",
+      "shirtNumber": 15,
+      "position": "DEF"
+    },
+    {
+      "id": "uzbekistan-2026-16",
+      "name": "Botirali ERGASHEV",
+      "shirtNumber": 16,
+      "position": "GK"
+    },
+    {
+      "id": "uzbekistan-2026-17",
+      "name": "Dostonbek KHAMDAMOV",
+      "shirtNumber": 17,
+      "position": "MID"
+    },
+    {
+      "id": "uzbekistan-2026-18",
+      "name": "Abdulla ABDULLAEV",
+      "shirtNumber": 18,
+      "position": "DEF"
+    },
+    {
+      "id": "uzbekistan-2026-19",
+      "name": "Azizjon GANIEV",
+      "shirtNumber": 19,
+      "position": "MID"
+    },
+    {
+      "id": "uzbekistan-2026-20",
+      "name": "Azizbek AMONOV",
+      "shirtNumber": 20,
+      "position": "ATT"
+    },
+    {
+      "id": "uzbekistan-2026-21",
+      "name": "Igor SERGEEV",
+      "shirtNumber": 21,
+      "position": "ATT"
+    },
+    {
+      "id": "uzbekistan-2026-22",
+      "name": "Abbosbek FAYZULLAEV",
+      "shirtNumber": 22,
+      "position": "MID"
+    },
+    {
+      "id": "uzbekistan-2026-23",
+      "name": "Sherzod ESANOV",
+      "shirtNumber": 23,
+      "position": "MID"
+    },
+    {
+      "id": "uzbekistan-2026-24",
+      "name": "Behruzjon KARIMOV",
+      "shirtNumber": 24,
+      "position": "DEF"
+    },
+    {
+      "id": "uzbekistan-2026-25",
+      "name": "Avazbek ULMASALIYEV",
+      "shirtNumber": 25,
+      "position": "DEF"
+    },
+    {
+      "id": "uzbekistan-2026-26",
+      "name": "Jakhongir UROZOV",
+      "shirtNumber": 26,
+      "position": "DEF"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group Stage",
+      "opponent": "Colombia",
+      "score": "1–3",
+      "scorers": [
+        {
+          "name": "Daniel MUÑOZ MEJIA",
+          "minute": 40,
+          "ownGoal": false
+        },
+        {
+          "name": "Abbosbek FAYZULLAEV",
+          "minute": 60,
+          "ownGoal": false
+        },
+        {
+          "name": "Luis Fernando DÍAZ MARULANDA",
+          "minute": 65,
+          "ownGoal": false
+        },
+        {
+          "name": "Jaminton Leandro CAMPAZ",
+          "minute": 90,
+          "ownGoal": false
+        }
+      ],
+      "date": "2026-06-17"
+    },
+    {
+      "stage": "Group Stage",
+      "opponent": "Portugal",
+      "score": "5–0",
+      "scorers": [
+        {
+          "name": "Cristiano Ronaldo DOS SANTOS AVEIRO",
+          "minute": 6,
+          "ownGoal": false
+        },
+        {
+          "name": "Nuno Alexandre TAVARES MENDES",
+          "minute": 17,
+          "ownGoal": false
+        },
+        {
+          "name": "Cristiano Ronaldo DOS SANTOS AVEIRO",
+          "minute": 39,
+          "ownGoal": false
+        },
+        {
+          "name": "Abdukodir KHUSANOV",
+          "minute": 60,
+          "ownGoal": true
+        },
+        {
+          "name": "Rafael Alexandre DA CONCEIÇÃO LEÃO",
+          "minute": 87,
+          "ownGoal": false
+        }
+      ],
+      "date": "2026-06-23"
+    },
+    {
+      "stage": "Group Stage",
+      "opponent": "Congo DR",
+      "score": "3–1",
+      "scorers": [
+        {
+          "name": "Eldor SHOMURODOV",
+          "minute": 10,
+          "ownGoal": false
+        },
+        {
+          "name": "Yoane WISSA",
+          "minute": 68,
+          "ownGoal": false
+        },
+        {
+          "name": "Mayele Fiston KALALA",
+          "minute": 78,
+          "ownGoal": false
+        },
+        {
+          "name": "Yoane WISSA",
+          "minute": 90,
+          "ownGoal": false
+        }
+      ],
+      "date": "2026-06-28"
+    }
+  ],
+  "sources": [
+    "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/final-tournament-standings",
+    "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/teams",
+    "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+    "https://github.com/openfootball/worldcup.json",
+    "https://github.com/mominullptr/FIFA-World-Cup-2026-Dataset"
+  ]
+}

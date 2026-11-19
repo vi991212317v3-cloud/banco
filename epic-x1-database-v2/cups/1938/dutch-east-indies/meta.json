@@ -1,0 +1,173 @@
+{
+  "country": "Dutch East Indies",
+  "countrySlug": "dutch-east-indies",
+  "year": 1938,
+  "edition": "1938",
+  "host": "France",
+  "coach": "Johan Mastenbroek",
+  "finalPhase": "Round of 16",
+  "result": "Round of 16",
+  "squad": [
+    {
+      "id": "dutch-east-indies-1938-007",
+      "name": "Achmad Nawir",
+      "shirtNumber": null,
+      "position": "MID"
+    },
+    {
+      "id": "dutch-east-indies-1938-002",
+      "name": "Dorst",
+      "shirtNumber": null,
+      "position": "DEF"
+    },
+    {
+      "id": "dutch-east-indies-1938-006",
+      "name": "Frans Alfred Meeng",
+      "shirtNumber": null,
+      "position": "MID"
+    },
+    {
+      "id": "dutch-east-indies-1938-005",
+      "name": "Frans Hu Kon",
+      "shirtNumber": null,
+      "position": "DEF"
+    },
+    {
+      "id": "dutch-east-indies-1938-003",
+      "name": "Gerrit Faulhaber",
+      "shirtNumber": null,
+      "position": "MID"
+    },
+    {
+      "id": "dutch-east-indies-1938-011",
+      "name": "Hans Taihuttu",
+      "shirtNumber": null,
+      "position": "ATT"
+    },
+    {
+      "id": "dutch-east-indies-1938-018",
+      "name": "Hendrikus Zomers",
+      "shirtNumber": null,
+      "position": "ATT"
+    },
+    {
+      "id": "dutch-east-indies-1938-016",
+      "name": "Hong Djien The",
+      "shirtNumber": null,
+      "position": "ATT"
+    },
+    {
+      "id": "dutch-east-indies-1938-008",
+      "name": "Isaak Pattiwael",
+      "shirtNumber": null,
+      "position": "ATT"
+    },
+    {
+      "id": "dutch-east-indies-1938-009",
+      "name": "Jack Samuels",
+      "shirtNumber": null,
+      "position": "DEF"
+    },
+    {
+      "id": "dutch-east-indies-1938-004",
+      "name": "Jan Harting",
+      "shirtNumber": null,
+      "position": "DEF"
+    },
+    {
+      "id": "dutch-east-indies-1938-019",
+      "name": "Leen van Beuzekom",
+      "shirtNumber": null,
+      "position": "GK"
+    },
+    {
+      "id": "dutch-east-indies-1938-012",
+      "name": "Mo Heng Tan",
+      "shirtNumber": null,
+      "position": "GK"
+    },
+    {
+      "id": "dutch-east-indies-1938-015",
+      "name": "Rudi Telwe",
+      "shirtNumber": null,
+      "position": "ATT"
+    },
+    {
+      "id": "dutch-east-indies-1938-013",
+      "name": "See Han Tan",
+      "shirtNumber": null,
+      "position": "ATT"
+    },
+    {
+      "id": "dutch-east-indies-1938-001",
+      "name": "Sutan Anwar",
+      "shirtNumber": null,
+      "position": "MID"
+    },
+    {
+      "id": "dutch-east-indies-1938-010",
+      "name": "Suvarte Soedarmadji",
+      "shirtNumber": null,
+      "position": "ATT"
+    },
+    {
+      "id": "dutch-east-indies-1938-014",
+      "name": "Teilherber",
+      "shirtNumber": null,
+      "position": "ATT"
+    },
+    {
+      "id": "dutch-east-indies-1938-017",
+      "name": "Van Den Burgh",
+      "shirtNumber": null,
+      "position": "MID"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Round of 16",
+      "opponent": "Hungary",
+      "score": "6–0",
+      "scorers": [
+        {
+          "name": "Vilmos Kohut",
+          "minute": "13'",
+          "ownGoal": false
+        },
+        {
+          "name": "Géza Toldi",
+          "minute": "15'",
+          "ownGoal": false
+        },
+        {
+          "name": "György Sárosi",
+          "minute": "28'",
+          "ownGoal": false
+        },
+        {
+          "name": "Gyula Zsengellér",
+          "minute": "35'",
+          "ownGoal": false
+        },
+        {
+          "name": "Gyula Zsengellér",
+          "minute": "76'",
+          "ownGoal": false
+        },
+        {
+          "name": "György Sárosi",
+          "minute": "89'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1938-06-05"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

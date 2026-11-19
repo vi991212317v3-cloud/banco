@@ -1,0 +1,233 @@
+{
+  "country": "Belgium",
+  "countrySlug": "belgium",
+  "year": 1982,
+  "edition": "1982",
+  "host": "Spain",
+  "coach": "Guy Thys",
+  "finalPhase": "Second Group Stage",
+  "result": "Second Group Stage",
+  "squad": [
+    {
+      "id": "belgium-1982-1",
+      "name": "Jean-Marie Pfaff",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "belgium-1982-2",
+      "name": "Eric Gerets",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "belgium-1982-3",
+      "name": "Luc Millecamps",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "belgium-1982-4",
+      "name": "Walter Meeuws",
+      "shirtNumber": 4,
+      "position": "DEF"
+    },
+    {
+      "id": "belgium-1982-5",
+      "name": "Michel Renquin",
+      "shirtNumber": 5,
+      "position": "DEF"
+    },
+    {
+      "id": "belgium-1982-6",
+      "name": "Franky Vercauteren",
+      "shirtNumber": 6,
+      "position": "ATT"
+    },
+    {
+      "id": "belgium-1982-7",
+      "name": "Jos Daerden",
+      "shirtNumber": 7,
+      "position": "MID"
+    },
+    {
+      "id": "belgium-1982-8",
+      "name": "Wilfried Van Moer",
+      "shirtNumber": 8,
+      "position": "MID"
+    },
+    {
+      "id": "belgium-1982-9",
+      "name": "Erwin Vandenbergh",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "belgium-1982-10",
+      "name": "Ludo Coeck",
+      "shirtNumber": 10,
+      "position": "MID"
+    },
+    {
+      "id": "belgium-1982-11",
+      "name": "Jan Ceulemans",
+      "shirtNumber": 11,
+      "position": "MID"
+    },
+    {
+      "id": "belgium-1982-12",
+      "name": "Theo Custers",
+      "shirtNumber": 12,
+      "position": "GK"
+    },
+    {
+      "id": "belgium-1982-13",
+      "name": "François Van Der Elst",
+      "shirtNumber": 13,
+      "position": "ATT"
+    },
+    {
+      "id": "belgium-1982-14",
+      "name": "Marc Baecke",
+      "shirtNumber": 14,
+      "position": "DEF"
+    },
+    {
+      "id": "belgium-1982-15",
+      "name": "Maurits De Schrijver",
+      "shirtNumber": 15,
+      "position": "DEF"
+    },
+    {
+      "id": "belgium-1982-16",
+      "name": "Gerard Plessers",
+      "shirtNumber": 16,
+      "position": "DEF"
+    },
+    {
+      "id": "belgium-1982-17",
+      "name": "René Verheyen",
+      "shirtNumber": 17,
+      "position": "MID"
+    },
+    {
+      "id": "belgium-1982-18",
+      "name": "Raymond Mommens",
+      "shirtNumber": 18,
+      "position": "ATT"
+    },
+    {
+      "id": "belgium-1982-19",
+      "name": "Marc Millecamps",
+      "shirtNumber": 19,
+      "position": "MID"
+    },
+    {
+      "id": "belgium-1982-20",
+      "name": "Guy Vandersmissen",
+      "shirtNumber": 20,
+      "position": "MID"
+    },
+    {
+      "id": "belgium-1982-21",
+      "name": "Alexandre Czerniatynski",
+      "shirtNumber": 21,
+      "position": "ATT"
+    },
+    {
+      "id": "belgium-1982-22",
+      "name": "Jacky Munaron",
+      "shirtNumber": 22,
+      "position": "GK"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "Argentina",
+      "score": "0–1",
+      "scorers": [
+        {
+          "name": "Erwin Vandenbergh",
+          "minute": "62'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1982-06-13"
+    },
+    {
+      "stage": "Group",
+      "opponent": "El Salvador",
+      "score": "1–0",
+      "scorers": [
+        {
+          "name": "Ludo Coeck",
+          "minute": "19'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1982-06-19"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Hungary",
+      "score": "1–1",
+      "scorers": [
+        {
+          "name": "József Varga",
+          "minute": "27'",
+          "ownGoal": false
+        },
+        {
+          "name": "Alexandre Czerniatynski",
+          "minute": "76'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1982-06-22"
+    },
+    {
+      "stage": "Second Group Stage",
+      "opponent": "Poland",
+      "score": "3–0",
+      "scorers": [
+        {
+          "name": "Zbigniew Boniek",
+          "minute": "4'",
+          "ownGoal": false
+        },
+        {
+          "name": "Zbigniew Boniek",
+          "minute": "26'",
+          "ownGoal": false
+        },
+        {
+          "name": "Zbigniew Boniek",
+          "minute": "53'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1982-06-28"
+    },
+    {
+      "stage": "Second Group Stage",
+      "opponent": "Soviet Union",
+      "score": "0–1",
+      "scorers": [
+        {
+          "name": "Khoren Hovhannisyan",
+          "minute": "48'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1982-07-01"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

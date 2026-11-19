@@ -1,0 +1,179 @@
+{
+  "country": "Bolivia",
+  "countrySlug": "bolivia",
+  "year": 1930,
+  "edition": "1930",
+  "host": "Uruguay",
+  "coach": "Ulises Saucedo",
+  "finalPhase": "Group Stage",
+  "result": "Group Stage",
+  "squad": [
+    {
+      "id": "bolivia-1930-006",
+      "name": "Casiano Chavarría",
+      "shirtNumber": null,
+      "position": "DEF"
+    },
+    {
+      "id": "bolivia-1930-013",
+      "name": "Constantino Noya",
+      "shirtNumber": null,
+      "position": "MID"
+    },
+    {
+      "id": "bolivia-1930-010",
+      "name": "Diógenes Lara",
+      "shirtNumber": null,
+      "position": "MID"
+    },
+    {
+      "id": "bolivia-1930-014",
+      "name": "Eduardo Reyes Ortiz",
+      "shirtNumber": null,
+      "position": "ATT"
+    },
+    {
+      "id": "bolivia-1930-009",
+      "name": "Gumercindo Gómez",
+      "shirtNumber": null,
+      "position": "ATT"
+    },
+    {
+      "id": "bolivia-1930-003",
+      "name": "Jesús Bermúdez",
+      "shirtNumber": null,
+      "position": "GK"
+    },
+    {
+      "id": "bolivia-1930-017",
+      "name": "Jorge Valderrama",
+      "shirtNumber": null,
+      "position": "MID"
+    },
+    {
+      "id": "bolivia-1930-005",
+      "name": "José Bustamante",
+      "shirtNumber": null,
+      "position": "ATT"
+    },
+    {
+      "id": "bolivia-1930-002",
+      "name": "Juan Argote",
+      "shirtNumber": null,
+      "position": "MID"
+    },
+    {
+      "id": "bolivia-1930-015",
+      "name": "Luis Reyes Peñaranda",
+      "shirtNumber": null,
+      "position": "DEF"
+    },
+    {
+      "id": "bolivia-1930-001",
+      "name": "Mario Alborta",
+      "shirtNumber": null,
+      "position": "ATT"
+    },
+    {
+      "id": "bolivia-1930-004",
+      "name": "Miguel Brito",
+      "shirtNumber": null,
+      "position": "MID"
+    },
+    {
+      "id": "bolivia-1930-011",
+      "name": "Miguel Murillo",
+      "shirtNumber": null,
+      "position": "GK"
+    },
+    {
+      "id": "bolivia-1930-012",
+      "name": "Rafael Méndez",
+      "shirtNumber": null,
+      "position": "ATT"
+    },
+    {
+      "id": "bolivia-1930-016",
+      "name": "Renato Sáinz",
+      "shirtNumber": null,
+      "position": "MID"
+    },
+    {
+      "id": "bolivia-1930-008",
+      "name": "René Fernández",
+      "shirtNumber": null,
+      "position": "ATT"
+    },
+    {
+      "id": "bolivia-1930-007",
+      "name": "Segundo Durandal",
+      "shirtNumber": null,
+      "position": "DEF"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "Yugoslavia",
+      "score": "4–0",
+      "scorers": [
+        {
+          "name": "Ivan Bek",
+          "minute": "60'",
+          "ownGoal": false
+        },
+        {
+          "name": "Blagoje Marjanović",
+          "minute": "65'",
+          "ownGoal": false
+        },
+        {
+          "name": "Ivan Bek",
+          "minute": "67'",
+          "ownGoal": false
+        },
+        {
+          "name": "Đorđe Vujadinović",
+          "minute": "85'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1930-07-17"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Brazil",
+      "score": "4–0",
+      "scorers": [
+        {
+          "name": "Moderato",
+          "minute": "37'",
+          "ownGoal": false
+        },
+        {
+          "name": "Preguinho",
+          "minute": "57'",
+          "ownGoal": false
+        },
+        {
+          "name": "Moderato",
+          "minute": "73'",
+          "ownGoal": false
+        },
+        {
+          "name": "Preguinho",
+          "minute": "83'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1930-07-20"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

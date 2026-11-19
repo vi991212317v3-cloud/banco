@@ -1,0 +1,235 @@
+{
+  "country": "El Salvador",
+  "countrySlug": "el-salvador",
+  "year": 1982,
+  "edition": "1982",
+  "host": "Spain",
+  "coach": "Mauricio Rodríguez",
+  "finalPhase": "Group Stage",
+  "result": "Group Stage",
+  "squad": [
+    {
+      "id": "el-salvador-1982-1",
+      "name": "Luis Guevara Mora",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "el-salvador-1982-2",
+      "name": "Mario Castillo",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "el-salvador-1982-3",
+      "name": "José Francisco Jovel",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "el-salvador-1982-4",
+      "name": "Carlos Recinos",
+      "shirtNumber": 4,
+      "position": "DEF"
+    },
+    {
+      "id": "el-salvador-1982-5",
+      "name": "Ramón Fagoaga",
+      "shirtNumber": 5,
+      "position": "DEF"
+    },
+    {
+      "id": "el-salvador-1982-6",
+      "name": "Joaquín Ventura",
+      "shirtNumber": 6,
+      "position": "MID"
+    },
+    {
+      "id": "el-salvador-1982-7",
+      "name": "Silvio Aquino",
+      "shirtNumber": 7,
+      "position": "MID"
+    },
+    {
+      "id": "el-salvador-1982-8",
+      "name": "José Luis Rugamas",
+      "shirtNumber": 8,
+      "position": "MID"
+    },
+    {
+      "id": "el-salvador-1982-9",
+      "name": "Ever Hernández",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "el-salvador-1982-10",
+      "name": "Norberto Huezo",
+      "shirtNumber": 10,
+      "position": "MID"
+    },
+    {
+      "id": "el-salvador-1982-11",
+      "name": "Jorge González",
+      "shirtNumber": 11,
+      "position": "ATT"
+    },
+    {
+      "id": "el-salvador-1982-12",
+      "name": "Francisco Osorto",
+      "shirtNumber": 12,
+      "position": "DEF"
+    },
+    {
+      "id": "el-salvador-1982-13",
+      "name": "José María Rivas",
+      "shirtNumber": 13,
+      "position": "ATT"
+    },
+    {
+      "id": "el-salvador-1982-14",
+      "name": "Luis Ramírez Zapata",
+      "shirtNumber": 14,
+      "position": "ATT"
+    },
+    {
+      "id": "el-salvador-1982-15",
+      "name": "Jaime Rodríguez",
+      "shirtNumber": 15,
+      "position": "DEF"
+    },
+    {
+      "id": "el-salvador-1982-16",
+      "name": "Mauricio Alfaro",
+      "shirtNumber": 16,
+      "position": "MID"
+    },
+    {
+      "id": "el-salvador-1982-17",
+      "name": "Guillermo Ragazzone",
+      "shirtNumber": 17,
+      "position": "ATT"
+    },
+    {
+      "id": "el-salvador-1982-18",
+      "name": "Miguel Ángel Díaz",
+      "shirtNumber": 18,
+      "position": "DEF"
+    },
+    {
+      "id": "el-salvador-1982-19",
+      "name": "Eduardo Hernández",
+      "shirtNumber": 19,
+      "position": "GK"
+    },
+    {
+      "id": "el-salvador-1982-20",
+      "name": "José Luis Munguía",
+      "shirtNumber": 20,
+      "position": "GK"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "Hungary",
+      "score": "10–1",
+      "scorers": [
+        {
+          "name": "Tibor Nyilasi",
+          "minute": "4'",
+          "ownGoal": false
+        },
+        {
+          "name": "Gábor Pölöskei",
+          "minute": "11'",
+          "ownGoal": false
+        },
+        {
+          "name": "László Fazekas",
+          "minute": "23'",
+          "ownGoal": false
+        },
+        {
+          "name": "József Tóth",
+          "minute": "50'",
+          "ownGoal": false
+        },
+        {
+          "name": "László Fazekas",
+          "minute": "54'",
+          "ownGoal": false
+        },
+        {
+          "name": "Luis Ramírez Zapata",
+          "minute": "64'",
+          "ownGoal": false
+        },
+        {
+          "name": "László Kiss",
+          "minute": "69'",
+          "ownGoal": false
+        },
+        {
+          "name": "Lázár Szentes",
+          "minute": "70'",
+          "ownGoal": false
+        },
+        {
+          "name": "László Kiss",
+          "minute": "72'",
+          "ownGoal": false
+        },
+        {
+          "name": "László Kiss",
+          "minute": "76'",
+          "ownGoal": false
+        },
+        {
+          "name": "Tibor Nyilasi",
+          "minute": "83'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1982-06-15"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Belgium",
+      "score": "1–0",
+      "scorers": [
+        {
+          "name": "Ludo Coeck",
+          "minute": "19'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1982-06-19"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Argentina",
+      "score": "2–0",
+      "scorers": [
+        {
+          "name": "Daniel Passarella",
+          "minute": "22'",
+          "ownGoal": false
+        },
+        {
+          "name": "Daniel Bertoni",
+          "minute": "54'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1982-06-23"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

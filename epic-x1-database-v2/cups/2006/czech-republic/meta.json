@@ -1,0 +1,218 @@
+{
+  "country": "Czech Republic",
+  "countrySlug": "czech-republic",
+  "year": 2006,
+  "edition": "2006",
+  "host": "Germany",
+  "coach": "Karel Brückner",
+  "finalPhase": "Group Stage",
+  "result": "Group Stage",
+  "squad": [
+    {
+      "id": "czech-republic-2006-1",
+      "name": "Petr Čech",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "czech-republic-2006-2",
+      "name": "Zdeněk Grygera",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "czech-republic-2006-3",
+      "name": "Pavel Mareš",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "czech-republic-2006-4",
+      "name": "Tomáš Galásek",
+      "shirtNumber": 4,
+      "position": "MID"
+    },
+    {
+      "id": "czech-republic-2006-5",
+      "name": "Radoslav Kováč",
+      "shirtNumber": 5,
+      "position": "DEF"
+    },
+    {
+      "id": "czech-republic-2006-6",
+      "name": "Marek Jankulovski",
+      "shirtNumber": 6,
+      "position": "DEF"
+    },
+    {
+      "id": "czech-republic-2006-7",
+      "name": "Libor Sionko",
+      "shirtNumber": 7,
+      "position": "MID"
+    },
+    {
+      "id": "czech-republic-2006-8",
+      "name": "Karel Poborský",
+      "shirtNumber": 8,
+      "position": "MID"
+    },
+    {
+      "id": "czech-republic-2006-9",
+      "name": "Jan Koller",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "czech-republic-2006-10",
+      "name": "Tomáš Rosický",
+      "shirtNumber": 10,
+      "position": "MID"
+    },
+    {
+      "id": "czech-republic-2006-11",
+      "name": "Pavel Nedvěd",
+      "shirtNumber": 11,
+      "position": "MID"
+    },
+    {
+      "id": "czech-republic-2006-12",
+      "name": "Vratislav Lokvenc",
+      "shirtNumber": 12,
+      "position": "ATT"
+    },
+    {
+      "id": "czech-republic-2006-13",
+      "name": "Martin Jiránek",
+      "shirtNumber": 13,
+      "position": "DEF"
+    },
+    {
+      "id": "czech-republic-2006-14",
+      "name": "David Jarolím",
+      "shirtNumber": 14,
+      "position": "MID"
+    },
+    {
+      "id": "czech-republic-2006-15",
+      "name": "Milan Baroš",
+      "shirtNumber": 15,
+      "position": "ATT"
+    },
+    {
+      "id": "czech-republic-2006-16",
+      "name": "Jaromír Blažek",
+      "shirtNumber": 16,
+      "position": "GK"
+    },
+    {
+      "id": "czech-republic-2006-17",
+      "name": "Jiří Štajner",
+      "shirtNumber": 17,
+      "position": "ATT"
+    },
+    {
+      "id": "czech-republic-2006-18",
+      "name": "Marek Heinz",
+      "shirtNumber": 18,
+      "position": "ATT"
+    },
+    {
+      "id": "czech-republic-2006-19",
+      "name": "Jan Polák",
+      "shirtNumber": 19,
+      "position": "MID"
+    },
+    {
+      "id": "czech-republic-2006-20",
+      "name": "Jaroslav Plašil",
+      "shirtNumber": 20,
+      "position": "MID"
+    },
+    {
+      "id": "czech-republic-2006-21",
+      "name": "Tomáš Ujfaluši",
+      "shirtNumber": 21,
+      "position": "DEF"
+    },
+    {
+      "id": "czech-republic-2006-22",
+      "name": "David Rozehnal",
+      "shirtNumber": 22,
+      "position": "DEF"
+    },
+    {
+      "id": "czech-republic-2006-23",
+      "name": "Antonín Kinský",
+      "shirtNumber": 23,
+      "position": "GK"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "United States",
+      "score": "0–3",
+      "scorers": [
+        {
+          "name": "Jan Koller",
+          "minute": "5'",
+          "ownGoal": false
+        },
+        {
+          "name": "Tomáš Rosický",
+          "minute": "36'",
+          "ownGoal": false
+        },
+        {
+          "name": "Tomáš Rosický",
+          "minute": "76'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2006-06-12"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Ghana",
+      "score": "0–2",
+      "scorers": [
+        {
+          "name": "Asamoah Gyan",
+          "minute": "2'",
+          "ownGoal": false
+        },
+        {
+          "name": "Sulley Muntari",
+          "minute": "82'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2006-06-17"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Italy",
+      "score": "0–2",
+      "scorers": [
+        {
+          "name": "Marco Materazzi",
+          "minute": "26'",
+          "ownGoal": false
+        },
+        {
+          "name": "Filippo Inzaghi",
+          "minute": "87'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2006-06-22"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

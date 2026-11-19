@@ -1,0 +1,274 @@
+{
+  "country": "Croatia",
+  "countrySlug": "croatia",
+  "year": 2026,
+  "edition": "2026",
+  "host": "Canada, Mexico and United States",
+  "coach": "DALIC Zlatko",
+  "finalPhase": "Round of 32",
+  "result": "Round of 32",
+  "squad": [
+    {
+      "id": "croatia-2026-1",
+      "name": "Dominik LIVAKOVIĆ",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "croatia-2026-2",
+      "name": "Josip STANIŠIĆ",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "croatia-2026-3",
+      "name": "Marin PONGRAČIĆ",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "croatia-2026-4",
+      "name": "Joško GVARDIOL",
+      "shirtNumber": 4,
+      "position": "DEF"
+    },
+    {
+      "id": "croatia-2026-5",
+      "name": "Duje ĆALETA-CAR",
+      "shirtNumber": 5,
+      "position": "DEF"
+    },
+    {
+      "id": "croatia-2026-6",
+      "name": "Josip ŠUTALO",
+      "shirtNumber": 6,
+      "position": "DEF"
+    },
+    {
+      "id": "croatia-2026-7",
+      "name": "Nikola MORO",
+      "shirtNumber": 7,
+      "position": "MID"
+    },
+    {
+      "id": "croatia-2026-8",
+      "name": "Mateo KOVAČIĆ",
+      "shirtNumber": 8,
+      "position": "MID"
+    },
+    {
+      "id": "croatia-2026-9",
+      "name": "Andrej KRAMARIĆ",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "croatia-2026-10",
+      "name": "Luka MODRIĆ",
+      "shirtNumber": 10,
+      "position": "MID"
+    },
+    {
+      "id": "croatia-2026-11",
+      "name": "Ante BUDIMIR",
+      "shirtNumber": 11,
+      "position": "ATT"
+    },
+    {
+      "id": "croatia-2026-12",
+      "name": "Ivor PANDUR",
+      "shirtNumber": 12,
+      "position": "GK"
+    },
+    {
+      "id": "croatia-2026-13",
+      "name": "Nikola VLAŠIĆ",
+      "shirtNumber": 13,
+      "position": "MID"
+    },
+    {
+      "id": "croatia-2026-14",
+      "name": "Ivan PERIŠIĆ",
+      "shirtNumber": 14,
+      "position": "ATT"
+    },
+    {
+      "id": "croatia-2026-15",
+      "name": "Mario PAŠALIĆ",
+      "shirtNumber": 15,
+      "position": "MID"
+    },
+    {
+      "id": "croatia-2026-16",
+      "name": "Martin BATURINA",
+      "shirtNumber": 16,
+      "position": "MID"
+    },
+    {
+      "id": "croatia-2026-17",
+      "name": "Petar SUČIĆ",
+      "shirtNumber": 17,
+      "position": "MID"
+    },
+    {
+      "id": "croatia-2026-18",
+      "name": "Kristijan JAKIĆ",
+      "shirtNumber": 18,
+      "position": "DEF"
+    },
+    {
+      "id": "croatia-2026-19",
+      "name": "Toni FRUK",
+      "shirtNumber": 19,
+      "position": "MID"
+    },
+    {
+      "id": "croatia-2026-20",
+      "name": "Igor MATANOVIĆ",
+      "shirtNumber": 20,
+      "position": "ATT"
+    },
+    {
+      "id": "croatia-2026-21",
+      "name": "Luka SUČIĆ",
+      "shirtNumber": 21,
+      "position": "MID"
+    },
+    {
+      "id": "croatia-2026-22",
+      "name": "Luka VUŠKOVIĆ",
+      "shirtNumber": 22,
+      "position": "DEF"
+    },
+    {
+      "id": "croatia-2026-23",
+      "name": "Dominik KOTARSKI",
+      "shirtNumber": 23,
+      "position": "GK"
+    },
+    {
+      "id": "croatia-2026-24",
+      "name": "Marco PAŠALIĆ",
+      "shirtNumber": 24,
+      "position": "ATT"
+    },
+    {
+      "id": "croatia-2026-25",
+      "name": "Martin ERLIĆ",
+      "shirtNumber": 25,
+      "position": "DEF"
+    },
+    {
+      "id": "croatia-2026-26",
+      "name": "Petar MUSA",
+      "shirtNumber": 26,
+      "position": "ATT"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group Stage",
+      "opponent": "England",
+      "score": "4–2",
+      "scorers": [
+        {
+          "name": "Harry Edward KANE",
+          "minute": 12,
+          "ownGoal": false
+        },
+        {
+          "name": "Martin BATURINA",
+          "minute": 36,
+          "ownGoal": false
+        },
+        {
+          "name": "Harry Edward KANE",
+          "minute": 42,
+          "ownGoal": false
+        },
+        {
+          "name": "Petar MUSA",
+          "minute": 45,
+          "ownGoal": false
+        },
+        {
+          "name": "Jude Victor William BELLINGHAM",
+          "minute": 47,
+          "ownGoal": false
+        },
+        {
+          "name": "Marcus RASHFORD",
+          "minute": 85,
+          "ownGoal": false
+        }
+      ],
+      "date": "2026-06-17"
+    },
+    {
+      "stage": "Group Stage",
+      "opponent": "Panama",
+      "score": "0–1",
+      "scorers": [
+        {
+          "name": "Ante BUDIMIR",
+          "minute": 54,
+          "ownGoal": false
+        }
+      ],
+      "date": "2026-06-23"
+    },
+    {
+      "stage": "Group Stage",
+      "opponent": "Ghana",
+      "score": "2–1",
+      "scorers": [
+        {
+          "name": "Petar SUČIĆ",
+          "minute": 31,
+          "ownGoal": false
+        },
+        {
+          "name": "Derrick LUCKASSEN",
+          "minute": 73,
+          "ownGoal": false
+        },
+        {
+          "name": "Nikola VLAŠIĆ",
+          "minute": 83,
+          "ownGoal": false
+        }
+      ],
+      "date": "2026-06-28"
+    },
+    {
+      "stage": "Round of 32",
+      "opponent": "Portugal",
+      "score": "2–1",
+      "scorers": [
+        {
+          "name": "Ivan PERIŠIĆ",
+          "minute": 53,
+          "ownGoal": false
+        },
+        {
+          "name": "Cristiano Ronaldo DOS SANTOS AVEIRO",
+          "minute": 68,
+          "ownGoal": false
+        },
+        {
+          "name": "RAMOSGonçalo Goncalo",
+          "minute": 90,
+          "ownGoal": false
+        }
+      ],
+      "date": "2026-07-03"
+    }
+  ],
+  "sources": [
+    "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/final-tournament-standings",
+    "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/teams",
+    "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+    "https://github.com/openfootball/worldcup.json",
+    "https://github.com/mominullptr/FIFA-World-Cup-2026-Dataset"
+  ]
+}

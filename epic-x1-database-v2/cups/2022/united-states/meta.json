@@ -1,0 +1,243 @@
+{
+  "country": "United States",
+  "countrySlug": "united-states",
+  "year": 2022,
+  "edition": "2022",
+  "host": "Qatar",
+  "coach": "Gregg Berhalter",
+  "finalPhase": "Round of 16",
+  "result": "Round of 16",
+  "squad": [
+    {
+      "id": "united-states-2022-1",
+      "name": "Matt Turner",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "united-states-2022-2",
+      "name": "Sergiño Dest",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "united-states-2022-3",
+      "name": "Walker Zimmerman",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "united-states-2022-4",
+      "name": "Tyler Adams",
+      "shirtNumber": 4,
+      "position": "MID"
+    },
+    {
+      "id": "united-states-2022-5",
+      "name": "Antonee Robinson",
+      "shirtNumber": 5,
+      "position": "DEF"
+    },
+    {
+      "id": "united-states-2022-6",
+      "name": "Yunus Musah",
+      "shirtNumber": 6,
+      "position": "MID"
+    },
+    {
+      "id": "united-states-2022-7",
+      "name": "Giovanni Reyna",
+      "shirtNumber": 7,
+      "position": "ATT"
+    },
+    {
+      "id": "united-states-2022-8",
+      "name": "Weston McKennie",
+      "shirtNumber": 8,
+      "position": "MID"
+    },
+    {
+      "id": "united-states-2022-9",
+      "name": "Jesús Ferreira",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "united-states-2022-10",
+      "name": "Christian Pulisic",
+      "shirtNumber": 10,
+      "position": "ATT"
+    },
+    {
+      "id": "united-states-2022-11",
+      "name": "Brenden Aaronson",
+      "shirtNumber": 11,
+      "position": "ATT"
+    },
+    {
+      "id": "united-states-2022-12",
+      "name": "Ethan Horvath",
+      "shirtNumber": 12,
+      "position": "GK"
+    },
+    {
+      "id": "united-states-2022-13",
+      "name": "Tim Ream",
+      "shirtNumber": 13,
+      "position": "DEF"
+    },
+    {
+      "id": "united-states-2022-14",
+      "name": "Luca de la Torre",
+      "shirtNumber": 14,
+      "position": "MID"
+    },
+    {
+      "id": "united-states-2022-15",
+      "name": "Aaron Long",
+      "shirtNumber": 15,
+      "position": "DEF"
+    },
+    {
+      "id": "united-states-2022-16",
+      "name": "Jordan Morris",
+      "shirtNumber": 16,
+      "position": "ATT"
+    },
+    {
+      "id": "united-states-2022-17",
+      "name": "Cristian Roldan",
+      "shirtNumber": 17,
+      "position": "MID"
+    },
+    {
+      "id": "united-states-2022-18",
+      "name": "Shaq Moore",
+      "shirtNumber": 18,
+      "position": "DEF"
+    },
+    {
+      "id": "united-states-2022-19",
+      "name": "Haji Wright",
+      "shirtNumber": 19,
+      "position": "ATT"
+    },
+    {
+      "id": "united-states-2022-20",
+      "name": "Cameron Carter-Vickers",
+      "shirtNumber": 20,
+      "position": "DEF"
+    },
+    {
+      "id": "united-states-2022-21",
+      "name": "Timothy Weah",
+      "shirtNumber": 21,
+      "position": "ATT"
+    },
+    {
+      "id": "united-states-2022-22",
+      "name": "DeAndre Yedlin",
+      "shirtNumber": 22,
+      "position": "DEF"
+    },
+    {
+      "id": "united-states-2022-23",
+      "name": "Kellyn Acosta",
+      "shirtNumber": 23,
+      "position": "MID"
+    },
+    {
+      "id": "united-states-2022-24",
+      "name": "Josh Sargent",
+      "shirtNumber": 24,
+      "position": "ATT"
+    },
+    {
+      "id": "united-states-2022-25",
+      "name": "Sean Johnson",
+      "shirtNumber": 25,
+      "position": "GK"
+    },
+    {
+      "id": "united-states-2022-26",
+      "name": "Joe Scally",
+      "shirtNumber": 26,
+      "position": "DEF"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "Wales",
+      "score": "1–1",
+      "scorers": [
+        {
+          "name": "Timothy Weah",
+          "minute": "36'",
+          "ownGoal": false
+        },
+        {
+          "name": "Gareth Bale",
+          "minute": "82'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2022-11-21"
+    },
+    {
+      "stage": "Group",
+      "opponent": "England",
+      "score": "0–0",
+      "scorers": [],
+      "date": "2022-11-25"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Iran",
+      "score": "0–1",
+      "scorers": [
+        {
+          "name": "Christian Pulisic",
+          "minute": "38'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2022-11-29"
+    },
+    {
+      "stage": "Round of 16",
+      "opponent": "Netherlands",
+      "score": "3–1",
+      "scorers": [
+        {
+          "name": "Memphis Depay",
+          "minute": "10'",
+          "ownGoal": false
+        },
+        {
+          "name": "Daley Blind",
+          "minute": "45'+1'",
+          "ownGoal": false
+        },
+        {
+          "name": "Haji Wright",
+          "minute": "76'",
+          "ownGoal": false
+        },
+        {
+          "name": "Denzel Dumfries",
+          "minute": "81'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2022-12-03"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

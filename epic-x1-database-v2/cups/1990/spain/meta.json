@@ -1,0 +1,234 @@
+{
+  "country": "Spain",
+  "countrySlug": "spain",
+  "year": 1990,
+  "edition": "1990",
+  "host": "Italy",
+  "coach": "Luis Suárez",
+  "finalPhase": "Round of 16",
+  "result": "Round of 16",
+  "squad": [
+    {
+      "id": "spain-1990-1",
+      "name": "Andoni Zubizarreta",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "spain-1990-2",
+      "name": "Chendo",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "spain-1990-3",
+      "name": "Manuel Jiménez",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "spain-1990-4",
+      "name": "Genar Andrinúa",
+      "shirtNumber": 4,
+      "position": "DEF"
+    },
+    {
+      "id": "spain-1990-5",
+      "name": "Manuel Sanchís",
+      "shirtNumber": 5,
+      "position": "DEF"
+    },
+    {
+      "id": "spain-1990-6",
+      "name": "Rafael Martín Vázquez",
+      "shirtNumber": 6,
+      "position": "MID"
+    },
+    {
+      "id": "spain-1990-7",
+      "name": "Miguel Pardeza",
+      "shirtNumber": 7,
+      "position": "ATT"
+    },
+    {
+      "id": "spain-1990-8",
+      "name": "Quique Sánchez Flores",
+      "shirtNumber": 8,
+      "position": "DEF"
+    },
+    {
+      "id": "spain-1990-9",
+      "name": "Emilio Butragueño",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "spain-1990-10",
+      "name": "Fernando",
+      "shirtNumber": 10,
+      "position": "MID"
+    },
+    {
+      "id": "spain-1990-11",
+      "name": "Francisco Villarroya",
+      "shirtNumber": 11,
+      "position": "MID"
+    },
+    {
+      "id": "spain-1990-12",
+      "name": "Rafael Alkorta",
+      "shirtNumber": 12,
+      "position": "DEF"
+    },
+    {
+      "id": "spain-1990-13",
+      "name": "Juan Carlos Ablanedo",
+      "shirtNumber": 13,
+      "position": "GK"
+    },
+    {
+      "id": "spain-1990-14",
+      "name": "Alberto Górriz",
+      "shirtNumber": 14,
+      "position": "DEF"
+    },
+    {
+      "id": "spain-1990-15",
+      "name": "Roberto",
+      "shirtNumber": 15,
+      "position": "MID"
+    },
+    {
+      "id": "spain-1990-16",
+      "name": "José María Bakero",
+      "shirtNumber": 16,
+      "position": "MID"
+    },
+    {
+      "id": "spain-1990-17",
+      "name": "Fernando Hierro",
+      "shirtNumber": 17,
+      "position": "MID"
+    },
+    {
+      "id": "spain-1990-18",
+      "name": "Rafael Paz",
+      "shirtNumber": 18,
+      "position": "MID"
+    },
+    {
+      "id": "spain-1990-19",
+      "name": "Julio Salinas",
+      "shirtNumber": 19,
+      "position": "ATT"
+    },
+    {
+      "id": "spain-1990-20",
+      "name": "Manolo",
+      "shirtNumber": 20,
+      "position": "ATT"
+    },
+    {
+      "id": "spain-1990-21",
+      "name": "Míchel",
+      "shirtNumber": 21,
+      "position": "MID"
+    },
+    {
+      "id": "spain-1990-22",
+      "name": "José Manuel Ochotorena",
+      "shirtNumber": 22,
+      "position": "GK"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "Uruguay",
+      "score": "0–0",
+      "scorers": [],
+      "date": "1990-06-13"
+    },
+    {
+      "stage": "Group",
+      "opponent": "South Korea",
+      "score": "1–3",
+      "scorers": [
+        {
+          "name": "Míchel",
+          "minute": "23'",
+          "ownGoal": false
+        },
+        {
+          "name": "Kwan Hwangbo",
+          "minute": "43'",
+          "ownGoal": false
+        },
+        {
+          "name": "Míchel",
+          "minute": "61'",
+          "ownGoal": false
+        },
+        {
+          "name": "Míchel",
+          "minute": "81'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1990-06-17"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Belgium",
+      "score": "1–2",
+      "scorers": [
+        {
+          "name": "Míchel",
+          "minute": "26'",
+          "ownGoal": false
+        },
+        {
+          "name": "Patrick Vervoort",
+          "minute": "29'",
+          "ownGoal": false
+        },
+        {
+          "name": "Alberto Górriz",
+          "minute": "38'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1990-06-21"
+    },
+    {
+      "stage": "Round of 16",
+      "opponent": "Yugoslavia",
+      "score": "1–2",
+      "scorers": [
+        {
+          "name": "Dragan Stojković",
+          "minute": "78'",
+          "ownGoal": false
+        },
+        {
+          "name": "Julio Salinas",
+          "minute": "84'",
+          "ownGoal": false
+        },
+        {
+          "name": "Dragan Stojković",
+          "minute": "93'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1990-06-26"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

@@ -1,0 +1,391 @@
+{
+  "country": "France",
+  "countrySlug": "france",
+  "year": 2026,
+  "edition": "2026",
+  "host": "Canada, Mexico and United States",
+  "coach": "DESCHAMPS Didier",
+  "finalPhase": "Third-place match",
+  "result": "Fourth place",
+  "squad": [
+    {
+      "id": "france-2026-1",
+      "name": "Brice Lauriche SAMBA",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "france-2026-2",
+      "name": "Malo Arthur GUSTO",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "france-2026-3",
+      "name": "Lucas DIGNE",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "france-2026-4",
+      "name": "Dayotchanculle Oswald UPAMECANO",
+      "shirtNumber": 4,
+      "position": "DEF"
+    },
+    {
+      "id": "france-2026-5",
+      "name": "Jules Olivier KOUNDE",
+      "shirtNumber": 5,
+      "position": "DEF"
+    },
+    {
+      "id": "france-2026-6",
+      "name": "Kouadio Emmanuel Boris KONE",
+      "shirtNumber": 6,
+      "position": "MID"
+    },
+    {
+      "id": "france-2026-7",
+      "name": "Masour Ousmane DEMBELE",
+      "shirtNumber": 7,
+      "position": "ATT"
+    },
+    {
+      "id": "france-2026-8",
+      "name": "Aurélien Djani TCHOUAMENI",
+      "shirtNumber": 8,
+      "position": "MID"
+    },
+    {
+      "id": "france-2026-9",
+      "name": "Marcus Lilian THURAM-ULIEN",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "france-2026-10",
+      "name": "Kylian MBAPPE LOTTIN",
+      "shirtNumber": 10,
+      "position": "ATT"
+    },
+    {
+      "id": "france-2026-11",
+      "name": "Michael Akpovie OLISE",
+      "shirtNumber": 11,
+      "position": "ATT"
+    },
+    {
+      "id": "france-2026-12",
+      "name": "Bradley Jean-Manuel Essolisa A BARCOLA",
+      "shirtNumber": 12,
+      "position": "ATT"
+    },
+    {
+      "id": "france-2026-13",
+      "name": "N'golo KANTE",
+      "shirtNumber": 13,
+      "position": "MID"
+    },
+    {
+      "id": "france-2026-14",
+      "name": "Adrien Thibault Marie RABIOT",
+      "shirtNumber": 14,
+      "position": "MID"
+    },
+    {
+      "id": "france-2026-15",
+      "name": "Ibrahima KONATÉ",
+      "shirtNumber": 15,
+      "position": "DEF"
+    },
+    {
+      "id": "france-2026-16",
+      "name": "Mike Peterson MAIGNAN",
+      "shirtNumber": 16,
+      "position": "GK"
+    },
+    {
+      "id": "france-2026-17",
+      "name": "William Alain André Gabriel SALIBA",
+      "shirtNumber": 17,
+      "position": "DEF"
+    },
+    {
+      "id": "france-2026-18",
+      "name": "Warren Marie Jean-Pierre ZAÏRE-EMERY",
+      "shirtNumber": 18,
+      "position": "MID"
+    },
+    {
+      "id": "france-2026-19",
+      "name": "Théo Bernard François HERNANDEZ",
+      "shirtNumber": 19,
+      "position": "DEF"
+    },
+    {
+      "id": "france-2026-20",
+      "name": "Désiré Nonka-Maho DOUE",
+      "shirtNumber": 20,
+      "position": "ATT"
+    },
+    {
+      "id": "france-2026-21",
+      "name": "Lucas Francois Bernard HERNANDEZ",
+      "shirtNumber": 21,
+      "position": "DEF"
+    },
+    {
+      "id": "france-2026-22",
+      "name": "Jean-Philippe MATETA",
+      "shirtNumber": 22,
+      "position": "ATT"
+    },
+    {
+      "id": "france-2026-23",
+      "name": "Robin François Philippe RISSER",
+      "shirtNumber": 23,
+      "position": "GK"
+    },
+    {
+      "id": "france-2026-24",
+      "name": "Mathis Rayan CHERKI",
+      "shirtNumber": 24,
+      "position": "MID"
+    },
+    {
+      "id": "france-2026-25",
+      "name": "Maghnes AKLIOUCHE",
+      "shirtNumber": 25,
+      "position": "MID"
+    },
+    {
+      "id": "france-2026-26",
+      "name": "Maxence Guy LACROIX",
+      "shirtNumber": 26,
+      "position": "DEF"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group Stage",
+      "opponent": "Senegal",
+      "score": "3–1",
+      "scorers": [
+        {
+          "name": "Kylian MBAPPE LOTTIN",
+          "minute": 66,
+          "ownGoal": false
+        },
+        {
+          "name": "Bradley Jean-Manuel Essolisa A BARCOLA",
+          "minute": 82,
+          "ownGoal": false
+        },
+        {
+          "name": "Kylian MBAPPE LOTTIN",
+          "minute": 90,
+          "ownGoal": false
+        },
+        {
+          "name": "Ibrahim MBAYE",
+          "minute": 90,
+          "ownGoal": false
+        }
+      ],
+      "date": "2026-06-16"
+    },
+    {
+      "stage": "Group Stage",
+      "opponent": "Iraq",
+      "score": "3–0",
+      "scorers": [
+        {
+          "name": "Kylian MBAPPE LOTTIN",
+          "minute": 14,
+          "ownGoal": false
+        },
+        {
+          "name": "Kylian MBAPPE LOTTIN",
+          "minute": 54,
+          "ownGoal": false
+        },
+        {
+          "name": "Masour Ousmane DEMBELE",
+          "minute": 66,
+          "ownGoal": false
+        }
+      ],
+      "date": "2026-06-22"
+    },
+    {
+      "stage": "Group Stage",
+      "opponent": "Norway",
+      "score": "1–4",
+      "scorers": [
+        {
+          "name": "Masour Ousmane DEMBELE",
+          "minute": 7,
+          "ownGoal": false
+        },
+        {
+          "name": "Masour Ousmane DEMBELE",
+          "minute": 20,
+          "ownGoal": false
+        },
+        {
+          "name": "Thelonious Gerard AASGAARD",
+          "minute": 21,
+          "ownGoal": false
+        },
+        {
+          "name": "Masour Ousmane DEMBELE",
+          "minute": 32,
+          "ownGoal": false
+        },
+        {
+          "name": "Désiré Nonka-Maho DOUE",
+          "minute": 90,
+          "ownGoal": false
+        }
+      ],
+      "date": "2026-06-26"
+    },
+    {
+      "stage": "Round of 32",
+      "opponent": "Sweden",
+      "score": "3–0",
+      "scorers": [
+        {
+          "name": "Kylian MBAPPE LOTTIN",
+          "minute": 45,
+          "ownGoal": false
+        },
+        {
+          "name": "Bradley Jean-Manuel Essolisa A BARCOLA",
+          "minute": 53,
+          "ownGoal": false
+        },
+        {
+          "name": "Kylian MBAPPE LOTTIN",
+          "minute": 74,
+          "ownGoal": false
+        }
+      ],
+      "date": "2026-07-01"
+    },
+    {
+      "stage": "Round of 16",
+      "opponent": "Paraguay",
+      "score": "0–1",
+      "scorers": [
+        {
+          "name": "Kylian MBAPPE LOTTIN",
+          "minute": 70,
+          "ownGoal": false
+        }
+      ],
+      "date": "2026-07-04"
+    },
+    {
+      "stage": "Quarter-finals",
+      "opponent": "Morocco",
+      "score": "2–0",
+      "scorers": [
+        {
+          "name": "Kylian MBAPPE LOTTIN",
+          "minute": 60,
+          "ownGoal": false
+        },
+        {
+          "name": "Bradley Jean-Manuel Essolisa A BARCOLA",
+          "minute": 66,
+          "ownGoal": false
+        }
+      ],
+      "date": "2026-07-09"
+    },
+    {
+      "stage": "Semi-finals",
+      "opponent": "Spain",
+      "score": "0–2",
+      "scorers": [
+        {
+          "name": "Mikel OYARZABAL UGARTE",
+          "minute": 22,
+          "ownGoal": false
+        },
+        {
+          "name": "Pedro Antonio PORRO SAUCEDA",
+          "minute": 58,
+          "ownGoal": false
+        }
+      ],
+      "date": "2026-07-14"
+    },
+    {
+      "stage": "Third-place match",
+      "opponent": "England",
+      "score": "4–6",
+      "scorers": [
+        {
+          "name": "Declan RICE",
+          "minute": 3,
+          "ownGoal": false
+        },
+        {
+          "name": "Ezri Ngoyo KONSA",
+          "minute": 18,
+          "ownGoal": false
+        },
+        {
+          "name": "Bukayo Ayoyinka SAKA",
+          "minute": 37,
+          "ownGoal": false
+        },
+        {
+          "name": "Bukayo Ayoyinka SAKA",
+          "minute": 45,
+          "ownGoal": false
+        },
+        {
+          "name": "Kylian MBAPPE LOTTIN",
+          "minute": 48,
+          "ownGoal": false
+        },
+        {
+          "name": "Bradley Jean-Manuel Essolisa A BARCOLA",
+          "minute": 54,
+          "ownGoal": false
+        },
+        {
+          "name": "Kylian MBAPPE LOTTIN",
+          "minute": 66,
+          "ownGoal": false
+        },
+        {
+          "name": "Bukayo Ayoyinka SAKA",
+          "minute": 87,
+          "ownGoal": false
+        },
+        {
+          "name": "Masour Ousmane DEMBELE",
+          "minute": 90,
+          "ownGoal": false
+        },
+        {
+          "name": "Jude Victor William BELLINGHAM",
+          "minute": 90,
+          "ownGoal": false
+        }
+      ],
+      "date": "2026-07-18"
+    }
+  ],
+  "sources": [
+    "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/final-tournament-standings",
+    "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/teams",
+    "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+    "https://github.com/openfootball/worldcup.json",
+    "https://github.com/mominullptr/FIFA-World-Cup-2026-Dataset"
+  ]
+}

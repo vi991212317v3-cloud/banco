@@ -1,0 +1,228 @@
+{
+  "country": "Australia",
+  "countrySlug": "australia",
+  "year": 2010,
+  "edition": "2010",
+  "host": "South Africa",
+  "coach": "Pim Verbeek",
+  "finalPhase": "Group Stage",
+  "result": "Group Stage",
+  "squad": [
+    {
+      "id": "australia-2010-1",
+      "name": "Mark Schwarzer",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "australia-2010-2",
+      "name": "Lucas Neill",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "australia-2010-3",
+      "name": "Craig Moore",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "australia-2010-4",
+      "name": "Tim Cahill",
+      "shirtNumber": 4,
+      "position": "MID"
+    },
+    {
+      "id": "australia-2010-5",
+      "name": "Jason Culina",
+      "shirtNumber": 5,
+      "position": "MID"
+    },
+    {
+      "id": "australia-2010-6",
+      "name": "Michael Beauchamp",
+      "shirtNumber": 6,
+      "position": "DEF"
+    },
+    {
+      "id": "australia-2010-7",
+      "name": "Brett Emerton",
+      "shirtNumber": 7,
+      "position": "MID"
+    },
+    {
+      "id": "australia-2010-8",
+      "name": "Luke Wilkshire",
+      "shirtNumber": 8,
+      "position": "DEF"
+    },
+    {
+      "id": "australia-2010-9",
+      "name": "Joshua Kennedy",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "australia-2010-10",
+      "name": "Harry Kewell",
+      "shirtNumber": 10,
+      "position": "ATT"
+    },
+    {
+      "id": "australia-2010-11",
+      "name": "Scott Chipperfield",
+      "shirtNumber": 11,
+      "position": "DEF"
+    },
+    {
+      "id": "australia-2010-12",
+      "name": "Adam Federici",
+      "shirtNumber": 12,
+      "position": "GK"
+    },
+    {
+      "id": "australia-2010-13",
+      "name": "Vince Grella",
+      "shirtNumber": 13,
+      "position": "MID"
+    },
+    {
+      "id": "australia-2010-14",
+      "name": "Brett Holman",
+      "shirtNumber": 14,
+      "position": "ATT"
+    },
+    {
+      "id": "australia-2010-15",
+      "name": "Mile Jedinak",
+      "shirtNumber": 15,
+      "position": "MID"
+    },
+    {
+      "id": "australia-2010-16",
+      "name": "Carl Valeri",
+      "shirtNumber": 16,
+      "position": "MID"
+    },
+    {
+      "id": "australia-2010-17",
+      "name": "Nikita Rukavytsya",
+      "shirtNumber": 17,
+      "position": "ATT"
+    },
+    {
+      "id": "australia-2010-18",
+      "name": "Eugene Galekovic",
+      "shirtNumber": 18,
+      "position": "GK"
+    },
+    {
+      "id": "australia-2010-19",
+      "name": "Richard Garcia",
+      "shirtNumber": 19,
+      "position": "MID"
+    },
+    {
+      "id": "australia-2010-20",
+      "name": "Mark Milligan",
+      "shirtNumber": 20,
+      "position": "DEF"
+    },
+    {
+      "id": "australia-2010-21",
+      "name": "David Carney",
+      "shirtNumber": 21,
+      "position": "DEF"
+    },
+    {
+      "id": "australia-2010-22",
+      "name": "Dario Vidošić",
+      "shirtNumber": 22,
+      "position": "MID"
+    },
+    {
+      "id": "australia-2010-23",
+      "name": "Mark Bresciano",
+      "shirtNumber": 23,
+      "position": "MID"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "Germany",
+      "score": "4–0",
+      "scorers": [
+        {
+          "name": "Lukas Podolski",
+          "minute": "8'",
+          "ownGoal": false
+        },
+        {
+          "name": "Miroslav Klose",
+          "minute": "26'",
+          "ownGoal": false
+        },
+        {
+          "name": "Thomas Müller",
+          "minute": "68'",
+          "ownGoal": false
+        },
+        {
+          "name": "Cacau",
+          "minute": "70'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2010-06-13"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Ghana",
+      "score": "1–1",
+      "scorers": [
+        {
+          "name": "Brett Holman",
+          "minute": "11'",
+          "ownGoal": false
+        },
+        {
+          "name": "Asamoah Gyan",
+          "minute": "25'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2010-06-19"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Serbia",
+      "score": "2–1",
+      "scorers": [
+        {
+          "name": "Tim Cahill",
+          "minute": "69'",
+          "ownGoal": false
+        },
+        {
+          "name": "Brett Holman",
+          "minute": "73'",
+          "ownGoal": false
+        },
+        {
+          "name": "Marko Pantelić",
+          "minute": "84'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2010-06-23"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

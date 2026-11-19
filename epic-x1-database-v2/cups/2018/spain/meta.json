@@ -1,0 +1,256 @@
+{
+  "country": "Spain",
+  "countrySlug": "spain",
+  "year": 2018,
+  "edition": "2018",
+  "host": "Russia",
+  "coach": "Fernando Hierro",
+  "finalPhase": "Round of 16",
+  "result": "Round of 16",
+  "squad": [
+    {
+      "id": "spain-2018-1",
+      "name": "David de Gea",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "spain-2018-2",
+      "name": "Dani Carvajal",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "spain-2018-3",
+      "name": "Gerard Piqué",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "spain-2018-4",
+      "name": "Nacho",
+      "shirtNumber": 4,
+      "position": "DEF"
+    },
+    {
+      "id": "spain-2018-5",
+      "name": "Sergio Busquets",
+      "shirtNumber": 5,
+      "position": "MID"
+    },
+    {
+      "id": "spain-2018-6",
+      "name": "Andrés Iniesta",
+      "shirtNumber": 6,
+      "position": "MID"
+    },
+    {
+      "id": "spain-2018-7",
+      "name": "Saúl",
+      "shirtNumber": 7,
+      "position": "MID"
+    },
+    {
+      "id": "spain-2018-8",
+      "name": "Koke",
+      "shirtNumber": 8,
+      "position": "MID"
+    },
+    {
+      "id": "spain-2018-9",
+      "name": "Rodrigo",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "spain-2018-10",
+      "name": "Thiago",
+      "shirtNumber": 10,
+      "position": "MID"
+    },
+    {
+      "id": "spain-2018-11",
+      "name": "Lucas Vázquez",
+      "shirtNumber": 11,
+      "position": "ATT"
+    },
+    {
+      "id": "spain-2018-12",
+      "name": "Álvaro Odriozola",
+      "shirtNumber": 12,
+      "position": "DEF"
+    },
+    {
+      "id": "spain-2018-13",
+      "name": "Kepa Arrizabalaga",
+      "shirtNumber": 13,
+      "position": "GK"
+    },
+    {
+      "id": "spain-2018-14",
+      "name": "César Azpilicueta",
+      "shirtNumber": 14,
+      "position": "DEF"
+    },
+    {
+      "id": "spain-2018-15",
+      "name": "Sergio Ramos",
+      "shirtNumber": 15,
+      "position": "DEF"
+    },
+    {
+      "id": "spain-2018-16",
+      "name": "Nacho Monreal",
+      "shirtNumber": 16,
+      "position": "DEF"
+    },
+    {
+      "id": "spain-2018-17",
+      "name": "Iago Aspas",
+      "shirtNumber": 17,
+      "position": "ATT"
+    },
+    {
+      "id": "spain-2018-18",
+      "name": "Jordi Alba",
+      "shirtNumber": 18,
+      "position": "DEF"
+    },
+    {
+      "id": "spain-2018-19",
+      "name": "Diego Costa",
+      "shirtNumber": 19,
+      "position": "ATT"
+    },
+    {
+      "id": "spain-2018-20",
+      "name": "Marco Asensio",
+      "shirtNumber": 20,
+      "position": "MID"
+    },
+    {
+      "id": "spain-2018-21",
+      "name": "David Silva",
+      "shirtNumber": 21,
+      "position": "ATT"
+    },
+    {
+      "id": "spain-2018-22",
+      "name": "Isco",
+      "shirtNumber": 22,
+      "position": "MID"
+    },
+    {
+      "id": "spain-2018-23",
+      "name": "Pepe Reina",
+      "shirtNumber": 23,
+      "position": "GK"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "Portugal",
+      "score": "3–3",
+      "scorers": [
+        {
+          "name": "Cristiano Ronaldo",
+          "minute": "4'",
+          "ownGoal": false
+        },
+        {
+          "name": "Diego Costa",
+          "minute": "24'",
+          "ownGoal": false
+        },
+        {
+          "name": "Cristiano Ronaldo",
+          "minute": "44'",
+          "ownGoal": false
+        },
+        {
+          "name": "Diego Costa",
+          "minute": "55'",
+          "ownGoal": false
+        },
+        {
+          "name": "Nacho",
+          "minute": "58'",
+          "ownGoal": false
+        },
+        {
+          "name": "Cristiano Ronaldo",
+          "minute": "88'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2018-06-15"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Iran",
+      "score": "0–1",
+      "scorers": [
+        {
+          "name": "Diego Costa",
+          "minute": "54'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2018-06-20"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Morocco",
+      "score": "2–2",
+      "scorers": [
+        {
+          "name": "Khalid Boutaïb",
+          "minute": "14'",
+          "ownGoal": false
+        },
+        {
+          "name": "Isco",
+          "minute": "19'",
+          "ownGoal": false
+        },
+        {
+          "name": "Youssef En-Nesyri",
+          "minute": "81'",
+          "ownGoal": false
+        },
+        {
+          "name": "Iago Aspas",
+          "minute": "90'+1'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2018-06-25"
+    },
+    {
+      "stage": "Round of 16",
+      "opponent": "Russia",
+      "score": "1–1",
+      "scorers": [
+        {
+          "name": "Sergei Ignashevich",
+          "minute": "12'",
+          "ownGoal": true
+        },
+        {
+          "name": "Artem Dzyuba",
+          "minute": "41'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2018-07-01"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

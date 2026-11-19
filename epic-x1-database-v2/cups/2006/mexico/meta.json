@@ -1,0 +1,240 @@
+{
+  "country": "Mexico",
+  "countrySlug": "mexico",
+  "year": 2006,
+  "edition": "2006",
+  "host": "Germany",
+  "coach": "Ricardo La Volpe",
+  "finalPhase": "Round of 16",
+  "result": "Round of 16",
+  "squad": [
+    {
+      "id": "mexico-2006-1",
+      "name": "Oswaldo Sánchez",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "mexico-2006-2",
+      "name": "Claudio Suárez",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "mexico-2006-3",
+      "name": "Carlos Salcido",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "mexico-2006-4",
+      "name": "Rafael Márquez",
+      "shirtNumber": 4,
+      "position": "DEF"
+    },
+    {
+      "id": "mexico-2006-5",
+      "name": "Ricardo Osorio",
+      "shirtNumber": 5,
+      "position": "DEF"
+    },
+    {
+      "id": "mexico-2006-6",
+      "name": "Gerardo Torrado",
+      "shirtNumber": 6,
+      "position": "MID"
+    },
+    {
+      "id": "mexico-2006-7",
+      "name": "Sinha",
+      "shirtNumber": 7,
+      "position": "MID"
+    },
+    {
+      "id": "mexico-2006-8",
+      "name": "Pável Pardo",
+      "shirtNumber": 8,
+      "position": "MID"
+    },
+    {
+      "id": "mexico-2006-9",
+      "name": "Jared Borgetti",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "mexico-2006-10",
+      "name": "Guillermo Franco",
+      "shirtNumber": 10,
+      "position": "ATT"
+    },
+    {
+      "id": "mexico-2006-11",
+      "name": "Ramón Morales",
+      "shirtNumber": 11,
+      "position": "MID"
+    },
+    {
+      "id": "mexico-2006-12",
+      "name": "José de Jesús Corona",
+      "shirtNumber": 12,
+      "position": "GK"
+    },
+    {
+      "id": "mexico-2006-13",
+      "name": "Guillermo Ochoa",
+      "shirtNumber": 13,
+      "position": "GK"
+    },
+    {
+      "id": "mexico-2006-14",
+      "name": "Gonzalo Pineda",
+      "shirtNumber": 14,
+      "position": "DEF"
+    },
+    {
+      "id": "mexico-2006-15",
+      "name": "José Antonio Castro",
+      "shirtNumber": 15,
+      "position": "DEF"
+    },
+    {
+      "id": "mexico-2006-16",
+      "name": "Mario Méndez",
+      "shirtNumber": 16,
+      "position": "DEF"
+    },
+    {
+      "id": "mexico-2006-17",
+      "name": "Francisco Fonseca",
+      "shirtNumber": 17,
+      "position": "ATT"
+    },
+    {
+      "id": "mexico-2006-18",
+      "name": "Andrés Guardado",
+      "shirtNumber": 18,
+      "position": "MID"
+    },
+    {
+      "id": "mexico-2006-19",
+      "name": "Omar Bravo",
+      "shirtNumber": 19,
+      "position": "ATT"
+    },
+    {
+      "id": "mexico-2006-20",
+      "name": "Rafael García",
+      "shirtNumber": 20,
+      "position": "MID"
+    },
+    {
+      "id": "mexico-2006-21",
+      "name": "Jesús Arellano",
+      "shirtNumber": 21,
+      "position": "MID"
+    },
+    {
+      "id": "mexico-2006-22",
+      "name": "Francisco Javier Rodríguez",
+      "shirtNumber": 22,
+      "position": "DEF"
+    },
+    {
+      "id": "mexico-2006-23",
+      "name": "Luis Ernesto Pérez",
+      "shirtNumber": 23,
+      "position": "MID"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "Iran",
+      "score": "3–1",
+      "scorers": [
+        {
+          "name": "Omar Bravo",
+          "minute": "28'",
+          "ownGoal": false
+        },
+        {
+          "name": "Yahya Golmohammadi",
+          "minute": "36'",
+          "ownGoal": false
+        },
+        {
+          "name": "Omar Bravo",
+          "minute": "76'",
+          "ownGoal": false
+        },
+        {
+          "name": "Sinha",
+          "minute": "79'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2006-06-11"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Angola",
+      "score": "0–0",
+      "scorers": [],
+      "date": "2006-06-16"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Portugal",
+      "score": "2–1",
+      "scorers": [
+        {
+          "name": "Maniche",
+          "minute": "6'",
+          "ownGoal": false
+        },
+        {
+          "name": "Simão",
+          "minute": "24'",
+          "ownGoal": false
+        },
+        {
+          "name": "Francisco Fonseca",
+          "minute": "29'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2006-06-21"
+    },
+    {
+      "stage": "Round of 16",
+      "opponent": "Argentina",
+      "score": "2–1",
+      "scorers": [
+        {
+          "name": "Rafael Márquez",
+          "minute": "6'",
+          "ownGoal": false
+        },
+        {
+          "name": "Hernán Crespo",
+          "minute": "10'",
+          "ownGoal": false
+        },
+        {
+          "name": "Maxi Rodríguez",
+          "minute": "98'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2006-06-24"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

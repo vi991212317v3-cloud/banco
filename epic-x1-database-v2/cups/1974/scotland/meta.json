@@ -1,0 +1,196 @@
+{
+  "country": "Scotland",
+  "countrySlug": "scotland",
+  "year": 1974,
+  "edition": "1974",
+  "host": "West Germany",
+  "coach": "Willie Ormond",
+  "finalPhase": "Group Stage",
+  "result": "Group Stage",
+  "squad": [
+    {
+      "id": "scotland-1974-1",
+      "name": "David Harvey",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "scotland-1974-2",
+      "name": "Sandy Jardine",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "scotland-1974-3",
+      "name": "Danny McGrain",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "scotland-1974-4",
+      "name": "Billy Bremner",
+      "shirtNumber": 4,
+      "position": "MID"
+    },
+    {
+      "id": "scotland-1974-5",
+      "name": "Jim Holton",
+      "shirtNumber": 5,
+      "position": "DEF"
+    },
+    {
+      "id": "scotland-1974-6",
+      "name": "John Blackley",
+      "shirtNumber": 6,
+      "position": "DEF"
+    },
+    {
+      "id": "scotland-1974-7",
+      "name": "Jimmy Johnstone",
+      "shirtNumber": 7,
+      "position": "MID"
+    },
+    {
+      "id": "scotland-1974-8",
+      "name": "Kenny Dalglish",
+      "shirtNumber": 8,
+      "position": "ATT"
+    },
+    {
+      "id": "scotland-1974-9",
+      "name": "Joe Jordan",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "scotland-1974-10",
+      "name": "David Hay",
+      "shirtNumber": 10,
+      "position": "MID"
+    },
+    {
+      "id": "scotland-1974-11",
+      "name": "Peter Lorimer",
+      "shirtNumber": 11,
+      "position": "ATT"
+    },
+    {
+      "id": "scotland-1974-12",
+      "name": "Thomson Allan",
+      "shirtNumber": 12,
+      "position": "GK"
+    },
+    {
+      "id": "scotland-1974-13",
+      "name": "Jim Stewart",
+      "shirtNumber": 13,
+      "position": "GK"
+    },
+    {
+      "id": "scotland-1974-14",
+      "name": "Martin Buchan",
+      "shirtNumber": 14,
+      "position": "DEF"
+    },
+    {
+      "id": "scotland-1974-15",
+      "name": "Peter Cormack",
+      "shirtNumber": 15,
+      "position": "MID"
+    },
+    {
+      "id": "scotland-1974-16",
+      "name": "Willie Donachie",
+      "shirtNumber": 16,
+      "position": "DEF"
+    },
+    {
+      "id": "scotland-1974-17",
+      "name": "Donald Ford",
+      "shirtNumber": 17,
+      "position": "MID"
+    },
+    {
+      "id": "scotland-1974-18",
+      "name": "Tommy Hutchison",
+      "shirtNumber": 18,
+      "position": "MID"
+    },
+    {
+      "id": "scotland-1974-19",
+      "name": "Denis Law",
+      "shirtNumber": 19,
+      "position": "ATT"
+    },
+    {
+      "id": "scotland-1974-20",
+      "name": "Willie Morgan",
+      "shirtNumber": 20,
+      "position": "ATT"
+    },
+    {
+      "id": "scotland-1974-21",
+      "name": "Gordon McQueen",
+      "shirtNumber": 21,
+      "position": "DEF"
+    },
+    {
+      "id": "scotland-1974-22",
+      "name": "Erich Schaedler",
+      "shirtNumber": 22,
+      "position": "DEF"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "Zaire",
+      "score": "0–2",
+      "scorers": [
+        {
+          "name": "Peter Lorimer",
+          "minute": "26'",
+          "ownGoal": false
+        },
+        {
+          "name": "Joe Jordan",
+          "minute": "34'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1974-06-14"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Brazil",
+      "score": "0–0",
+      "scorers": [],
+      "date": "1974-06-18"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Yugoslavia",
+      "score": "1–1",
+      "scorers": [
+        {
+          "name": "Stanislav Karasi",
+          "minute": "81'",
+          "ownGoal": false
+        },
+        {
+          "name": "Joe Jordan",
+          "minute": "88'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1974-06-22"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

@@ -1,0 +1,254 @@
+{
+  "country": "Côte d'Ivoire",
+  "countrySlug": "cote-d-ivoire",
+  "year": 2026,
+  "edition": "2026",
+  "host": "Canada, Mexico and United States",
+  "coach": "FAE Emerse",
+  "finalPhase": "Round of 32",
+  "result": "Round of 32",
+  "squad": [
+    {
+      "id": "cote-d-ivoire-2026-1",
+      "name": "Yahia FOFANA",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "cote-d-ivoire-2026-2",
+      "name": "Ousmane DIOMANDE",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "cote-d-ivoire-2026-3",
+      "name": "N'clomande Ghislain KONAN",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "cote-d-ivoire-2026-4",
+      "name": "Jean Michael SERI",
+      "shirtNumber": 4,
+      "position": "MID"
+    },
+    {
+      "id": "cote-d-ivoire-2026-5",
+      "name": "Wilfried Stephane SINGO",
+      "shirtNumber": 5,
+      "position": "DEF"
+    },
+    {
+      "id": "cote-d-ivoire-2026-6",
+      "name": "Seko Mohamed FOFANA",
+      "shirtNumber": 6,
+      "position": "MID"
+    },
+    {
+      "id": "cote-d-ivoire-2026-7",
+      "name": "Kouakou Odilon Dorgeless KOSSOUNOU",
+      "shirtNumber": 7,
+      "position": "DEF"
+    },
+    {
+      "id": "cote-d-ivoire-2026-8",
+      "name": "Franck Yannick KESSIE",
+      "shirtNumber": 8,
+      "position": "MID"
+    },
+    {
+      "id": "cote-d-ivoire-2026-9",
+      "name": "Ange-Yoan Laurent BONNY",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "cote-d-ivoire-2026-10",
+      "name": "Simon ADINGRA",
+      "shirtNumber": 10,
+      "position": "ATT"
+    },
+    {
+      "id": "cote-d-ivoire-2026-11",
+      "name": "Yan DIOMANDE",
+      "shirtNumber": 11,
+      "position": "ATT"
+    },
+    {
+      "id": "cote-d-ivoire-2026-12",
+      "name": "Sepe Elye Delmas WAHI",
+      "shirtNumber": 12,
+      "position": "ATT"
+    },
+    {
+      "id": "cote-d-ivoire-2026-13",
+      "name": "Christopher Tea Domoraud OPERI",
+      "shirtNumber": 13,
+      "position": "DEF"
+    },
+    {
+      "id": "cote-d-ivoire-2026-14",
+      "name": "Oumar DIAKITE",
+      "shirtNumber": 14,
+      "position": "ATT"
+    },
+    {
+      "id": "cote-d-ivoire-2026-15",
+      "name": "Amad DIALLO",
+      "shirtNumber": 15,
+      "position": "ATT"
+    },
+    {
+      "id": "cote-d-ivoire-2026-16",
+      "name": "Mohamed KONE",
+      "shirtNumber": 16,
+      "position": "GK"
+    },
+    {
+      "id": "cote-d-ivoire-2026-17",
+      "name": "Guela Maho-Lewis DOUE",
+      "shirtNumber": 17,
+      "position": "DEF"
+    },
+    {
+      "id": "cote-d-ivoire-2026-18",
+      "name": "Ibrahim SANGARE",
+      "shirtNumber": 18,
+      "position": "MID"
+    },
+    {
+      "id": "cote-d-ivoire-2026-19",
+      "name": "Nicolas PEPE",
+      "shirtNumber": 19,
+      "position": "ATT"
+    },
+    {
+      "id": "cote-d-ivoire-2026-20",
+      "name": "Badobre Emmanuel Elysee Djedje AGBADOU",
+      "shirtNumber": 20,
+      "position": "DEF"
+    },
+    {
+      "id": "cote-d-ivoire-2026-21",
+      "name": "Obite Evan NDICKA",
+      "shirtNumber": 21,
+      "position": "DEF"
+    },
+    {
+      "id": "cote-d-ivoire-2026-22",
+      "name": "Evann Ludovic Vidjannagni GUESSAND",
+      "shirtNumber": 22,
+      "position": "ATT"
+    },
+    {
+      "id": "cote-d-ivoire-2026-23",
+      "name": "Alban-Marc LAFONT",
+      "shirtNumber": 23,
+      "position": "GK"
+    },
+    {
+      "id": "cote-d-ivoire-2026-24",
+      "name": "Bazoumana TOURE",
+      "shirtNumber": 24,
+      "position": "ATT"
+    },
+    {
+      "id": "cote-d-ivoire-2026-25",
+      "name": "Parfait GUIAGON",
+      "shirtNumber": 25,
+      "position": "MID"
+    },
+    {
+      "id": "cote-d-ivoire-2026-26",
+      "name": "Christ Ravynel Inao OULAI",
+      "shirtNumber": 26,
+      "position": "MID"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group Stage",
+      "opponent": "Ecuador",
+      "score": "1–0",
+      "scorers": [
+        {
+          "name": "Amad DIALLO",
+          "minute": 90,
+          "ownGoal": false
+        }
+      ],
+      "date": "2026-06-14"
+    },
+    {
+      "stage": "Group Stage",
+      "opponent": "Germany",
+      "score": "2–1",
+      "scorers": [
+        {
+          "name": "Franck Yannick KESSIE",
+          "minute": 30,
+          "ownGoal": false
+        },
+        {
+          "name": "Deniz UNDAV",
+          "minute": 68,
+          "ownGoal": false
+        },
+        {
+          "name": "Deniz UNDAV",
+          "minute": 90,
+          "ownGoal": false
+        }
+      ],
+      "date": "2026-06-20"
+    },
+    {
+      "stage": "Group Stage",
+      "opponent": "Curaçao",
+      "score": "0–2",
+      "scorers": [
+        {
+          "name": "Nicolas PEPE",
+          "minute": 7,
+          "ownGoal": false
+        },
+        {
+          "name": "Nicolas PEPE",
+          "minute": 64,
+          "ownGoal": false
+        }
+      ],
+      "date": "2026-06-26"
+    },
+    {
+      "stage": "Round of 32",
+      "opponent": "Norway",
+      "score": "1–2",
+      "scorers": [
+        {
+          "name": "Antonio Eromonsele Nordby NUSA",
+          "minute": 39,
+          "ownGoal": false
+        },
+        {
+          "name": "Amad DIALLO",
+          "minute": 74,
+          "ownGoal": false
+        },
+        {
+          "name": "Erling Braut HAALAND",
+          "minute": 86,
+          "ownGoal": false
+        }
+      ],
+      "date": "2026-06-30"
+    }
+  ],
+  "sources": [
+    "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/final-tournament-standings",
+    "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/teams",
+    "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+    "https://github.com/openfootball/worldcup.json",
+    "https://github.com/mominullptr/FIFA-World-Cup-2026-Dataset"
+  ]
+}

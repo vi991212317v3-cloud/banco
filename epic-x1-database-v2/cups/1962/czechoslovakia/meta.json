@@ -1,0 +1,270 @@
+{
+  "country": "Czechoslovakia",
+  "countrySlug": "czechoslovakia",
+  "year": 1962,
+  "edition": "1962",
+  "host": "Chile",
+  "coach": "Rudolf Vytlačil",
+  "finalPhase": "Final",
+  "result": "Runner-up",
+  "squad": [
+    {
+      "id": "czechoslovakia-1962-1",
+      "name": "Viliam Schrojf",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "czechoslovakia-1962-2",
+      "name": "Jan Lála",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "czechoslovakia-1962-3",
+      "name": "Ján Popluhár",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "czechoslovakia-1962-4",
+      "name": "Ladislav Novák",
+      "shirtNumber": 4,
+      "position": "DEF"
+    },
+    {
+      "id": "czechoslovakia-1962-5",
+      "name": "Svatopluk Pluskal",
+      "shirtNumber": 5,
+      "position": "DEF"
+    },
+    {
+      "id": "czechoslovakia-1962-6",
+      "name": "Josef Masopust",
+      "shirtNumber": 6,
+      "position": "MID"
+    },
+    {
+      "id": "czechoslovakia-1962-7",
+      "name": "Jozef Štibrányi",
+      "shirtNumber": 7,
+      "position": "MID"
+    },
+    {
+      "id": "czechoslovakia-1962-8",
+      "name": "Adolf Scherer",
+      "shirtNumber": 8,
+      "position": "ATT"
+    },
+    {
+      "id": "czechoslovakia-1962-9",
+      "name": "Pavol Molnár",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "czechoslovakia-1962-10",
+      "name": "Jozef Adamec",
+      "shirtNumber": 10,
+      "position": "ATT"
+    },
+    {
+      "id": "czechoslovakia-1962-11",
+      "name": "Josef Jelínek",
+      "shirtNumber": 11,
+      "position": "ATT"
+    },
+    {
+      "id": "czechoslovakia-1962-12",
+      "name": "Jiří Tichý",
+      "shirtNumber": 12,
+      "position": "DEF"
+    },
+    {
+      "id": "czechoslovakia-1962-13",
+      "name": "František Schmucker",
+      "shirtNumber": 13,
+      "position": "GK"
+    },
+    {
+      "id": "czechoslovakia-1962-14",
+      "name": "Václav Mašek",
+      "shirtNumber": 14,
+      "position": "ATT"
+    },
+    {
+      "id": "czechoslovakia-1962-15",
+      "name": "Vladimír Kos",
+      "shirtNumber": 15,
+      "position": "ATT"
+    },
+    {
+      "id": "czechoslovakia-1962-16",
+      "name": "Titus Buberník",
+      "shirtNumber": 16,
+      "position": "DEF"
+    },
+    {
+      "id": "czechoslovakia-1962-17",
+      "name": "Tomáš Pospíchal",
+      "shirtNumber": 17,
+      "position": "ATT"
+    },
+    {
+      "id": "czechoslovakia-1962-18",
+      "name": "Josef Kadraba",
+      "shirtNumber": 18,
+      "position": "ATT"
+    },
+    {
+      "id": "czechoslovakia-1962-19",
+      "name": "Andrej Kvašňák",
+      "shirtNumber": 19,
+      "position": "ATT"
+    },
+    {
+      "id": "czechoslovakia-1962-20",
+      "name": "Jaroslav Borovička",
+      "shirtNumber": 20,
+      "position": "ATT"
+    },
+    {
+      "id": "czechoslovakia-1962-21",
+      "name": "Pavel Kouba",
+      "shirtNumber": 21,
+      "position": "GK"
+    },
+    {
+      "id": "czechoslovakia-1962-22",
+      "name": "Jozef Bomba",
+      "shirtNumber": 22,
+      "position": "DEF"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "Spain",
+      "score": "1–0",
+      "scorers": [
+        {
+          "name": "Jozef Štibrányi",
+          "minute": "80'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1962-05-31"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Brazil",
+      "score": "0–0",
+      "scorers": [],
+      "date": "1962-06-02"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Mexico",
+      "score": "3–1",
+      "scorers": [
+        {
+          "name": "Václav Mašek",
+          "minute": "1'",
+          "ownGoal": false
+        },
+        {
+          "name": "Isidoro Díaz",
+          "minute": "12'",
+          "ownGoal": false
+        },
+        {
+          "name": "Alfredo del Águila",
+          "minute": "29'",
+          "ownGoal": false
+        },
+        {
+          "name": "Héctor Hernández",
+          "minute": "90'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1962-06-07"
+    },
+    {
+      "stage": "Quarter-final",
+      "opponent": "Hungary",
+      "score": "1–0",
+      "scorers": [
+        {
+          "name": "Adolf Scherer",
+          "minute": "13'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1962-06-10"
+    },
+    {
+      "stage": "Semi-final",
+      "opponent": "Yugoslavia",
+      "score": "3–1",
+      "scorers": [
+        {
+          "name": "Josef Kadraba",
+          "minute": "48'",
+          "ownGoal": false
+        },
+        {
+          "name": "Dražan Jerković",
+          "minute": "69'",
+          "ownGoal": false
+        },
+        {
+          "name": "Adolf Scherer",
+          "minute": "80'",
+          "ownGoal": false
+        },
+        {
+          "name": "Adolf Scherer",
+          "minute": "84'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1962-06-13"
+    },
+    {
+      "stage": "Final",
+      "opponent": "Brazil",
+      "score": "3–1",
+      "scorers": [
+        {
+          "name": "Josef Masopust",
+          "minute": "15'",
+          "ownGoal": false
+        },
+        {
+          "name": "Amarildo",
+          "minute": "17'",
+          "ownGoal": false
+        },
+        {
+          "name": "Zito",
+          "minute": "69'",
+          "ownGoal": false
+        },
+        {
+          "name": "Vavá",
+          "minute": "78'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1962-06-17"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

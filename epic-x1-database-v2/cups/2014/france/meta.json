@@ -1,0 +1,263 @@
+{
+  "country": "France",
+  "countrySlug": "france",
+  "year": 2014,
+  "edition": "2014",
+  "host": "Brazil",
+  "coach": "Didier Deschamps",
+  "finalPhase": "Quarter-final",
+  "result": "Quarter-final",
+  "squad": [
+    {
+      "id": "france-2014-1",
+      "name": "Hugo Lloris",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "france-2014-2",
+      "name": "Mathieu Debuchy",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "france-2014-3",
+      "name": "Patrice Evra",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "france-2014-4",
+      "name": "Raphaël Varane",
+      "shirtNumber": 4,
+      "position": "DEF"
+    },
+    {
+      "id": "france-2014-5",
+      "name": "Mamadou Sakho",
+      "shirtNumber": 5,
+      "position": "DEF"
+    },
+    {
+      "id": "france-2014-6",
+      "name": "Yohan Cabaye",
+      "shirtNumber": 6,
+      "position": "MID"
+    },
+    {
+      "id": "france-2014-7",
+      "name": "Rémy Cabella",
+      "shirtNumber": 7,
+      "position": "MID"
+    },
+    {
+      "id": "france-2014-8",
+      "name": "Mathieu Valbuena",
+      "shirtNumber": 8,
+      "position": "MID"
+    },
+    {
+      "id": "france-2014-9",
+      "name": "Olivier Giroud",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "france-2014-10",
+      "name": "Karim Benzema",
+      "shirtNumber": 10,
+      "position": "ATT"
+    },
+    {
+      "id": "france-2014-11",
+      "name": "Antoine Griezmann",
+      "shirtNumber": 11,
+      "position": "ATT"
+    },
+    {
+      "id": "france-2014-12",
+      "name": "Rio Mavuba",
+      "shirtNumber": 12,
+      "position": "MID"
+    },
+    {
+      "id": "france-2014-13",
+      "name": "Eliaquim Mangala",
+      "shirtNumber": 13,
+      "position": "DEF"
+    },
+    {
+      "id": "france-2014-14",
+      "name": "Blaise Matuidi",
+      "shirtNumber": 14,
+      "position": "MID"
+    },
+    {
+      "id": "france-2014-15",
+      "name": "Bacary Sagna",
+      "shirtNumber": 15,
+      "position": "DEF"
+    },
+    {
+      "id": "france-2014-16",
+      "name": "Stéphane Ruffier",
+      "shirtNumber": 16,
+      "position": "GK"
+    },
+    {
+      "id": "france-2014-17",
+      "name": "Lucas Digne",
+      "shirtNumber": 17,
+      "position": "DEF"
+    },
+    {
+      "id": "france-2014-18",
+      "name": "Moussa Sissoko",
+      "shirtNumber": 18,
+      "position": "MID"
+    },
+    {
+      "id": "france-2014-19",
+      "name": "Paul Pogba",
+      "shirtNumber": 19,
+      "position": "MID"
+    },
+    {
+      "id": "france-2014-20",
+      "name": "Loïc Rémy",
+      "shirtNumber": 20,
+      "position": "ATT"
+    },
+    {
+      "id": "france-2014-21",
+      "name": "Laurent Koscielny",
+      "shirtNumber": 21,
+      "position": "DEF"
+    },
+    {
+      "id": "france-2014-22",
+      "name": "Morgan Schneiderlin",
+      "shirtNumber": 22,
+      "position": "MID"
+    },
+    {
+      "id": "france-2014-23",
+      "name": "Mickaël Landreau",
+      "shirtNumber": 23,
+      "position": "GK"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "Honduras",
+      "score": "3–0",
+      "scorers": [
+        {
+          "name": "Karim Benzema",
+          "minute": "45'",
+          "ownGoal": false
+        },
+        {
+          "name": "Noel Valladares",
+          "minute": "48'",
+          "ownGoal": true
+        },
+        {
+          "name": "Karim Benzema",
+          "minute": "72'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2014-06-15"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Switzerland",
+      "score": "2–5",
+      "scorers": [
+        {
+          "name": "Olivier Giroud",
+          "minute": "17'",
+          "ownGoal": false
+        },
+        {
+          "name": "Blaise Matuidi",
+          "minute": "18'",
+          "ownGoal": false
+        },
+        {
+          "name": "Mathieu Valbuena",
+          "minute": "40'",
+          "ownGoal": false
+        },
+        {
+          "name": "Karim Benzema",
+          "minute": "67'",
+          "ownGoal": false
+        },
+        {
+          "name": "Moussa Sissoko",
+          "minute": "73'",
+          "ownGoal": false
+        },
+        {
+          "name": "Blerim Džemaili",
+          "minute": "81'",
+          "ownGoal": false
+        },
+        {
+          "name": "Granit Xhaka",
+          "minute": "87'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2014-06-20"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Ecuador",
+      "score": "0–0",
+      "scorers": [],
+      "date": "2014-06-25"
+    },
+    {
+      "stage": "Round of 16",
+      "opponent": "Nigeria",
+      "score": "2–0",
+      "scorers": [
+        {
+          "name": "Paul Pogba",
+          "minute": "79'",
+          "ownGoal": false
+        },
+        {
+          "name": "Joseph Yobo",
+          "minute": "90'+2'",
+          "ownGoal": true
+        }
+      ],
+      "date": "2014-06-30"
+    },
+    {
+      "stage": "Quarter-final",
+      "opponent": "Germany",
+      "score": "0–1",
+      "scorers": [
+        {
+          "name": "Mats Hummels",
+          "minute": "13'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2014-07-04"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

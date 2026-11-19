@@ -1,0 +1,269 @@
+{
+  "country": "United States",
+  "countrySlug": "united-states",
+  "year": 2002,
+  "edition": "2002",
+  "host": "Korea, Japan",
+  "coach": "Bruce Arena",
+  "finalPhase": "Quarter-final",
+  "result": "Quarter-final",
+  "squad": [
+    {
+      "id": "united-states-2002-1",
+      "name": "Brad Friedel",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "united-states-2002-2",
+      "name": "Frankie Hejduk",
+      "shirtNumber": 2,
+      "position": "MID"
+    },
+    {
+      "id": "united-states-2002-3",
+      "name": "Gregg Berhalter",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "united-states-2002-4",
+      "name": "Pablo Mastroeni",
+      "shirtNumber": 4,
+      "position": "DEF"
+    },
+    {
+      "id": "united-states-2002-5",
+      "name": "John O'Brien",
+      "shirtNumber": 5,
+      "position": "MID"
+    },
+    {
+      "id": "united-states-2002-6",
+      "name": "David Regis",
+      "shirtNumber": 6,
+      "position": "DEF"
+    },
+    {
+      "id": "united-states-2002-7",
+      "name": "Eddie Lewis",
+      "shirtNumber": 7,
+      "position": "MID"
+    },
+    {
+      "id": "united-states-2002-8",
+      "name": "Earnie Stewart",
+      "shirtNumber": 8,
+      "position": "MID"
+    },
+    {
+      "id": "united-states-2002-9",
+      "name": "Joe-Max Moore",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "united-states-2002-10",
+      "name": "Claudio Reyna",
+      "shirtNumber": 10,
+      "position": "MID"
+    },
+    {
+      "id": "united-states-2002-11",
+      "name": "Clint Mathis",
+      "shirtNumber": 11,
+      "position": "ATT"
+    },
+    {
+      "id": "united-states-2002-12",
+      "name": "Jeff Agoos",
+      "shirtNumber": 12,
+      "position": "DEF"
+    },
+    {
+      "id": "united-states-2002-13",
+      "name": "Cobi Jones",
+      "shirtNumber": 13,
+      "position": "MID"
+    },
+    {
+      "id": "united-states-2002-14",
+      "name": "Steve Cherundolo",
+      "shirtNumber": 14,
+      "position": "DEF"
+    },
+    {
+      "id": "united-states-2002-15",
+      "name": "Josh Wolff",
+      "shirtNumber": 15,
+      "position": "ATT"
+    },
+    {
+      "id": "united-states-2002-16",
+      "name": "Carlos Llamosa",
+      "shirtNumber": 16,
+      "position": "DEF"
+    },
+    {
+      "id": "united-states-2002-17",
+      "name": "DaMarcus Beasley",
+      "shirtNumber": 17,
+      "position": "MID"
+    },
+    {
+      "id": "united-states-2002-18",
+      "name": "Kasey Keller",
+      "shirtNumber": 18,
+      "position": "GK"
+    },
+    {
+      "id": "united-states-2002-19",
+      "name": "Tony Meola",
+      "shirtNumber": 19,
+      "position": "GK"
+    },
+    {
+      "id": "united-states-2002-20",
+      "name": "Brian McBride",
+      "shirtNumber": 20,
+      "position": "ATT"
+    },
+    {
+      "id": "united-states-2002-21",
+      "name": "Landon Donovan",
+      "shirtNumber": 21,
+      "position": "ATT"
+    },
+    {
+      "id": "united-states-2002-22",
+      "name": "Tony Sanneh",
+      "shirtNumber": 22,
+      "position": "DEF"
+    },
+    {
+      "id": "united-states-2002-23",
+      "name": "Eddie Pope",
+      "shirtNumber": 23,
+      "position": "DEF"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "Portugal",
+      "score": "3–2",
+      "scorers": [
+        {
+          "name": "John O'Brien",
+          "minute": "4'",
+          "ownGoal": false
+        },
+        {
+          "name": "Jorge Costa",
+          "minute": "29'",
+          "ownGoal": true
+        },
+        {
+          "name": "Brian McBride",
+          "minute": "36'",
+          "ownGoal": false
+        },
+        {
+          "name": "Beto",
+          "minute": "39'",
+          "ownGoal": false
+        },
+        {
+          "name": "Jeff Agoos",
+          "minute": "71'",
+          "ownGoal": true
+        }
+      ],
+      "date": "2002-06-05"
+    },
+    {
+      "stage": "Group",
+      "opponent": "South Korea",
+      "score": "1–1",
+      "scorers": [
+        {
+          "name": "Clint Mathis",
+          "minute": "24'",
+          "ownGoal": false
+        },
+        {
+          "name": "Jung-hwan Ahn",
+          "minute": "78'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2002-06-10"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Poland",
+      "score": "3–1",
+      "scorers": [
+        {
+          "name": "Emmanuel Olisadebe",
+          "minute": "3'",
+          "ownGoal": false
+        },
+        {
+          "name": "Paweł Kryszałowicz",
+          "minute": "5'",
+          "ownGoal": false
+        },
+        {
+          "name": "Marcin Żewłakow",
+          "minute": "66'",
+          "ownGoal": false
+        },
+        {
+          "name": "Landon Donovan",
+          "minute": "83'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2002-06-14"
+    },
+    {
+      "stage": "Round of 16",
+      "opponent": "Mexico",
+      "score": "0–2",
+      "scorers": [
+        {
+          "name": "Brian McBride",
+          "minute": "8'",
+          "ownGoal": false
+        },
+        {
+          "name": "Landon Donovan",
+          "minute": "65'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2002-06-17"
+    },
+    {
+      "stage": "Quarter-final",
+      "opponent": "Germany",
+      "score": "1–0",
+      "scorers": [
+        {
+          "name": "Michael Ballack",
+          "minute": "39'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2002-06-21"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

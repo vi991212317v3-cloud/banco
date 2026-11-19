@@ -1,0 +1,261 @@
+{
+  "country": "Qatar",
+  "countrySlug": "qatar",
+  "year": 2026,
+  "edition": "2026",
+  "host": "Canada, Mexico and United States",
+  "coach": "LOPETEGUI Julen",
+  "finalPhase": "Group Stage",
+  "result": "Group Stage",
+  "squad": [
+    {
+      "id": "qatar-2026-1",
+      "name": "Mahmoud Ibrahim M ABUNADA",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "qatar-2026-2",
+      "name": "Pedro Miguel D D CORREIA",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "qatar-2026-3",
+      "name": "Lucas Michel MENDES",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "qatar-2026-4",
+      "name": "Gueye SEYDINAISSALAYE",
+      "shirtNumber": 4,
+      "position": "DEF"
+    },
+    {
+      "id": "qatar-2026-5",
+      "name": "Jassem Gaber E ABDULSALLAM",
+      "shirtNumber": 5,
+      "position": "DEF"
+    },
+    {
+      "id": "qatar-2026-6",
+      "name": "Abdelaziz Hatim A MOHAMED",
+      "shirtNumber": 6,
+      "position": "MID"
+    },
+    {
+      "id": "qatar-2026-7",
+      "name": "Ahmed Alaaeldin B M ABDELMOTAAL",
+      "shirtNumber": 7,
+      "position": "ATT"
+    },
+    {
+      "id": "qatar-2026-8",
+      "name": "Edmilson Junior P DASILVA",
+      "shirtNumber": 8,
+      "position": "ATT"
+    },
+    {
+      "id": "qatar-2026-9",
+      "name": "Mohammed MUNTARI",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "qatar-2026-10",
+      "name": "Hasan Khalid H ALHAYDOS",
+      "shirtNumber": 10,
+      "position": "ATT"
+    },
+    {
+      "id": "qatar-2026-11",
+      "name": "Akram Hassan A Y AFIF",
+      "shirtNumber": 11,
+      "position": "ATT"
+    },
+    {
+      "id": "qatar-2026-12",
+      "name": "Karim BOUDIAF",
+      "shirtNumber": 12,
+      "position": "MID"
+    },
+    {
+      "id": "qatar-2026-13",
+      "name": "Ayoub Mohamed ALOUI",
+      "shirtNumber": 13,
+      "position": "DEF"
+    },
+    {
+      "id": "qatar-2026-14",
+      "name": "Homam Elamin M AHMED",
+      "shirtNumber": 14,
+      "position": "DEF"
+    },
+    {
+      "id": "qatar-2026-15",
+      "name": "Yusuf Abdurisag YUSUF",
+      "shirtNumber": 15,
+      "position": "ATT"
+    },
+    {
+      "id": "qatar-2026-16",
+      "name": "Boualem KHOUKHI",
+      "shirtNumber": 16,
+      "position": "DEF"
+    },
+    {
+      "id": "qatar-2026-17",
+      "name": "Ahmed Mohamed H K ALGANEHI",
+      "shirtNumber": 17,
+      "position": "MID"
+    },
+    {
+      "id": "qatar-2026-18",
+      "name": "Sultan Hussain M H AL-BRAKE",
+      "shirtNumber": 18,
+      "position": "DEF"
+    },
+    {
+      "id": "qatar-2026-19",
+      "name": "Almoez Ali Zainelabdeen M ABDULLA",
+      "shirtNumber": 19,
+      "position": "ATT"
+    },
+    {
+      "id": "qatar-2026-20",
+      "name": "Ahmed Fathy M ABDOULLA",
+      "shirtNumber": 20,
+      "position": "MID"
+    },
+    {
+      "id": "qatar-2026-21",
+      "name": "Salah Zakaria M M HASSAN",
+      "shirtNumber": 21,
+      "position": "GK"
+    },
+    {
+      "id": "qatar-2026-22",
+      "name": "Meshaal Aissa M BARSHAM",
+      "shirtNumber": 22,
+      "position": "GK"
+    },
+    {
+      "id": "qatar-2026-23",
+      "name": "Assim Omer A MADIBO",
+      "shirtNumber": 23,
+      "position": "MID"
+    },
+    {
+      "id": "qatar-2026-24",
+      "name": "Tahsin Mohammad JAMSHID",
+      "shirtNumber": 24,
+      "position": "ATT"
+    },
+    {
+      "id": "qatar-2026-25",
+      "name": "Alhashmi Alhussein A MOHIALDIN",
+      "shirtNumber": 25,
+      "position": "DEF"
+    },
+    {
+      "id": "qatar-2026-26",
+      "name": "Mohamed Naceur MANAI",
+      "shirtNumber": 26,
+      "position": "ATT"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group Stage",
+      "opponent": "Switzerland",
+      "score": "1–1",
+      "scorers": [
+        {
+          "name": "Breel Donald EMBOLO",
+          "minute": 17,
+          "ownGoal": false
+        },
+        {
+          "name": "Miro Max Maria MUHEIM",
+          "minute": 90,
+          "ownGoal": true
+        }
+      ],
+      "date": "2026-06-13"
+    },
+    {
+      "stage": "Group Stage",
+      "opponent": "Canada",
+      "score": "6–0",
+      "scorers": [
+        {
+          "name": "Cyle Christopher LARIN",
+          "minute": 16,
+          "ownGoal": false
+        },
+        {
+          "name": "Jonathan Christian DAVID",
+          "minute": 29,
+          "ownGoal": false
+        },
+        {
+          "name": "Jonathan Christian DAVID",
+          "minute": 45,
+          "ownGoal": false
+        },
+        {
+          "name": "Nathan-Dylan SALIBA",
+          "minute": 64,
+          "ownGoal": false
+        },
+        {
+          "name": "Mohamed Naceur MANAI",
+          "minute": 75,
+          "ownGoal": true
+        },
+        {
+          "name": "Jonathan Christian DAVID",
+          "minute": 90,
+          "ownGoal": false
+        }
+      ],
+      "date": "2026-06-18"
+    },
+    {
+      "stage": "Group Stage",
+      "opponent": "Bosnia and Herzegovina",
+      "score": "3–1",
+      "scorers": [
+        {
+          "name": "Kerim ALAJBEGOVIĆ",
+          "minute": 29,
+          "ownGoal": false
+        },
+        {
+          "name": "Mahmoud Ibrahim M ABUNADA",
+          "minute": 34,
+          "ownGoal": true
+        },
+        {
+          "name": "Hasan Khalid H ALHAYDOS",
+          "minute": 42,
+          "ownGoal": false
+        },
+        {
+          "name": "Ermin MAHMIĆ",
+          "minute": 82,
+          "ownGoal": false
+        }
+      ],
+      "date": "2026-06-24"
+    }
+  ],
+  "sources": [
+    "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/final-tournament-standings",
+    "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/teams",
+    "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+    "https://github.com/openfootball/worldcup.json",
+    "https://github.com/mominullptr/FIFA-World-Cup-2026-Dataset"
+  ]
+}

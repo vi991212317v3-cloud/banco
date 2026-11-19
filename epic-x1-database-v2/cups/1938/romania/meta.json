@@ -1,0 +1,214 @@
+{
+  "country": "Romania",
+  "countrySlug": "romania",
+  "year": 1938,
+  "edition": "1938",
+  "host": "France",
+  "coach": "Costel Rădulescu",
+  "finalPhase": "Round of 16",
+  "result": "Round of 16",
+  "squad": [
+    {
+      "id": "romania-1938-008",
+      "name": "Andrei Bărbulescu",
+      "shirtNumber": null,
+      "position": "MID"
+    },
+    {
+      "id": "romania-1938-006",
+      "name": "Coloman Braun-Bogdan",
+      "shirtNumber": null,
+      "position": "ATT"
+    },
+    {
+      "id": "romania-1938-017",
+      "name": "Dumitru Pavlovici",
+      "shirtNumber": null,
+      "position": "GK"
+    },
+    {
+      "id": "romania-1938-005",
+      "name": "Gheorghe Brandabura",
+      "shirtNumber": null,
+      "position": "MID"
+    },
+    {
+      "id": "romania-1938-020",
+      "name": "Gheorghe Rășinaru",
+      "shirtNumber": null,
+      "position": "MID"
+    },
+    {
+      "id": "romania-1938-018",
+      "name": "Gyula Prassler",
+      "shirtNumber": null,
+      "position": "ATT"
+    },
+    {
+      "id": "romania-1938-013",
+      "name": "Iacob Felecan",
+      "shirtNumber": null,
+      "position": "DEF"
+    },
+    {
+      "id": "romania-1938-015",
+      "name": "Ioachim Moldoveanu",
+      "shirtNumber": null,
+      "position": "ATT"
+    },
+    {
+      "id": "romania-1938-004",
+      "name": "Ion Bogdan",
+      "shirtNumber": null,
+      "position": "ATT"
+    },
+    {
+      "id": "romania-1938-001",
+      "name": "Iuliu Baratky",
+      "shirtNumber": null,
+      "position": "ATT"
+    },
+    {
+      "id": "romania-1938-003",
+      "name": "Iuliu Bodola",
+      "shirtNumber": null,
+      "position": "ATT"
+    },
+    {
+      "id": "romania-1938-022",
+      "name": "Lazăr Sfera",
+      "shirtNumber": null,
+      "position": "DEF"
+    },
+    {
+      "id": "romania-1938-019",
+      "name": "László Raffinsky",
+      "shirtNumber": null,
+      "position": "MID"
+    },
+    {
+      "id": "romania-1938-016",
+      "name": "Miklós Nagy",
+      "shirtNumber": null,
+      "position": "ATT"
+    },
+    {
+      "id": "romania-1938-011",
+      "name": "Mircea David",
+      "shirtNumber": null,
+      "position": "GK"
+    },
+    {
+      "id": "romania-1938-014",
+      "name": "Nicolae Kovács",
+      "shirtNumber": null,
+      "position": "ATT"
+    },
+    {
+      "id": "romania-1938-021",
+      "name": "Robert Sadowski",
+      "shirtNumber": null,
+      "position": "GK"
+    },
+    {
+      "id": "romania-1938-007",
+      "name": "Rudolf Bürger",
+      "shirtNumber": null,
+      "position": "DEF"
+    },
+    {
+      "id": "romania-1938-002",
+      "name": "Silviu Bindea",
+      "shirtNumber": null,
+      "position": "ATT"
+    },
+    {
+      "id": "romania-1938-009",
+      "name": "Vasile Chiroiu",
+      "shirtNumber": null,
+      "position": "DEF"
+    },
+    {
+      "id": "romania-1938-010",
+      "name": "Vintilă Cossini",
+      "shirtNumber": null,
+      "position": "MID"
+    },
+    {
+      "id": "romania-1938-012",
+      "name": "Ștefan Dobay",
+      "shirtNumber": null,
+      "position": "ATT"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Round of 16",
+      "opponent": "Cuba",
+      "score": "3–3",
+      "scorers": [
+        {
+          "name": "Silviu Bindea",
+          "minute": "35'",
+          "ownGoal": false
+        },
+        {
+          "name": "Héctor Socorro",
+          "minute": "44'",
+          "ownGoal": false
+        },
+        {
+          "name": "José Magriñá",
+          "minute": "69'",
+          "ownGoal": false
+        },
+        {
+          "name": "Iuliu Baratky",
+          "minute": "88'",
+          "ownGoal": false
+        },
+        {
+          "name": "Héctor Socorro",
+          "minute": "103'",
+          "ownGoal": false
+        },
+        {
+          "name": "Ștefan Dobay",
+          "minute": "105'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1938-06-05"
+    },
+    {
+      "stage": "Round of 16",
+      "opponent": "Cuba",
+      "score": "2–1",
+      "scorers": [
+        {
+          "name": "Ștefan Dobay",
+          "minute": "35'",
+          "ownGoal": false
+        },
+        {
+          "name": "Héctor Socorro",
+          "minute": "51'",
+          "ownGoal": false
+        },
+        {
+          "name": "Tomás Fernández",
+          "minute": "57'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1938-06-09"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

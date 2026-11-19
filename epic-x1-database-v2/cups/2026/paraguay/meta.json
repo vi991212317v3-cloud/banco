@@ -1,0 +1,261 @@
+{
+  "country": "Paraguay",
+  "countrySlug": "paraguay",
+  "year": 2026,
+  "edition": "2026",
+  "host": "Canada, Mexico and United States",
+  "coach": "ALFARO Gustavo",
+  "finalPhase": "Round of 16",
+  "result": "Round of 16",
+  "squad": [
+    {
+      "id": "paraguay-2026-1",
+      "name": "Roberto Junior FERNANDEZ TORRES",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "paraguay-2026-2",
+      "name": "Victor Gustavo VELAZQUEZ RAMOS",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "paraguay-2026-3",
+      "name": "Omar Federico ALDERETE FERNANDEZ",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "paraguay-2026-4",
+      "name": "Juan Jose CACERES",
+      "shirtNumber": 4,
+      "position": "DEF"
+    },
+    {
+      "id": "paraguay-2026-5",
+      "name": "Fabián Cornelio BALBUENA GONZÁLEZ",
+      "shirtNumber": 5,
+      "position": "DEF"
+    },
+    {
+      "id": "paraguay-2026-6",
+      "name": "Júnior Osmar Ignacio ALONSO MUJICA",
+      "shirtNumber": 6,
+      "position": "DEF"
+    },
+    {
+      "id": "paraguay-2026-7",
+      "name": "Ramón SOSA ACOSTA",
+      "shirtNumber": 7,
+      "position": "MID"
+    },
+    {
+      "id": "paraguay-2026-8",
+      "name": "Diego Alexander GOMEZ AMARILLA",
+      "shirtNumber": 8,
+      "position": "MID"
+    },
+    {
+      "id": "paraguay-2026-9",
+      "name": "Arnaldo Antonio SANABRIA AYALA",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "paraguay-2026-10",
+      "name": "Miguel Angel ALMIRON REJALA",
+      "shirtNumber": 10,
+      "position": "MID"
+    },
+    {
+      "id": "paraguay-2026-11",
+      "name": "Mauricio MAGALHAES PRADO",
+      "shirtNumber": 11,
+      "position": "MID"
+    },
+    {
+      "id": "paraguay-2026-12",
+      "name": "Orlando Daniel GILL NOLDIN",
+      "shirtNumber": 12,
+      "position": "GK"
+    },
+    {
+      "id": "paraguay-2026-13",
+      "name": "Jose Maria CANALE DOMINGUEZ",
+      "shirtNumber": 13,
+      "position": "DEF"
+    },
+    {
+      "id": "paraguay-2026-14",
+      "name": "Adrián Andrés CUBAS",
+      "shirtNumber": 14,
+      "position": "MID"
+    },
+    {
+      "id": "paraguay-2026-15",
+      "name": "Gustavo Raul GÓMEZ PORTILLO",
+      "shirtNumber": 15,
+      "position": "DEF"
+    },
+    {
+      "id": "paraguay-2026-16",
+      "name": "Damián Josue BOBADILLA BENITEZ",
+      "shirtNumber": 16,
+      "position": "MID"
+    },
+    {
+      "id": "paraguay-2026-17",
+      "name": "Alejandro Sebastian ROMERO GAMARRA",
+      "shirtNumber": 17,
+      "position": "ATT"
+    },
+    {
+      "id": "paraguay-2026-18",
+      "name": "Alex Adrian ARCE BARRIOS",
+      "shirtNumber": 18,
+      "position": "ATT"
+    },
+    {
+      "id": "paraguay-2026-19",
+      "name": "Julio Cesar ENCISO ESPINOLA",
+      "shirtNumber": 19,
+      "position": "ATT"
+    },
+    {
+      "id": "paraguay-2026-20",
+      "name": "Braian Oscar OJEDA RODRIGUEZ",
+      "shirtNumber": 20,
+      "position": "MID"
+    },
+    {
+      "id": "paraguay-2026-21",
+      "name": "Gabriel AVALOS STUMPFS",
+      "shirtNumber": 21,
+      "position": "ATT"
+    },
+    {
+      "id": "paraguay-2026-22",
+      "name": "Gastón Hernán OLVEIRA ECHEVERRIA",
+      "shirtNumber": 22,
+      "position": "GK"
+    },
+    {
+      "id": "paraguay-2026-23",
+      "name": "Matias GALARZA FONDA",
+      "shirtNumber": 23,
+      "position": "MID"
+    },
+    {
+      "id": "paraguay-2026-24",
+      "name": "Gustavo Ruben CABALLERO GONZALEZ",
+      "shirtNumber": 24,
+      "position": "MID"
+    },
+    {
+      "id": "paraguay-2026-25",
+      "name": "Isidro Miguel PITTA SALDIVAR",
+      "shirtNumber": 25,
+      "position": "ATT"
+    },
+    {
+      "id": "paraguay-2026-26",
+      "name": "Alexandro MAIDANA MENDIETA",
+      "shirtNumber": 26,
+      "position": "DEF"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group Stage",
+      "opponent": "USA",
+      "score": "4–1",
+      "scorers": [
+        {
+          "name": "Damián Josue BOBADILLA BENITEZ",
+          "minute": 7,
+          "ownGoal": true
+        },
+        {
+          "name": "Folarin Jolaoluwa BALOGUN",
+          "minute": 31,
+          "ownGoal": false
+        },
+        {
+          "name": "Folarin Jolaoluwa BALOGUN",
+          "minute": 45,
+          "ownGoal": false
+        },
+        {
+          "name": "Mauricio MAGALHAES PRADO",
+          "minute": 73,
+          "ownGoal": false
+        },
+        {
+          "name": "Giovanni Alejandro REYNA",
+          "minute": 90,
+          "ownGoal": false
+        }
+      ],
+      "date": "2026-06-12"
+    },
+    {
+      "stage": "Group Stage",
+      "opponent": "Türkiye",
+      "score": "0–1",
+      "scorers": [
+        {
+          "name": "Matias GALARZA FONDA",
+          "minute": 2,
+          "ownGoal": false
+        }
+      ],
+      "date": "2026-06-19"
+    },
+    {
+      "stage": "Group Stage",
+      "opponent": "Australia",
+      "score": "0–0",
+      "scorers": [],
+      "date": "2026-06-25"
+    },
+    {
+      "stage": "Round of 32",
+      "opponent": "Germany",
+      "score": "1–1",
+      "scorers": [
+        {
+          "name": "Julio Cesar ENCISO ESPINOLA",
+          "minute": 42,
+          "ownGoal": false
+        },
+        {
+          "name": "Kai Lukas HAVERTZ",
+          "minute": 54,
+          "ownGoal": false
+        }
+      ],
+      "date": "2026-06-30"
+    },
+    {
+      "stage": "Round of 16",
+      "opponent": "France",
+      "score": "0–1",
+      "scorers": [
+        {
+          "name": "Kylian MBAPPE LOTTIN",
+          "minute": 70,
+          "ownGoal": false
+        }
+      ],
+      "date": "2026-07-04"
+    }
+  ],
+  "sources": [
+    "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/final-tournament-standings",
+    "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/teams",
+    "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+    "https://github.com/openfootball/worldcup.json",
+    "https://github.com/mominullptr/FIFA-World-Cup-2026-Dataset"
+  ]
+}

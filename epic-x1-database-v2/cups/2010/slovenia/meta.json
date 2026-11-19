@@ -1,0 +1,213 @@
+{
+  "country": "Slovenia",
+  "countrySlug": "slovenia",
+  "year": 2010,
+  "edition": "2010",
+  "host": "South Africa",
+  "coach": "Matjaž Kek",
+  "finalPhase": "Group Stage",
+  "result": "Group Stage",
+  "squad": [
+    {
+      "id": "slovenia-2010-1",
+      "name": "Samir Handanović",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "slovenia-2010-2",
+      "name": "Mišo Brečko",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "slovenia-2010-3",
+      "name": "Elvedin Džinić",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "slovenia-2010-4",
+      "name": "Marko Šuler",
+      "shirtNumber": 4,
+      "position": "DEF"
+    },
+    {
+      "id": "slovenia-2010-5",
+      "name": "Boštjan Cesar",
+      "shirtNumber": 5,
+      "position": "DEF"
+    },
+    {
+      "id": "slovenia-2010-6",
+      "name": "Branko Ilić",
+      "shirtNumber": 6,
+      "position": "DEF"
+    },
+    {
+      "id": "slovenia-2010-7",
+      "name": "Nejc Pečnik",
+      "shirtNumber": 7,
+      "position": "ATT"
+    },
+    {
+      "id": "slovenia-2010-8",
+      "name": "Robert Koren",
+      "shirtNumber": 8,
+      "position": "MID"
+    },
+    {
+      "id": "slovenia-2010-9",
+      "name": "Zlatan Ljubijankić",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "slovenia-2010-10",
+      "name": "Valter Birsa",
+      "shirtNumber": 10,
+      "position": "ATT"
+    },
+    {
+      "id": "slovenia-2010-11",
+      "name": "Milivoje Novaković",
+      "shirtNumber": 11,
+      "position": "ATT"
+    },
+    {
+      "id": "slovenia-2010-12",
+      "name": "Jasmin Handanović",
+      "shirtNumber": 12,
+      "position": "GK"
+    },
+    {
+      "id": "slovenia-2010-13",
+      "name": "Bojan Jokić",
+      "shirtNumber": 13,
+      "position": "DEF"
+    },
+    {
+      "id": "slovenia-2010-14",
+      "name": "Zlatko Dedić",
+      "shirtNumber": 14,
+      "position": "ATT"
+    },
+    {
+      "id": "slovenia-2010-15",
+      "name": "Rene Krhin",
+      "shirtNumber": 15,
+      "position": "MID"
+    },
+    {
+      "id": "slovenia-2010-16",
+      "name": "Aleksander Šeliga",
+      "shirtNumber": 16,
+      "position": "GK"
+    },
+    {
+      "id": "slovenia-2010-17",
+      "name": "Andraž Kirm",
+      "shirtNumber": 17,
+      "position": "MID"
+    },
+    {
+      "id": "slovenia-2010-18",
+      "name": "Aleksandar Radosavljević",
+      "shirtNumber": 18,
+      "position": "MID"
+    },
+    {
+      "id": "slovenia-2010-19",
+      "name": "Suad Fileković",
+      "shirtNumber": 19,
+      "position": "DEF"
+    },
+    {
+      "id": "slovenia-2010-20",
+      "name": "Andrej Komac",
+      "shirtNumber": 20,
+      "position": "MID"
+    },
+    {
+      "id": "slovenia-2010-21",
+      "name": "Dalibor Stevanović",
+      "shirtNumber": 21,
+      "position": "MID"
+    },
+    {
+      "id": "slovenia-2010-22",
+      "name": "Matej Mavrič",
+      "shirtNumber": 22,
+      "position": "DEF"
+    },
+    {
+      "id": "slovenia-2010-23",
+      "name": "Tim Matavž",
+      "shirtNumber": 23,
+      "position": "ATT"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "Algeria",
+      "score": "0–1",
+      "scorers": [
+        {
+          "name": "Robert Koren",
+          "minute": "79'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2010-06-13"
+    },
+    {
+      "stage": "Group",
+      "opponent": "United States",
+      "score": "2–2",
+      "scorers": [
+        {
+          "name": "Valter Birsa",
+          "minute": "13'",
+          "ownGoal": false
+        },
+        {
+          "name": "Zlatan Ljubijankić",
+          "minute": "42'",
+          "ownGoal": false
+        },
+        {
+          "name": "Landon Donovan",
+          "minute": "48'",
+          "ownGoal": false
+        },
+        {
+          "name": "Michael Bradley",
+          "minute": "82'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2010-06-18"
+    },
+    {
+      "stage": "Group",
+      "opponent": "England",
+      "score": "0–1",
+      "scorers": [
+        {
+          "name": "Jermain Defoe",
+          "minute": "23'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2010-06-23"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

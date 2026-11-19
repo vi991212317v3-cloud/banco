@@ -1,0 +1,228 @@
+{
+  "country": "South Korea",
+  "countrySlug": "south-korea",
+  "year": 2014,
+  "edition": "2014",
+  "host": "Brazil",
+  "coach": "Myung-bo Hong",
+  "finalPhase": "Group Stage",
+  "result": "Group Stage",
+  "squad": [
+    {
+      "id": "south-korea-2014-1",
+      "name": "Sung-ryong Jung",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "south-korea-2014-2",
+      "name": "Chang-soo Kim",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "south-korea-2014-3",
+      "name": "Suk-young Yun",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "south-korea-2014-4",
+      "name": "Tae-hwi Kwak",
+      "shirtNumber": 4,
+      "position": "DEF"
+    },
+    {
+      "id": "south-korea-2014-5",
+      "name": "Young-gwon Kim",
+      "shirtNumber": 5,
+      "position": "DEF"
+    },
+    {
+      "id": "south-korea-2014-6",
+      "name": "Seok-ho Hwang",
+      "shirtNumber": 6,
+      "position": "DEF"
+    },
+    {
+      "id": "south-korea-2014-7",
+      "name": "Bo-kyung Kim",
+      "shirtNumber": 7,
+      "position": "MID"
+    },
+    {
+      "id": "south-korea-2014-8",
+      "name": "Dae-sung Ha",
+      "shirtNumber": 8,
+      "position": "MID"
+    },
+    {
+      "id": "south-korea-2014-9",
+      "name": "Heung-min Son",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "south-korea-2014-10",
+      "name": "Chu-young Park",
+      "shirtNumber": 10,
+      "position": "ATT"
+    },
+    {
+      "id": "south-korea-2014-11",
+      "name": "Keun-ho Lee",
+      "shirtNumber": 11,
+      "position": "ATT"
+    },
+    {
+      "id": "south-korea-2014-12",
+      "name": "Yong Lee",
+      "shirtNumber": 12,
+      "position": "DEF"
+    },
+    {
+      "id": "south-korea-2014-13",
+      "name": "Ja-cheol Koo",
+      "shirtNumber": 13,
+      "position": "MID"
+    },
+    {
+      "id": "south-korea-2014-14",
+      "name": "Kook-young Han",
+      "shirtNumber": 14,
+      "position": "MID"
+    },
+    {
+      "id": "south-korea-2014-15",
+      "name": "Jong-woo Park",
+      "shirtNumber": 15,
+      "position": "MID"
+    },
+    {
+      "id": "south-korea-2014-16",
+      "name": "Sung-yueng Ki",
+      "shirtNumber": 16,
+      "position": "MID"
+    },
+    {
+      "id": "south-korea-2014-17",
+      "name": "Chung-yong Lee",
+      "shirtNumber": 17,
+      "position": "MID"
+    },
+    {
+      "id": "south-korea-2014-18",
+      "name": "Shin-wook Kim",
+      "shirtNumber": 18,
+      "position": "ATT"
+    },
+    {
+      "id": "south-korea-2014-19",
+      "name": "Dong-won Ji",
+      "shirtNumber": 19,
+      "position": "ATT"
+    },
+    {
+      "id": "south-korea-2014-20",
+      "name": "Jeong-ho Hong",
+      "shirtNumber": 20,
+      "position": "DEF"
+    },
+    {
+      "id": "south-korea-2014-21",
+      "name": "Seung-gyu Kim",
+      "shirtNumber": 21,
+      "position": "GK"
+    },
+    {
+      "id": "south-korea-2014-22",
+      "name": "Joo-ho Park",
+      "shirtNumber": 22,
+      "position": "DEF"
+    },
+    {
+      "id": "south-korea-2014-23",
+      "name": "Bum-young Lee",
+      "shirtNumber": 23,
+      "position": "GK"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "Russia",
+      "score": "1–1",
+      "scorers": [
+        {
+          "name": "Keun-ho Lee",
+          "minute": "68'",
+          "ownGoal": false
+        },
+        {
+          "name": "Aleksandr Kerzhakov",
+          "minute": "74'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2014-06-17"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Algeria",
+      "score": "2–4",
+      "scorers": [
+        {
+          "name": "Islam Slimani",
+          "minute": "26'",
+          "ownGoal": false
+        },
+        {
+          "name": "Rafik Halliche",
+          "minute": "28'",
+          "ownGoal": false
+        },
+        {
+          "name": "Abdelmoumene Djabou",
+          "minute": "38'",
+          "ownGoal": false
+        },
+        {
+          "name": "Heung-min Son",
+          "minute": "50'",
+          "ownGoal": false
+        },
+        {
+          "name": "Yacine Brahimi",
+          "minute": "62'",
+          "ownGoal": false
+        },
+        {
+          "name": "Ja-cheol Koo",
+          "minute": "72'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2014-06-22"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Belgium",
+      "score": "0–1",
+      "scorers": [
+        {
+          "name": "Jan Vertonghen",
+          "minute": "78'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2014-06-26"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}
