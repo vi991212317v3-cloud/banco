@@ -1,0 +1,264 @@
+{
+  "country": "Sweden",
+  "countrySlug": "sweden",
+  "year": 1974,
+  "edition": "1974",
+  "host": "West Germany",
+  "coach": "Georg Ericson",
+  "finalPhase": "Second Group Stage",
+  "result": "Second Group Stage",
+  "squad": [
+    {
+      "id": "sweden-1974-1",
+      "name": "Ronnie Hellström",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "sweden-1974-2",
+      "name": "Jan Olsson",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "sweden-1974-3",
+      "name": "Kent Karlsson",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "sweden-1974-4",
+      "name": "Björn Nordqvist",
+      "shirtNumber": 4,
+      "position": "DEF"
+    },
+    {
+      "id": "sweden-1974-5",
+      "name": "Björn Andersson",
+      "shirtNumber": 5,
+      "position": "DEF"
+    },
+    {
+      "id": "sweden-1974-6",
+      "name": "Ove Grahn",
+      "shirtNumber": 6,
+      "position": "MID"
+    },
+    {
+      "id": "sweden-1974-7",
+      "name": "Bo Larsson",
+      "shirtNumber": 7,
+      "position": "MID"
+    },
+    {
+      "id": "sweden-1974-8",
+      "name": "Conny Torstensson",
+      "shirtNumber": 8,
+      "position": "MID"
+    },
+    {
+      "id": "sweden-1974-9",
+      "name": "Ove Kindvall",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "sweden-1974-10",
+      "name": "Ralf Edström",
+      "shirtNumber": 10,
+      "position": "ATT"
+    },
+    {
+      "id": "sweden-1974-11",
+      "name": "Roland Sandberg",
+      "shirtNumber": 11,
+      "position": "ATT"
+    },
+    {
+      "id": "sweden-1974-12",
+      "name": "Sven-Gunnar Larsson",
+      "shirtNumber": 12,
+      "position": "GK"
+    },
+    {
+      "id": "sweden-1974-13",
+      "name": "Roland Grip",
+      "shirtNumber": 13,
+      "position": "DEF"
+    },
+    {
+      "id": "sweden-1974-14",
+      "name": "Staffan Tapper",
+      "shirtNumber": 14,
+      "position": "MID"
+    },
+    {
+      "id": "sweden-1974-15",
+      "name": "Benno Magnusson",
+      "shirtNumber": 15,
+      "position": "MID"
+    },
+    {
+      "id": "sweden-1974-16",
+      "name": "Inge Ejderstedt",
+      "shirtNumber": 16,
+      "position": "MID"
+    },
+    {
+      "id": "sweden-1974-17",
+      "name": "Göran Hagberg",
+      "shirtNumber": 17,
+      "position": "GK"
+    },
+    {
+      "id": "sweden-1974-18",
+      "name": "Jörgen Augustsson",
+      "shirtNumber": 18,
+      "position": "DEF"
+    },
+    {
+      "id": "sweden-1974-19",
+      "name": "Claes Cronqvist",
+      "shirtNumber": 19,
+      "position": "MID"
+    },
+    {
+      "id": "sweden-1974-20",
+      "name": "Sven Lindman",
+      "shirtNumber": 20,
+      "position": "MID"
+    },
+    {
+      "id": "sweden-1974-21",
+      "name": "Örjan Persson",
+      "shirtNumber": 21,
+      "position": "MID"
+    },
+    {
+      "id": "sweden-1974-22",
+      "name": "Thomas Ahlström",
+      "shirtNumber": 22,
+      "position": "MID"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "Bulgaria",
+      "score": "0–0",
+      "scorers": [],
+      "date": "1974-06-15"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Netherlands",
+      "score": "0–0",
+      "scorers": [],
+      "date": "1974-06-19"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Uruguay",
+      "score": "3–0",
+      "scorers": [
+        {
+          "name": "Ralf Edström",
+          "minute": "46'",
+          "ownGoal": false
+        },
+        {
+          "name": "Roland Sandberg",
+          "minute": "74'",
+          "ownGoal": false
+        },
+        {
+          "name": "Ralf Edström",
+          "minute": "77'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1974-06-23"
+    },
+    {
+      "stage": "Second Group Stage",
+      "opponent": "Poland",
+      "score": "0–1",
+      "scorers": [
+        {
+          "name": "Grzegorz Lato",
+          "minute": "43'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1974-06-26"
+    },
+    {
+      "stage": "Second Group Stage",
+      "opponent": "West Germany",
+      "score": "4–2",
+      "scorers": [
+        {
+          "name": "Ralf Edström",
+          "minute": "24'",
+          "ownGoal": false
+        },
+        {
+          "name": "Wolfgang Overath",
+          "minute": "51'",
+          "ownGoal": false
+        },
+        {
+          "name": "Rainer Bonhof",
+          "minute": "52'",
+          "ownGoal": false
+        },
+        {
+          "name": "Roland Sandberg",
+          "minute": "53'",
+          "ownGoal": false
+        },
+        {
+          "name": "Jürgen Grabowski",
+          "minute": "76'",
+          "ownGoal": false
+        },
+        {
+          "name": "Uli Hoeneß",
+          "minute": "89'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1974-06-30"
+    },
+    {
+      "stage": "Second Group Stage",
+      "opponent": "Yugoslavia",
+      "score": "2–1",
+      "scorers": [
+        {
+          "name": "Ivica Šurjak",
+          "minute": "27'",
+          "ownGoal": false
+        },
+        {
+          "name": "Ralf Edström",
+          "minute": "29'",
+          "ownGoal": false
+        },
+        {
+          "name": "Conny Torstensson",
+          "minute": "85'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1974-07-03"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

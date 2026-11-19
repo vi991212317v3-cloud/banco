@@ -1,0 +1,1545 @@
+[
+  {
+    "id": "nigeria-2018-1",
+    "name": "Ikechukwu Ezenwa",
+    "commonName": "Ikechukwu Ezenwa",
+    "shirtNumber": 1,
+    "position": "GK",
+    "positions": [
+      "GK"
+    ],
+    "country": "Nigeria",
+    "countrySlug": "nigeria",
+    "year": 2018,
+    "edition": "2018",
+    "club": null,
+    "age": 29,
+    "history": {
+      "matchesPlayed": 0,
+      "matches": [],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 63,
+      "agility": 65,
+      "skill": 60,
+      "speed": 60,
+      "shooting": 52,
+      "passing": 62,
+      "defending": 62,
+      "physical": 64,
+      "goalkeeping": 71
+    },
+    "overall": 67,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "nigeria-2018-2",
+    "name": "Brian Idowu",
+    "commonName": "Brian Idowu",
+    "shirtNumber": 2,
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "country": "Nigeria",
+    "countrySlug": "nigeria",
+    "year": 2018,
+    "edition": "2018",
+    "club": null,
+    "age": 26,
+    "history": {
+      "matchesPlayed": 3,
+      "matches": [
+        {
+          "stage": "Group",
+          "opponent": "Croatia",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group",
+          "opponent": "Iceland",
+          "minutes": 46,
+          "goals": 0,
+          "assists": null,
+          "yellow": 1,
+          "red": 0
+        },
+        {
+          "stage": "Group",
+          "opponent": "Argentina",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": 1,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 68,
+      "agility": 70,
+      "skill": 72,
+      "speed": 69,
+      "shooting": 68,
+      "passing": 72,
+      "defending": 67,
+      "physical": 68,
+      "goalkeeping": 50
+    },
+    "overall": 69,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "nigeria-2018-3",
+    "name": "Elderson Echiéjilé",
+    "commonName": "Elderson Echiéjilé",
+    "shirtNumber": 3,
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "country": "Nigeria",
+    "countrySlug": "nigeria",
+    "year": 2018,
+    "edition": "2018",
+    "club": null,
+    "age": 30,
+    "history": {
+      "matchesPlayed": 0,
+      "matches": [],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 65,
+      "agility": 67,
+      "skill": 69,
+      "speed": 66,
+      "shooting": 65,
+      "passing": 69,
+      "defending": 64,
+      "physical": 65,
+      "goalkeeping": 48
+    },
+    "overall": 71,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "nigeria-2018-4",
+    "name": "Wilfred Ndidi",
+    "commonName": "Wilfred Ndidi",
+    "shirtNumber": 4,
+    "position": "MID",
+    "positions": [
+      "MID"
+    ],
+    "country": "Nigeria",
+    "countrySlug": "nigeria",
+    "year": 2018,
+    "edition": "2018",
+    "club": null,
+    "age": 21,
+    "history": {
+      "matchesPlayed": 3,
+      "matches": [
+        {
+          "stage": "Group",
+          "opponent": "Croatia",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group",
+          "opponent": "Iceland",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group",
+          "opponent": "Argentina",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 68,
+      "agility": 70,
+      "skill": 72,
+      "speed": 69,
+      "shooting": 68,
+      "passing": 72,
+      "defending": 67,
+      "physical": 68,
+      "goalkeeping": 50
+    },
+    "overall": 75,
+    "tier": "COMMON",
+    "isLegend": true,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "nigeria-2018-5",
+    "name": "William Troost-Ekong",
+    "commonName": "William Troost-Ekong",
+    "shirtNumber": 5,
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "country": "Nigeria",
+    "countrySlug": "nigeria",
+    "year": 2018,
+    "edition": "2018",
+    "club": null,
+    "age": 24,
+    "history": {
+      "matchesPlayed": 3,
+      "matches": [
+        {
+          "stage": "Group",
+          "opponent": "Croatia",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 1,
+          "red": 0
+        },
+        {
+          "stage": "Group",
+          "opponent": "Iceland",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group",
+          "opponent": "Argentina",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": 1,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 68,
+      "agility": 70,
+      "skill": 72,
+      "speed": 69,
+      "shooting": 68,
+      "passing": 72,
+      "defending": 67,
+      "physical": 68,
+      "goalkeeping": 50
+    },
+    "overall": 71,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "nigeria-2018-6",
+    "name": "Leon Balogun",
+    "commonName": "Leon Balogun",
+    "shirtNumber": 6,
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "country": "Nigeria",
+    "countrySlug": "nigeria",
+    "year": 2018,
+    "edition": "2018",
+    "club": null,
+    "age": 29,
+    "history": {
+      "matchesPlayed": 3,
+      "matches": [
+        {
+          "stage": "Group",
+          "opponent": "Croatia",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group",
+          "opponent": "Iceland",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group",
+          "opponent": "Argentina",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 1,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": 1,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 68,
+      "agility": 70,
+      "skill": 72,
+      "speed": 69,
+      "shooting": 68,
+      "passing": 72,
+      "defending": 67,
+      "physical": 68,
+      "goalkeeping": 50
+    },
+    "overall": 75,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "nigeria-2018-7",
+    "name": "Ahmed Musa",
+    "commonName": "Ahmed Musa",
+    "shirtNumber": 7,
+    "position": "ATT",
+    "positions": [
+      "ATT"
+    ],
+    "country": "Nigeria",
+    "countrySlug": "nigeria",
+    "year": 2018,
+    "edition": "2018",
+    "club": null,
+    "age": 25,
+    "history": {
+      "matchesPlayed": 3,
+      "matches": [
+        {
+          "stage": "Group",
+          "opponent": "Croatia",
+          "minutes": 28,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group",
+          "opponent": "Iceland",
+          "minutes": 90,
+          "goals": 2,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group",
+          "opponent": "Argentina",
+          "minutes": 92,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 2,
+      "assists": null,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 71,
+      "agility": 73,
+      "skill": 75,
+      "speed": 72,
+      "shooting": 71,
+      "passing": 75,
+      "defending": 70,
+      "physical": 71,
+      "goalkeeping": 54
+    },
+    "overall": 76,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "nigeria-2018-8",
+    "name": "Peter Etebo",
+    "commonName": "Peter Etebo",
+    "shirtNumber": 8,
+    "position": "MID",
+    "positions": [
+      "MID"
+    ],
+    "country": "Nigeria",
+    "countrySlug": "nigeria",
+    "year": 2018,
+    "edition": "2018",
+    "club": null,
+    "age": 22,
+    "history": {
+      "matchesPlayed": 3,
+      "matches": [
+        {
+          "stage": "Group",
+          "opponent": "Croatia",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group",
+          "opponent": "Iceland",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group",
+          "opponent": "Argentina",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 68,
+      "agility": 70,
+      "skill": 72,
+      "speed": 69,
+      "shooting": 68,
+      "passing": 72,
+      "defending": 67,
+      "physical": 68,
+      "goalkeeping": 50
+    },
+    "overall": 73,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "nigeria-2018-9",
+    "name": "Odion Ighalo",
+    "commonName": "Odion Ighalo",
+    "shirtNumber": 9,
+    "position": "ATT",
+    "positions": [
+      "ATT"
+    ],
+    "country": "Nigeria",
+    "countrySlug": "nigeria",
+    "year": 2018,
+    "edition": "2018",
+    "club": null,
+    "age": 28,
+    "history": {
+      "matchesPlayed": 3,
+      "matches": [
+        {
+          "stage": "Group",
+          "opponent": "Croatia",
+          "minutes": 72,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group",
+          "opponent": "Iceland",
+          "minutes": 5,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group",
+          "opponent": "Argentina",
+          "minutes": 44,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 68,
+      "agility": 70,
+      "skill": 72,
+      "speed": 69,
+      "shooting": 68,
+      "passing": 72,
+      "defending": 67,
+      "physical": 68,
+      "goalkeeping": 50
+    },
+    "overall": 78,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "nigeria-2018-10",
+    "name": "John Obi Mikel",
+    "commonName": "John Obi Mikel",
+    "shirtNumber": 10,
+    "position": "MID",
+    "positions": [
+      "MID"
+    ],
+    "country": "Nigeria",
+    "countrySlug": "nigeria",
+    "year": 2018,
+    "edition": "2018",
+    "club": null,
+    "age": 31,
+    "history": {
+      "matchesPlayed": 3,
+      "matches": [
+        {
+          "stage": "Group",
+          "opponent": "Croatia",
+          "minutes": 88,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group",
+          "opponent": "Iceland",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group",
+          "opponent": "Argentina",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 1,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": 1,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 68,
+      "agility": 70,
+      "skill": 72,
+      "speed": 69,
+      "shooting": 68,
+      "passing": 72,
+      "defending": 67,
+      "physical": 68,
+      "goalkeeping": 50
+    },
+    "overall": 78,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "nigeria-2018-11",
+    "name": "Victor Moses",
+    "commonName": "Victor Moses",
+    "shirtNumber": 11,
+    "position": "ATT",
+    "positions": [
+      "ATT"
+    ],
+    "country": "Nigeria",
+    "countrySlug": "nigeria",
+    "year": 2018,
+    "edition": "2018",
+    "club": null,
+    "age": 27,
+    "history": {
+      "matchesPlayed": 3,
+      "matches": [
+        {
+          "stage": "Group",
+          "opponent": "Croatia",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group",
+          "opponent": "Iceland",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group",
+          "opponent": "Argentina",
+          "minutes": 90,
+          "goals": 1,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 1,
+      "assists": null,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 69,
+      "agility": 71,
+      "skill": 73,
+      "speed": 70,
+      "shooting": 69,
+      "passing": 73,
+      "defending": 68,
+      "physical": 69,
+      "goalkeeping": 52
+    },
+    "overall": 79,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "nigeria-2018-12",
+    "name": "Shehu Abdullahi",
+    "commonName": "Shehu Abdullahi",
+    "shirtNumber": 12,
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "country": "Nigeria",
+    "countrySlug": "nigeria",
+    "year": 2018,
+    "edition": "2018",
+    "club": null,
+    "age": 25,
+    "history": {
+      "matchesPlayed": 1,
+      "matches": [
+        {
+          "stage": "Group",
+          "opponent": "Croatia",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 66,
+      "agility": 68,
+      "skill": 70,
+      "speed": 67,
+      "shooting": 66,
+      "passing": 70,
+      "defending": 65,
+      "physical": 66,
+      "goalkeeping": 48
+    },
+    "overall": 70,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "nigeria-2018-13",
+    "name": "Simeon Nwankwo",
+    "commonName": "Simeon Nwankwo",
+    "shirtNumber": 13,
+    "position": "ATT",
+    "positions": [
+      "ATT"
+    ],
+    "country": "Nigeria",
+    "countrySlug": "nigeria",
+    "year": 2018,
+    "edition": "2018",
+    "club": null,
+    "age": 26,
+    "history": {
+      "matchesPlayed": 2,
+      "matches": [
+        {
+          "stage": "Group",
+          "opponent": "Croatia",
+          "minutes": 2,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group",
+          "opponent": "Argentina",
+          "minutes": 0,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 67,
+      "agility": 69,
+      "skill": 71,
+      "speed": 68,
+      "shooting": 67,
+      "passing": 71,
+      "defending": 66,
+      "physical": 67,
+      "goalkeeping": 50
+    },
+    "overall": 68,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "nigeria-2018-14",
+    "name": "Kelechi Iheanacho",
+    "commonName": "Kelechi Iheanacho",
+    "shirtNumber": 14,
+    "position": "ATT",
+    "positions": [
+      "ATT"
+    ],
+    "country": "Nigeria",
+    "countrySlug": "nigeria",
+    "year": 2018,
+    "edition": "2018",
+    "club": null,
+    "age": 22,
+    "history": {
+      "matchesPlayed": 3,
+      "matches": [
+        {
+          "stage": "Group",
+          "opponent": "Croatia",
+          "minutes": 18,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group",
+          "opponent": "Iceland",
+          "minutes": 85,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group",
+          "opponent": "Argentina",
+          "minutes": 46,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 68,
+      "agility": 70,
+      "skill": 72,
+      "speed": 69,
+      "shooting": 68,
+      "passing": 72,
+      "defending": 67,
+      "physical": 68,
+      "goalkeeping": 50
+    },
+    "overall": 75,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "nigeria-2018-15",
+    "name": "Joel Obi",
+    "commonName": "Joel Obi",
+    "shirtNumber": 15,
+    "position": "MID",
+    "positions": [
+      "MID"
+    ],
+    "country": "Nigeria",
+    "countrySlug": "nigeria",
+    "year": 2018,
+    "edition": "2018",
+    "club": null,
+    "age": 27,
+    "history": {
+      "matchesPlayed": 0,
+      "matches": [],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 65,
+      "agility": 67,
+      "skill": 69,
+      "speed": 66,
+      "shooting": 65,
+      "passing": 69,
+      "defending": 64,
+      "physical": 65,
+      "goalkeeping": 48
+    },
+    "overall": 73,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "nigeria-2018-16",
+    "name": "Daniel Akpeyi",
+    "commonName": "Daniel Akpeyi",
+    "shirtNumber": 16,
+    "position": "GK",
+    "positions": [
+      "GK"
+    ],
+    "country": "Nigeria",
+    "countrySlug": "nigeria",
+    "year": 2018,
+    "edition": "2018",
+    "club": null,
+    "age": 32,
+    "history": {
+      "matchesPlayed": 0,
+      "matches": [],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 63,
+      "agility": 65,
+      "skill": 60,
+      "speed": 60,
+      "shooting": 52,
+      "passing": 62,
+      "defending": 62,
+      "physical": 64,
+      "goalkeeping": 71
+    },
+    "overall": 65,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "nigeria-2018-17",
+    "name": "Ogenyi Onazi",
+    "commonName": "Ogenyi Onazi",
+    "shirtNumber": 17,
+    "position": "MID",
+    "positions": [
+      "MID"
+    ],
+    "country": "Nigeria",
+    "countrySlug": "nigeria",
+    "year": 2018,
+    "edition": "2018",
+    "club": null,
+    "age": 25,
+    "history": {
+      "matchesPlayed": 0,
+      "matches": [],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 65,
+      "agility": 67,
+      "skill": 69,
+      "speed": 66,
+      "shooting": 65,
+      "passing": 69,
+      "defending": 64,
+      "physical": 65,
+      "goalkeeping": 48
+    },
+    "overall": 74,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "nigeria-2018-18",
+    "name": "Alex Iwobi",
+    "commonName": "Alex Iwobi",
+    "shirtNumber": 18,
+    "position": "ATT",
+    "positions": [
+      "ATT"
+    ],
+    "country": "Nigeria",
+    "countrySlug": "nigeria",
+    "year": 2018,
+    "edition": "2018",
+    "club": null,
+    "age": 22,
+    "history": {
+      "matchesPlayed": 3,
+      "matches": [
+        {
+          "stage": "Group",
+          "opponent": "Croatia",
+          "minutes": 62,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group",
+          "opponent": "Iceland",
+          "minutes": 0,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group",
+          "opponent": "Argentina",
+          "minutes": 0,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 68,
+      "agility": 70,
+      "skill": 72,
+      "speed": 69,
+      "shooting": 68,
+      "passing": 72,
+      "defending": 67,
+      "physical": 68,
+      "goalkeeping": 50
+    },
+    "overall": 74,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "nigeria-2018-19",
+    "name": "John Ogu",
+    "commonName": "John Ogu",
+    "shirtNumber": 19,
+    "position": "MID",
+    "positions": [
+      "MID"
+    ],
+    "country": "Nigeria",
+    "countrySlug": "nigeria",
+    "year": 2018,
+    "edition": "2018",
+    "club": null,
+    "age": 30,
+    "history": {
+      "matchesPlayed": 0,
+      "matches": [],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 65,
+      "agility": 67,
+      "skill": 69,
+      "speed": 66,
+      "shooting": 65,
+      "passing": 69,
+      "defending": 64,
+      "physical": 65,
+      "goalkeeping": 48
+    },
+    "overall": 66,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "nigeria-2018-20",
+    "name": "Chidozie Awaziem",
+    "commonName": "Chidozie Awaziem",
+    "shirtNumber": 20,
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "country": "Nigeria",
+    "countrySlug": "nigeria",
+    "year": 2018,
+    "edition": "2018",
+    "club": null,
+    "age": 21,
+    "history": {
+      "matchesPlayed": 0,
+      "matches": [],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 65,
+      "agility": 67,
+      "skill": 69,
+      "speed": 66,
+      "shooting": 65,
+      "passing": 69,
+      "defending": 64,
+      "physical": 65,
+      "goalkeeping": 48
+    },
+    "overall": 67,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "nigeria-2018-21",
+    "name": "Tyronne Ebuehi",
+    "commonName": "Tyronne Ebuehi",
+    "shirtNumber": 21,
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "country": "Nigeria",
+    "countrySlug": "nigeria",
+    "year": 2018,
+    "edition": "2018",
+    "club": null,
+    "age": 22,
+    "history": {
+      "matchesPlayed": 1,
+      "matches": [
+        {
+          "stage": "Group",
+          "opponent": "Iceland",
+          "minutes": 44,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 66,
+      "agility": 68,
+      "skill": 70,
+      "speed": 67,
+      "shooting": 66,
+      "passing": 70,
+      "defending": 65,
+      "physical": 66,
+      "goalkeeping": 48
+    },
+    "overall": 66,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "nigeria-2018-22",
+    "name": "Kenneth Omeruo",
+    "commonName": "Kenneth Omeruo",
+    "shirtNumber": 22,
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "country": "Nigeria",
+    "countrySlug": "nigeria",
+    "year": 2018,
+    "edition": "2018",
+    "club": null,
+    "age": 24,
+    "history": {
+      "matchesPlayed": 2,
+      "matches": [
+        {
+          "stage": "Group",
+          "opponent": "Iceland",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group",
+          "opponent": "Argentina",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 67,
+      "agility": 69,
+      "skill": 71,
+      "speed": 68,
+      "shooting": 67,
+      "passing": 71,
+      "defending": 66,
+      "physical": 67,
+      "goalkeeping": 50
+    },
+    "overall": 69,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "nigeria-2018-23",
+    "name": "Francis Uzoho",
+    "commonName": "Francis Uzoho",
+    "shirtNumber": 23,
+    "position": "GK",
+    "positions": [
+      "GK"
+    ],
+    "country": "Nigeria",
+    "countrySlug": "nigeria",
+    "year": 2018,
+    "edition": "2018",
+    "club": null,
+    "age": 19,
+    "history": {
+      "matchesPlayed": 3,
+      "matches": [
+        {
+          "stage": "Group",
+          "opponent": "Croatia",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group",
+          "opponent": "Iceland",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group",
+          "opponent": "Argentina",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 66,
+      "agility": 68,
+      "skill": 63,
+      "speed": 63,
+      "shooting": 55,
+      "passing": 65,
+      "defending": 65,
+      "physical": 67,
+      "goalkeeping": 74
+    },
+    "overall": 68,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  }
+]

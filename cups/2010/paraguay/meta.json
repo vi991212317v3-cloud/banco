@@ -1,0 +1,222 @@
+{
+  "country": "Paraguay",
+  "countrySlug": "paraguay",
+  "year": 2010,
+  "edition": "2010",
+  "host": "South Africa",
+  "coach": "Gerardo Martino",
+  "finalPhase": "Quarter-final",
+  "result": "Quarter-final",
+  "squad": [
+    {
+      "id": "paraguay-2010-1",
+      "name": "Justo Villar",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "paraguay-2010-2",
+      "name": "Darío Verón",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "paraguay-2010-3",
+      "name": "Claudio Morel",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "paraguay-2010-4",
+      "name": "Denis Caniza",
+      "shirtNumber": 4,
+      "position": "DEF"
+    },
+    {
+      "id": "paraguay-2010-5",
+      "name": "Julio César Cáceres",
+      "shirtNumber": 5,
+      "position": "DEF"
+    },
+    {
+      "id": "paraguay-2010-6",
+      "name": "Carlos Bonet",
+      "shirtNumber": 6,
+      "position": "DEF"
+    },
+    {
+      "id": "paraguay-2010-7",
+      "name": "Óscar Cardozo",
+      "shirtNumber": 7,
+      "position": "ATT"
+    },
+    {
+      "id": "paraguay-2010-8",
+      "name": "Édgar Barreto",
+      "shirtNumber": 8,
+      "position": "MID"
+    },
+    {
+      "id": "paraguay-2010-9",
+      "name": "Roque Santa Cruz",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "paraguay-2010-10",
+      "name": "Édgar Benítez",
+      "shirtNumber": 10,
+      "position": "ATT"
+    },
+    {
+      "id": "paraguay-2010-11",
+      "name": "Jonathan Santana",
+      "shirtNumber": 11,
+      "position": "MID"
+    },
+    {
+      "id": "paraguay-2010-12",
+      "name": "Diego Barreto",
+      "shirtNumber": 12,
+      "position": "GK"
+    },
+    {
+      "id": "paraguay-2010-13",
+      "name": "Enrique Vera",
+      "shirtNumber": 13,
+      "position": "MID"
+    },
+    {
+      "id": "paraguay-2010-14",
+      "name": "Paulo da Silva",
+      "shirtNumber": 14,
+      "position": "DEF"
+    },
+    {
+      "id": "paraguay-2010-15",
+      "name": "Víctor Cáceres",
+      "shirtNumber": 15,
+      "position": "MID"
+    },
+    {
+      "id": "paraguay-2010-16",
+      "name": "Cristian Riveros",
+      "shirtNumber": 16,
+      "position": "MID"
+    },
+    {
+      "id": "paraguay-2010-17",
+      "name": "Aureliano Torres",
+      "shirtNumber": 17,
+      "position": "DEF"
+    },
+    {
+      "id": "paraguay-2010-18",
+      "name": "Nelson Valdez",
+      "shirtNumber": 18,
+      "position": "ATT"
+    },
+    {
+      "id": "paraguay-2010-19",
+      "name": "Lucas Barrios",
+      "shirtNumber": 19,
+      "position": "ATT"
+    },
+    {
+      "id": "paraguay-2010-20",
+      "name": "Néstor Ortigoza",
+      "shirtNumber": 20,
+      "position": "MID"
+    },
+    {
+      "id": "paraguay-2010-21",
+      "name": "Antolín Alcaraz",
+      "shirtNumber": 21,
+      "position": "DEF"
+    },
+    {
+      "id": "paraguay-2010-22",
+      "name": "Aldo Bobadilla",
+      "shirtNumber": 22,
+      "position": "GK"
+    },
+    {
+      "id": "paraguay-2010-23",
+      "name": "Rodolfo Gamarra",
+      "shirtNumber": 23,
+      "position": "ATT"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "Italy",
+      "score": "1–1",
+      "scorers": [
+        {
+          "name": "Antolín Alcaraz",
+          "minute": "39'",
+          "ownGoal": false
+        },
+        {
+          "name": "Daniele De Rossi",
+          "minute": "63'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2010-06-14"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Slovakia",
+      "score": "0–2",
+      "scorers": [
+        {
+          "name": "Enrique Vera",
+          "minute": "27'",
+          "ownGoal": false
+        },
+        {
+          "name": "Cristian Riveros",
+          "minute": "86'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2010-06-20"
+    },
+    {
+      "stage": "Group",
+      "opponent": "New Zealand",
+      "score": "0–0",
+      "scorers": [],
+      "date": "2010-06-24"
+    },
+    {
+      "stage": "Round of 16",
+      "opponent": "Japan",
+      "score": "0–0",
+      "scorers": [],
+      "date": "2010-06-29"
+    },
+    {
+      "stage": "Quarter-final",
+      "opponent": "Spain",
+      "score": "0–1",
+      "scorers": [
+        {
+          "name": "David Villa",
+          "minute": "83'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2010-07-03"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

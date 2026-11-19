@@ -1,0 +1,239 @@
+{
+  "country": "England",
+  "countrySlug": "england",
+  "year": 1962,
+  "edition": "1962",
+  "host": "Chile",
+  "coach": "Walter Winterbottom",
+  "finalPhase": "Quarter-final",
+  "result": "Quarter-final",
+  "squad": [
+    {
+      "id": "england-1962-1",
+      "name": "Ron Springett",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "england-1962-2",
+      "name": "Jimmy Armfield",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "england-1962-3",
+      "name": "Ray Wilson",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "england-1962-4",
+      "name": "Bobby Robson",
+      "shirtNumber": 4,
+      "position": "MID"
+    },
+    {
+      "id": "england-1962-5",
+      "name": "Peter Swan",
+      "shirtNumber": 5,
+      "position": "DEF"
+    },
+    {
+      "id": "england-1962-6",
+      "name": "Ron Flowers",
+      "shirtNumber": 6,
+      "position": "MID"
+    },
+    {
+      "id": "england-1962-7",
+      "name": "John Connelly",
+      "shirtNumber": 7,
+      "position": "MID"
+    },
+    {
+      "id": "england-1962-8",
+      "name": "Jimmy Greaves",
+      "shirtNumber": 8,
+      "position": "ATT"
+    },
+    {
+      "id": "england-1962-9",
+      "name": "Gerry Hitchens",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "england-1962-10",
+      "name": "Johnny Haynes",
+      "shirtNumber": 10,
+      "position": "ATT"
+    },
+    {
+      "id": "england-1962-11",
+      "name": "Bobby Charlton",
+      "shirtNumber": 11,
+      "position": "ATT"
+    },
+    {
+      "id": "england-1962-12",
+      "name": "Alan Hodgkinson",
+      "shirtNumber": 12,
+      "position": "GK"
+    },
+    {
+      "id": "england-1962-13",
+      "name": "Derek Kevan",
+      "shirtNumber": 13,
+      "position": "ATT"
+    },
+    {
+      "id": "england-1962-14",
+      "name": "Stan Anderson",
+      "shirtNumber": 14,
+      "position": "MID"
+    },
+    {
+      "id": "england-1962-15",
+      "name": "Maurice Norman",
+      "shirtNumber": 15,
+      "position": "DEF"
+    },
+    {
+      "id": "england-1962-16",
+      "name": "Bobby Moore",
+      "shirtNumber": 16,
+      "position": "DEF"
+    },
+    {
+      "id": "england-1962-17",
+      "name": "Bryan Douglas",
+      "shirtNumber": 17,
+      "position": "MID"
+    },
+    {
+      "id": "england-1962-18",
+      "name": "Roger Hunt",
+      "shirtNumber": 18,
+      "position": "ATT"
+    },
+    {
+      "id": "england-1962-19",
+      "name": "Alan Peacock",
+      "shirtNumber": 19,
+      "position": "ATT"
+    },
+    {
+      "id": "england-1962-20",
+      "name": "George Eastham",
+      "shirtNumber": 20,
+      "position": "MID"
+    },
+    {
+      "id": "england-1962-21",
+      "name": "Don Howe",
+      "shirtNumber": 21,
+      "position": "DEF"
+    },
+    {
+      "id": "england-1962-22",
+      "name": "Jimmy Adamson",
+      "shirtNumber": 22,
+      "position": "MID"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "Hungary",
+      "score": "2–1",
+      "scorers": [
+        {
+          "name": "Lajos Tichy",
+          "minute": "17'",
+          "ownGoal": false
+        },
+        {
+          "name": "Ron Flowers",
+          "minute": "60'",
+          "ownGoal": false
+        },
+        {
+          "name": "Flórián Albert",
+          "minute": "71'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1962-05-31"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Argentina",
+      "score": "3–1",
+      "scorers": [
+        {
+          "name": "Ron Flowers",
+          "minute": "17'",
+          "ownGoal": false
+        },
+        {
+          "name": "Bobby Charlton",
+          "minute": "42'",
+          "ownGoal": false
+        },
+        {
+          "name": "Jimmy Greaves",
+          "minute": "67'",
+          "ownGoal": false
+        },
+        {
+          "name": "José Sanfilippo",
+          "minute": "81'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1962-06-02"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Bulgaria",
+      "score": "0–0",
+      "scorers": [],
+      "date": "1962-06-07"
+    },
+    {
+      "stage": "Quarter-final",
+      "opponent": "Brazil",
+      "score": "3–1",
+      "scorers": [
+        {
+          "name": "Garrincha",
+          "minute": "31'",
+          "ownGoal": false
+        },
+        {
+          "name": "Gerry Hitchens",
+          "minute": "38'",
+          "ownGoal": false
+        },
+        {
+          "name": "Vavá",
+          "minute": "53'",
+          "ownGoal": false
+        },
+        {
+          "name": "Garrincha",
+          "minute": "59'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1962-06-10"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

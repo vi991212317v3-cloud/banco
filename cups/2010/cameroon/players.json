@@ -1,0 +1,1549 @@
+[
+  {
+    "id": "cameroon-2010-1",
+    "name": "Carlos Kameni",
+    "commonName": "Carlos Kameni",
+    "shirtNumber": 1,
+    "position": "GK",
+    "positions": [
+      "GK"
+    ],
+    "country": "Cameroon",
+    "countrySlug": "cameroon",
+    "year": 2010,
+    "edition": "2010",
+    "club": null,
+    "age": 26,
+    "history": {
+      "matchesPlayed": 0,
+      "matches": [],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 63,
+      "agility": 65,
+      "skill": 60,
+      "speed": 60,
+      "shooting": 52,
+      "passing": 62,
+      "defending": 62,
+      "physical": 64,
+      "goalkeeping": 71
+    },
+    "overall": 67,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "cameroon-2010-2",
+    "name": "Benoît Assou-Ekotto",
+    "commonName": "Benoît Assou-Ekotto",
+    "shirtNumber": 2,
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "country": "Cameroon",
+    "countrySlug": "cameroon",
+    "year": 2010,
+    "edition": "2010",
+    "club": null,
+    "age": 26,
+    "history": {
+      "matchesPlayed": 3,
+      "matches": [
+        {
+          "stage": "Group",
+          "opponent": "Japan",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group",
+          "opponent": "Denmark",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group",
+          "opponent": "Netherlands",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 68,
+      "agility": 70,
+      "skill": 72,
+      "speed": 69,
+      "shooting": 68,
+      "passing": 72,
+      "defending": 67,
+      "physical": 68,
+      "goalkeeping": 50
+    },
+    "overall": 74,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "cameroon-2010-3",
+    "name": "Nicolas Nkoulou",
+    "commonName": "Nicolas Nkoulou",
+    "shirtNumber": 3,
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "country": "Cameroon",
+    "countrySlug": "cameroon",
+    "year": 2010,
+    "edition": "2010",
+    "club": null,
+    "age": 20,
+    "history": {
+      "matchesPlayed": 3,
+      "matches": [
+        {
+          "stage": "Group",
+          "opponent": "Japan",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 1,
+          "red": 0
+        },
+        {
+          "stage": "Group",
+          "opponent": "Denmark",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group",
+          "opponent": "Netherlands",
+          "minutes": 73,
+          "goals": 0,
+          "assists": null,
+          "yellow": 1,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": 2,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 68,
+      "agility": 70,
+      "skill": 72,
+      "speed": 69,
+      "shooting": 68,
+      "passing": 72,
+      "defending": 67,
+      "physical": 68,
+      "goalkeeping": 50
+    },
+    "overall": 79,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "cameroon-2010-4",
+    "name": "Rigobert Song",
+    "commonName": "Rigobert Song",
+    "shirtNumber": 4,
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "country": "Cameroon",
+    "countrySlug": "cameroon",
+    "year": 2010,
+    "edition": "2010",
+    "club": null,
+    "age": 33,
+    "history": {
+      "matchesPlayed": 1,
+      "matches": [
+        {
+          "stage": "Group",
+          "opponent": "Netherlands",
+          "minutes": 17,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 66,
+      "agility": 68,
+      "skill": 70,
+      "speed": 67,
+      "shooting": 66,
+      "passing": 70,
+      "defending": 65,
+      "physical": 66,
+      "goalkeeping": 48
+    },
+    "overall": 68,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "cameroon-2010-5",
+    "name": "Sébastien Bassong",
+    "commonName": "Sébastien Bassong",
+    "shirtNumber": 5,
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "country": "Cameroon",
+    "countrySlug": "cameroon",
+    "year": 2010,
+    "edition": "2010",
+    "club": null,
+    "age": 23,
+    "history": {
+      "matchesPlayed": 2,
+      "matches": [
+        {
+          "stage": "Group",
+          "opponent": "Japan",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group",
+          "opponent": "Denmark",
+          "minutes": 72,
+          "goals": 0,
+          "assists": null,
+          "yellow": 1,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": 1,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 67,
+      "agility": 69,
+      "skill": 71,
+      "speed": 68,
+      "shooting": 67,
+      "passing": 71,
+      "defending": 66,
+      "physical": 67,
+      "goalkeeping": 50
+    },
+    "overall": 74,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "cameroon-2010-6",
+    "name": "Alex Song",
+    "commonName": "Alex Song",
+    "shirtNumber": 6,
+    "position": "MID",
+    "positions": [
+      "MID"
+    ],
+    "country": "Cameroon",
+    "countrySlug": "cameroon",
+    "year": 2010,
+    "edition": "2010",
+    "club": null,
+    "age": 22,
+    "history": {
+      "matchesPlayed": 1,
+      "matches": [
+        {
+          "stage": "Group",
+          "opponent": "Denmark",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 66,
+      "agility": 68,
+      "skill": 70,
+      "speed": 67,
+      "shooting": 66,
+      "passing": 70,
+      "defending": 65,
+      "physical": 66,
+      "goalkeeping": 48
+    },
+    "overall": 68,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "cameroon-2010-7",
+    "name": "Landry N'Guémo",
+    "commonName": "Landry N'Guémo",
+    "shirtNumber": 7,
+    "position": "MID",
+    "positions": [
+      "MID"
+    ],
+    "country": "Cameroon",
+    "countrySlug": "cameroon",
+    "year": 2010,
+    "edition": "2010",
+    "club": null,
+    "age": 24,
+    "history": {
+      "matchesPlayed": 1,
+      "matches": [
+        {
+          "stage": "Group",
+          "opponent": "Netherlands",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 66,
+      "agility": 68,
+      "skill": 70,
+      "speed": 67,
+      "shooting": 66,
+      "passing": 70,
+      "defending": 65,
+      "physical": 66,
+      "goalkeeping": 48
+    },
+    "overall": 75,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "cameroon-2010-8",
+    "name": "Geremi",
+    "commonName": "Geremi",
+    "shirtNumber": 8,
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "country": "Cameroon",
+    "countrySlug": "cameroon",
+    "year": 2010,
+    "edition": "2010",
+    "club": null,
+    "age": 31,
+    "history": {
+      "matchesPlayed": 3,
+      "matches": [
+        {
+          "stage": "Group",
+          "opponent": "Japan",
+          "minutes": 15,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group",
+          "opponent": "Denmark",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group",
+          "opponent": "Netherlands",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 68,
+      "agility": 70,
+      "skill": 72,
+      "speed": 69,
+      "shooting": 68,
+      "passing": 72,
+      "defending": 67,
+      "physical": 68,
+      "goalkeeping": 50
+    },
+    "overall": 70,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "cameroon-2010-9",
+    "name": "Samuel Eto'o",
+    "commonName": "Samuel Eto'o",
+    "shirtNumber": 9,
+    "position": "ATT",
+    "positions": [
+      "ATT"
+    ],
+    "country": "Cameroon",
+    "countrySlug": "cameroon",
+    "year": 2010,
+    "edition": "2010",
+    "club": null,
+    "age": 29,
+    "history": {
+      "matchesPlayed": 3,
+      "matches": [
+        {
+          "stage": "Group",
+          "opponent": "Japan",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group",
+          "opponent": "Denmark",
+          "minutes": 90,
+          "goals": 1,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group",
+          "opponent": "Netherlands",
+          "minutes": 90,
+          "goals": 1,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 2,
+      "assists": null,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 71,
+      "agility": 73,
+      "skill": 75,
+      "speed": 72,
+      "shooting": 71,
+      "passing": 75,
+      "defending": 70,
+      "physical": 71,
+      "goalkeeping": 54
+    },
+    "overall": 81,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "cameroon-2010-10",
+    "name": "Achille Emaná",
+    "commonName": "Achille Emaná",
+    "shirtNumber": 10,
+    "position": "MID",
+    "positions": [
+      "MID"
+    ],
+    "country": "Cameroon",
+    "countrySlug": "cameroon",
+    "year": 2010,
+    "edition": "2010",
+    "club": null,
+    "age": 28,
+    "history": {
+      "matchesPlayed": 2,
+      "matches": [
+        {
+          "stage": "Group",
+          "opponent": "Japan",
+          "minutes": 27,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group",
+          "opponent": "Denmark",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 67,
+      "agility": 69,
+      "skill": 71,
+      "speed": 68,
+      "shooting": 67,
+      "passing": 71,
+      "defending": 66,
+      "physical": 67,
+      "goalkeeping": 50
+    },
+    "overall": 73,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "cameroon-2010-11",
+    "name": "Jean Makoun",
+    "commonName": "Jean Makoun",
+    "shirtNumber": 11,
+    "position": "MID",
+    "positions": [
+      "MID"
+    ],
+    "country": "Cameroon",
+    "countrySlug": "cameroon",
+    "year": 2010,
+    "edition": "2010",
+    "club": null,
+    "age": 27,
+    "history": {
+      "matchesPlayed": 3,
+      "matches": [
+        {
+          "stage": "Group",
+          "opponent": "Japan",
+          "minutes": 75,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group",
+          "opponent": "Denmark",
+          "minutes": 44,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group",
+          "opponent": "Netherlands",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 68,
+      "agility": 70,
+      "skill": 72,
+      "speed": 69,
+      "shooting": 68,
+      "passing": 72,
+      "defending": 67,
+      "physical": 68,
+      "goalkeeping": 50
+    },
+    "overall": 73,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "cameroon-2010-12",
+    "name": "Gaëtan Bong",
+    "commonName": "Gaëtan Bong",
+    "shirtNumber": 12,
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "country": "Cameroon",
+    "countrySlug": "cameroon",
+    "year": 2010,
+    "edition": "2010",
+    "club": null,
+    "age": 22,
+    "history": {
+      "matchesPlayed": 1,
+      "matches": [
+        {
+          "stage": "Group",
+          "opponent": "Netherlands",
+          "minutes": 56,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 66,
+      "agility": 68,
+      "skill": 70,
+      "speed": 67,
+      "shooting": 66,
+      "passing": 70,
+      "defending": 65,
+      "physical": 66,
+      "goalkeeping": 48
+    },
+    "overall": 73,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "cameroon-2010-13",
+    "name": "Eric Maxim Choupo-Moting",
+    "commonName": "Eric Maxim Choupo-Moting",
+    "shirtNumber": 13,
+    "position": "ATT",
+    "positions": [
+      "ATT"
+    ],
+    "country": "Cameroon",
+    "countrySlug": "cameroon",
+    "year": 2010,
+    "edition": "2010",
+    "club": null,
+    "age": 21,
+    "history": {
+      "matchesPlayed": 2,
+      "matches": [
+        {
+          "stage": "Group",
+          "opponent": "Japan",
+          "minutes": 75,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group",
+          "opponent": "Netherlands",
+          "minutes": 72,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 67,
+      "agility": 69,
+      "skill": 71,
+      "speed": 68,
+      "shooting": 67,
+      "passing": 71,
+      "defending": 66,
+      "physical": 67,
+      "goalkeeping": 50
+    },
+    "overall": 69,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "cameroon-2010-14",
+    "name": "Aurélien Chedjou",
+    "commonName": "Aurélien Chedjou",
+    "shirtNumber": 14,
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "country": "Cameroon",
+    "countrySlug": "cameroon",
+    "year": 2010,
+    "edition": "2010",
+    "club": null,
+    "age": 24,
+    "history": {
+      "matchesPlayed": 1,
+      "matches": [
+        {
+          "stage": "Group",
+          "opponent": "Netherlands",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 66,
+      "agility": 68,
+      "skill": 70,
+      "speed": 67,
+      "shooting": 66,
+      "passing": 70,
+      "defending": 65,
+      "physical": 66,
+      "goalkeeping": 48
+    },
+    "overall": 80,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "cameroon-2010-15",
+    "name": "Pierre Webó",
+    "commonName": "Pierre Webó",
+    "shirtNumber": 15,
+    "position": "ATT",
+    "positions": [
+      "ATT"
+    ],
+    "country": "Cameroon",
+    "countrySlug": "cameroon",
+    "year": 2010,
+    "edition": "2010",
+    "club": null,
+    "age": 28,
+    "history": {
+      "matchesPlayed": 2,
+      "matches": [
+        {
+          "stage": "Group",
+          "opponent": "Japan",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group",
+          "opponent": "Denmark",
+          "minutes": 78,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 67,
+      "agility": 69,
+      "skill": 71,
+      "speed": 68,
+      "shooting": 67,
+      "passing": 71,
+      "defending": 66,
+      "physical": 67,
+      "goalkeeping": 50
+    },
+    "overall": 76,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "cameroon-2010-16",
+    "name": "Souleymanou Hamidou",
+    "commonName": "Souleymanou Hamidou",
+    "shirtNumber": 16,
+    "position": "GK",
+    "positions": [
+      "GK"
+    ],
+    "country": "Cameroon",
+    "countrySlug": "cameroon",
+    "year": 2010,
+    "edition": "2010",
+    "club": null,
+    "age": 36,
+    "history": {
+      "matchesPlayed": 3,
+      "matches": [
+        {
+          "stage": "Group",
+          "opponent": "Japan",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group",
+          "opponent": "Denmark",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group",
+          "opponent": "Netherlands",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 66,
+      "agility": 68,
+      "skill": 63,
+      "speed": 63,
+      "shooting": 55,
+      "passing": 65,
+      "defending": 65,
+      "physical": 67,
+      "goalkeeping": 74
+    },
+    "overall": 70,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "cameroon-2010-17",
+    "name": "Mohammadou Idrissou",
+    "commonName": "Mohammadou Idrissou",
+    "shirtNumber": 17,
+    "position": "ATT",
+    "positions": [
+      "ATT"
+    ],
+    "country": "Cameroon",
+    "countrySlug": "cameroon",
+    "year": 2010,
+    "edition": "2010",
+    "club": null,
+    "age": 30,
+    "history": {
+      "matchesPlayed": 3,
+      "matches": [
+        {
+          "stage": "Group",
+          "opponent": "Japan",
+          "minutes": 15,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group",
+          "opponent": "Denmark",
+          "minutes": 18,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group",
+          "opponent": "Netherlands",
+          "minutes": 18,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 68,
+      "agility": 70,
+      "skill": 72,
+      "speed": 69,
+      "shooting": 68,
+      "passing": 72,
+      "defending": 67,
+      "physical": 68,
+      "goalkeeping": 50
+    },
+    "overall": 70,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "cameroon-2010-18",
+    "name": "Eyong Enoh",
+    "commonName": "Eyong Enoh",
+    "shirtNumber": 18,
+    "position": "MID",
+    "positions": [
+      "MID"
+    ],
+    "country": "Cameroon",
+    "countrySlug": "cameroon",
+    "year": 2010,
+    "edition": "2010",
+    "club": null,
+    "age": 24,
+    "history": {
+      "matchesPlayed": 2,
+      "matches": [
+        {
+          "stage": "Group",
+          "opponent": "Japan",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group",
+          "opponent": "Denmark",
+          "minutes": 46,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 67,
+      "agility": 69,
+      "skill": 71,
+      "speed": 68,
+      "shooting": 67,
+      "passing": 71,
+      "defending": 66,
+      "physical": 67,
+      "goalkeeping": 50
+    },
+    "overall": 71,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "cameroon-2010-19",
+    "name": "Stéphane Mbia",
+    "commonName": "Stéphane Mbia",
+    "shirtNumber": 19,
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "country": "Cameroon",
+    "countrySlug": "cameroon",
+    "year": 2010,
+    "edition": "2010",
+    "club": null,
+    "age": 24,
+    "history": {
+      "matchesPlayed": 3,
+      "matches": [
+        {
+          "stage": "Group",
+          "opponent": "Japan",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group",
+          "opponent": "Denmark",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 1,
+          "red": 0
+        },
+        {
+          "stage": "Group",
+          "opponent": "Netherlands",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 1,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": 2,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 68,
+      "agility": 70,
+      "skill": 72,
+      "speed": 69,
+      "shooting": 68,
+      "passing": 72,
+      "defending": 67,
+      "physical": 68,
+      "goalkeeping": 50
+    },
+    "overall": 70,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "cameroon-2010-20",
+    "name": "Georges Mandjeck",
+    "commonName": "Georges Mandjeck",
+    "shirtNumber": 20,
+    "position": "MID",
+    "positions": [
+      "MID"
+    ],
+    "country": "Cameroon",
+    "countrySlug": "cameroon",
+    "year": 2010,
+    "edition": "2010",
+    "club": null,
+    "age": 21,
+    "history": {
+      "matchesPlayed": 0,
+      "matches": [],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 65,
+      "agility": 67,
+      "skill": 69,
+      "speed": 66,
+      "shooting": 65,
+      "passing": 69,
+      "defending": 64,
+      "physical": 65,
+      "goalkeeping": 48
+    },
+    "overall": 66,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "cameroon-2010-21",
+    "name": "Joël Matip",
+    "commonName": "Joël Matip",
+    "shirtNumber": 21,
+    "position": "MID",
+    "positions": [
+      "MID"
+    ],
+    "country": "Cameroon",
+    "countrySlug": "cameroon",
+    "year": 2010,
+    "edition": "2010",
+    "club": null,
+    "age": 18,
+    "history": {
+      "matchesPlayed": 1,
+      "matches": [
+        {
+          "stage": "Group",
+          "opponent": "Japan",
+          "minutes": 63,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 66,
+      "agility": 68,
+      "skill": 70,
+      "speed": 67,
+      "shooting": 66,
+      "passing": 70,
+      "defending": 65,
+      "physical": 66,
+      "goalkeeping": 48
+    },
+    "overall": 77,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "cameroon-2010-22",
+    "name": "Guy N'dy Assembé",
+    "commonName": "Guy N'dy Assembé",
+    "shirtNumber": 22,
+    "position": "GK",
+    "positions": [
+      "GK"
+    ],
+    "country": "Cameroon",
+    "countrySlug": "cameroon",
+    "year": 2010,
+    "edition": "2010",
+    "club": null,
+    "age": 24,
+    "history": {
+      "matchesPlayed": 0,
+      "matches": [],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 63,
+      "agility": 65,
+      "skill": 60,
+      "speed": 60,
+      "shooting": 52,
+      "passing": 62,
+      "defending": 62,
+      "physical": 64,
+      "goalkeeping": 71
+    },
+    "overall": 70,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "cameroon-2010-23",
+    "name": "Vincent Aboubakar",
+    "commonName": "Vincent Aboubakar",
+    "shirtNumber": 23,
+    "position": "ATT",
+    "positions": [
+      "ATT"
+    ],
+    "country": "Cameroon",
+    "countrySlug": "cameroon",
+    "year": 2010,
+    "edition": "2010",
+    "club": null,
+    "age": 18,
+    "history": {
+      "matchesPlayed": 2,
+      "matches": [
+        {
+          "stage": "Group",
+          "opponent": "Denmark",
+          "minutes": 12,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group",
+          "opponent": "Netherlands",
+          "minutes": 34,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 67,
+      "agility": 69,
+      "skill": 71,
+      "speed": 68,
+      "shooting": 67,
+      "passing": 71,
+      "defending": 66,
+      "physical": 67,
+      "goalkeeping": 50
+    },
+    "overall": 76,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  }
+]

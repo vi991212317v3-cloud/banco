@@ -1,0 +1,1671 @@
+[
+  {
+    "id": "uruguay-2026-1",
+    "name": "Sergio Ramón ROCHET ALVAREZ",
+    "commonName": "ROCHET Sergio",
+    "shirtNumber": 1,
+    "position": "GK",
+    "positions": [
+      "GK"
+    ],
+    "country": "Uruguay",
+    "countrySlug": "uruguay",
+    "year": 2026,
+    "edition": "2026",
+    "club": "SC Internacional (BRA)",
+    "age": 33,
+    "history": {
+      "matchesPlayed": 1,
+      "matches": [
+        {
+          "stage": "Group Stage",
+          "opponent": "Spain",
+          "minutes": 44,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 64,
+      "agility": 66,
+      "skill": 61,
+      "speed": 61,
+      "shooting": 53,
+      "passing": 63,
+      "defending": 63,
+      "physical": 65,
+      "goalkeeping": 72
+    },
+    "overall": 76,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "statsStatus": "matched-community",
+    "sources": [
+      "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+      "https://github.com/mominullptr/FIFA-World-Cup-2026-Dataset",
+      "https://github.com/openfootball/worldcup.json"
+    ]
+  },
+
+  {
+    "id": "uruguay-2026-2",
+    "name": "José María GIMÉNEZ DE VARGAS",
+    "commonName": "GIMENEZ Jose Maria",
+    "shirtNumber": 2,
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "country": "Uruguay",
+    "countrySlug": "uruguay",
+    "year": 2026,
+    "edition": "2026",
+    "club": "Atlético De Madrid (ESP)",
+    "age": 31,
+    "history": {
+      "matchesPlayed": 0,
+      "matches": [],
+      "goals": 0,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 65,
+      "agility": 67,
+      "skill": 69,
+      "speed": 66,
+      "shooting": 65,
+      "passing": 69,
+      "defending": 64,
+      "physical": 65,
+      "goalkeeping": 48
+    },
+    "overall": 83,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "statsStatus": "matched-community",
+    "sources": [
+      "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+      "https://github.com/mominullptr/FIFA-World-Cup-2026-Dataset",
+      "https://github.com/openfootball/worldcup.json"
+    ]
+  },
+
+  {
+    "id": "uruguay-2026-3",
+    "name": "Sebastián Enzo CÁCERES RAMOS",
+    "commonName": "CACERES Sebastian",
+    "shirtNumber": 3,
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "country": "Uruguay",
+    "countrySlug": "uruguay",
+    "year": 2026,
+    "edition": "2026",
+    "club": "Club América (MEX)",
+    "age": 26,
+    "history": {
+      "matchesPlayed": 3,
+      "matches": [
+        {
+          "stage": "Group Stage",
+          "opponent": "Saudi Arabia",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group Stage",
+          "opponent": "Cabo Verde",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group Stage",
+          "opponent": "Spain",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 68,
+      "agility": 70,
+      "skill": 72,
+      "speed": 69,
+      "shooting": 68,
+      "passing": 72,
+      "defending": 67,
+      "physical": 68,
+      "goalkeeping": 50
+    },
+    "overall": 70,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "statsStatus": "matched-community",
+    "sources": [
+      "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+      "https://github.com/mominullptr/FIFA-World-Cup-2026-Dataset",
+      "https://github.com/openfootball/worldcup.json"
+    ]
+  },
+
+  {
+    "id": "uruguay-2026-4",
+    "name": "Ronald Federico ARAÚJO DA SILVA",
+    "commonName": "ARAUJO Ronald",
+    "shirtNumber": 4,
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "country": "Uruguay",
+    "countrySlug": "uruguay",
+    "year": 2026,
+    "edition": "2026",
+    "club": "FC Barcelona (ESP)",
+    "age": 27,
+    "history": {
+      "matchesPlayed": 0,
+      "matches": [],
+      "goals": 0,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 65,
+      "agility": 67,
+      "skill": 69,
+      "speed": 66,
+      "shooting": 65,
+      "passing": 69,
+      "defending": 64,
+      "physical": 65,
+      "goalkeeping": 48
+    },
+    "overall": 83,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "statsStatus": "matched-community",
+    "sources": [
+      "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+      "https://github.com/mominullptr/FIFA-World-Cup-2026-Dataset",
+      "https://github.com/openfootball/worldcup.json"
+    ]
+  },
+
+  {
+    "id": "uruguay-2026-5",
+    "name": "Manuel UGARTE RIBEIRO",
+    "commonName": "UGARTE Manuel",
+    "shirtNumber": 5,
+    "position": "MID",
+    "positions": [
+      "MID"
+    ],
+    "country": "Uruguay",
+    "countrySlug": "uruguay",
+    "year": 2026,
+    "edition": "2026",
+    "club": "Manchester United FC (ENG)",
+    "age": 25,
+    "history": {
+      "matchesPlayed": 3,
+      "matches": [
+        {
+          "stage": "Group Stage",
+          "opponent": "Saudi Arabia",
+          "minutes": 72,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group Stage",
+          "opponent": "Cabo Verde",
+          "minutes": 70,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group Stage",
+          "opponent": "Spain",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 68,
+      "agility": 70,
+      "skill": 72,
+      "speed": 69,
+      "shooting": 68,
+      "passing": 72,
+      "defending": 67,
+      "physical": 68,
+      "goalkeeping": 50
+    },
+    "overall": 79,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "statsStatus": "matched-community",
+    "sources": [
+      "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+      "https://github.com/mominullptr/FIFA-World-Cup-2026-Dataset",
+      "https://github.com/openfootball/worldcup.json"
+    ]
+  },
+
+  {
+    "id": "uruguay-2026-6",
+    "name": "Rodrigo BENTANCUR COLMÁN",
+    "commonName": "BENTANCUR Rodrigo",
+    "shirtNumber": 6,
+    "position": "MID",
+    "positions": [
+      "MID"
+    ],
+    "country": "Uruguay",
+    "countrySlug": "uruguay",
+    "year": 2026,
+    "edition": "2026",
+    "club": "Tottenham Hotspur FC (ENG)",
+    "age": 28,
+    "history": {
+      "matchesPlayed": 3,
+      "matches": [
+        {
+          "stage": "Group Stage",
+          "opponent": "Saudi Arabia",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group Stage",
+          "opponent": "Cabo Verde",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group Stage",
+          "opponent": "Spain",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 68,
+      "agility": 70,
+      "skill": 72,
+      "speed": 69,
+      "shooting": 68,
+      "passing": 72,
+      "defending": 67,
+      "physical": 68,
+      "goalkeeping": 50
+    },
+    "overall": 80,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "statsStatus": "matched-community",
+    "sources": [
+      "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+      "https://github.com/mominullptr/FIFA-World-Cup-2026-Dataset",
+      "https://github.com/openfootball/worldcup.json"
+    ]
+  },
+
+  {
+    "id": "uruguay-2026-7",
+    "name": "Diego Nicolás DE LA CRUZ ARCOSA",
+    "commonName": "DE LA CRUZ Nicolas",
+    "shirtNumber": 7,
+    "position": "MID",
+    "positions": [
+      "MID"
+    ],
+    "country": "Uruguay",
+    "countrySlug": "uruguay",
+    "year": 2026,
+    "edition": "2026",
+    "club": "CR Flamengo (BRA)",
+    "age": 29,
+    "history": {
+      "matchesPlayed": 3,
+      "matches": [
+        {
+          "stage": "Group Stage",
+          "opponent": "Saudi Arabia",
+          "minutes": 18,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group Stage",
+          "opponent": "Cabo Verde",
+          "minutes": 20,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group Stage",
+          "opponent": "Spain",
+          "minutes": 45,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 68,
+      "agility": 70,
+      "skill": 72,
+      "speed": 69,
+      "shooting": 68,
+      "passing": 72,
+      "defending": 67,
+      "physical": 68,
+      "goalkeeping": 50
+    },
+    "overall": 78,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "statsStatus": "matched-community",
+    "sources": [
+      "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+      "https://github.com/mominullptr/FIFA-World-Cup-2026-Dataset",
+      "https://github.com/openfootball/worldcup.json"
+    ]
+  },
+
+  {
+    "id": "uruguay-2026-8",
+    "name": "Federico Santiago VALVERDE DIPETTA",
+    "commonName": "VALVERDE Federico",
+    "shirtNumber": 8,
+    "position": "MID",
+    "positions": [
+      "MID"
+    ],
+    "country": "Uruguay",
+    "countrySlug": "uruguay",
+    "year": 2026,
+    "edition": "2026",
+    "club": "Real Madrid C. F. (ESP)",
+    "age": 27,
+    "history": {
+      "matchesPlayed": 3,
+      "matches": [
+        {
+          "stage": "Group Stage",
+          "opponent": "Saudi Arabia",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group Stage",
+          "opponent": "Cabo Verde",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 1,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group Stage",
+          "opponent": "Spain",
+          "minutes": 56,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": 1,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 69,
+      "agility": 71,
+      "skill": 73,
+      "speed": 70,
+      "shooting": 69,
+      "passing": 73,
+      "defending": 68,
+      "physical": 69,
+      "goalkeeping": 52
+    },
+    "overall": 71,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "statsStatus": "matched-community",
+    "sources": [
+      "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+      "https://github.com/mominullptr/FIFA-World-Cup-2026-Dataset",
+      "https://github.com/openfootball/worldcup.json"
+    ]
+  },
+
+  {
+    "id": "uruguay-2026-9",
+    "name": "Darwin Gabriel NUÑEZ RIBEIRO",
+    "commonName": "NUNEZ Darwin",
+    "shirtNumber": 9,
+    "position": "ATT",
+    "positions": [
+      "ATT"
+    ],
+    "country": "Uruguay",
+    "countrySlug": "uruguay",
+    "year": 2026,
+    "edition": "2026",
+    "club": "Al Hilal SC (KSA)",
+    "age": 26,
+    "history": {
+      "matchesPlayed": 3,
+      "matches": [
+        {
+          "stage": "Group Stage",
+          "opponent": "Saudi Arabia",
+          "minutes": 46,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group Stage",
+          "opponent": "Cabo Verde",
+          "minutes": 20,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group Stage",
+          "opponent": "Spain",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 68,
+      "agility": 70,
+      "skill": 72,
+      "speed": 69,
+      "shooting": 68,
+      "passing": 72,
+      "defending": 67,
+      "physical": 68,
+      "goalkeeping": 50
+    },
+    "overall": 79,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "statsStatus": "matched-community",
+    "sources": [
+      "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+      "https://github.com/mominullptr/FIFA-World-Cup-2026-Dataset",
+      "https://github.com/openfootball/worldcup.json"
+    ]
+  },
+
+  {
+    "id": "uruguay-2026-10",
+    "name": "Giorgian Daniel DE ARRASCAETA BENEDETTI",
+    "commonName": "DE ARRASCAETA Giorgian",
+    "shirtNumber": 10,
+    "position": "MID",
+    "positions": [
+      "MID"
+    ],
+    "country": "Uruguay",
+    "countrySlug": "uruguay",
+    "year": 2026,
+    "edition": "2026",
+    "club": "CR Flamengo (BRA)",
+    "age": 32,
+    "history": {
+      "matchesPlayed": 0,
+      "matches": [],
+      "goals": 0,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 65,
+      "agility": 67,
+      "skill": 69,
+      "speed": 66,
+      "shooting": 65,
+      "passing": 69,
+      "defending": 64,
+      "physical": 65,
+      "goalkeeping": 48
+    },
+    "overall": 67,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "statsStatus": "matched-community",
+    "sources": [
+      "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+      "https://github.com/mominullptr/FIFA-World-Cup-2026-Dataset",
+      "https://github.com/openfootball/worldcup.json"
+    ]
+  },
+
+  {
+    "id": "uruguay-2026-11",
+    "name": "Facundo PELLISTRI REBOLLO",
+    "commonName": "PELLISTRI Facundo",
+    "shirtNumber": 11,
+    "position": "ATT",
+    "positions": [
+      "ATT"
+    ],
+    "country": "Uruguay",
+    "countrySlug": "uruguay",
+    "year": 2026,
+    "edition": "2026",
+    "club": "Panathinaikos FC (GRE)",
+    "age": 24,
+    "history": {
+      "matchesPlayed": 0,
+      "matches": [],
+      "goals": 0,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 65,
+      "agility": 67,
+      "skill": 69,
+      "speed": 66,
+      "shooting": 65,
+      "passing": 69,
+      "defending": 64,
+      "physical": 65,
+      "goalkeeping": 48
+    },
+    "overall": 67,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "statsStatus": "matched-community",
+    "sources": [
+      "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+      "https://github.com/mominullptr/FIFA-World-Cup-2026-Dataset",
+      "https://github.com/openfootball/worldcup.json"
+    ]
+  },
+
+  {
+    "id": "uruguay-2026-12",
+    "name": "Santiago Andres MELE CASTAÑERO",
+    "commonName": "MELE Santiago",
+    "shirtNumber": 12,
+    "position": "GK",
+    "positions": [
+      "GK"
+    ],
+    "country": "Uruguay",
+    "countrySlug": "uruguay",
+    "year": 2026,
+    "edition": "2026",
+    "club": "CF Monterrey (MEX)",
+    "age": 28,
+    "history": {
+      "matchesPlayed": 0,
+      "matches": [],
+      "goals": 0,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 63,
+      "agility": 65,
+      "skill": 60,
+      "speed": 60,
+      "shooting": 52,
+      "passing": 62,
+      "defending": 62,
+      "physical": 64,
+      "goalkeeping": 71
+    },
+    "overall": 72,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "statsStatus": "matched-community",
+    "sources": [
+      "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+      "https://github.com/mominullptr/FIFA-World-Cup-2026-Dataset",
+      "https://github.com/openfootball/worldcup.json"
+    ]
+  },
+
+  {
+    "id": "uruguay-2026-13",
+    "name": "Guillermo VARELA OLIVERA",
+    "commonName": "VARELA Guillermo",
+    "shirtNumber": 13,
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "country": "Uruguay",
+    "countrySlug": "uruguay",
+    "year": 2026,
+    "edition": "2026",
+    "club": "CR Flamengo (BRA)",
+    "age": 33,
+    "history": {
+      "matchesPlayed": 3,
+      "matches": [
+        {
+          "stage": "Group Stage",
+          "opponent": "Saudi Arabia",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group Stage",
+          "opponent": "Cabo Verde",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group Stage",
+          "opponent": "Spain",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 68,
+      "agility": 70,
+      "skill": 72,
+      "speed": 69,
+      "shooting": 68,
+      "passing": 72,
+      "defending": 67,
+      "physical": 68,
+      "goalkeeping": 50
+    },
+    "overall": 72,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "statsStatus": "matched-community",
+    "sources": [
+      "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+      "https://github.com/mominullptr/FIFA-World-Cup-2026-Dataset",
+      "https://github.com/openfootball/worldcup.json"
+    ]
+  },
+
+  {
+    "id": "uruguay-2026-14",
+    "name": "Agustin CANOBBIO",
+    "commonName": "CANOBBIO Agustin",
+    "shirtNumber": 14,
+    "position": "MID",
+    "positions": [
+      "MID"
+    ],
+    "country": "Uruguay",
+    "countrySlug": "uruguay",
+    "year": 2026,
+    "edition": "2026",
+    "club": "Fluminense FC (BRA)",
+    "age": 27,
+    "history": {
+      "matchesPlayed": 3,
+      "matches": [
+        {
+          "stage": "Group Stage",
+          "opponent": "Saudi Arabia",
+          "minutes": 44,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group Stage",
+          "opponent": "Cabo Verde",
+          "minutes": 90,
+          "goals": 1,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group Stage",
+          "opponent": "Spain",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 1,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 69,
+      "agility": 71,
+      "skill": 73,
+      "speed": 70,
+      "shooting": 69,
+      "passing": 73,
+      "defending": 68,
+      "physical": 69,
+      "goalkeeping": 52
+    },
+    "overall": 69,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "statsStatus": "matched-community",
+    "sources": [
+      "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+      "https://github.com/mominullptr/FIFA-World-Cup-2026-Dataset",
+      "https://github.com/openfootball/worldcup.json"
+    ]
+  },
+
+  {
+    "id": "uruguay-2026-15",
+    "name": "Emiliano MARTÍNEZ TORANZA",
+    "commonName": "MARTINEZ Emiliano",
+    "shirtNumber": 15,
+    "position": "MID",
+    "positions": [
+      "MID"
+    ],
+    "country": "Uruguay",
+    "countrySlug": "uruguay",
+    "year": 2026,
+    "edition": "2026",
+    "club": "SE Palmeiras (BRA)",
+    "age": 26,
+    "history": {
+      "matchesPlayed": 0,
+      "matches": [],
+      "goals": 0,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 65,
+      "agility": 67,
+      "skill": 69,
+      "speed": 66,
+      "shooting": 65,
+      "passing": 69,
+      "defending": 64,
+      "physical": 65,
+      "goalkeeping": 48
+    },
+    "overall": 68,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "statsStatus": "matched-community",
+    "sources": [
+      "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+      "https://github.com/mominullptr/FIFA-World-Cup-2026-Dataset",
+      "https://github.com/openfootball/worldcup.json"
+    ]
+  },
+
+  {
+    "id": "uruguay-2026-16",
+    "name": "Mathías OLIVERA MIRAMONTES",
+    "commonName": "OLIVERA Mathias",
+    "shirtNumber": 16,
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "country": "Uruguay",
+    "countrySlug": "uruguay",
+    "year": 2026,
+    "edition": "2026",
+    "club": "SSC Napoli (ITA)",
+    "age": 28,
+    "history": {
+      "matchesPlayed": 3,
+      "matches": [
+        {
+          "stage": "Group Stage",
+          "opponent": "Saudi Arabia",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group Stage",
+          "opponent": "Cabo Verde",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group Stage",
+          "opponent": "Spain",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 68,
+      "agility": 70,
+      "skill": 72,
+      "speed": 69,
+      "shooting": 68,
+      "passing": 72,
+      "defending": 67,
+      "physical": 68,
+      "goalkeeping": 50
+    },
+    "overall": 70,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "statsStatus": "matched-community",
+    "sources": [
+      "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+      "https://github.com/mominullptr/FIFA-World-Cup-2026-Dataset",
+      "https://github.com/openfootball/worldcup.json"
+    ]
+  },
+
+  {
+    "id": "uruguay-2026-17",
+    "name": "Matías Nicolas VIÑA SUSPERREGUY",
+    "commonName": "VINA Matias",
+    "shirtNumber": 17,
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "country": "Uruguay",
+    "countrySlug": "uruguay",
+    "year": 2026,
+    "edition": "2026",
+    "club": "CA River Plate (ARG)",
+    "age": 28,
+    "history": {
+      "matchesPlayed": 1,
+      "matches": [
+        {
+          "stage": "Group Stage",
+          "opponent": "Saudi Arabia",
+          "minutes": 46,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 66,
+      "agility": 68,
+      "skill": 70,
+      "speed": 67,
+      "shooting": 66,
+      "passing": 70,
+      "defending": 65,
+      "physical": 66,
+      "goalkeeping": 48
+    },
+    "overall": 76,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "statsStatus": "matched-community",
+    "sources": [
+      "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+      "https://github.com/mominullptr/FIFA-World-Cup-2026-Dataset",
+      "https://github.com/openfootball/worldcup.json"
+    ]
+  },
+
+  {
+    "id": "uruguay-2026-18",
+    "name": "Paul Brian RODRÍGUEZ BRAVO",
+    "commonName": "RODRIGUEZ Brian",
+    "shirtNumber": 18,
+    "position": "ATT",
+    "positions": [
+      "ATT"
+    ],
+    "country": "Uruguay",
+    "countrySlug": "uruguay",
+    "year": 2026,
+    "edition": "2026",
+    "club": "Club América (MEX)",
+    "age": 26,
+    "history": {
+      "matchesPlayed": 3,
+      "matches": [
+        {
+          "stage": "Group Stage",
+          "opponent": "Saudi Arabia",
+          "minutes": 9,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group Stage",
+          "opponent": "Cabo Verde",
+          "minutes": 9,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group Stage",
+          "opponent": "Spain",
+          "minutes": 20,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 68,
+      "agility": 70,
+      "skill": 72,
+      "speed": 69,
+      "shooting": 68,
+      "passing": 72,
+      "defending": 67,
+      "physical": 68,
+      "goalkeeping": 50
+    },
+    "overall": 70,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "statsStatus": "matched-community",
+    "sources": [
+      "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+      "https://github.com/mominullptr/FIFA-World-Cup-2026-Dataset",
+      "https://github.com/openfootball/worldcup.json"
+    ]
+  },
+
+  {
+    "id": "uruguay-2026-19",
+    "name": "Rodrigo Sebastian AGUIRRE SOTO",
+    "commonName": "AGUIRRE Rodrigo",
+    "shirtNumber": 19,
+    "position": "ATT",
+    "positions": [
+      "ATT"
+    ],
+    "country": "Uruguay",
+    "countrySlug": "uruguay",
+    "year": 2026,
+    "edition": "2026",
+    "club": "Tigres UANL (MEX)",
+    "age": 31,
+    "history": {
+      "matchesPlayed": 1,
+      "matches": [
+        {
+          "stage": "Group Stage",
+          "opponent": "Saudi Arabia",
+          "minutes": 1,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 66,
+      "agility": 68,
+      "skill": 70,
+      "speed": 67,
+      "shooting": 66,
+      "passing": 70,
+      "defending": 65,
+      "physical": 66,
+      "goalkeeping": 48
+    },
+    "overall": 68,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "statsStatus": "matched-community",
+    "sources": [
+      "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+      "https://github.com/mominullptr/FIFA-World-Cup-2026-Dataset",
+      "https://github.com/openfootball/worldcup.json"
+    ]
+  },
+
+  {
+    "id": "uruguay-2026-20",
+    "name": "Maximiliano Javier ARAÚJO VILCHES",
+    "commonName": "ARAUJO Maxi",
+    "shirtNumber": 20,
+    "position": "MID",
+    "positions": [
+      "MID"
+    ],
+    "country": "Uruguay",
+    "countrySlug": "uruguay",
+    "year": 2026,
+    "edition": "2026",
+    "club": "Sporting CP (POR)",
+    "age": 26,
+    "history": {
+      "matchesPlayed": 3,
+      "matches": [
+        {
+          "stage": "Group Stage",
+          "opponent": "Saudi Arabia",
+          "minutes": 81,
+          "goals": 1,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group Stage",
+          "opponent": "Cabo Verde",
+          "minutes": 81,
+          "goals": 1,
+          "assists": 1,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group Stage",
+          "opponent": "Spain",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 2,
+      "assists": 1,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 72,
+      "agility": 74,
+      "skill": 76,
+      "speed": 73,
+      "shooting": 72,
+      "passing": 76,
+      "defending": 71,
+      "physical": 72,
+      "goalkeeping": 54
+    },
+    "overall": 77,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "statsStatus": "matched-community",
+    "sources": [
+      "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+      "https://github.com/mominullptr/FIFA-World-Cup-2026-Dataset",
+      "https://github.com/openfootball/worldcup.json"
+    ]
+  },
+
+  {
+    "id": "uruguay-2026-21",
+    "name": "Federico Sebastian VIÑAS BARBOZA",
+    "commonName": "VINAS Federico",
+    "shirtNumber": 21,
+    "position": "ATT",
+    "positions": [
+      "ATT"
+    ],
+    "country": "Uruguay",
+    "countrySlug": "uruguay",
+    "year": 2026,
+    "edition": "2026",
+    "club": "Real Oviedo (ESP)",
+    "age": 27,
+    "history": {
+      "matchesPlayed": 3,
+      "matches": [
+        {
+          "stage": "Group Stage",
+          "opponent": "Saudi Arabia",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group Stage",
+          "opponent": "Cabo Verde",
+          "minutes": 70,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group Stage",
+          "opponent": "Spain",
+          "minutes": 34,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 68,
+      "agility": 70,
+      "skill": 72,
+      "speed": 69,
+      "shooting": 68,
+      "passing": 72,
+      "defending": 67,
+      "physical": 68,
+      "goalkeeping": 50
+    },
+    "overall": 72,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "statsStatus": "matched-community",
+    "sources": [
+      "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+      "https://github.com/mominullptr/FIFA-World-Cup-2026-Dataset",
+      "https://github.com/openfootball/worldcup.json"
+    ]
+  },
+
+  {
+    "id": "uruguay-2026-22",
+    "name": "Joaquin PIQUEREZ MOREIRA",
+    "commonName": "PIQUEREZ Joaquin",
+    "shirtNumber": 22,
+    "position": "MID",
+    "positions": [
+      "MID"
+    ],
+    "country": "Uruguay",
+    "countrySlug": "uruguay",
+    "year": 2026,
+    "edition": "2026",
+    "club": "SE Palmeiras (BRA)",
+    "age": 27,
+    "history": {
+      "matchesPlayed": 0,
+      "matches": [],
+      "goals": 0,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 65,
+      "agility": 67,
+      "skill": 69,
+      "speed": 66,
+      "shooting": 65,
+      "passing": 69,
+      "defending": 64,
+      "physical": 65,
+      "goalkeeping": 48
+    },
+    "overall": 63,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "statsStatus": "matched-community",
+    "sources": [
+      "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+      "https://github.com/mominullptr/FIFA-World-Cup-2026-Dataset",
+      "https://github.com/openfootball/worldcup.json"
+    ]
+  },
+
+  {
+    "id": "uruguay-2026-23",
+    "name": "Nestor Fernando MUSLERA MICOL",
+    "commonName": "MUSLERA Fernando",
+    "shirtNumber": 23,
+    "position": "GK",
+    "positions": [
+      "GK"
+    ],
+    "country": "Uruguay",
+    "countrySlug": "uruguay",
+    "year": 2026,
+    "edition": "2026",
+    "club": "Estudiantes LP (ARG)",
+    "age": 39,
+    "history": {
+      "matchesPlayed": 3,
+      "matches": [
+        {
+          "stage": "Group Stage",
+          "opponent": "Saudi Arabia",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group Stage",
+          "opponent": "Cabo Verde",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group Stage",
+          "opponent": "Spain",
+          "minutes": 46,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 66,
+      "agility": 68,
+      "skill": 63,
+      "speed": 63,
+      "shooting": 55,
+      "passing": 65,
+      "defending": 65,
+      "physical": 67,
+      "goalkeeping": 74
+    },
+    "overall": 79,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "statsStatus": "matched-community",
+    "sources": [
+      "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+      "https://github.com/mominullptr/FIFA-World-Cup-2026-Dataset",
+      "https://github.com/openfootball/worldcup.json"
+    ]
+  },
+
+  {
+    "id": "uruguay-2026-24",
+    "name": "Santiago Ignacio BUENO SCIUTTO",
+    "commonName": "BUENO Santiago",
+    "shirtNumber": 24,
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "country": "Uruguay",
+    "countrySlug": "uruguay",
+    "year": 2026,
+    "edition": "2026",
+    "club": "Wolverhampton Wanderers FC (ENG)",
+    "age": 27,
+    "history": {
+      "matchesPlayed": 0,
+      "matches": [],
+      "goals": 0,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 65,
+      "agility": 67,
+      "skill": 69,
+      "speed": 66,
+      "shooting": 65,
+      "passing": 69,
+      "defending": 64,
+      "physical": 65,
+      "goalkeeping": 48
+    },
+    "overall": 67,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "statsStatus": "matched-community",
+    "sources": [
+      "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+      "https://github.com/mominullptr/FIFA-World-Cup-2026-Dataset",
+      "https://github.com/openfootball/worldcup.json"
+    ]
+  },
+
+  {
+    "id": "uruguay-2026-25",
+    "name": "Juan Manuel SANABRIA MAGOLÉ",
+    "commonName": "SANABRIA Juan Manuel",
+    "shirtNumber": 25,
+    "position": "MID",
+    "positions": [
+      "MID"
+    ],
+    "country": "Uruguay",
+    "countrySlug": "uruguay",
+    "year": 2026,
+    "edition": "2026",
+    "club": "Real Salt Lake (USA)",
+    "age": 26,
+    "history": {
+      "matchesPlayed": 3,
+      "matches": [
+        {
+          "stage": "Group Stage",
+          "opponent": "Saudi Arabia",
+          "minutes": 44,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group Stage",
+          "opponent": "Cabo Verde",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group Stage",
+          "opponent": "Spain",
+          "minutes": 70,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 68,
+      "agility": 70,
+      "skill": 72,
+      "speed": 69,
+      "shooting": 68,
+      "passing": 72,
+      "defending": 67,
+      "physical": 68,
+      "goalkeeping": 50
+    },
+    "overall": 70,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "statsStatus": "matched-community",
+    "sources": [
+      "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+      "https://github.com/mominullptr/FIFA-World-Cup-2026-Dataset",
+      "https://github.com/openfootball/worldcup.json"
+    ]
+  },
+
+  {
+    "id": "uruguay-2026-26",
+    "name": "Radrigo ZALAZAR MARTINEZ",
+    "commonName": "ZALAZAR Rodrigo",
+    "shirtNumber": 26,
+    "position": "MID",
+    "positions": [
+      "MID"
+    ],
+    "country": "Uruguay",
+    "countrySlug": "uruguay",
+    "year": 2026,
+    "edition": "2026",
+    "club": "SC Braga (POR)",
+    "age": 26,
+    "history": {
+      "matchesPlayed": 0,
+      "matches": [],
+      "goals": 0,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 65,
+      "agility": 67,
+      "skill": 69,
+      "speed": 66,
+      "shooting": 65,
+      "passing": 69,
+      "defending": 64,
+      "physical": 65,
+      "goalkeeping": 48
+    },
+    "overall": 67,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "statsStatus": "matched-community",
+    "sources": [
+      "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+      "https://github.com/mominullptr/FIFA-World-Cup-2026-Dataset",
+      "https://github.com/openfootball/worldcup.json"
+    ]
+  }
+]

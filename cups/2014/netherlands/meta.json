@@ -1,0 +1,308 @@
+{
+  "country": "Netherlands",
+  "countrySlug": "netherlands",
+  "year": 2014,
+  "edition": "2014",
+  "host": "Brazil",
+  "coach": "Louis van Gaal",
+  "finalPhase": "Third-place match",
+  "result": "Third place",
+  "squad": [
+    {
+      "id": "netherlands-2014-1",
+      "name": "Jasper Cillessen",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "netherlands-2014-2",
+      "name": "Ron Vlaar",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "netherlands-2014-3",
+      "name": "Stefan de Vrij",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "netherlands-2014-4",
+      "name": "Bruno Martins Indi",
+      "shirtNumber": 4,
+      "position": "DEF"
+    },
+    {
+      "id": "netherlands-2014-5",
+      "name": "Daley Blind",
+      "shirtNumber": 5,
+      "position": "DEF"
+    },
+    {
+      "id": "netherlands-2014-6",
+      "name": "Nigel de Jong",
+      "shirtNumber": 6,
+      "position": "MID"
+    },
+    {
+      "id": "netherlands-2014-7",
+      "name": "Daryl Janmaat",
+      "shirtNumber": 7,
+      "position": "DEF"
+    },
+    {
+      "id": "netherlands-2014-8",
+      "name": "Jonathan de Guzmán",
+      "shirtNumber": 8,
+      "position": "MID"
+    },
+    {
+      "id": "netherlands-2014-9",
+      "name": "Robin van Persie",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "netherlands-2014-10",
+      "name": "Wesley Sneijder",
+      "shirtNumber": 10,
+      "position": "MID"
+    },
+    {
+      "id": "netherlands-2014-11",
+      "name": "Arjen Robben",
+      "shirtNumber": 11,
+      "position": "ATT"
+    },
+    {
+      "id": "netherlands-2014-12",
+      "name": "Paul Verhaegh",
+      "shirtNumber": 12,
+      "position": "DEF"
+    },
+    {
+      "id": "netherlands-2014-13",
+      "name": "Joël Veltman",
+      "shirtNumber": 13,
+      "position": "DEF"
+    },
+    {
+      "id": "netherlands-2014-14",
+      "name": "Terence Kongolo",
+      "shirtNumber": 14,
+      "position": "DEF"
+    },
+    {
+      "id": "netherlands-2014-15",
+      "name": "Dirk Kuyt",
+      "shirtNumber": 15,
+      "position": "ATT"
+    },
+    {
+      "id": "netherlands-2014-16",
+      "name": "Jordy Clasie",
+      "shirtNumber": 16,
+      "position": "MID"
+    },
+    {
+      "id": "netherlands-2014-17",
+      "name": "Jeremain Lens",
+      "shirtNumber": 17,
+      "position": "ATT"
+    },
+    {
+      "id": "netherlands-2014-18",
+      "name": "Leroy Fer",
+      "shirtNumber": 18,
+      "position": "MID"
+    },
+    {
+      "id": "netherlands-2014-19",
+      "name": "Klaas-Jan Huntelaar",
+      "shirtNumber": 19,
+      "position": "ATT"
+    },
+    {
+      "id": "netherlands-2014-20",
+      "name": "Georginio Wijnaldum",
+      "shirtNumber": 20,
+      "position": "MID"
+    },
+    {
+      "id": "netherlands-2014-21",
+      "name": "Memphis Depay",
+      "shirtNumber": 21,
+      "position": "ATT"
+    },
+    {
+      "id": "netherlands-2014-22",
+      "name": "Michel Vorm",
+      "shirtNumber": 22,
+      "position": "GK"
+    },
+    {
+      "id": "netherlands-2014-23",
+      "name": "Tim Krul",
+      "shirtNumber": 23,
+      "position": "GK"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "Spain",
+      "score": "1–5",
+      "scorers": [
+        {
+          "name": "Xabi Alonso",
+          "minute": "27'",
+          "ownGoal": false
+        },
+        {
+          "name": "Robin van Persie",
+          "minute": "44'",
+          "ownGoal": false
+        },
+        {
+          "name": "Arjen Robben",
+          "minute": "53'",
+          "ownGoal": false
+        },
+        {
+          "name": "Stefan de Vrij",
+          "minute": "64'",
+          "ownGoal": false
+        },
+        {
+          "name": "Robin van Persie",
+          "minute": "72'",
+          "ownGoal": false
+        },
+        {
+          "name": "Arjen Robben",
+          "minute": "80'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2014-06-13"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Australia",
+      "score": "2–3",
+      "scorers": [
+        {
+          "name": "Arjen Robben",
+          "minute": "20'",
+          "ownGoal": false
+        },
+        {
+          "name": "Tim Cahill",
+          "minute": "21'",
+          "ownGoal": false
+        },
+        {
+          "name": "Mile Jedinak",
+          "minute": "54'",
+          "ownGoal": false
+        },
+        {
+          "name": "Robin van Persie",
+          "minute": "58'",
+          "ownGoal": false
+        },
+        {
+          "name": "Memphis Depay",
+          "minute": "68'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2014-06-18"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Chile",
+      "score": "2–0",
+      "scorers": [
+        {
+          "name": "Leroy Fer",
+          "minute": "77'",
+          "ownGoal": false
+        },
+        {
+          "name": "Memphis Depay",
+          "minute": "90'+2'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2014-06-23"
+    },
+    {
+      "stage": "Round of 16",
+      "opponent": "Mexico",
+      "score": "2–1",
+      "scorers": [
+        {
+          "name": "Giovani dos Santos",
+          "minute": "48'",
+          "ownGoal": false
+        },
+        {
+          "name": "Wesley Sneijder",
+          "minute": "88'",
+          "ownGoal": false
+        },
+        {
+          "name": "Klaas-Jan Huntelaar",
+          "minute": "90'+4'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2014-06-29"
+    },
+    {
+      "stage": "Quarter-final",
+      "opponent": "Costa Rica",
+      "score": "0–0",
+      "scorers": [],
+      "date": "2014-07-05"
+    },
+    {
+      "stage": "Semi-final",
+      "opponent": "Argentina",
+      "score": "0–0",
+      "scorers": [],
+      "date": "2014-07-09"
+    },
+    {
+      "stage": "Third-place match",
+      "opponent": "Brazil",
+      "score": "0–3",
+      "scorers": [
+        {
+          "name": "Robin van Persie",
+          "minute": "3'",
+          "ownGoal": false
+        },
+        {
+          "name": "Daley Blind",
+          "minute": "17'",
+          "ownGoal": false
+        },
+        {
+          "name": "Georginio Wijnaldum",
+          "minute": "90'+1'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2014-07-12"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

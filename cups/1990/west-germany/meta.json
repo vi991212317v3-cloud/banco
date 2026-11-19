@@ -1,0 +1,309 @@
+{
+  "country": "West Germany",
+  "countrySlug": "west-germany",
+  "year": 1990,
+  "edition": "1990",
+  "host": "Italy",
+  "coach": "Franz Beckenbauer",
+  "finalPhase": "Final",
+  "result": "Champion",
+  "squad": [
+    {
+      "id": "west-germany-1990-1",
+      "name": "Bodo Illgner",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "west-germany-1990-2",
+      "name": "Stefan Reuter",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "west-germany-1990-3",
+      "name": "Andreas Brehme",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "west-germany-1990-4",
+      "name": "Jürgen Kohler",
+      "shirtNumber": 4,
+      "position": "DEF"
+    },
+    {
+      "id": "west-germany-1990-5",
+      "name": "Klaus Augenthaler",
+      "shirtNumber": 5,
+      "position": "DEF"
+    },
+    {
+      "id": "west-germany-1990-6",
+      "name": "Guido Buchwald",
+      "shirtNumber": 6,
+      "position": "DEF"
+    },
+    {
+      "id": "west-germany-1990-7",
+      "name": "Pierre Littbarski",
+      "shirtNumber": 7,
+      "position": "MID"
+    },
+    {
+      "id": "west-germany-1990-8",
+      "name": "Thomas Häßler",
+      "shirtNumber": 8,
+      "position": "MID"
+    },
+    {
+      "id": "west-germany-1990-9",
+      "name": "Rudi Völler",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "west-germany-1990-10",
+      "name": "Lothar Matthäus",
+      "shirtNumber": 10,
+      "position": "MID"
+    },
+    {
+      "id": "west-germany-1990-11",
+      "name": "Frank Mill",
+      "shirtNumber": 11,
+      "position": "ATT"
+    },
+    {
+      "id": "west-germany-1990-12",
+      "name": "Raimond Aumann",
+      "shirtNumber": 12,
+      "position": "GK"
+    },
+    {
+      "id": "west-germany-1990-13",
+      "name": "Karl-Heinz Riedle",
+      "shirtNumber": 13,
+      "position": "ATT"
+    },
+    {
+      "id": "west-germany-1990-14",
+      "name": "Thomas Berthold",
+      "shirtNumber": 14,
+      "position": "DEF"
+    },
+    {
+      "id": "west-germany-1990-15",
+      "name": "Uwe Bein",
+      "shirtNumber": 15,
+      "position": "MID"
+    },
+    {
+      "id": "west-germany-1990-16",
+      "name": "Paul Steiner",
+      "shirtNumber": 16,
+      "position": "DEF"
+    },
+    {
+      "id": "west-germany-1990-17",
+      "name": "Andreas Möller",
+      "shirtNumber": 17,
+      "position": "MID"
+    },
+    {
+      "id": "west-germany-1990-18",
+      "name": "Jürgen Klinsmann",
+      "shirtNumber": 18,
+      "position": "ATT"
+    },
+    {
+      "id": "west-germany-1990-19",
+      "name": "Hans Pflügler",
+      "shirtNumber": 19,
+      "position": "DEF"
+    },
+    {
+      "id": "west-germany-1990-20",
+      "name": "Olaf Thon",
+      "shirtNumber": 20,
+      "position": "MID"
+    },
+    {
+      "id": "west-germany-1990-21",
+      "name": "Günter Hermann",
+      "shirtNumber": 21,
+      "position": "MID"
+    },
+    {
+      "id": "west-germany-1990-22",
+      "name": "Andreas Köpke",
+      "shirtNumber": 22,
+      "position": "GK"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "Yugoslavia",
+      "score": "4–1",
+      "scorers": [
+        {
+          "name": "Lothar Matthäus",
+          "minute": "28'",
+          "ownGoal": false
+        },
+        {
+          "name": "Jürgen Klinsmann",
+          "minute": "39'",
+          "ownGoal": false
+        },
+        {
+          "name": "Davor Jozić",
+          "minute": "55'",
+          "ownGoal": false
+        },
+        {
+          "name": "Lothar Matthäus",
+          "minute": "64'",
+          "ownGoal": false
+        },
+        {
+          "name": "Rudi Völler",
+          "minute": "70'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1990-06-10"
+    },
+    {
+      "stage": "Group",
+      "opponent": "United Arab Emirates",
+      "score": "5–1",
+      "scorers": [
+        {
+          "name": "Rudi Völler",
+          "minute": "35'",
+          "ownGoal": false
+        },
+        {
+          "name": "Jürgen Klinsmann",
+          "minute": "37'",
+          "ownGoal": false
+        },
+        {
+          "name": "Khalid Ismaïl",
+          "minute": "46'",
+          "ownGoal": false
+        },
+        {
+          "name": "Lothar Matthäus",
+          "minute": "47'",
+          "ownGoal": false
+        },
+        {
+          "name": "Uwe Bein",
+          "minute": "58'",
+          "ownGoal": false
+        },
+        {
+          "name": "Rudi Völler",
+          "minute": "75'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1990-06-15"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Colombia",
+      "score": "1–1",
+      "scorers": [
+        {
+          "name": "Pierre Littbarski",
+          "minute": "88'",
+          "ownGoal": false
+        },
+        {
+          "name": "Freddy Rincón",
+          "minute": "90'+3'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1990-06-19"
+    },
+    {
+      "stage": "Round of 16",
+      "opponent": "Netherlands",
+      "score": "2–1",
+      "scorers": [
+        {
+          "name": "Jürgen Klinsmann",
+          "minute": "51'",
+          "ownGoal": false
+        },
+        {
+          "name": "Andreas Brehme",
+          "minute": "85'",
+          "ownGoal": false
+        },
+        {
+          "name": "Ronald Koeman",
+          "minute": "89'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1990-06-24"
+    },
+    {
+      "stage": "Quarter-final",
+      "opponent": "Czechoslovakia",
+      "score": "0–1",
+      "scorers": [
+        {
+          "name": "Lothar Matthäus",
+          "minute": "25'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1990-07-01"
+    },
+    {
+      "stage": "Semi-final",
+      "opponent": "England",
+      "score": "1–1",
+      "scorers": [
+        {
+          "name": "Andreas Brehme",
+          "minute": "60'",
+          "ownGoal": false
+        },
+        {
+          "name": "Gary Lineker",
+          "minute": "80'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1990-07-04"
+    },
+    {
+      "stage": "Final",
+      "opponent": "Argentina",
+      "score": "1–0",
+      "scorers": [
+        {
+          "name": "Andreas Brehme",
+          "minute": "85'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1990-07-08"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

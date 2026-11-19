@@ -1,0 +1,1548 @@
+[
+  {
+    "id": "czech-republic-2006-1",
+    "name": "Petr Čech",
+    "commonName": "Petr Čech",
+    "shirtNumber": 1,
+    "position": "GK",
+    "positions": [
+      "GK"
+    ],
+    "country": "Czech Republic",
+    "countrySlug": "czech-republic",
+    "year": 2006,
+    "edition": "2006",
+    "club": null,
+    "age": 24,
+    "history": {
+      "matchesPlayed": 3,
+      "matches": [
+        {
+          "stage": "Group",
+          "opponent": "United States",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group",
+          "opponent": "Ghana",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group",
+          "opponent": "Italy",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 66,
+      "agility": 68,
+      "skill": 63,
+      "speed": 63,
+      "shooting": 55,
+      "passing": 65,
+      "defending": 65,
+      "physical": 67,
+      "goalkeeping": 74
+    },
+    "overall": 85,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "czech-republic-2006-2",
+    "name": "Zdeněk Grygera",
+    "commonName": "Zdeněk Grygera",
+    "shirtNumber": 2,
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "country": "Czech Republic",
+    "countrySlug": "czech-republic",
+    "year": 2006,
+    "edition": "2006",
+    "club": null,
+    "age": 26,
+    "history": {
+      "matchesPlayed": 3,
+      "matches": [
+        {
+          "stage": "Group",
+          "opponent": "United States",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 1,
+          "red": 0
+        },
+        {
+          "stage": "Group",
+          "opponent": "Ghana",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group",
+          "opponent": "Italy",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": 1,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 68,
+      "agility": 70,
+      "skill": 72,
+      "speed": 69,
+      "shooting": 68,
+      "passing": 72,
+      "defending": 67,
+      "physical": 68,
+      "goalkeeping": 50
+    },
+    "overall": 70,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "czech-republic-2006-3",
+    "name": "Pavel Mareš",
+    "commonName": "Pavel Mareš",
+    "shirtNumber": 3,
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "country": "Czech Republic",
+    "countrySlug": "czech-republic",
+    "year": 2006,
+    "edition": "2006",
+    "club": null,
+    "age": 30,
+    "history": {
+      "matchesPlayed": 0,
+      "matches": [],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 65,
+      "agility": 67,
+      "skill": 69,
+      "speed": 66,
+      "shooting": 65,
+      "passing": 69,
+      "defending": 64,
+      "physical": 65,
+      "goalkeeping": 48
+    },
+    "overall": 67,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "czech-republic-2006-4",
+    "name": "Tomáš Galásek",
+    "commonName": "Tomáš Galásek",
+    "shirtNumber": 4,
+    "position": "MID",
+    "positions": [
+      "MID"
+    ],
+    "country": "Czech Republic",
+    "countrySlug": "czech-republic",
+    "year": 2006,
+    "edition": "2006",
+    "club": null,
+    "age": 33,
+    "history": {
+      "matchesPlayed": 2,
+      "matches": [
+        {
+          "stage": "Group",
+          "opponent": "United States",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group",
+          "opponent": "Ghana",
+          "minutes": 46,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 67,
+      "agility": 69,
+      "skill": 71,
+      "speed": 68,
+      "shooting": 67,
+      "passing": 71,
+      "defending": 66,
+      "physical": 67,
+      "goalkeeping": 50
+    },
+    "overall": 69,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "czech-republic-2006-5",
+    "name": "Radoslav Kováč",
+    "commonName": "Radoslav Kováč",
+    "shirtNumber": 5,
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "country": "Czech Republic",
+    "countrySlug": "czech-republic",
+    "year": 2006,
+    "edition": "2006",
+    "club": null,
+    "age": 26,
+    "history": {
+      "matchesPlayed": 1,
+      "matches": [
+        {
+          "stage": "Group",
+          "opponent": "Italy",
+          "minutes": 78,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 66,
+      "agility": 68,
+      "skill": 70,
+      "speed": 67,
+      "shooting": 66,
+      "passing": 70,
+      "defending": 65,
+      "physical": 66,
+      "goalkeeping": 48
+    },
+    "overall": 68,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "czech-republic-2006-6",
+    "name": "Marek Jankulovski",
+    "commonName": "Marek Jankulovski",
+    "shirtNumber": 6,
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "country": "Czech Republic",
+    "countrySlug": "czech-republic",
+    "year": 2006,
+    "edition": "2006",
+    "club": null,
+    "age": 29,
+    "history": {
+      "matchesPlayed": 3,
+      "matches": [
+        {
+          "stage": "Group",
+          "opponent": "United States",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group",
+          "opponent": "Ghana",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group",
+          "opponent": "Italy",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 68,
+      "agility": 70,
+      "skill": 72,
+      "speed": 69,
+      "shooting": 68,
+      "passing": 72,
+      "defending": 67,
+      "physical": 68,
+      "goalkeeping": 50
+    },
+    "overall": 70,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "czech-republic-2006-7",
+    "name": "Libor Sionko",
+    "commonName": "Libor Sionko",
+    "shirtNumber": 7,
+    "position": "MID",
+    "positions": [
+      "MID"
+    ],
+    "country": "Czech Republic",
+    "countrySlug": "czech-republic",
+    "year": 2006,
+    "edition": "2006",
+    "club": null,
+    "age": 29,
+    "history": {
+      "matchesPlayed": 1,
+      "matches": [
+        {
+          "stage": "Group",
+          "opponent": "Ghana",
+          "minutes": 22,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 66,
+      "agility": 68,
+      "skill": 70,
+      "speed": 67,
+      "shooting": 66,
+      "passing": 70,
+      "defending": 65,
+      "physical": 66,
+      "goalkeeping": 48
+    },
+    "overall": 68,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "czech-republic-2006-8",
+    "name": "Karel Poborský",
+    "commonName": "Karel Poborský",
+    "shirtNumber": 8,
+    "position": "MID",
+    "positions": [
+      "MID"
+    ],
+    "country": "Czech Republic",
+    "countrySlug": "czech-republic",
+    "year": 2006,
+    "edition": "2006",
+    "club": null,
+    "age": 34,
+    "history": {
+      "matchesPlayed": 3,
+      "matches": [
+        {
+          "stage": "Group",
+          "opponent": "United States",
+          "minutes": 82,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group",
+          "opponent": "Ghana",
+          "minutes": 56,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group",
+          "opponent": "Italy",
+          "minutes": 46,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 68,
+      "agility": 70,
+      "skill": 72,
+      "speed": 69,
+      "shooting": 68,
+      "passing": 72,
+      "defending": 67,
+      "physical": 68,
+      "goalkeeping": 50
+    },
+    "overall": 70,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "czech-republic-2006-9",
+    "name": "Jan Koller",
+    "commonName": "Jan Koller",
+    "shirtNumber": 9,
+    "position": "ATT",
+    "positions": [
+      "ATT"
+    ],
+    "country": "Czech Republic",
+    "countrySlug": "czech-republic",
+    "year": 2006,
+    "edition": "2006",
+    "club": null,
+    "age": 33,
+    "history": {
+      "matchesPlayed": 1,
+      "matches": [
+        {
+          "stage": "Group",
+          "opponent": "United States",
+          "minutes": 45,
+          "goals": 1,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 1,
+      "assists": null,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 67,
+      "agility": 69,
+      "skill": 71,
+      "speed": 68,
+      "shooting": 67,
+      "passing": 71,
+      "defending": 66,
+      "physical": 67,
+      "goalkeeping": 50
+    },
+    "overall": 69,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "czech-republic-2006-10",
+    "name": "Tomáš Rosický",
+    "commonName": "Tomáš Rosický",
+    "shirtNumber": 10,
+    "position": "MID",
+    "positions": [
+      "MID"
+    ],
+    "country": "Czech Republic",
+    "countrySlug": "czech-republic",
+    "year": 2006,
+    "edition": "2006",
+    "club": null,
+    "age": 25,
+    "history": {
+      "matchesPlayed": 3,
+      "matches": [
+        {
+          "stage": "Group",
+          "opponent": "United States",
+          "minutes": 86,
+          "goals": 2,
+          "assists": null,
+          "yellow": 1,
+          "red": 0
+        },
+        {
+          "stage": "Group",
+          "opponent": "Ghana",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group",
+          "opponent": "Italy",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 2,
+      "assists": null,
+      "yellowCards": 1,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 71,
+      "agility": 73,
+      "skill": 75,
+      "speed": 72,
+      "shooting": 71,
+      "passing": 75,
+      "defending": 70,
+      "physical": 71,
+      "goalkeeping": 54
+    },
+    "overall": 80,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "czech-republic-2006-11",
+    "name": "Pavel Nedvěd",
+    "commonName": "Pavel Nedvěd",
+    "shirtNumber": 11,
+    "position": "MID",
+    "positions": [
+      "MID"
+    ],
+    "country": "Czech Republic",
+    "countrySlug": "czech-republic",
+    "year": 2006,
+    "edition": "2006",
+    "club": null,
+    "age": 33,
+    "history": {
+      "matchesPlayed": 3,
+      "matches": [
+        {
+          "stage": "Group",
+          "opponent": "United States",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group",
+          "opponent": "Ghana",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group",
+          "opponent": "Italy",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 68,
+      "agility": 70,
+      "skill": 72,
+      "speed": 69,
+      "shooting": 68,
+      "passing": 72,
+      "defending": 67,
+      "physical": 68,
+      "goalkeeping": 50
+    },
+    "overall": 70,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "czech-republic-2006-12",
+    "name": "Vratislav Lokvenc",
+    "commonName": "Vratislav Lokvenc",
+    "shirtNumber": 12,
+    "position": "ATT",
+    "positions": [
+      "ATT"
+    ],
+    "country": "Czech Republic",
+    "countrySlug": "czech-republic",
+    "year": 2006,
+    "edition": "2006",
+    "club": null,
+    "age": 32,
+    "history": {
+      "matchesPlayed": 2,
+      "matches": [
+        {
+          "stage": "Group",
+          "opponent": "United States",
+          "minutes": 45,
+          "goals": 0,
+          "assists": null,
+          "yellow": 1,
+          "red": 0
+        },
+        {
+          "stage": "Group",
+          "opponent": "Ghana",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 1,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": 2,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 67,
+      "agility": 69,
+      "skill": 71,
+      "speed": 68,
+      "shooting": 67,
+      "passing": 71,
+      "defending": 66,
+      "physical": 67,
+      "goalkeeping": 50
+    },
+    "overall": 69,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "czech-republic-2006-13",
+    "name": "Martin Jiránek",
+    "commonName": "Martin Jiránek",
+    "shirtNumber": 13,
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "country": "Czech Republic",
+    "countrySlug": "czech-republic",
+    "year": 2006,
+    "edition": "2006",
+    "club": null,
+    "age": 27,
+    "history": {
+      "matchesPlayed": 0,
+      "matches": [],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 65,
+      "agility": 67,
+      "skill": 69,
+      "speed": 66,
+      "shooting": 65,
+      "passing": 69,
+      "defending": 64,
+      "physical": 65,
+      "goalkeeping": 48
+    },
+    "overall": 67,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "czech-republic-2006-14",
+    "name": "David Jarolím",
+    "commonName": "David Jarolím",
+    "shirtNumber": 14,
+    "position": "MID",
+    "positions": [
+      "MID"
+    ],
+    "country": "Czech Republic",
+    "countrySlug": "czech-republic",
+    "year": 2006,
+    "edition": "2006",
+    "club": null,
+    "age": 27,
+    "history": {
+      "matchesPlayed": 1,
+      "matches": [
+        {
+          "stage": "Group",
+          "opponent": "Italy",
+          "minutes": 26,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 66,
+      "agility": 68,
+      "skill": 70,
+      "speed": 67,
+      "shooting": 66,
+      "passing": 70,
+      "defending": 65,
+      "physical": 66,
+      "goalkeeping": 48
+    },
+    "overall": 68,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "czech-republic-2006-15",
+    "name": "Milan Baroš",
+    "commonName": "Milan Baroš",
+    "shirtNumber": 15,
+    "position": "ATT",
+    "positions": [
+      "ATT"
+    ],
+    "country": "Czech Republic",
+    "countrySlug": "czech-republic",
+    "year": 2006,
+    "edition": "2006",
+    "club": null,
+    "age": 24,
+    "history": {
+      "matchesPlayed": 1,
+      "matches": [
+        {
+          "stage": "Group",
+          "opponent": "Italy",
+          "minutes": 64,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 66,
+      "agility": 68,
+      "skill": 70,
+      "speed": 67,
+      "shooting": 66,
+      "passing": 70,
+      "defending": 65,
+      "physical": 66,
+      "goalkeeping": 48
+    },
+    "overall": 68,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "czech-republic-2006-16",
+    "name": "Jaromír Blažek",
+    "commonName": "Jaromír Blažek",
+    "shirtNumber": 16,
+    "position": "GK",
+    "positions": [
+      "GK"
+    ],
+    "country": "Czech Republic",
+    "countrySlug": "czech-republic",
+    "year": 2006,
+    "edition": "2006",
+    "club": null,
+    "age": 33,
+    "history": {
+      "matchesPlayed": 0,
+      "matches": [],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 63,
+      "agility": 65,
+      "skill": 60,
+      "speed": 60,
+      "shooting": 52,
+      "passing": 62,
+      "defending": 62,
+      "physical": 64,
+      "goalkeeping": 71
+    },
+    "overall": 67,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "czech-republic-2006-17",
+    "name": "Jiří Štajner",
+    "commonName": "Jiří Štajner",
+    "shirtNumber": 17,
+    "position": "ATT",
+    "positions": [
+      "ATT"
+    ],
+    "country": "Czech Republic",
+    "countrySlug": "czech-republic",
+    "year": 2006,
+    "edition": "2006",
+    "club": null,
+    "age": 30,
+    "history": {
+      "matchesPlayed": 3,
+      "matches": [
+        {
+          "stage": "Group",
+          "opponent": "United States",
+          "minutes": 4,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group",
+          "opponent": "Ghana",
+          "minutes": 34,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group",
+          "opponent": "Italy",
+          "minutes": 44,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 68,
+      "agility": 70,
+      "skill": 72,
+      "speed": 69,
+      "shooting": 68,
+      "passing": 72,
+      "defending": 67,
+      "physical": 68,
+      "goalkeeping": 50
+    },
+    "overall": 70,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "czech-republic-2006-18",
+    "name": "Marek Heinz",
+    "commonName": "Marek Heinz",
+    "shirtNumber": 18,
+    "position": "ATT",
+    "positions": [
+      "ATT"
+    ],
+    "country": "Czech Republic",
+    "countrySlug": "czech-republic",
+    "year": 2006,
+    "edition": "2006",
+    "club": null,
+    "age": 28,
+    "history": {
+      "matchesPlayed": 1,
+      "matches": [
+        {
+          "stage": "Group",
+          "opponent": "Italy",
+          "minutes": 12,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 66,
+      "agility": 68,
+      "skill": 70,
+      "speed": 67,
+      "shooting": 66,
+      "passing": 70,
+      "defending": 65,
+      "physical": 66,
+      "goalkeeping": 48
+    },
+    "overall": 68,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "czech-republic-2006-19",
+    "name": "Jan Polák",
+    "commonName": "Jan Polák",
+    "shirtNumber": 19,
+    "position": "MID",
+    "positions": [
+      "MID"
+    ],
+    "country": "Czech Republic",
+    "countrySlug": "czech-republic",
+    "year": 2006,
+    "edition": "2006",
+    "club": null,
+    "age": 25,
+    "history": {
+      "matchesPlayed": 3,
+      "matches": [
+        {
+          "stage": "Group",
+          "opponent": "United States",
+          "minutes": 8,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group",
+          "opponent": "Ghana",
+          "minutes": 44,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group",
+          "opponent": "Italy",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 1,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": 1,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 68,
+      "agility": 70,
+      "skill": 72,
+      "speed": 69,
+      "shooting": 68,
+      "passing": 72,
+      "defending": 67,
+      "physical": 68,
+      "goalkeeping": 50
+    },
+    "overall": 72,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "czech-republic-2006-20",
+    "name": "Jaroslav Plašil",
+    "commonName": "Jaroslav Plašil",
+    "shirtNumber": 20,
+    "position": "MID",
+    "positions": [
+      "MID"
+    ],
+    "country": "Czech Republic",
+    "countrySlug": "czech-republic",
+    "year": 2006,
+    "edition": "2006",
+    "club": null,
+    "age": 24,
+    "history": {
+      "matchesPlayed": 3,
+      "matches": [
+        {
+          "stage": "Group",
+          "opponent": "United States",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group",
+          "opponent": "Ghana",
+          "minutes": 68,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group",
+          "opponent": "Italy",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 68,
+      "agility": 70,
+      "skill": 72,
+      "speed": 69,
+      "shooting": 68,
+      "passing": 72,
+      "defending": 67,
+      "physical": 68,
+      "goalkeeping": 50
+    },
+    "overall": 73,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "czech-republic-2006-21",
+    "name": "Tomáš Ujfaluši",
+    "commonName": "Tomáš Ujfaluši",
+    "shirtNumber": 21,
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "country": "Czech Republic",
+    "countrySlug": "czech-republic",
+    "year": 2006,
+    "edition": "2006",
+    "club": null,
+    "age": 28,
+    "history": {
+      "matchesPlayed": 2,
+      "matches": [
+        {
+          "stage": "Group",
+          "opponent": "United States",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group",
+          "opponent": "Ghana",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 1
+        }
+      ],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": 0,
+      "redCards": 1
+    },
+    "attributes": {
+      "strength": 67,
+      "agility": 69,
+      "skill": 71,
+      "speed": 68,
+      "shooting": 67,
+      "passing": 71,
+      "defending": 66,
+      "physical": 67,
+      "goalkeeping": 50
+    },
+    "overall": 69,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "czech-republic-2006-22",
+    "name": "David Rozehnal",
+    "commonName": "David Rozehnal",
+    "shirtNumber": 22,
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "country": "Czech Republic",
+    "countrySlug": "czech-republic",
+    "year": 2006,
+    "edition": "2006",
+    "club": null,
+    "age": 25,
+    "history": {
+      "matchesPlayed": 3,
+      "matches": [
+        {
+          "stage": "Group",
+          "opponent": "United States",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 1,
+          "red": 0
+        },
+        {
+          "stage": "Group",
+          "opponent": "Ghana",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group",
+          "opponent": "Italy",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": 1,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 68,
+      "agility": 70,
+      "skill": 72,
+      "speed": 69,
+      "shooting": 68,
+      "passing": 72,
+      "defending": 67,
+      "physical": 68,
+      "goalkeeping": 50
+    },
+    "overall": 72,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "czech-republic-2006-23",
+    "name": "Antonín Kinský",
+    "commonName": "Antonín Kinský",
+    "shirtNumber": 23,
+    "position": "GK",
+    "positions": [
+      "GK"
+    ],
+    "country": "Czech Republic",
+    "countrySlug": "czech-republic",
+    "year": 2006,
+    "edition": "2006",
+    "club": null,
+    "age": 31,
+    "history": {
+      "matchesPlayed": 0,
+      "matches": [],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 63,
+      "agility": 65,
+      "skill": 60,
+      "speed": 60,
+      "shooting": 52,
+      "passing": 62,
+      "defending": 62,
+      "physical": 64,
+      "goalkeeping": 71
+    },
+    "overall": 67,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  }
+]

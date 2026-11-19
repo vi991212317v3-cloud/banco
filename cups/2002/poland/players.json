@@ -1,0 +1,1551 @@
+[
+  {
+    "id": "poland-2002-1",
+    "name": "Jerzy Dudek",
+    "commonName": "Jerzy Dudek",
+    "shirtNumber": 1,
+    "position": "GK",
+    "positions": [
+      "GK"
+    ],
+    "country": "Poland",
+    "countrySlug": "poland",
+    "year": 2002,
+    "edition": "2002",
+    "club": null,
+    "age": 29,
+    "history": {
+      "matchesPlayed": 2,
+      "matches": [
+        {
+          "stage": "Group",
+          "opponent": "South Korea",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group",
+          "opponent": "Portugal",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 65,
+      "agility": 67,
+      "skill": 62,
+      "speed": 62,
+      "shooting": 54,
+      "passing": 64,
+      "defending": 64,
+      "physical": 66,
+      "goalkeeping": 73
+    },
+    "overall": 69,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "poland-2002-2",
+    "name": "Tomasz Kłos",
+    "commonName": "Tomasz Kłos",
+    "shirtNumber": 2,
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "country": "Poland",
+    "countrySlug": "poland",
+    "year": 2002,
+    "edition": "2002",
+    "club": null,
+    "age": 29,
+    "history": {
+      "matchesPlayed": 2,
+      "matches": [
+        {
+          "stage": "Group",
+          "opponent": "South Korea",
+          "minutes": 40,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group",
+          "opponent": "United States",
+          "minutes": 89,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 67,
+      "agility": 69,
+      "skill": 71,
+      "speed": 68,
+      "shooting": 67,
+      "passing": 71,
+      "defending": 66,
+      "physical": 67,
+      "goalkeeping": 50
+    },
+    "overall": 69,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "poland-2002-3",
+    "name": "Jacek Zieliński",
+    "commonName": "Jacek Zieliński",
+    "shirtNumber": 3,
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "country": "Poland",
+    "countrySlug": "poland",
+    "year": 2002,
+    "edition": "2002",
+    "club": null,
+    "age": 34,
+    "history": {
+      "matchesPlayed": 1,
+      "matches": [
+        {
+          "stage": "Group",
+          "opponent": "United States",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 66,
+      "agility": 68,
+      "skill": 70,
+      "speed": 67,
+      "shooting": 66,
+      "passing": 70,
+      "defending": 65,
+      "physical": 66,
+      "goalkeeping": 48
+    },
+    "overall": 68,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "poland-2002-4",
+    "name": "Michał Żewłakow",
+    "commonName": "Michał Żewłakow",
+    "shirtNumber": 4,
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "country": "Poland",
+    "countrySlug": "poland",
+    "year": 2002,
+    "edition": "2002",
+    "club": null,
+    "age": 26,
+    "history": {
+      "matchesPlayed": 2,
+      "matches": [
+        {
+          "stage": "Group",
+          "opponent": "South Korea",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group",
+          "opponent": "Portugal",
+          "minutes": 71,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 67,
+      "agility": 69,
+      "skill": 71,
+      "speed": 68,
+      "shooting": 67,
+      "passing": 71,
+      "defending": 66,
+      "physical": 67,
+      "goalkeeping": 50
+    },
+    "overall": 69,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "poland-2002-5",
+    "name": "Tomasz Rząsa",
+    "commonName": "Tomasz Rząsa",
+    "shirtNumber": 5,
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "country": "Poland",
+    "countrySlug": "poland",
+    "year": 2002,
+    "edition": "2002",
+    "club": null,
+    "age": 29,
+    "history": {
+      "matchesPlayed": 1,
+      "matches": [
+        {
+          "stage": "Group",
+          "opponent": "Portugal",
+          "minutes": 19,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 66,
+      "agility": 68,
+      "skill": 70,
+      "speed": 67,
+      "shooting": 66,
+      "passing": 70,
+      "defending": 65,
+      "physical": 66,
+      "goalkeeping": 48
+    },
+    "overall": 68,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "poland-2002-6",
+    "name": "Tomasz Hajto",
+    "commonName": "Tomasz Hajto",
+    "shirtNumber": 6,
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "country": "Poland",
+    "countrySlug": "poland",
+    "year": 2002,
+    "edition": "2002",
+    "club": null,
+    "age": 29,
+    "history": {
+      "matchesPlayed": 2,
+      "matches": [
+        {
+          "stage": "Group",
+          "opponent": "South Korea",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 1,
+          "red": 0
+        },
+        {
+          "stage": "Group",
+          "opponent": "Portugal",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": 1,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 67,
+      "agility": 69,
+      "skill": 71,
+      "speed": 68,
+      "shooting": 67,
+      "passing": 71,
+      "defending": 66,
+      "physical": 67,
+      "goalkeeping": 50
+    },
+    "overall": 69,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "poland-2002-7",
+    "name": "Piotr Świerczewski",
+    "commonName": "Piotr Świerczewski",
+    "shirtNumber": 7,
+    "position": "MID",
+    "positions": [
+      "MID"
+    ],
+    "country": "Poland",
+    "countrySlug": "poland",
+    "year": 2002,
+    "edition": "2002",
+    "club": null,
+    "age": 30,
+    "history": {
+      "matchesPlayed": 2,
+      "matches": [
+        {
+          "stage": "Group",
+          "opponent": "South Korea",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 1,
+          "red": 0
+        },
+        {
+          "stage": "Group",
+          "opponent": "Portugal",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 1,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": 2,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 67,
+      "agility": 69,
+      "skill": 71,
+      "speed": 68,
+      "shooting": 67,
+      "passing": 71,
+      "defending": 66,
+      "physical": 67,
+      "goalkeeping": 50
+    },
+    "overall": 69,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "poland-2002-8",
+    "name": "Cezary Kucharski",
+    "commonName": "Cezary Kucharski",
+    "shirtNumber": 8,
+    "position": "ATT",
+    "positions": [
+      "ATT"
+    ],
+    "country": "Poland",
+    "countrySlug": "poland",
+    "year": 2002,
+    "edition": "2002",
+    "club": null,
+    "age": 30,
+    "history": {
+      "matchesPlayed": 1,
+      "matches": [
+        {
+          "stage": "Group",
+          "opponent": "United States",
+          "minutes": 65,
+          "goals": 0,
+          "assists": null,
+          "yellow": 1,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": 1,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 66,
+      "agility": 68,
+      "skill": 70,
+      "speed": 67,
+      "shooting": 66,
+      "passing": 70,
+      "defending": 65,
+      "physical": 66,
+      "goalkeeping": 48
+    },
+    "overall": 68,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "poland-2002-9",
+    "name": "Paweł Kryszałowicz",
+    "commonName": "Paweł Kryszałowicz",
+    "shirtNumber": 9,
+    "position": "ATT",
+    "positions": [
+      "ATT"
+    ],
+    "country": "Poland",
+    "countrySlug": "poland",
+    "year": 2002,
+    "edition": "2002",
+    "club": null,
+    "age": 27,
+    "history": {
+      "matchesPlayed": 3,
+      "matches": [
+        {
+          "stage": "Group",
+          "opponent": "South Korea",
+          "minutes": 44,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group",
+          "opponent": "Portugal",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group",
+          "opponent": "United States",
+          "minutes": 90,
+          "goals": 1,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 1,
+      "assists": null,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 69,
+      "agility": 71,
+      "skill": 73,
+      "speed": 70,
+      "shooting": 69,
+      "passing": 73,
+      "defending": 68,
+      "physical": 69,
+      "goalkeeping": 52
+    },
+    "overall": 71,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "poland-2002-10",
+    "name": "Radosław Kałużny",
+    "commonName": "Radosław Kałużny",
+    "shirtNumber": 10,
+    "position": "MID",
+    "positions": [
+      "MID"
+    ],
+    "country": "Poland",
+    "countrySlug": "poland",
+    "year": 2002,
+    "edition": "2002",
+    "club": null,
+    "age": 28,
+    "history": {
+      "matchesPlayed": 2,
+      "matches": [
+        {
+          "stage": "Group",
+          "opponent": "South Korea",
+          "minutes": 64,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group",
+          "opponent": "Portugal",
+          "minutes": 16,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 67,
+      "agility": 69,
+      "skill": 71,
+      "speed": 68,
+      "shooting": 67,
+      "passing": 71,
+      "defending": 66,
+      "physical": 67,
+      "goalkeeping": 50
+    },
+    "overall": 69,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "poland-2002-11",
+    "name": "Emmanuel Olisadebe",
+    "commonName": "Emmanuel Olisadebe",
+    "shirtNumber": 11,
+    "position": "ATT",
+    "positions": [
+      "ATT"
+    ],
+    "country": "Poland",
+    "countrySlug": "poland",
+    "year": 2002,
+    "edition": "2002",
+    "club": null,
+    "age": 23,
+    "history": {
+      "matchesPlayed": 3,
+      "matches": [
+        {
+          "stage": "Group",
+          "opponent": "South Korea",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group",
+          "opponent": "Portugal",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group",
+          "opponent": "United States",
+          "minutes": 87,
+          "goals": 1,
+          "assists": null,
+          "yellow": 1,
+          "red": 0
+        }
+      ],
+      "goals": 1,
+      "assists": null,
+      "yellowCards": 1,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 69,
+      "agility": 71,
+      "skill": 73,
+      "speed": 70,
+      "shooting": 69,
+      "passing": 73,
+      "defending": 68,
+      "physical": 69,
+      "goalkeeping": 52
+    },
+    "overall": 71,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "poland-2002-12",
+    "name": "Radosław Majdan",
+    "commonName": "Radosław Majdan",
+    "shirtNumber": 12,
+    "position": "GK",
+    "positions": [
+      "GK"
+    ],
+    "country": "Poland",
+    "countrySlug": "poland",
+    "year": 2002,
+    "edition": "2002",
+    "club": null,
+    "age": 30,
+    "history": {
+      "matchesPlayed": 1,
+      "matches": [
+        {
+          "stage": "Group",
+          "opponent": "United States",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 1,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": 1,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 64,
+      "agility": 66,
+      "skill": 61,
+      "speed": 61,
+      "shooting": 53,
+      "passing": 63,
+      "defending": 63,
+      "physical": 65,
+      "goalkeeping": 72
+    },
+    "overall": 68,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "poland-2002-13",
+    "name": "Arkadiusz Głowacki",
+    "commonName": "Arkadiusz Głowacki",
+    "shirtNumber": 13,
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "country": "Poland",
+    "countrySlug": "poland",
+    "year": 2002,
+    "edition": "2002",
+    "club": null,
+    "age": 23,
+    "history": {
+      "matchesPlayed": 1,
+      "matches": [
+        {
+          "stage": "Group",
+          "opponent": "United States",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 66,
+      "agility": 68,
+      "skill": 70,
+      "speed": 67,
+      "shooting": 66,
+      "passing": 70,
+      "defending": 65,
+      "physical": 66,
+      "goalkeeping": 48
+    },
+    "overall": 69,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "poland-2002-14",
+    "name": "Marcin Żewłakow",
+    "commonName": "Marcin Żewłakow",
+    "shirtNumber": 14,
+    "position": "ATT",
+    "positions": [
+      "ATT"
+    ],
+    "country": "Poland",
+    "countrySlug": "poland",
+    "year": 2002,
+    "edition": "2002",
+    "club": null,
+    "age": 26,
+    "history": {
+      "matchesPlayed": 3,
+      "matches": [
+        {
+          "stage": "Group",
+          "opponent": "South Korea",
+          "minutes": 26,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group",
+          "opponent": "Portugal",
+          "minutes": 34,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group",
+          "opponent": "United States",
+          "minutes": 25,
+          "goals": 1,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 1,
+      "assists": null,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 69,
+      "agility": 71,
+      "skill": 73,
+      "speed": 70,
+      "shooting": 69,
+      "passing": 73,
+      "defending": 68,
+      "physical": 69,
+      "goalkeeping": 52
+    },
+    "overall": 71,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "poland-2002-15",
+    "name": "Tomasz Wałdoch",
+    "commonName": "Tomasz Wałdoch",
+    "shirtNumber": 15,
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "country": "Poland",
+    "countrySlug": "poland",
+    "year": 2002,
+    "edition": "2002",
+    "club": null,
+    "age": 31,
+    "history": {
+      "matchesPlayed": 3,
+      "matches": [
+        {
+          "stage": "Group",
+          "opponent": "South Korea",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group",
+          "opponent": "Portugal",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group",
+          "opponent": "United States",
+          "minutes": 1,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 68,
+      "agility": 70,
+      "skill": 72,
+      "speed": 69,
+      "shooting": 68,
+      "passing": 72,
+      "defending": 67,
+      "physical": 68,
+      "goalkeeping": 50
+    },
+    "overall": 70,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "poland-2002-16",
+    "name": "Maciej Murawski",
+    "commonName": "Maciej Murawski",
+    "shirtNumber": 16,
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "country": "Poland",
+    "countrySlug": "poland",
+    "year": 2002,
+    "edition": "2002",
+    "club": null,
+    "age": 28,
+    "history": {
+      "matchesPlayed": 1,
+      "matches": [
+        {
+          "stage": "Group",
+          "opponent": "United States",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 66,
+      "agility": 68,
+      "skill": 70,
+      "speed": 67,
+      "shooting": 66,
+      "passing": 70,
+      "defending": 65,
+      "physical": 66,
+      "goalkeeping": 48
+    },
+    "overall": 68,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "poland-2002-17",
+    "name": "Arkadiusz Bąk",
+    "commonName": "Arkadiusz Bąk",
+    "shirtNumber": 17,
+    "position": "MID",
+    "positions": [
+      "MID"
+    ],
+    "country": "Poland",
+    "countrySlug": "poland",
+    "year": 2002,
+    "edition": "2002",
+    "club": null,
+    "age": 27,
+    "history": {
+      "matchesPlayed": 1,
+      "matches": [
+        {
+          "stage": "Group",
+          "opponent": "Portugal",
+          "minutes": 74,
+          "goals": 0,
+          "assists": null,
+          "yellow": 1,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": 1,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 66,
+      "agility": 68,
+      "skill": 70,
+      "speed": 67,
+      "shooting": 66,
+      "passing": 70,
+      "defending": 65,
+      "physical": 66,
+      "goalkeeping": 48
+    },
+    "overall": 68,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "poland-2002-18",
+    "name": "Jacek Krzynówek",
+    "commonName": "Jacek Krzynówek",
+    "shirtNumber": 18,
+    "position": "MID",
+    "positions": [
+      "MID"
+    ],
+    "country": "Poland",
+    "countrySlug": "poland",
+    "year": 2002,
+    "edition": "2002",
+    "club": null,
+    "age": 26,
+    "history": {
+      "matchesPlayed": 3,
+      "matches": [
+        {
+          "stage": "Group",
+          "opponent": "South Korea",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 1,
+          "red": 0
+        },
+        {
+          "stage": "Group",
+          "opponent": "Portugal",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group",
+          "opponent": "United States",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": 1,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 68,
+      "agility": 70,
+      "skill": 72,
+      "speed": 69,
+      "shooting": 68,
+      "passing": 72,
+      "defending": 67,
+      "physical": 68,
+      "goalkeeping": 50
+    },
+    "overall": 70,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "poland-2002-19",
+    "name": "Maciej Żurawski",
+    "commonName": "Maciej Żurawski",
+    "shirtNumber": 19,
+    "position": "ATT",
+    "positions": [
+      "ATT"
+    ],
+    "country": "Poland",
+    "countrySlug": "poland",
+    "year": 2002,
+    "edition": "2002",
+    "club": null,
+    "age": 25,
+    "history": {
+      "matchesPlayed": 3,
+      "matches": [
+        {
+          "stage": "Group",
+          "opponent": "South Korea",
+          "minutes": 46,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group",
+          "opponent": "Portugal",
+          "minutes": 56,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group",
+          "opponent": "United States",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 68,
+      "agility": 70,
+      "skill": 72,
+      "speed": 69,
+      "shooting": 68,
+      "passing": 72,
+      "defending": 67,
+      "physical": 68,
+      "goalkeeping": 50
+    },
+    "overall": 70,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "poland-2002-20",
+    "name": "Jacek Bąk",
+    "commonName": "Jacek Bąk",
+    "shirtNumber": 20,
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "country": "Poland",
+    "countrySlug": "poland",
+    "year": 2002,
+    "edition": "2002",
+    "club": null,
+    "age": 29,
+    "history": {
+      "matchesPlayed": 1,
+      "matches": [
+        {
+          "stage": "Group",
+          "opponent": "South Korea",
+          "minutes": 50,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 66,
+      "agility": 68,
+      "skill": 70,
+      "speed": 67,
+      "shooting": 66,
+      "passing": 70,
+      "defending": 65,
+      "physical": 66,
+      "goalkeeping": 48
+    },
+    "overall": 68,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "poland-2002-21",
+    "name": "Marek Koźmiński",
+    "commonName": "Marek Koźmiński",
+    "shirtNumber": 21,
+    "position": "MID",
+    "positions": [
+      "MID"
+    ],
+    "country": "Poland",
+    "countrySlug": "poland",
+    "year": 2002,
+    "edition": "2002",
+    "club": null,
+    "age": 31,
+    "history": {
+      "matchesPlayed": 3,
+      "matches": [
+        {
+          "stage": "Group",
+          "opponent": "South Korea",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group",
+          "opponent": "Portugal",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group",
+          "opponent": "United States",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 1,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": 1,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 68,
+      "agility": 70,
+      "skill": 72,
+      "speed": 69,
+      "shooting": 68,
+      "passing": 72,
+      "defending": 67,
+      "physical": 68,
+      "goalkeeping": 50
+    },
+    "overall": 70,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "poland-2002-22",
+    "name": "Adam Matysek",
+    "commonName": "Adam Matysek",
+    "shirtNumber": 22,
+    "position": "GK",
+    "positions": [
+      "GK"
+    ],
+    "country": "Poland",
+    "countrySlug": "poland",
+    "year": 2002,
+    "edition": "2002",
+    "club": null,
+    "age": 33,
+    "history": {
+      "matchesPlayed": 0,
+      "matches": [],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 63,
+      "agility": 65,
+      "skill": 60,
+      "speed": 60,
+      "shooting": 52,
+      "passing": 62,
+      "defending": 62,
+      "physical": 64,
+      "goalkeeping": 71
+    },
+    "overall": 67,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "poland-2002-23",
+    "name": "Paweł Sibik",
+    "commonName": "Paweł Sibik",
+    "shirtNumber": 23,
+    "position": "MID",
+    "positions": [
+      "MID"
+    ],
+    "country": "Poland",
+    "countrySlug": "poland",
+    "year": 2002,
+    "edition": "2002",
+    "club": null,
+    "age": 31,
+    "history": {
+      "matchesPlayed": 1,
+      "matches": [
+        {
+          "stage": "Group",
+          "opponent": "United States",
+          "minutes": 3,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 66,
+      "agility": 68,
+      "skill": 70,
+      "speed": 67,
+      "shooting": 66,
+      "passing": 70,
+      "defending": 65,
+      "physical": 66,
+      "goalkeeping": 48
+    },
+    "overall": 68,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  }
+]

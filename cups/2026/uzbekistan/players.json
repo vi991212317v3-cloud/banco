@@ -1,0 +1,1704 @@
+[
+  {
+    "id": "uzbekistan-2026-1",
+    "name": "Utkir YUSUPOV",
+    "commonName": "YUSUPOV Utkir",
+    "shirtNumber": 1,
+    "position": "GK",
+    "positions": [
+      "GK"
+    ],
+    "country": "Uzbekistan",
+    "countrySlug": "uzbekistan",
+    "year": 2026,
+    "edition": "2026",
+    "club": "PFC Navbahor Namangan (UZB)",
+    "age": 35,
+    "history": {
+      "matchesPlayed": 1,
+      "matches": [
+        {
+          "stage": "Group Stage",
+          "opponent": "Colombia",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 64,
+      "agility": 66,
+      "skill": 61,
+      "speed": 61,
+      "shooting": 53,
+      "passing": 63,
+      "defending": 63,
+      "physical": 65,
+      "goalkeeping": 72
+    },
+    "overall": 68,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "statsStatus": "matched-community",
+    "sources": [
+      "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+      "https://github.com/mominullptr/FIFA-World-Cup-2026-Dataset",
+      "https://github.com/openfootball/worldcup.json"
+    ]
+  },
+
+  {
+    "id": "uzbekistan-2026-2",
+    "name": "Abdukodir KHUSANOV",
+    "commonName": "KHUSANOV Abdukodir",
+    "shirtNumber": 2,
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "country": "Uzbekistan",
+    "countrySlug": "uzbekistan",
+    "year": 2026,
+    "edition": "2026",
+    "club": "Manchester City FC (ENG)",
+    "age": 22,
+    "history": {
+      "matchesPlayed": 3,
+      "matches": [
+        {
+          "stage": "Group Stage",
+          "opponent": "Colombia",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group Stage",
+          "opponent": "Portugal",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group Stage",
+          "opponent": "Congo DR",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 68,
+      "agility": 70,
+      "skill": 72,
+      "speed": 69,
+      "shooting": 68,
+      "passing": 72,
+      "defending": 67,
+      "physical": 68,
+      "goalkeeping": 50
+    },
+    "overall": 77,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "statsStatus": "matched-community",
+    "sources": [
+      "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+      "https://github.com/mominullptr/FIFA-World-Cup-2026-Dataset",
+      "https://github.com/openfootball/worldcup.json"
+    ]
+  },
+
+  {
+    "id": "uzbekistan-2026-3",
+    "name": "Khojiakbar ALIJONOV",
+    "commonName": "ALIJONOV Khojiakbar",
+    "shirtNumber": 3,
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "country": "Uzbekistan",
+    "countrySlug": "uzbekistan",
+    "year": 2026,
+    "edition": "2026",
+    "club": "Pakhtakor Tashkent FK (UZB)",
+    "age": 29,
+    "history": {
+      "matchesPlayed": 2,
+      "matches": [
+        {
+          "stage": "Group Stage",
+          "opponent": "Portugal",
+          "minutes": 44,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group Stage",
+          "opponent": "Congo DR",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 67,
+      "agility": 69,
+      "skill": 71,
+      "speed": 68,
+      "shooting": 67,
+      "passing": 71,
+      "defending": 66,
+      "physical": 67,
+      "goalkeeping": 50
+    },
+    "overall": 69,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "statsStatus": "matched-community",
+    "sources": [
+      "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+      "https://github.com/mominullptr/FIFA-World-Cup-2026-Dataset",
+      "https://github.com/openfootball/worldcup.json"
+    ]
+  },
+
+  {
+    "id": "uzbekistan-2026-4",
+    "name": "Farrukh SAYFIEV",
+    "commonName": "SAYFIEV Farrukh",
+    "shirtNumber": 4,
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "country": "Uzbekistan",
+    "countrySlug": "uzbekistan",
+    "year": 2026,
+    "edition": "2026",
+    "club": "FK Neftchi Farg'ona (UZB)",
+    "age": 35,
+    "history": {
+      "matchesPlayed": 1,
+      "matches": [
+        {
+          "stage": "Group Stage",
+          "opponent": "Colombia",
+          "minutes": 44,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 66,
+      "agility": 68,
+      "skill": 70,
+      "speed": 67,
+      "shooting": 66,
+      "passing": 70,
+      "defending": 65,
+      "physical": 66,
+      "goalkeeping": 48
+    },
+    "overall": 68,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "statsStatus": "matched-community",
+    "sources": [
+      "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+      "https://github.com/mominullptr/FIFA-World-Cup-2026-Dataset",
+      "https://github.com/openfootball/worldcup.json"
+    ]
+  },
+
+  {
+    "id": "uzbekistan-2026-5",
+    "name": "Rustamjon ASHURMATOV",
+    "commonName": "ASHURMATOV Rustam",
+    "shirtNumber": 5,
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "country": "Uzbekistan",
+    "countrySlug": "uzbekistan",
+    "year": 2026,
+    "edition": "2026",
+    "club": "Esteghlal Tehran FC (IRN)",
+    "age": 29,
+    "history": {
+      "matchesPlayed": 3,
+      "matches": [
+        {
+          "stage": "Group Stage",
+          "opponent": "Colombia",
+          "minutes": 77,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group Stage",
+          "opponent": "Portugal",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group Stage",
+          "opponent": "Congo DR",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 68,
+      "agility": 70,
+      "skill": 72,
+      "speed": 69,
+      "shooting": 68,
+      "passing": 72,
+      "defending": 67,
+      "physical": 68,
+      "goalkeeping": 50
+    },
+    "overall": 66,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "statsStatus": "matched-community",
+    "sources": [
+      "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+      "https://github.com/mominullptr/FIFA-World-Cup-2026-Dataset",
+      "https://github.com/openfootball/worldcup.json"
+    ]
+  },
+
+  {
+    "id": "uzbekistan-2026-6",
+    "name": "Akmal MOZGOVOY",
+    "commonName": "MOZGOVOY Akmal",
+    "shirtNumber": 6,
+    "position": "MID",
+    "positions": [
+      "MID"
+    ],
+    "country": "Uzbekistan",
+    "countrySlug": "uzbekistan",
+    "year": 2026,
+    "edition": "2026",
+    "club": "Pakhtakor Tashkent FK (UZB)",
+    "age": 27,
+    "history": {
+      "matchesPlayed": 3,
+      "matches": [
+        {
+          "stage": "Group Stage",
+          "opponent": "Colombia",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group Stage",
+          "opponent": "Portugal",
+          "minutes": 44,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group Stage",
+          "opponent": "Congo DR",
+          "minutes": 82,
+          "goals": 0,
+          "assists": 1,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": 1,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 69,
+      "agility": 71,
+      "skill": 73,
+      "speed": 70,
+      "shooting": 69,
+      "passing": 73,
+      "defending": 68,
+      "physical": 69,
+      "goalkeeping": 52
+    },
+    "overall": 71,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "statsStatus": "matched-community",
+    "sources": [
+      "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+      "https://github.com/mominullptr/FIFA-World-Cup-2026-Dataset",
+      "https://github.com/openfootball/worldcup.json"
+    ]
+  },
+
+  {
+    "id": "uzbekistan-2026-7",
+    "name": "Otabek SHUKUROV",
+    "commonName": "SHUKUROV Otabek",
+    "shirtNumber": 7,
+    "position": "MID",
+    "positions": [
+      "MID"
+    ],
+    "country": "Uzbekistan",
+    "countrySlug": "uzbekistan",
+    "year": 2026,
+    "edition": "2026",
+    "club": "Baniyas Club (UAE)",
+    "age": 29,
+    "history": {
+      "matchesPlayed": 3,
+      "matches": [
+        {
+          "stage": "Group Stage",
+          "opponent": "Colombia",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group Stage",
+          "opponent": "Portugal",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group Stage",
+          "opponent": "Congo DR",
+          "minutes": 58,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 68,
+      "agility": 70,
+      "skill": 72,
+      "speed": 69,
+      "shooting": 68,
+      "passing": 72,
+      "defending": 67,
+      "physical": 68,
+      "goalkeeping": 50
+    },
+    "overall": 70,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "statsStatus": "matched-community",
+    "sources": [
+      "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+      "https://github.com/mominullptr/FIFA-World-Cup-2026-Dataset",
+      "https://github.com/openfootball/worldcup.json"
+    ]
+  },
+
+  {
+    "id": "uzbekistan-2026-8",
+    "name": "Jamshid ISKANDEROV",
+    "commonName": "ISKANDEROV Jamshid",
+    "shirtNumber": 8,
+    "position": "MID",
+    "positions": [
+      "MID"
+    ],
+    "country": "Uzbekistan",
+    "countrySlug": "uzbekistan",
+    "year": 2026,
+    "edition": "2026",
+    "club": "FK Neftchi Farg'ona (UZB)",
+    "age": 32,
+    "history": {
+      "matchesPlayed": 1,
+      "matches": [
+        {
+          "stage": "Group Stage",
+          "opponent": "Congo DR",
+          "minutes": 8,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 66,
+      "agility": 68,
+      "skill": 70,
+      "speed": 67,
+      "shooting": 66,
+      "passing": 70,
+      "defending": 65,
+      "physical": 66,
+      "goalkeeping": 48
+    },
+    "overall": 62,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "statsStatus": "matched-community",
+    "sources": [
+      "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+      "https://github.com/mominullptr/FIFA-World-Cup-2026-Dataset",
+      "https://github.com/openfootball/worldcup.json"
+    ]
+  },
+
+  {
+    "id": "uzbekistan-2026-9",
+    "name": "Odiljon XAMROBEKOV",
+    "commonName": "XAMROBEKOV Odiljon",
+    "shirtNumber": 9,
+    "position": "MID",
+    "positions": [
+      "MID"
+    ],
+    "country": "Uzbekistan",
+    "countrySlug": "uzbekistan",
+    "year": 2026,
+    "edition": "2026",
+    "club": "Tractor Sazi Tabriz FC (IRN)",
+    "age": 30,
+    "history": {
+      "matchesPlayed": 2,
+      "matches": [
+        {
+          "stage": "Group Stage",
+          "opponent": "Portugal",
+          "minutes": 46,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group Stage",
+          "opponent": "Congo DR",
+          "minutes": 32,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 67,
+      "agility": 69,
+      "skill": 71,
+      "speed": 68,
+      "shooting": 67,
+      "passing": 71,
+      "defending": 66,
+      "physical": 67,
+      "goalkeeping": 50
+    },
+    "overall": 69,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "statsStatus": "matched-community",
+    "sources": [
+      "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+      "https://github.com/mominullptr/FIFA-World-Cup-2026-Dataset",
+      "https://github.com/openfootball/worldcup.json"
+    ]
+  },
+
+  {
+    "id": "uzbekistan-2026-10",
+    "name": "Ruslanbek JIYANOV",
+    "commonName": "JIYANOV Ruslanbek",
+    "shirtNumber": 10,
+    "position": "MID",
+    "positions": [
+      "MID"
+    ],
+    "country": "Uzbekistan",
+    "countrySlug": "uzbekistan",
+    "year": 2026,
+    "edition": "2026",
+    "club": "PFC Navbahor Namangan (UZB)",
+    "age": 25,
+    "history": {
+      "matchesPlayed": 1,
+      "matches": [
+        {
+          "stage": "Group Stage",
+          "opponent": "Portugal",
+          "minutes": 1,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 66,
+      "agility": 68,
+      "skill": 70,
+      "speed": 67,
+      "shooting": 66,
+      "passing": 70,
+      "defending": 65,
+      "physical": 66,
+      "goalkeeping": 48
+    },
+    "overall": 68,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "statsStatus": "matched-community",
+    "sources": [
+      "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+      "https://github.com/mominullptr/FIFA-World-Cup-2026-Dataset",
+      "https://github.com/openfootball/worldcup.json"
+    ]
+  },
+
+  {
+    "id": "uzbekistan-2026-11",
+    "name": "Oston URUNOV",
+    "commonName": "URUNOV Oston",
+    "shirtNumber": 11,
+    "position": "MID",
+    "positions": [
+      "MID"
+    ],
+    "country": "Uzbekistan",
+    "countrySlug": "uzbekistan",
+    "year": 2026,
+    "edition": "2026",
+    "club": "Persepolis FC (IRN)",
+    "age": 25,
+    "history": {
+      "matchesPlayed": 2,
+      "matches": [
+        {
+          "stage": "Group Stage",
+          "opponent": "Colombia",
+          "minutes": 46,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group Stage",
+          "opponent": "Congo DR",
+          "minutes": 17,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 67,
+      "agility": 69,
+      "skill": 71,
+      "speed": 68,
+      "shooting": 67,
+      "passing": 71,
+      "defending": 66,
+      "physical": 67,
+      "goalkeeping": 50
+    },
+    "overall": 64,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "statsStatus": "matched-community",
+    "sources": [
+      "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+      "https://github.com/mominullptr/FIFA-World-Cup-2026-Dataset",
+      "https://github.com/openfootball/worldcup.json"
+    ]
+  },
+
+  {
+    "id": "uzbekistan-2026-12",
+    "name": "Abduvakhid NEMATOV",
+    "commonName": "NEMATOV Abduvohid",
+    "shirtNumber": 12,
+    "position": "GK",
+    "positions": [
+      "GK"
+    ],
+    "country": "Uzbekistan",
+    "countrySlug": "uzbekistan",
+    "year": 2026,
+    "edition": "2026",
+    "club": "Nasaf Qarshi FC (UZB)",
+    "age": 25,
+    "history": {
+      "matchesPlayed": 2,
+      "matches": [
+        {
+          "stage": "Group Stage",
+          "opponent": "Portugal",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group Stage",
+          "opponent": "Congo DR",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 65,
+      "agility": 67,
+      "skill": 62,
+      "speed": 62,
+      "shooting": 54,
+      "passing": 64,
+      "defending": 64,
+      "physical": 66,
+      "goalkeeping": 73
+    },
+    "overall": 69,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "statsStatus": "matched-community",
+    "sources": [
+      "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+      "https://github.com/mominullptr/FIFA-World-Cup-2026-Dataset",
+      "https://github.com/openfootball/worldcup.json"
+    ]
+  },
+
+  {
+    "id": "uzbekistan-2026-13",
+    "name": "Sherzod NASRULLAEV",
+    "commonName": "NASRULLAEV Sherzod",
+    "shirtNumber": 13,
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "country": "Uzbekistan",
+    "countrySlug": "uzbekistan",
+    "year": 2026,
+    "edition": "2026",
+    "club": "Pakhtakor Tashkent FK (UZB)",
+    "age": 27,
+    "history": {
+      "matchesPlayed": 3,
+      "matches": [
+        {
+          "stage": "Group Stage",
+          "opponent": "Colombia",
+          "minutes": 46,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group Stage",
+          "opponent": "Portugal",
+          "minutes": 46,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group Stage",
+          "opponent": "Congo DR",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 68,
+      "agility": 70,
+      "skill": 72,
+      "speed": 69,
+      "shooting": 68,
+      "passing": 72,
+      "defending": 67,
+      "physical": 68,
+      "goalkeeping": 50
+    },
+    "overall": 70,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "statsStatus": "matched-community",
+    "sources": [
+      "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+      "https://github.com/mominullptr/FIFA-World-Cup-2026-Dataset",
+      "https://github.com/openfootball/worldcup.json"
+    ]
+  },
+
+  {
+    "id": "uzbekistan-2026-14",
+    "name": "Eldor SHOMURODOV",
+    "commonName": "SHOMURODOV Eldor",
+    "shirtNumber": 14,
+    "position": "ATT",
+    "positions": [
+      "ATT"
+    ],
+    "country": "Uzbekistan",
+    "countrySlug": "uzbekistan",
+    "year": 2026,
+    "edition": "2026",
+    "club": "Başakşehir FK (TUR)",
+    "age": 30,
+    "history": {
+      "matchesPlayed": 3,
+      "matches": [
+        {
+          "stage": "Group Stage",
+          "opponent": "Colombia",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group Stage",
+          "opponent": "Portugal",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group Stage",
+          "opponent": "Congo DR",
+          "minutes": 90,
+          "goals": 1,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 1,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 69,
+      "agility": 71,
+      "skill": 73,
+      "speed": 70,
+      "shooting": 69,
+      "passing": 73,
+      "defending": 68,
+      "physical": 69,
+      "goalkeeping": 52
+    },
+    "overall": 74,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "statsStatus": "matched-community",
+    "sources": [
+      "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+      "https://github.com/mominullptr/FIFA-World-Cup-2026-Dataset",
+      "https://github.com/openfootball/worldcup.json"
+    ]
+  },
+
+  {
+    "id": "uzbekistan-2026-15",
+    "name": "Umarbek ESHMURODOV",
+    "commonName": "ESHMURODOV Umar",
+    "shirtNumber": 15,
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "country": "Uzbekistan",
+    "countrySlug": "uzbekistan",
+    "year": 2026,
+    "edition": "2026",
+    "club": "Nasaf Qarshi FC (UZB)",
+    "age": 33,
+    "history": {
+      "matchesPlayed": 0,
+      "matches": [],
+      "goals": 0,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 65,
+      "agility": 67,
+      "skill": 69,
+      "speed": 66,
+      "shooting": 65,
+      "passing": 69,
+      "defending": 64,
+      "physical": 65,
+      "goalkeeping": 48
+    },
+    "overall": 67,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "statsStatus": "matched-community",
+    "sources": [
+      "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+      "https://github.com/mominullptr/FIFA-World-Cup-2026-Dataset",
+      "https://github.com/openfootball/worldcup.json"
+    ]
+  },
+
+  {
+    "id": "uzbekistan-2026-16",
+    "name": "Botirali ERGASHEV",
+    "commonName": "ERGASHEV Botirali",
+    "shirtNumber": 16,
+    "position": "GK",
+    "positions": [
+      "GK"
+    ],
+    "country": "Uzbekistan",
+    "countrySlug": "uzbekistan",
+    "year": 2026,
+    "edition": "2026",
+    "club": "FK Neftchi Farg'ona (UZB)",
+    "age": 30,
+    "history": {
+      "matchesPlayed": 0,
+      "matches": [],
+      "goals": 0,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 63,
+      "agility": 65,
+      "skill": 60,
+      "speed": 60,
+      "shooting": 52,
+      "passing": 62,
+      "defending": 62,
+      "physical": 64,
+      "goalkeeping": 71
+    },
+    "overall": 67,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "statsStatus": "matched-community",
+    "sources": [
+      "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+      "https://github.com/mominullptr/FIFA-World-Cup-2026-Dataset",
+      "https://github.com/openfootball/worldcup.json"
+    ]
+  },
+
+  {
+    "id": "uzbekistan-2026-17",
+    "name": "Dostonbek KHAMDAMOV",
+    "commonName": "KHAMDAMOV Dostonbek",
+    "shirtNumber": 17,
+    "position": "MID",
+    "positions": [
+      "MID"
+    ],
+    "country": "Uzbekistan",
+    "countrySlug": "uzbekistan",
+    "year": 2026,
+    "edition": "2026",
+    "club": "Pakhtakor Tashkent FK (UZB)",
+    "age": 29,
+    "history": {
+      "matchesPlayed": 2,
+      "matches": [
+        {
+          "stage": "Group Stage",
+          "opponent": "Colombia",
+          "minutes": 44,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group Stage",
+          "opponent": "Congo DR",
+          "minutes": 58,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 67,
+      "agility": 69,
+      "skill": 71,
+      "speed": 68,
+      "shooting": 67,
+      "passing": 71,
+      "defending": 66,
+      "physical": 67,
+      "goalkeeping": 50
+    },
+    "overall": 69,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "statsStatus": "matched-community",
+    "sources": [
+      "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+      "https://github.com/mominullptr/FIFA-World-Cup-2026-Dataset",
+      "https://github.com/openfootball/worldcup.json"
+    ]
+  },
+
+  {
+    "id": "uzbekistan-2026-18",
+    "name": "Abdulla ABDULLAEV",
+    "commonName": "ABDULLAEV Abdulla",
+    "shirtNumber": 18,
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "country": "Uzbekistan",
+    "countrySlug": "uzbekistan",
+    "year": 2026,
+    "edition": "2026",
+    "club": "Dibba FC (UAE)",
+    "age": 28,
+    "history": {
+      "matchesPlayed": 2,
+      "matches": [
+        {
+          "stage": "Group Stage",
+          "opponent": "Colombia",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group Stage",
+          "opponent": "Portugal",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 67,
+      "agility": 69,
+      "skill": 71,
+      "speed": 68,
+      "shooting": 67,
+      "passing": 71,
+      "defending": 66,
+      "physical": 67,
+      "goalkeeping": 50
+    },
+    "overall": 69,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "statsStatus": "matched-community",
+    "sources": [
+      "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+      "https://github.com/mominullptr/FIFA-World-Cup-2026-Dataset",
+      "https://github.com/openfootball/worldcup.json"
+    ]
+  },
+
+  {
+    "id": "uzbekistan-2026-19",
+    "name": "Azizjon GANIEV",
+    "commonName": "GANIEV Azizjon",
+    "shirtNumber": 19,
+    "position": "MID",
+    "positions": [
+      "MID"
+    ],
+    "country": "Uzbekistan",
+    "countrySlug": "uzbekistan",
+    "year": 2026,
+    "edition": "2026",
+    "club": "Al Bataeh Club (UAE)",
+    "age": 28,
+    "history": {
+      "matchesPlayed": 2,
+      "matches": [
+        {
+          "stage": "Group Stage",
+          "opponent": "Portugal",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group Stage",
+          "opponent": "Congo DR",
+          "minutes": 32,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 67,
+      "agility": 69,
+      "skill": 71,
+      "speed": 68,
+      "shooting": 67,
+      "passing": 71,
+      "defending": 66,
+      "physical": 67,
+      "goalkeeping": 50
+    },
+    "overall": 69,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "statsStatus": "matched-community",
+    "sources": [
+      "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+      "https://github.com/mominullptr/FIFA-World-Cup-2026-Dataset",
+      "https://github.com/openfootball/worldcup.json"
+    ]
+  },
+
+  {
+    "id": "uzbekistan-2026-20",
+    "name": "Azizbek AMONOV",
+    "commonName": "AMONOV Azizbek",
+    "shirtNumber": 20,
+    "position": "ATT",
+    "positions": [
+      "ATT"
+    ],
+    "country": "Uzbekistan",
+    "countrySlug": "uzbekistan",
+    "year": 2026,
+    "edition": "2026",
+    "club": "FK Dinamo Samarkand (UZB)",
+    "age": 28,
+    "history": {
+      "matchesPlayed": 1,
+      "matches": [
+        {
+          "stage": "Group Stage",
+          "opponent": "Colombia",
+          "minutes": 13,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 66,
+      "agility": 68,
+      "skill": 70,
+      "speed": 67,
+      "shooting": 66,
+      "passing": 70,
+      "defending": 65,
+      "physical": 66,
+      "goalkeeping": 48
+    },
+    "overall": 68,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "statsStatus": "matched-community",
+    "sources": [
+      "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+      "https://github.com/mominullptr/FIFA-World-Cup-2026-Dataset",
+      "https://github.com/openfootball/worldcup.json"
+    ]
+  },
+
+  {
+    "id": "uzbekistan-2026-21",
+    "name": "Igor SERGEEV",
+    "commonName": "SERGEEV Igor",
+    "shirtNumber": 21,
+    "position": "ATT",
+    "positions": [
+      "ATT"
+    ],
+    "country": "Uzbekistan",
+    "countrySlug": "uzbekistan",
+    "year": 2026,
+    "edition": "2026",
+    "club": "Persepolis FC (IRN)",
+    "age": 33,
+    "history": {
+      "matchesPlayed": 3,
+      "matches": [
+        {
+          "stage": "Group Stage",
+          "opponent": "Colombia",
+          "minutes": 1,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group Stage",
+          "opponent": "Portugal",
+          "minutes": 17,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group Stage",
+          "opponent": "Congo DR",
+          "minutes": 8,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 68,
+      "agility": 70,
+      "skill": 72,
+      "speed": 69,
+      "shooting": 68,
+      "passing": 72,
+      "defending": 67,
+      "physical": 68,
+      "goalkeeping": 50
+    },
+    "overall": 70,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "statsStatus": "matched-community",
+    "sources": [
+      "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+      "https://github.com/mominullptr/FIFA-World-Cup-2026-Dataset",
+      "https://github.com/openfootball/worldcup.json"
+    ]
+  },
+
+  {
+    "id": "uzbekistan-2026-22",
+    "name": "Abbosbek FAYZULLAEV",
+    "commonName": "FAYZULLAEV Abbosbek",
+    "shirtNumber": 22,
+    "position": "MID",
+    "positions": [
+      "MID"
+    ],
+    "country": "Uzbekistan",
+    "countrySlug": "uzbekistan",
+    "year": 2026,
+    "edition": "2026",
+    "club": "Başakşehir FK (TUR)",
+    "age": 22,
+    "history": {
+      "matchesPlayed": 3,
+      "matches": [
+        {
+          "stage": "Group Stage",
+          "opponent": "Colombia",
+          "minutes": 77,
+          "goals": 1,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group Stage",
+          "opponent": "Portugal",
+          "minutes": 73,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group Stage",
+          "opponent": "Congo DR",
+          "minutes": 73,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 1,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 69,
+      "agility": 71,
+      "skill": 73,
+      "speed": 70,
+      "shooting": 69,
+      "passing": 73,
+      "defending": 68,
+      "physical": 69,
+      "goalkeeping": 52
+    },
+    "overall": 70,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "statsStatus": "matched-community",
+    "sources": [
+      "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+      "https://github.com/mominullptr/FIFA-World-Cup-2026-Dataset",
+      "https://github.com/openfootball/worldcup.json"
+    ]
+  },
+
+  {
+    "id": "uzbekistan-2026-23",
+    "name": "Sherzod ESANOV",
+    "commonName": "ESANOV Sherzod",
+    "shirtNumber": 23,
+    "position": "MID",
+    "positions": [
+      "MID"
+    ],
+    "country": "Uzbekistan",
+    "countrySlug": "uzbekistan",
+    "year": 2026,
+    "edition": "2026",
+    "club": "FK Buxoro (UZB)",
+    "age": 23,
+    "history": {
+      "matchesPlayed": 1,
+      "matches": [
+        {
+          "stage": "Group Stage",
+          "opponent": "Portugal",
+          "minutes": 1,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 66,
+      "agility": 68,
+      "skill": 70,
+      "speed": 67,
+      "shooting": 66,
+      "passing": 70,
+      "defending": 65,
+      "physical": 66,
+      "goalkeeping": 48
+    },
+    "overall": 68,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "statsStatus": "matched-community",
+    "sources": [
+      "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+      "https://github.com/mominullptr/FIFA-World-Cup-2026-Dataset",
+      "https://github.com/openfootball/worldcup.json"
+    ]
+  },
+
+  {
+    "id": "uzbekistan-2026-24",
+    "name": "Behruzjon KARIMOV",
+    "commonName": "KARIMOV Behruzjon",
+    "shirtNumber": 24,
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "country": "Uzbekistan",
+    "countrySlug": "uzbekistan",
+    "year": 2026,
+    "edition": "2026",
+    "club": "Surkhon FK (UZB)",
+    "age": 18,
+    "history": {
+      "matchesPlayed": 2,
+      "matches": [
+        {
+          "stage": "Group Stage",
+          "opponent": "Colombia",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group Stage",
+          "opponent": "Portugal",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 67,
+      "agility": 69,
+      "skill": 71,
+      "speed": 68,
+      "shooting": 67,
+      "passing": 71,
+      "defending": 66,
+      "physical": 67,
+      "goalkeeping": 50
+    },
+    "overall": 69,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "statsStatus": "matched-community",
+    "sources": [
+      "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+      "https://github.com/mominullptr/FIFA-World-Cup-2026-Dataset",
+      "https://github.com/openfootball/worldcup.json"
+    ]
+  },
+
+  {
+    "id": "uzbekistan-2026-25",
+    "name": "Avazbek ULMASALIYEV",
+    "commonName": "ULMASALIYEV Avazbek",
+    "shirtNumber": 25,
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "country": "Uzbekistan",
+    "countrySlug": "uzbekistan",
+    "year": 2026,
+    "edition": "2026",
+    "club": "OKMK FK (UZB)",
+    "age": 26,
+    "history": {
+      "matchesPlayed": 0,
+      "matches": [],
+      "goals": 0,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 65,
+      "agility": 67,
+      "skill": 69,
+      "speed": 66,
+      "shooting": 65,
+      "passing": 69,
+      "defending": 64,
+      "physical": 65,
+      "goalkeeping": 48
+    },
+    "overall": 67,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "statsStatus": "matched-community",
+    "sources": [
+      "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+      "https://github.com/mominullptr/FIFA-World-Cup-2026-Dataset",
+      "https://github.com/openfootball/worldcup.json"
+    ]
+  },
+
+  {
+    "id": "uzbekistan-2026-26",
+    "name": "Jakhongir UROZOV",
+    "commonName": "UROZOV Jakhongir",
+    "shirtNumber": 26,
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "country": "Uzbekistan",
+    "countrySlug": "uzbekistan",
+    "year": 2026,
+    "edition": "2026",
+    "club": "FK Dinamo Samarkand (UZB)",
+    "age": 22,
+    "history": {
+      "matchesPlayed": 2,
+      "matches": [
+        {
+          "stage": "Group Stage",
+          "opponent": "Colombia",
+          "minutes": 13,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group Stage",
+          "opponent": "Congo DR",
+          "minutes": 82,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 67,
+      "agility": 69,
+      "skill": 71,
+      "speed": 68,
+      "shooting": 67,
+      "passing": 71,
+      "defending": 66,
+      "physical": 67,
+      "goalkeeping": 50
+    },
+    "overall": 69,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "statsStatus": "matched-community",
+    "sources": [
+      "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+      "https://github.com/mominullptr/FIFA-World-Cup-2026-Dataset",
+      "https://github.com/openfootball/worldcup.json"
+    ]
+  }
+]

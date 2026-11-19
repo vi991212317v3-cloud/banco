@@ -1,0 +1,216 @@
+{
+  "country": "Bulgaria",
+  "countrySlug": "bulgaria",
+  "year": 1998,
+  "edition": "1998",
+  "host": "France",
+  "coach": "Hristo Bonev",
+  "finalPhase": "Group Stage",
+  "result": "Group Stage",
+  "squad": [
+    {
+      "id": "bulgaria-1998-1",
+      "name": "Zdravko Zdravkov",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "bulgaria-1998-2",
+      "name": "Radostin Kishishev",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "bulgaria-1998-3",
+      "name": "Trifon Ivanov",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "bulgaria-1998-4",
+      "name": "Ivaylo Petkov",
+      "shirtNumber": 4,
+      "position": "DEF"
+    },
+    {
+      "id": "bulgaria-1998-5",
+      "name": "Ivaylo Yordanov",
+      "shirtNumber": 5,
+      "position": "MID"
+    },
+    {
+      "id": "bulgaria-1998-6",
+      "name": "Zlatko Yankov",
+      "shirtNumber": 6,
+      "position": "MID"
+    },
+    {
+      "id": "bulgaria-1998-7",
+      "name": "Emil Kostadinov",
+      "shirtNumber": 7,
+      "position": "ATT"
+    },
+    {
+      "id": "bulgaria-1998-8",
+      "name": "Hristo Stoichkov",
+      "shirtNumber": 8,
+      "position": "ATT"
+    },
+    {
+      "id": "bulgaria-1998-9",
+      "name": "Lyuboslav Penev",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "bulgaria-1998-10",
+      "name": "Krasimir Balakov",
+      "shirtNumber": 10,
+      "position": "MID"
+    },
+    {
+      "id": "bulgaria-1998-11",
+      "name": "Ilian Iliev",
+      "shirtNumber": 11,
+      "position": "MID"
+    },
+    {
+      "id": "bulgaria-1998-12",
+      "name": "Borislav Mihaylov",
+      "shirtNumber": 12,
+      "position": "GK"
+    },
+    {
+      "id": "bulgaria-1998-13",
+      "name": "Gosho Ginchev",
+      "shirtNumber": 13,
+      "position": "DEF"
+    },
+    {
+      "id": "bulgaria-1998-14",
+      "name": "Marian Hristov",
+      "shirtNumber": 14,
+      "position": "MID"
+    },
+    {
+      "id": "bulgaria-1998-15",
+      "name": "Adalbert Zafirov",
+      "shirtNumber": 15,
+      "position": "DEF"
+    },
+    {
+      "id": "bulgaria-1998-16",
+      "name": "Anatoli Nankov",
+      "shirtNumber": 16,
+      "position": "MID"
+    },
+    {
+      "id": "bulgaria-1998-17",
+      "name": "Stoycho Stoilov",
+      "shirtNumber": 17,
+      "position": "MID"
+    },
+    {
+      "id": "bulgaria-1998-18",
+      "name": "Daniel Borimirov",
+      "shirtNumber": 18,
+      "position": "MID"
+    },
+    {
+      "id": "bulgaria-1998-19",
+      "name": "Georgi Bachev",
+      "shirtNumber": 19,
+      "position": "ATT"
+    },
+    {
+      "id": "bulgaria-1998-20",
+      "name": "Georgi Ivanov",
+      "shirtNumber": 20,
+      "position": "ATT"
+    },
+    {
+      "id": "bulgaria-1998-21",
+      "name": "Rosen Kirilov",
+      "shirtNumber": 21,
+      "position": "DEF"
+    },
+    {
+      "id": "bulgaria-1998-22",
+      "name": "Milen Petkov",
+      "shirtNumber": 22,
+      "position": "MID"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "Paraguay",
+      "score": "0–0",
+      "scorers": [],
+      "date": "1998-06-12"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Nigeria",
+      "score": "1–0",
+      "scorers": [
+        {
+          "name": "Victor Ikpeba",
+          "minute": "28'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1998-06-19"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Spain",
+      "score": "6–1",
+      "scorers": [
+        {
+          "name": "Fernando Hierro",
+          "minute": "6'",
+          "ownGoal": false
+        },
+        {
+          "name": "Luis Enrique",
+          "minute": "18'",
+          "ownGoal": false
+        },
+        {
+          "name": "Fernando Morientes",
+          "minute": "55'",
+          "ownGoal": false
+        },
+        {
+          "name": "Emil Kostadinov",
+          "minute": "58'",
+          "ownGoal": false
+        },
+        {
+          "name": "Fernando Morientes",
+          "minute": "81'",
+          "ownGoal": false
+        },
+        {
+          "name": "Georgi Bachev",
+          "minute": "88'",
+          "ownGoal": true
+        },
+        {
+          "name": "Kiko",
+          "minute": "90'+4'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1998-06-24"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

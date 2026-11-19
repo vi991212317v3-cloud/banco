@@ -1,0 +1,1319 @@
+[
+  {
+    "id": "morocco-1970-1",
+    "name": "Allal Ben Kassou",
+    "commonName": "Allal Ben Kassou",
+    "shirtNumber": 1,
+    "position": "GK",
+    "positions": [
+      "GK"
+    ],
+    "country": "Morocco",
+    "countrySlug": "morocco",
+    "year": 1970,
+    "edition": "1970",
+    "club": null,
+    "age": 28,
+    "history": {
+      "matchesPlayed": 2,
+      "matches": [
+        {
+          "stage": "Group",
+          "opponent": "West Germany",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group",
+          "opponent": "Peru",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 65,
+      "agility": 67,
+      "skill": 62,
+      "speed": 62,
+      "shooting": 54,
+      "passing": 64,
+      "defending": 64,
+      "physical": 66,
+      "goalkeeping": 73
+    },
+    "overall": 69,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "morocco-1970-2",
+    "name": "Abdallah Lamrani",
+    "commonName": "Abdallah Lamrani",
+    "shirtNumber": 2,
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "country": "Morocco",
+    "countrySlug": "morocco",
+    "year": 1970,
+    "edition": "1970",
+    "club": null,
+    "age": 24,
+    "history": {
+      "matchesPlayed": 2,
+      "matches": [
+        {
+          "stage": "Group",
+          "opponent": "West Germany",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group",
+          "opponent": "Peru",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 67,
+      "agility": 69,
+      "skill": 71,
+      "speed": 68,
+      "shooting": 67,
+      "passing": 71,
+      "defending": 66,
+      "physical": 67,
+      "goalkeeping": 50
+    },
+    "overall": 69,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "morocco-1970-3",
+    "name": "Boujemaa Benkhrif",
+    "commonName": "Boujemaa Benkhrif",
+    "shirtNumber": 3,
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "country": "Morocco",
+    "countrySlug": "morocco",
+    "year": 1970,
+    "edition": "1970",
+    "club": null,
+    "age": 22,
+    "history": {
+      "matchesPlayed": 3,
+      "matches": [
+        {
+          "stage": "Group",
+          "opponent": "West Germany",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group",
+          "opponent": "Peru",
+          "minutes": 66,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group",
+          "opponent": "Bulgaria",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 68,
+      "agility": 70,
+      "skill": 72,
+      "speed": 69,
+      "shooting": 68,
+      "passing": 72,
+      "defending": 67,
+      "physical": 68,
+      "goalkeeping": 50
+    },
+    "overall": 70,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "morocco-1970-4",
+    "name": "Moulay Khanousi",
+    "commonName": "Moulay Khanousi",
+    "shirtNumber": 4,
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "country": "Morocco",
+    "countrySlug": "morocco",
+    "year": 1970,
+    "edition": "1970",
+    "club": null,
+    "age": 30,
+    "history": {
+      "matchesPlayed": 3,
+      "matches": [
+        {
+          "stage": "Group",
+          "opponent": "West Germany",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group",
+          "opponent": "Peru",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group",
+          "opponent": "Bulgaria",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 68,
+      "agility": 70,
+      "skill": 72,
+      "speed": 69,
+      "shooting": 68,
+      "passing": 72,
+      "defending": 67,
+      "physical": 68,
+      "goalkeeping": 50
+    },
+    "overall": 70,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "morocco-1970-5",
+    "name": "Kacem Slimani",
+    "commonName": "Kacem Slimani",
+    "shirtNumber": 5,
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "country": "Morocco",
+    "countrySlug": "morocco",
+    "year": 1970,
+    "edition": "1970",
+    "club": null,
+    "age": 21,
+    "history": {
+      "matchesPlayed": 3,
+      "matches": [
+        {
+          "stage": "Group",
+          "opponent": "West Germany",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group",
+          "opponent": "Peru",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group",
+          "opponent": "Bulgaria",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 68,
+      "agility": 70,
+      "skill": 72,
+      "speed": 69,
+      "shooting": 68,
+      "passing": 72,
+      "defending": 67,
+      "physical": 68,
+      "goalkeeping": 50
+    },
+    "overall": 70,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "morocco-1970-6",
+    "name": "Mohammed Mahroufi",
+    "commonName": "Mohammed Mahroufi",
+    "shirtNumber": 6,
+    "position": "MID",
+    "positions": [
+      "MID"
+    ],
+    "country": "Morocco",
+    "countrySlug": "morocco",
+    "year": 1970,
+    "edition": "1970",
+    "club": null,
+    "age": 23,
+    "history": {
+      "matchesPlayed": 3,
+      "matches": [
+        {
+          "stage": "Group",
+          "opponent": "West Germany",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group",
+          "opponent": "Peru",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group",
+          "opponent": "Bulgaria",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 68,
+      "agility": 70,
+      "skill": 72,
+      "speed": 69,
+      "shooting": 68,
+      "passing": 72,
+      "defending": 67,
+      "physical": 68,
+      "goalkeeping": 50
+    },
+    "overall": 70,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "morocco-1970-7",
+    "name": "Said Ghandi",
+    "commonName": "Said Ghandi",
+    "shirtNumber": 7,
+    "position": "MID",
+    "positions": [
+      "MID"
+    ],
+    "country": "Morocco",
+    "countrySlug": "morocco",
+    "year": 1970,
+    "edition": "1970",
+    "club": null,
+    "age": 21,
+    "history": {
+      "matchesPlayed": 3,
+      "matches": [
+        {
+          "stage": "Group",
+          "opponent": "West Germany",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group",
+          "opponent": "Peru",
+          "minutes": 81,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group",
+          "opponent": "Bulgaria",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 68,
+      "agility": 70,
+      "skill": 72,
+      "speed": 69,
+      "shooting": 68,
+      "passing": 72,
+      "defending": 67,
+      "physical": 68,
+      "goalkeeping": 50
+    },
+    "overall": 70,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "morocco-1970-8",
+    "name": "Driss Bamous",
+    "commonName": "Driss Bamous",
+    "shirtNumber": 8,
+    "position": "MID",
+    "positions": [
+      "MID"
+    ],
+    "country": "Morocco",
+    "countrySlug": "morocco",
+    "year": 1970,
+    "edition": "1970",
+    "club": null,
+    "age": 27,
+    "history": {
+      "matchesPlayed": 3,
+      "matches": [
+        {
+          "stage": "Group",
+          "opponent": "West Germany",
+          "minutes": 72,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group",
+          "opponent": "Peru",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group",
+          "opponent": "Bulgaria",
+          "minutes": 46,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 68,
+      "agility": 70,
+      "skill": 72,
+      "speed": 69,
+      "shooting": 68,
+      "passing": 72,
+      "defending": 67,
+      "physical": 68,
+      "goalkeeping": 50
+    },
+    "overall": 70,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "morocco-1970-9",
+    "name": "Ahmed Faras",
+    "commonName": "Ahmed Faras",
+    "shirtNumber": 9,
+    "position": "ATT",
+    "positions": [
+      "ATT"
+    ],
+    "country": "Morocco",
+    "countrySlug": "morocco",
+    "year": 1970,
+    "edition": "1970",
+    "club": null,
+    "age": 23,
+    "history": {
+      "matchesPlayed": 2,
+      "matches": [
+        {
+          "stage": "Group",
+          "opponent": "West Germany",
+          "minutes": 18,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group",
+          "opponent": "Bulgaria",
+          "minutes": 16,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 67,
+      "agility": 69,
+      "skill": 71,
+      "speed": 68,
+      "shooting": 67,
+      "passing": 71,
+      "defending": 66,
+      "physical": 67,
+      "goalkeeping": 50
+    },
+    "overall": 69,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "morocco-1970-10",
+    "name": "Mohammed El Filali",
+    "commonName": "Mohammed El Filali",
+    "shirtNumber": 10,
+    "position": "ATT",
+    "positions": [
+      "ATT"
+    ],
+    "country": "Morocco",
+    "countrySlug": "morocco",
+    "year": 1970,
+    "edition": "1970",
+    "club": null,
+    "age": 24,
+    "history": {
+      "matchesPlayed": 3,
+      "matches": [
+        {
+          "stage": "Group",
+          "opponent": "West Germany",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group",
+          "opponent": "Peru",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group",
+          "opponent": "Bulgaria",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 68,
+      "agility": 70,
+      "skill": 72,
+      "speed": 69,
+      "shooting": 68,
+      "passing": 72,
+      "defending": 67,
+      "physical": 68,
+      "goalkeeping": 50
+    },
+    "overall": 70,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "morocco-1970-11",
+    "name": "Maouhoub Ghazouani",
+    "commonName": "Maouhoub Ghazouani",
+    "shirtNumber": 11,
+    "position": "MID",
+    "positions": [
+      "MID"
+    ],
+    "country": "Morocco",
+    "countrySlug": "morocco",
+    "year": 1970,
+    "edition": "1970",
+    "club": null,
+    "age": 24,
+    "history": {
+      "matchesPlayed": 3,
+      "matches": [
+        {
+          "stage": "Group",
+          "opponent": "West Germany",
+          "minutes": 56,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group",
+          "opponent": "Peru",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group",
+          "opponent": "Bulgaria",
+          "minutes": 90,
+          "goals": 1,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 1,
+      "assists": null,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 69,
+      "agility": 71,
+      "skill": 73,
+      "speed": 70,
+      "shooting": 69,
+      "passing": 73,
+      "defending": 68,
+      "physical": 69,
+      "goalkeeping": 52
+    },
+    "overall": 71,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "morocco-1970-12",
+    "name": "Mohammed Hazzaz",
+    "commonName": "Mohammed Hazzaz",
+    "shirtNumber": 12,
+    "position": "GK",
+    "positions": [
+      "GK"
+    ],
+    "country": "Morocco",
+    "countrySlug": "morocco",
+    "year": 1970,
+    "edition": "1970",
+    "club": null,
+    "age": 25,
+    "history": {
+      "matchesPlayed": 1,
+      "matches": [
+        {
+          "stage": "Group",
+          "opponent": "Bulgaria",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 64,
+      "agility": 66,
+      "skill": 61,
+      "speed": 61,
+      "shooting": 53,
+      "passing": 63,
+      "defending": 63,
+      "physical": 65,
+      "goalkeeping": 72
+    },
+    "overall": 68,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "morocco-1970-13",
+    "name": "Jalili Fadili",
+    "commonName": "Jalili Fadili",
+    "shirtNumber": 13,
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "country": "Morocco",
+    "countrySlug": "morocco",
+    "year": 1970,
+    "edition": "1970",
+    "club": null,
+    "age": 30,
+    "history": {
+      "matchesPlayed": 2,
+      "matches": [
+        {
+          "stage": "Group",
+          "opponent": "Peru",
+          "minutes": 24,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group",
+          "opponent": "Bulgaria",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 67,
+      "agility": 69,
+      "skill": 71,
+      "speed": 68,
+      "shooting": 67,
+      "passing": 71,
+      "defending": 66,
+      "physical": 67,
+      "goalkeeping": 50
+    },
+    "overall": 69,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "morocco-1970-14",
+    "name": "Houmane Jarir",
+    "commonName": "Houmane Jarir",
+    "shirtNumber": 14,
+    "position": "ATT",
+    "positions": [
+      "ATT"
+    ],
+    "country": "Morocco",
+    "countrySlug": "morocco",
+    "year": 1970,
+    "edition": "1970",
+    "club": null,
+    "age": 25,
+    "history": {
+      "matchesPlayed": 2,
+      "matches": [
+        {
+          "stage": "Group",
+          "opponent": "West Germany",
+          "minutes": 90,
+          "goals": 1,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group",
+          "opponent": "Peru",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 1,
+      "assists": null,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 68,
+      "agility": 70,
+      "skill": 72,
+      "speed": 69,
+      "shooting": 68,
+      "passing": 72,
+      "defending": 67,
+      "physical": 68,
+      "goalkeeping": 50
+    },
+    "overall": 70,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "morocco-1970-15",
+    "name": "Hadi Dahane",
+    "commonName": "Hadi Dahane",
+    "shirtNumber": 15,
+    "position": "MID",
+    "positions": [
+      "MID"
+    ],
+    "country": "Morocco",
+    "countrySlug": "morocco",
+    "year": 1970,
+    "edition": "1970",
+    "club": null,
+    "age": 24,
+    "history": {
+      "matchesPlayed": 0,
+      "matches": [],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 65,
+      "agility": 67,
+      "skill": 69,
+      "speed": 66,
+      "shooting": 65,
+      "passing": 69,
+      "defending": 64,
+      "physical": 65,
+      "goalkeeping": 48
+    },
+    "overall": 67,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "morocco-1970-16",
+    "name": "Moustapha Choukri",
+    "commonName": "Moustapha Choukri",
+    "shirtNumber": 16,
+    "position": "MID",
+    "positions": [
+      "MID"
+    ],
+    "country": "Morocco",
+    "countrySlug": "morocco",
+    "year": 1970,
+    "edition": "1970",
+    "club": null,
+    "age": 25,
+    "history": {
+      "matchesPlayed": 1,
+      "matches": [
+        {
+          "stage": "Group",
+          "opponent": "Bulgaria",
+          "minutes": 44,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 66,
+      "agility": 68,
+      "skill": 70,
+      "speed": 67,
+      "shooting": 66,
+      "passing": 70,
+      "defending": 65,
+      "physical": 66,
+      "goalkeeping": 48
+    },
+    "overall": 68,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "morocco-1970-17",
+    "name": "Ahmed Alaoui",
+    "commonName": "Ahmed Alaoui",
+    "shirtNumber": 17,
+    "position": "ATT",
+    "positions": [
+      "ATT"
+    ],
+    "country": "Morocco",
+    "countrySlug": "morocco",
+    "year": 1970,
+    "edition": "1970",
+    "club": null,
+    "age": 21,
+    "history": {
+      "matchesPlayed": 2,
+      "matches": [
+        {
+          "stage": "Group",
+          "opponent": "Peru",
+          "minutes": 9,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group",
+          "opponent": "Bulgaria",
+          "minutes": 74,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 67,
+      "agility": 69,
+      "skill": 71,
+      "speed": 68,
+      "shooting": 67,
+      "passing": 71,
+      "defending": 66,
+      "physical": 67,
+      "goalkeeping": 50
+    },
+    "overall": 69,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "morocco-1970-18",
+    "name": "Abdelkader El Khiati",
+    "commonName": "Abdelkader El Khiati",
+    "shirtNumber": 18,
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "country": "Morocco",
+    "countrySlug": "morocco",
+    "year": 1970,
+    "edition": "1970",
+    "club": null,
+    "age": 25,
+    "history": {
+      "matchesPlayed": 1,
+      "matches": [
+        {
+          "stage": "Group",
+          "opponent": "West Germany",
+          "minutes": 34,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 66,
+      "agility": 68,
+      "skill": 70,
+      "speed": 67,
+      "shooting": 66,
+      "passing": 70,
+      "defending": 65,
+      "physical": 66,
+      "goalkeeping": 48
+    },
+    "overall": 68,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "morocco-1970-19",
+    "name": "Abdelkader Ouaraghli",
+    "commonName": "Abdelkader Ouaraghli",
+    "shirtNumber": 19,
+    "position": "GK",
+    "positions": [
+      "GK"
+    ],
+    "country": "Morocco",
+    "countrySlug": "morocco",
+    "year": 1970,
+    "edition": "1970",
+    "club": null,
+    "age": 27,
+    "history": {
+      "matchesPlayed": 0,
+      "matches": [],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 63,
+      "agility": 65,
+      "skill": 60,
+      "speed": 60,
+      "shooting": 52,
+      "passing": 62,
+      "defending": 62,
+      "physical": 64,
+      "goalkeeping": 71
+    },
+    "overall": 67,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  }
+]

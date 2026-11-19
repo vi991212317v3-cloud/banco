@@ -1,0 +1,271 @@
+{
+  "country": "Tunisia",
+  "countrySlug": "tunisia",
+  "year": 2026,
+  "edition": "2026",
+  "host": "Canada, Mexico and United States",
+  "coach": "RENARD Herve",
+  "finalPhase": "Group Stage",
+  "result": "Group Stage",
+  "squad": [
+    {
+      "id": "tunisia-2026-1",
+      "name": "Abdelmouhib CHAMAKH",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "tunisia-2026-2",
+      "name": "Ali ELABDI",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "tunisia-2026-3",
+      "name": "Montassar Omar TALBI",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "tunisia-2026-4",
+      "name": "Omar REKIK",
+      "shirtNumber": 4,
+      "position": "DEF"
+    },
+    {
+      "id": "tunisia-2026-5",
+      "name": "Adam AROUS",
+      "shirtNumber": 5,
+      "position": "DEF"
+    },
+    {
+      "id": "tunisia-2026-6",
+      "name": "Dylan Daniel Mahmoud BRONN",
+      "shirtNumber": 6,
+      "position": "DEF"
+    },
+    {
+      "id": "tunisia-2026-7",
+      "name": "Mohamed Elyes ACHOURI",
+      "shirtNumber": 7,
+      "position": "ATT"
+    },
+    {
+      "id": "tunisia-2026-8",
+      "name": "Elias SAAD",
+      "shirtNumber": 8,
+      "position": "ATT"
+    },
+    {
+      "id": "tunisia-2026-9",
+      "name": "Hazem MASTOURI",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "tunisia-2026-10",
+      "name": "Hannibal MEJBRI",
+      "shirtNumber": 10,
+      "position": "MID"
+    },
+    {
+      "id": "tunisia-2026-11",
+      "name": "Ismael Seifallah GHARBI",
+      "shirtNumber": 11,
+      "position": "MID"
+    },
+    {
+      "id": "tunisia-2026-12",
+      "name": "Ahmed Mortadha BEN OUANES",
+      "shirtNumber": 12,
+      "position": "DEF"
+    },
+    {
+      "id": "tunisia-2026-13",
+      "name": "Rani KHEDIRA",
+      "shirtNumber": 13,
+      "position": "MID"
+    },
+    {
+      "id": "tunisia-2026-14",
+      "name": "Khalil AYARI",
+      "shirtNumber": 14,
+      "position": "MID"
+    },
+    {
+      "id": "tunisia-2026-15",
+      "name": "Mohamed BELHADJ MAHMOUD",
+      "shirtNumber": 15,
+      "position": "MID"
+    },
+    {
+      "id": "tunisia-2026-16",
+      "name": "Aymen DAHMEN",
+      "shirtNumber": 16,
+      "position": "GK"
+    },
+    {
+      "id": "tunisia-2026-17",
+      "name": "Ellyes Joris SKHIRI",
+      "shirtNumber": 17,
+      "position": "MID"
+    },
+    {
+      "id": "tunisia-2026-18",
+      "name": "Rayan ELLOUMI",
+      "shirtNumber": 18,
+      "position": "ATT"
+    },
+    {
+      "id": "tunisia-2026-19",
+      "name": "Firas CHAOUAT",
+      "shirtNumber": 19,
+      "position": "ATT"
+    },
+    {
+      "id": "tunisia-2026-20",
+      "name": "Yan VALERY",
+      "shirtNumber": 20,
+      "position": "DEF"
+    },
+    {
+      "id": "tunisia-2026-21",
+      "name": "Mohamed Amine BEN HMIDA",
+      "shirtNumber": 21,
+      "position": "DEF"
+    },
+    {
+      "id": "tunisia-2026-22",
+      "name": "Sabri BEN HSAN",
+      "shirtNumber": 22,
+      "position": "GK"
+    },
+    {
+      "id": "tunisia-2026-23",
+      "name": "Moutaz NEFFATI",
+      "shirtNumber": 23,
+      "position": "DEF"
+    },
+    {
+      "id": "tunisia-2026-24",
+      "name": "Raed CHIKHAOUI",
+      "shirtNumber": 24,
+      "position": "DEF"
+    },
+    {
+      "id": "tunisia-2026-25",
+      "name": "Anis BEN SLIMANE",
+      "shirtNumber": 25,
+      "position": "MID"
+    },
+    {
+      "id": "tunisia-2026-26",
+      "name": "Sebastian TOUNEKTI",
+      "shirtNumber": 26,
+      "position": "MID"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group Stage",
+      "opponent": "Sweden",
+      "score": "5–1",
+      "scorers": [
+        {
+          "name": "Yasin AYARI",
+          "minute": 7,
+          "ownGoal": false
+        },
+        {
+          "name": "Alexander ISAK",
+          "minute": 30,
+          "ownGoal": false
+        },
+        {
+          "name": "Omar REKIK",
+          "minute": 43,
+          "ownGoal": false
+        },
+        {
+          "name": "Viktor Einar GYÖKERES",
+          "minute": 59,
+          "ownGoal": false
+        },
+        {
+          "name": "Mattias Olof SVANBERG",
+          "minute": 84,
+          "ownGoal": false
+        },
+        {
+          "name": "Yasin AYARI",
+          "minute": 90,
+          "ownGoal": false
+        }
+      ],
+      "date": "2026-06-14"
+    },
+    {
+      "stage": "Group Stage",
+      "opponent": "Japan",
+      "score": "0–4",
+      "scorers": [
+        {
+          "name": "Daichi KAMADA",
+          "minute": 4,
+          "ownGoal": false
+        },
+        {
+          "name": "Ayase UEDA",
+          "minute": 31,
+          "ownGoal": false
+        },
+        {
+          "name": "Junya ITO",
+          "minute": 69,
+          "ownGoal": false
+        },
+        {
+          "name": "Ayase UEDA",
+          "minute": 83,
+          "ownGoal": false
+        }
+      ],
+      "date": "2026-06-20"
+    },
+    {
+      "stage": "Group Stage",
+      "opponent": "Netherlands",
+      "score": "1–3",
+      "scorers": [
+        {
+          "name": "Ellyes Joris SKHIRI",
+          "minute": 3,
+          "ownGoal": true
+        },
+        {
+          "name": "Brian Ebenezer Adjei BROBBEY",
+          "minute": 7,
+          "ownGoal": false
+        },
+        {
+          "name": "Hazem MASTOURI",
+          "minute": 54,
+          "ownGoal": false
+        },
+        {
+          "name": "Jan-Paul VAN HECKE",
+          "minute": 62,
+          "ownGoal": false
+        }
+      ],
+      "date": "2026-06-26"
+    }
+  ],
+  "sources": [
+    "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/final-tournament-standings",
+    "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/teams",
+    "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+    "https://github.com/openfootball/worldcup.json",
+    "https://github.com/mominullptr/FIFA-World-Cup-2026-Dataset"
+  ]
+}

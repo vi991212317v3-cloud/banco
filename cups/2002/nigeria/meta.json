@@ -1,0 +1,202 @@
+{
+  "country": "Nigeria",
+  "countrySlug": "nigeria",
+  "year": 2002,
+  "edition": "2002",
+  "host": "Korea, Japan",
+  "coach": "Festus Onigbinde",
+  "finalPhase": "Group Stage",
+  "result": "Group Stage",
+  "squad": [
+    {
+      "id": "nigeria-2002-1",
+      "name": "Ike Shorunmu",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "nigeria-2002-2",
+      "name": "Joseph Yobo",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "nigeria-2002-3",
+      "name": "Celestine Babayaro",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "nigeria-2002-4",
+      "name": "Nwankwo Kanu",
+      "shirtNumber": 4,
+      "position": "ATT"
+    },
+    {
+      "id": "nigeria-2002-5",
+      "name": "Isaac Okoronkwo",
+      "shirtNumber": 5,
+      "position": "DEF"
+    },
+    {
+      "id": "nigeria-2002-6",
+      "name": "Taribo West",
+      "shirtNumber": 6,
+      "position": "DEF"
+    },
+    {
+      "id": "nigeria-2002-7",
+      "name": "Pius Ikedia",
+      "shirtNumber": 7,
+      "position": "MID"
+    },
+    {
+      "id": "nigeria-2002-8",
+      "name": "Mutiu Adepoju",
+      "shirtNumber": 8,
+      "position": "MID"
+    },
+    {
+      "id": "nigeria-2002-9",
+      "name": "Bartholomew Ogbeche",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "nigeria-2002-10",
+      "name": "Jay-Jay Okocha",
+      "shirtNumber": 10,
+      "position": "MID"
+    },
+    {
+      "id": "nigeria-2002-11",
+      "name": "Garba Lawal",
+      "shirtNumber": 11,
+      "position": "MID"
+    },
+    {
+      "id": "nigeria-2002-12",
+      "name": "Austin Ejide",
+      "shirtNumber": 12,
+      "position": "GK"
+    },
+    {
+      "id": "nigeria-2002-13",
+      "name": "Rabiu Afolabi",
+      "shirtNumber": 13,
+      "position": "DEF"
+    },
+    {
+      "id": "nigeria-2002-14",
+      "name": "Ifeanyi Udeze",
+      "shirtNumber": 14,
+      "position": "DEF"
+    },
+    {
+      "id": "nigeria-2002-15",
+      "name": "Justice Christopher",
+      "shirtNumber": 15,
+      "position": "MID"
+    },
+    {
+      "id": "nigeria-2002-16",
+      "name": "Efe Sodje",
+      "shirtNumber": 16,
+      "position": "DEF"
+    },
+    {
+      "id": "nigeria-2002-17",
+      "name": "Julius Aghahowa",
+      "shirtNumber": 17,
+      "position": "ATT"
+    },
+    {
+      "id": "nigeria-2002-18",
+      "name": "Benedict Akwuegbu",
+      "shirtNumber": 18,
+      "position": "ATT"
+    },
+    {
+      "id": "nigeria-2002-19",
+      "name": "Eric Ejiofor",
+      "shirtNumber": 19,
+      "position": "DEF"
+    },
+    {
+      "id": "nigeria-2002-20",
+      "name": "James Obiorah",
+      "shirtNumber": 20,
+      "position": "MID"
+    },
+    {
+      "id": "nigeria-2002-21",
+      "name": "John Utaka",
+      "shirtNumber": 21,
+      "position": "MID"
+    },
+    {
+      "id": "nigeria-2002-22",
+      "name": "Vincent Enyeama",
+      "shirtNumber": 22,
+      "position": "GK"
+    },
+    {
+      "id": "nigeria-2002-23",
+      "name": "Femi Opabunmi",
+      "shirtNumber": 23,
+      "position": "MID"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "Argentina",
+      "score": "1–0",
+      "scorers": [
+        {
+          "name": "Gabriel Batistuta",
+          "minute": "63'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2002-06-02"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Sweden",
+      "score": "2–1",
+      "scorers": [
+        {
+          "name": "Julius Aghahowa",
+          "minute": "27'",
+          "ownGoal": false
+        },
+        {
+          "name": "Henrik Larsson",
+          "minute": "35'",
+          "ownGoal": false
+        },
+        {
+          "name": "Henrik Larsson",
+          "minute": "63'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2002-06-07"
+    },
+    {
+      "stage": "Group",
+      "opponent": "England",
+      "score": "0–0",
+      "scorers": [],
+      "date": "2002-06-12"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

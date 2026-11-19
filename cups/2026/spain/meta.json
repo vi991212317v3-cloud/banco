@@ -1,0 +1,315 @@
+{
+  "country": "Spain",
+  "countrySlug": "spain",
+  "year": 2026,
+  "edition": "2026",
+  "host": "Canada, Mexico and United States",
+  "coach": "DE LA FUENTE Luis",
+  "finalPhase": "Final",
+  "result": "Champion",
+  "squad": [
+    {
+      "id": "spain-2026-1",
+      "name": "David RAYA MARTÍN",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "spain-2026-2",
+      "name": "Marc PUBILL PAGES",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "spain-2026-3",
+      "name": "Alejandro GRIMALDO GARCÍA",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "spain-2026-4",
+      "name": "Eric GARCÍA MARTRET",
+      "shirtNumber": 4,
+      "position": "DEF"
+    },
+    {
+      "id": "spain-2026-5",
+      "name": "Marcos LLORENTE MORENO",
+      "shirtNumber": 5,
+      "position": "DEF"
+    },
+    {
+      "id": "spain-2026-6",
+      "name": "Mikel MERINO ZAZÓN",
+      "shirtNumber": 6,
+      "position": "MID"
+    },
+    {
+      "id": "spain-2026-7",
+      "name": "Ferran TORRES GARCÍA",
+      "shirtNumber": 7,
+      "position": "ATT"
+    },
+    {
+      "id": "spain-2026-8",
+      "name": "Fabian RUIZ PEÑA",
+      "shirtNumber": 8,
+      "position": "MID"
+    },
+    {
+      "id": "spain-2026-9",
+      "name": "Pablo PAEZ GAVIRA",
+      "shirtNumber": 9,
+      "position": "MID"
+    },
+    {
+      "id": "spain-2026-10",
+      "name": "Daniel OLMO CARVAJAL",
+      "shirtNumber": 10,
+      "position": "ATT"
+    },
+    {
+      "id": "spain-2026-11",
+      "name": "Yeremy Jesús PINO SANTOS",
+      "shirtNumber": 11,
+      "position": "ATT"
+    },
+    {
+      "id": "spain-2026-12",
+      "name": "Pedro Antonio PORRO SAUCEDA",
+      "shirtNumber": 12,
+      "position": "DEF"
+    },
+    {
+      "id": "spain-2026-13",
+      "name": "Joan GARCIA PONS",
+      "shirtNumber": 13,
+      "position": "GK"
+    },
+    {
+      "id": "spain-2026-14",
+      "name": "Aymeric LAPORTE FEVRE",
+      "shirtNumber": 14,
+      "position": "DEF"
+    },
+    {
+      "id": "spain-2026-15",
+      "name": "Alejandro BAENA RODRÍGUEZ",
+      "shirtNumber": 15,
+      "position": "MID"
+    },
+    {
+      "id": "spain-2026-16",
+      "name": "Rodrigo HERNÁNDEZ CASCANTE",
+      "shirtNumber": 16,
+      "position": "MID"
+    },
+    {
+      "id": "spain-2026-17",
+      "name": "Nicholas WILLIAMS ARTHUER",
+      "shirtNumber": 17,
+      "position": "ATT"
+    },
+    {
+      "id": "spain-2026-18",
+      "name": "Martin ZUBIMENDI IBAÑEZ",
+      "shirtNumber": 18,
+      "position": "MID"
+    },
+    {
+      "id": "spain-2026-19",
+      "name": "Lamine Yamal NASRAOUI EBANA",
+      "shirtNumber": 19,
+      "position": "ATT"
+    },
+    {
+      "id": "spain-2026-20",
+      "name": "Pedro GONZÁLEZ LÓPEZ",
+      "shirtNumber": 20,
+      "position": "MID"
+    },
+    {
+      "id": "spain-2026-21",
+      "name": "Mikel OYARZABAL UGARTE",
+      "shirtNumber": 21,
+      "position": "ATT"
+    },
+    {
+      "id": "spain-2026-22",
+      "name": "Pau CUBARSI I PAREDES",
+      "shirtNumber": 22,
+      "position": "DEF"
+    },
+    {
+      "id": "spain-2026-23",
+      "name": "Unai SIMÓN MENDIBIL",
+      "shirtNumber": 23,
+      "position": "GK"
+    },
+    {
+      "id": "spain-2026-24",
+      "name": "Marc CUCURELLA SASETA",
+      "shirtNumber": 24,
+      "position": "DEF"
+    },
+    {
+      "id": "spain-2026-25",
+      "name": "Victor MUÑOZ VILLANUEVA",
+      "shirtNumber": 25,
+      "position": "ATT"
+    },
+    {
+      "id": "spain-2026-26",
+      "name": "Borja IGLESIAS QUINTÁS",
+      "shirtNumber": 26,
+      "position": "ATT"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group Stage",
+      "opponent": "Cabo Verde",
+      "score": "0–0",
+      "scorers": [],
+      "date": "2026-06-15"
+    },
+    {
+      "stage": "Group Stage",
+      "opponent": "Saudi Arabia",
+      "score": "4–0",
+      "scorers": [
+        {
+          "name": "Lamine Yamal NASRAOUI EBANA",
+          "minute": 10,
+          "ownGoal": false
+        },
+        {
+          "name": "Mikel OYARZABAL UGARTE",
+          "minute": 21,
+          "ownGoal": false
+        },
+        {
+          "name": "Mikel OYARZABAL UGARTE",
+          "minute": 24,
+          "ownGoal": false
+        },
+        {
+          "name": "Hassan Mohammed O ALTAMBAKTI",
+          "minute": 49,
+          "ownGoal": true
+        }
+      ],
+      "date": "2026-06-21"
+    },
+    {
+      "stage": "Group Stage",
+      "opponent": "Uruguay",
+      "score": "0–1",
+      "scorers": [
+        {
+          "name": "Alejandro BAENA RODRÍGUEZ",
+          "minute": 42,
+          "ownGoal": false
+        }
+      ],
+      "date": "2026-06-27"
+    },
+    {
+      "stage": "Round of 32",
+      "opponent": "Austria",
+      "score": "3–0",
+      "scorers": [
+        {
+          "name": "Mikel OYARZABAL UGARTE",
+          "minute": 36,
+          "ownGoal": false
+        },
+        {
+          "name": "Pedro Antonio PORRO SAUCEDA",
+          "minute": 66,
+          "ownGoal": false
+        },
+        {
+          "name": "Mikel OYARZABAL UGARTE",
+          "minute": 89,
+          "ownGoal": false
+        }
+      ],
+      "date": "2026-07-03"
+    },
+    {
+      "stage": "Round of 16",
+      "opponent": "Portugal",
+      "score": "0–1",
+      "scorers": [
+        {
+          "name": "Mikel MERINO ZAZÓN",
+          "minute": 90,
+          "ownGoal": false
+        }
+      ],
+      "date": "2026-07-06"
+    },
+    {
+      "stage": "Quarter-finals",
+      "opponent": "Belgium",
+      "score": "2–1",
+      "scorers": [
+        {
+          "name": "Daniel OLMO CARVAJAL",
+          "minute": 30,
+          "ownGoal": false
+        },
+        {
+          "name": "Charles Marc S DE KETELAERE",
+          "minute": 41,
+          "ownGoal": false
+        },
+        {
+          "name": "Lamine Yamal NASRAOUI EBANA",
+          "minute": 88,
+          "ownGoal": false
+        }
+      ],
+      "date": "2026-07-10"
+    },
+    {
+      "stage": "Semi-finals",
+      "opponent": "France",
+      "score": "0–2",
+      "scorers": [
+        {
+          "name": "Mikel OYARZABAL UGARTE",
+          "minute": 22,
+          "ownGoal": false
+        },
+        {
+          "name": "Pedro Antonio PORRO SAUCEDA",
+          "minute": 58,
+          "ownGoal": false
+        }
+      ],
+      "date": "2026-07-14"
+    },
+    {
+      "stage": "Final",
+      "opponent": "Argentina",
+      "score": "1–0",
+      "scorers": [
+        {
+          "name": "Ferran TORRES GARCÍA",
+          "minute": 106,
+          "ownGoal": false
+        }
+      ],
+      "date": "2026-07-19"
+    }
+  ],
+  "sources": [
+    "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/final-tournament-standings",
+    "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/teams",
+    "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+    "https://github.com/openfootball/worldcup.json",
+    "https://github.com/mominullptr/FIFA-World-Cup-2026-Dataset"
+  ]
+}

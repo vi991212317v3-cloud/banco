@@ -1,0 +1,207 @@
+{
+  "country": "United States",
+  "countrySlug": "united-states",
+  "year": 1998,
+  "edition": "1998",
+  "host": "France",
+  "coach": "Steve Sampson",
+  "finalPhase": "Group Stage",
+  "result": "Group Stage",
+  "squad": [
+    {
+      "id": "united-states-1998-1",
+      "name": "Brad Friedel",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "united-states-1998-2",
+      "name": "Frankie Hejduk",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "united-states-1998-3",
+      "name": "Eddie Pope",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "united-states-1998-4",
+      "name": "Mike Burns",
+      "shirtNumber": 4,
+      "position": "DEF"
+    },
+    {
+      "id": "united-states-1998-5",
+      "name": "Thomas Dooley",
+      "shirtNumber": 5,
+      "position": "MID"
+    },
+    {
+      "id": "united-states-1998-6",
+      "name": "David Regis",
+      "shirtNumber": 6,
+      "position": "DEF"
+    },
+    {
+      "id": "united-states-1998-7",
+      "name": "Roy Wegerle",
+      "shirtNumber": 7,
+      "position": "ATT"
+    },
+    {
+      "id": "united-states-1998-8",
+      "name": "Earnie Stewart",
+      "shirtNumber": 8,
+      "position": "MID"
+    },
+    {
+      "id": "united-states-1998-9",
+      "name": "Joe-Max Moore",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "united-states-1998-10",
+      "name": "Tab Ramos",
+      "shirtNumber": 10,
+      "position": "MID"
+    },
+    {
+      "id": "united-states-1998-11",
+      "name": "Eric Wynalda",
+      "shirtNumber": 11,
+      "position": "ATT"
+    },
+    {
+      "id": "united-states-1998-12",
+      "name": "Jeff Agoos",
+      "shirtNumber": 12,
+      "position": "DEF"
+    },
+    {
+      "id": "united-states-1998-13",
+      "name": "Cobi Jones",
+      "shirtNumber": 13,
+      "position": "MID"
+    },
+    {
+      "id": "united-states-1998-14",
+      "name": "Predrag Radosavljević",
+      "shirtNumber": 14,
+      "position": "MID"
+    },
+    {
+      "id": "united-states-1998-15",
+      "name": "Chad Deering",
+      "shirtNumber": 15,
+      "position": "MID"
+    },
+    {
+      "id": "united-states-1998-16",
+      "name": "Juergen Sommer",
+      "shirtNumber": 16,
+      "position": "GK"
+    },
+    {
+      "id": "united-states-1998-17",
+      "name": "Marcelo Balboa",
+      "shirtNumber": 17,
+      "position": "DEF"
+    },
+    {
+      "id": "united-states-1998-18",
+      "name": "Kasey Keller",
+      "shirtNumber": 18,
+      "position": "GK"
+    },
+    {
+      "id": "united-states-1998-19",
+      "name": "Brian Maisonneuve",
+      "shirtNumber": 19,
+      "position": "MID"
+    },
+    {
+      "id": "united-states-1998-20",
+      "name": "Brian McBride",
+      "shirtNumber": 20,
+      "position": "ATT"
+    },
+    {
+      "id": "united-states-1998-21",
+      "name": "Claudio Reyna",
+      "shirtNumber": 21,
+      "position": "MID"
+    },
+    {
+      "id": "united-states-1998-22",
+      "name": "Alexi Lalas",
+      "shirtNumber": 22,
+      "position": "DEF"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "Germany",
+      "score": "2–0",
+      "scorers": [
+        {
+          "name": "Andreas Möller",
+          "minute": "9'",
+          "ownGoal": false
+        },
+        {
+          "name": "Jürgen Klinsmann",
+          "minute": "65'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1998-06-15"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Iran",
+      "score": "1–2",
+      "scorers": [
+        {
+          "name": "Hamid Estili",
+          "minute": "40'",
+          "ownGoal": false
+        },
+        {
+          "name": "Mehdi Mahdavikia",
+          "minute": "84'",
+          "ownGoal": false
+        },
+        {
+          "name": "Brian McBride",
+          "minute": "87'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1998-06-21"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Yugoslavia",
+      "score": "0–1",
+      "scorers": [
+        {
+          "name": "Slobodan Komljenović",
+          "minute": "4'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1998-06-25"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

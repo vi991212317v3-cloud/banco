@@ -1,0 +1,261 @@
+{
+  "country": "South Korea",
+  "countrySlug": "south-korea",
+  "year": 2010,
+  "edition": "2010",
+  "host": "South Africa",
+  "coach": "Jung-moo Huh",
+  "finalPhase": "Round of 16",
+  "result": "Round of 16",
+  "squad": [
+    {
+      "id": "south-korea-2010-1",
+      "name": "Woon-jae Lee",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "south-korea-2010-2",
+      "name": "Beom-seok Oh",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "south-korea-2010-3",
+      "name": "Hyung-il Kim",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "south-korea-2010-4",
+      "name": "Yong-hyung Cho",
+      "shirtNumber": 4,
+      "position": "MID"
+    },
+    {
+      "id": "south-korea-2010-5",
+      "name": "Nam-il Kim",
+      "shirtNumber": 5,
+      "position": "MID"
+    },
+    {
+      "id": "south-korea-2010-6",
+      "name": "Bo-kyung Kim",
+      "shirtNumber": 6,
+      "position": "MID"
+    },
+    {
+      "id": "south-korea-2010-7",
+      "name": "Ji-sung Park",
+      "shirtNumber": 7,
+      "position": "MID"
+    },
+    {
+      "id": "south-korea-2010-8",
+      "name": "Jung-woo Kim",
+      "shirtNumber": 8,
+      "position": "MID"
+    },
+    {
+      "id": "south-korea-2010-9",
+      "name": "Jung-hwan Ahn",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "south-korea-2010-10",
+      "name": "Chu-young Park",
+      "shirtNumber": 10,
+      "position": "ATT"
+    },
+    {
+      "id": "south-korea-2010-11",
+      "name": "Seung-yeoul Lee",
+      "shirtNumber": 11,
+      "position": "ATT"
+    },
+    {
+      "id": "south-korea-2010-12",
+      "name": "Young-pyo Lee",
+      "shirtNumber": 12,
+      "position": "DEF"
+    },
+    {
+      "id": "south-korea-2010-13",
+      "name": "Jae-sung Kim",
+      "shirtNumber": 13,
+      "position": "MID"
+    },
+    {
+      "id": "south-korea-2010-14",
+      "name": "Jung-soo Lee",
+      "shirtNumber": 14,
+      "position": "DEF"
+    },
+    {
+      "id": "south-korea-2010-15",
+      "name": "Dong-jin Kim",
+      "shirtNumber": 15,
+      "position": "DEF"
+    },
+    {
+      "id": "south-korea-2010-16",
+      "name": "Sung-yueng Ki",
+      "shirtNumber": 16,
+      "position": "MID"
+    },
+    {
+      "id": "south-korea-2010-17",
+      "name": "Chung-yong Lee",
+      "shirtNumber": 17,
+      "position": "MID"
+    },
+    {
+      "id": "south-korea-2010-18",
+      "name": "Sung-ryong Jung",
+      "shirtNumber": 18,
+      "position": "GK"
+    },
+    {
+      "id": "south-korea-2010-19",
+      "name": "Ki-hun Yeom",
+      "shirtNumber": 19,
+      "position": "ATT"
+    },
+    {
+      "id": "south-korea-2010-20",
+      "name": "Dong-gook Lee",
+      "shirtNumber": 20,
+      "position": "ATT"
+    },
+    {
+      "id": "south-korea-2010-21",
+      "name": "Young-kwang Kim",
+      "shirtNumber": 21,
+      "position": "GK"
+    },
+    {
+      "id": "south-korea-2010-22",
+      "name": "Du-ri Cha",
+      "shirtNumber": 22,
+      "position": "DEF"
+    },
+    {
+      "id": "south-korea-2010-23",
+      "name": "Min-soo Kang",
+      "shirtNumber": 23,
+      "position": "DEF"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "Greece",
+      "score": "2–0",
+      "scorers": [
+        {
+          "name": "Jung-soo Lee",
+          "minute": "7'",
+          "ownGoal": false
+        },
+        {
+          "name": "Ji-sung Park",
+          "minute": "52'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2010-06-12"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Argentina",
+      "score": "4–1",
+      "scorers": [
+        {
+          "name": "Chu-young Park",
+          "minute": "17'",
+          "ownGoal": true
+        },
+        {
+          "name": "Gonzalo Higuaín",
+          "minute": "33'",
+          "ownGoal": false
+        },
+        {
+          "name": "Chung-yong Lee",
+          "minute": "45'+1'",
+          "ownGoal": false
+        },
+        {
+          "name": "Gonzalo Higuaín",
+          "minute": "76'",
+          "ownGoal": false
+        },
+        {
+          "name": "Gonzalo Higuaín",
+          "minute": "80'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2010-06-17"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Nigeria",
+      "score": "2–2",
+      "scorers": [
+        {
+          "name": "Kalu Uche",
+          "minute": "12'",
+          "ownGoal": false
+        },
+        {
+          "name": "Jung-soo Lee",
+          "minute": "38'",
+          "ownGoal": false
+        },
+        {
+          "name": "Chu-young Park",
+          "minute": "49'",
+          "ownGoal": false
+        },
+        {
+          "name": "Yakubu",
+          "minute": "69'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2010-06-22"
+    },
+    {
+      "stage": "Round of 16",
+      "opponent": "Uruguay",
+      "score": "2–1",
+      "scorers": [
+        {
+          "name": "Luis Suárez",
+          "minute": "8'",
+          "ownGoal": false
+        },
+        {
+          "name": "Chung-yong Lee",
+          "minute": "68'",
+          "ownGoal": false
+        },
+        {
+          "name": "Luis Suárez",
+          "minute": "80'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2010-06-26"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

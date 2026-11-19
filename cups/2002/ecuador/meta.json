@@ -1,0 +1,213 @@
+{
+  "country": "Ecuador",
+  "countrySlug": "ecuador",
+  "year": 2002,
+  "edition": "2002",
+  "host": "Korea, Japan",
+  "coach": "Hernán Darío Gómez",
+  "finalPhase": "Group Stage",
+  "result": "Group Stage",
+  "squad": [
+    {
+      "id": "ecuador-2002-1",
+      "name": "José Francisco Cevallos",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "ecuador-2002-2",
+      "name": "Augusto Porozo",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "ecuador-2002-3",
+      "name": "Iván Hurtado",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "ecuador-2002-4",
+      "name": "Ulises de la Cruz",
+      "shirtNumber": 4,
+      "position": "DEF"
+    },
+    {
+      "id": "ecuador-2002-5",
+      "name": "Alfonso Obregón",
+      "shirtNumber": 5,
+      "position": "MID"
+    },
+    {
+      "id": "ecuador-2002-6",
+      "name": "Raúl Guerrón",
+      "shirtNumber": 6,
+      "position": "DEF"
+    },
+    {
+      "id": "ecuador-2002-7",
+      "name": "Nicolás Asencio",
+      "shirtNumber": 7,
+      "position": "ATT"
+    },
+    {
+      "id": "ecuador-2002-8",
+      "name": "Luis Gómez",
+      "shirtNumber": 8,
+      "position": "MID"
+    },
+    {
+      "id": "ecuador-2002-9",
+      "name": "Iván Kaviedes",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "ecuador-2002-10",
+      "name": "Álex Aguinaga",
+      "shirtNumber": 10,
+      "position": "MID"
+    },
+    {
+      "id": "ecuador-2002-11",
+      "name": "Agustín Delgado",
+      "shirtNumber": 11,
+      "position": "ATT"
+    },
+    {
+      "id": "ecuador-2002-12",
+      "name": "Oswaldo Ibarra",
+      "shirtNumber": 12,
+      "position": "GK"
+    },
+    {
+      "id": "ecuador-2002-13",
+      "name": "Ángel Fernández",
+      "shirtNumber": 13,
+      "position": "ATT"
+    },
+    {
+      "id": "ecuador-2002-14",
+      "name": "Juan Carlos Burbano",
+      "shirtNumber": 14,
+      "position": "MID"
+    },
+    {
+      "id": "ecuador-2002-15",
+      "name": "Marlon Ayoví",
+      "shirtNumber": 15,
+      "position": "DEF"
+    },
+    {
+      "id": "ecuador-2002-16",
+      "name": "Cléber Chalá",
+      "shirtNumber": 16,
+      "position": "MID"
+    },
+    {
+      "id": "ecuador-2002-17",
+      "name": "Giovanny Espinoza",
+      "shirtNumber": 17,
+      "position": "DEF"
+    },
+    {
+      "id": "ecuador-2002-18",
+      "name": "Carlos Tenorio",
+      "shirtNumber": 18,
+      "position": "ATT"
+    },
+    {
+      "id": "ecuador-2002-19",
+      "name": "Édison Méndez",
+      "shirtNumber": 19,
+      "position": "ATT"
+    },
+    {
+      "id": "ecuador-2002-20",
+      "name": "Edwin Tenorio",
+      "shirtNumber": 20,
+      "position": "MID"
+    },
+    {
+      "id": "ecuador-2002-21",
+      "name": "Wellington Sánchez",
+      "shirtNumber": 21,
+      "position": "MID"
+    },
+    {
+      "id": "ecuador-2002-22",
+      "name": "Daniel Viteri",
+      "shirtNumber": 22,
+      "position": "GK"
+    },
+    {
+      "id": "ecuador-2002-23",
+      "name": "Walter Ayoví",
+      "shirtNumber": 23,
+      "position": "DEF"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "Italy",
+      "score": "2–0",
+      "scorers": [
+        {
+          "name": "Christian Vieri",
+          "minute": "7'",
+          "ownGoal": false
+        },
+        {
+          "name": "Christian Vieri",
+          "minute": "27'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2002-06-03"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Mexico",
+      "score": "2–1",
+      "scorers": [
+        {
+          "name": "Agustín Delgado",
+          "minute": "5'",
+          "ownGoal": false
+        },
+        {
+          "name": "Jared Borgetti",
+          "minute": "28'",
+          "ownGoal": false
+        },
+        {
+          "name": "Gerardo Torrado",
+          "minute": "57'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2002-06-09"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Croatia",
+      "score": "1–0",
+      "scorers": [
+        {
+          "name": "Édison Méndez",
+          "minute": "48'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2002-06-13"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

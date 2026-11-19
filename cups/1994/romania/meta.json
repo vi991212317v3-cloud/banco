@@ -1,0 +1,288 @@
+{
+  "country": "Romania",
+  "countrySlug": "romania",
+  "year": 1994,
+  "edition": "1994",
+  "host": "United States",
+  "coach": "Anghel Iordănescu",
+  "finalPhase": "Quarter-final",
+  "result": "Quarter-final",
+  "squad": [
+    {
+      "id": "romania-1994-1",
+      "name": "Florin Prunea",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "romania-1994-2",
+      "name": "Dan Petrescu",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "romania-1994-3",
+      "name": "Daniel Prodan",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "romania-1994-4",
+      "name": "Miodrag Belodedici",
+      "shirtNumber": 4,
+      "position": "DEF"
+    },
+    {
+      "id": "romania-1994-5",
+      "name": "Ioan Lupescu",
+      "shirtNumber": 5,
+      "position": "MID"
+    },
+    {
+      "id": "romania-1994-6",
+      "name": "Gheorghe Popescu",
+      "shirtNumber": 6,
+      "position": "MID"
+    },
+    {
+      "id": "romania-1994-7",
+      "name": "Dorinel Munteanu",
+      "shirtNumber": 7,
+      "position": "MID"
+    },
+    {
+      "id": "romania-1994-8",
+      "name": "Iulian Chiriță",
+      "shirtNumber": 8,
+      "position": "MID"
+    },
+    {
+      "id": "romania-1994-9",
+      "name": "Florin Răducioiu",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "romania-1994-10",
+      "name": "Gheorghe Hagi",
+      "shirtNumber": 10,
+      "position": "MID"
+    },
+    {
+      "id": "romania-1994-11",
+      "name": "Ilie Dumitrescu",
+      "shirtNumber": 11,
+      "position": "ATT"
+    },
+    {
+      "id": "romania-1994-12",
+      "name": "Bogdan Stelea",
+      "shirtNumber": 12,
+      "position": "GK"
+    },
+    {
+      "id": "romania-1994-13",
+      "name": "Tibor Selymes",
+      "shirtNumber": 13,
+      "position": "DEF"
+    },
+    {
+      "id": "romania-1994-14",
+      "name": "Gheorghe Mihali",
+      "shirtNumber": 14,
+      "position": "DEF"
+    },
+    {
+      "id": "romania-1994-15",
+      "name": "Basarab Panduru",
+      "shirtNumber": 15,
+      "position": "MID"
+    },
+    {
+      "id": "romania-1994-16",
+      "name": "Ion Vlădoiu",
+      "shirtNumber": 16,
+      "position": "ATT"
+    },
+    {
+      "id": "romania-1994-17",
+      "name": "Viorel Moldovan",
+      "shirtNumber": 17,
+      "position": "ATT"
+    },
+    {
+      "id": "romania-1994-18",
+      "name": "Constantin Gâlcă",
+      "shirtNumber": 18,
+      "position": "MID"
+    },
+    {
+      "id": "romania-1994-19",
+      "name": "Corneliu Papură",
+      "shirtNumber": 19,
+      "position": "DEF"
+    },
+    {
+      "id": "romania-1994-20",
+      "name": "Ovidiu Stîngă",
+      "shirtNumber": 20,
+      "position": "MID"
+    },
+    {
+      "id": "romania-1994-21",
+      "name": "Marian Ivan",
+      "shirtNumber": 21,
+      "position": "ATT"
+    },
+    {
+      "id": "romania-1994-22",
+      "name": "Ștefan Preda",
+      "shirtNumber": 22,
+      "position": "GK"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "Colombia",
+      "score": "1–3",
+      "scorers": [
+        {
+          "name": "Florin Răducioiu",
+          "minute": "15'",
+          "ownGoal": false
+        },
+        {
+          "name": "Gheorghe Hagi",
+          "minute": "34'",
+          "ownGoal": false
+        },
+        {
+          "name": "Adolfo Valencia",
+          "minute": "43'",
+          "ownGoal": false
+        },
+        {
+          "name": "Florin Răducioiu",
+          "minute": "89'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1994-06-18"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Switzerland",
+      "score": "1–4",
+      "scorers": [
+        {
+          "name": "Alain Sutter",
+          "minute": "16'",
+          "ownGoal": false
+        },
+        {
+          "name": "Gheorghe Hagi",
+          "minute": "35'",
+          "ownGoal": false
+        },
+        {
+          "name": "Stéphane Chapuisat",
+          "minute": "52'",
+          "ownGoal": false
+        },
+        {
+          "name": "Adrian Knup",
+          "minute": "65'",
+          "ownGoal": false
+        },
+        {
+          "name": "Adrian Knup",
+          "minute": "72'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1994-06-22"
+    },
+    {
+      "stage": "Group",
+      "opponent": "United States",
+      "score": "0–1",
+      "scorers": [
+        {
+          "name": "Dan Petrescu",
+          "minute": "18'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1994-06-26"
+    },
+    {
+      "stage": "Round of 16",
+      "opponent": "Argentina",
+      "score": "3–2",
+      "scorers": [
+        {
+          "name": "Ilie Dumitrescu",
+          "minute": "11'",
+          "ownGoal": false
+        },
+        {
+          "name": "Gabriel Batistuta",
+          "minute": "16'",
+          "ownGoal": false
+        },
+        {
+          "name": "Ilie Dumitrescu",
+          "minute": "18'",
+          "ownGoal": false
+        },
+        {
+          "name": "Gheorghe Hagi",
+          "minute": "58'",
+          "ownGoal": false
+        },
+        {
+          "name": "Abel Balbo",
+          "minute": "75'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1994-07-03"
+    },
+    {
+      "stage": "Quarter-final",
+      "opponent": "Sweden",
+      "score": "2–2",
+      "scorers": [
+        {
+          "name": "Tomas Brolin",
+          "minute": "78'",
+          "ownGoal": false
+        },
+        {
+          "name": "Florin Răducioiu",
+          "minute": "88'",
+          "ownGoal": false
+        },
+        {
+          "name": "Florin Răducioiu",
+          "minute": "101'",
+          "ownGoal": false
+        },
+        {
+          "name": "Kennet Andersson",
+          "minute": "115'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1994-07-10"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

@@ -1,0 +1,208 @@
+{
+  "country": "Paraguay",
+  "countrySlug": "paraguay",
+  "year": 1998,
+  "edition": "1998",
+  "host": "France",
+  "coach": "Paulo César Carpegiani",
+  "finalPhase": "Round of 16",
+  "result": "Round of 16",
+  "squad": [
+    {
+      "id": "paraguay-1998-1",
+      "name": "José Luis Chilavert",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "paraguay-1998-2",
+      "name": "Francisco Arce",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "paraguay-1998-3",
+      "name": "Catalino Rivarola",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "paraguay-1998-4",
+      "name": "Carlos Gamarra",
+      "shirtNumber": 4,
+      "position": "DEF"
+    },
+    {
+      "id": "paraguay-1998-5",
+      "name": "Celso Ayala",
+      "shirtNumber": 5,
+      "position": "DEF"
+    },
+    {
+      "id": "paraguay-1998-6",
+      "name": "Edgar Aguilera",
+      "shirtNumber": 6,
+      "position": "DEF"
+    },
+    {
+      "id": "paraguay-1998-7",
+      "name": "Julio César Yegros",
+      "shirtNumber": 7,
+      "position": "MID"
+    },
+    {
+      "id": "paraguay-1998-8",
+      "name": "Arístides Rojas",
+      "shirtNumber": 8,
+      "position": "ATT"
+    },
+    {
+      "id": "paraguay-1998-9",
+      "name": "José Cardozo",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "paraguay-1998-10",
+      "name": "Roberto Acuña",
+      "shirtNumber": 10,
+      "position": "MID"
+    },
+    {
+      "id": "paraguay-1998-11",
+      "name": "Pedro Sarabia",
+      "shirtNumber": 11,
+      "position": "DEF"
+    },
+    {
+      "id": "paraguay-1998-12",
+      "name": "Danilo Aceval",
+      "shirtNumber": 12,
+      "position": "GK"
+    },
+    {
+      "id": "paraguay-1998-13",
+      "name": "Carlos Paredes",
+      "shirtNumber": 13,
+      "position": "MID"
+    },
+    {
+      "id": "paraguay-1998-14",
+      "name": "Ricardo Rojas",
+      "shirtNumber": 14,
+      "position": "DEF"
+    },
+    {
+      "id": "paraguay-1998-15",
+      "name": "Miguel Ángel Benítez",
+      "shirtNumber": 15,
+      "position": "ATT"
+    },
+    {
+      "id": "paraguay-1998-16",
+      "name": "Julio César Enciso",
+      "shirtNumber": 16,
+      "position": "MID"
+    },
+    {
+      "id": "paraguay-1998-17",
+      "name": "Hugo Brizuela",
+      "shirtNumber": 17,
+      "position": "ATT"
+    },
+    {
+      "id": "paraguay-1998-18",
+      "name": "César Ramírez",
+      "shirtNumber": 18,
+      "position": "ATT"
+    },
+    {
+      "id": "paraguay-1998-19",
+      "name": "Carlos Morales",
+      "shirtNumber": 19,
+      "position": "MID"
+    },
+    {
+      "id": "paraguay-1998-20",
+      "name": "Denis Caniza",
+      "shirtNumber": 20,
+      "position": "DEF"
+    },
+    {
+      "id": "paraguay-1998-21",
+      "name": "Jorge Luis Campos",
+      "shirtNumber": 21,
+      "position": "MID"
+    },
+    {
+      "id": "paraguay-1998-22",
+      "name": "Rubén Ruiz Díaz",
+      "shirtNumber": 22,
+      "position": "GK"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "Bulgaria",
+      "score": "0–0",
+      "scorers": [],
+      "date": "1998-06-12"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Spain",
+      "score": "0–0",
+      "scorers": [],
+      "date": "1998-06-19"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Nigeria",
+      "score": "1–3",
+      "scorers": [
+        {
+          "name": "Celso Ayala",
+          "minute": "1'",
+          "ownGoal": false
+        },
+        {
+          "name": "Wilson Oruma",
+          "minute": "11'",
+          "ownGoal": false
+        },
+        {
+          "name": "Miguel Ángel Benítez",
+          "minute": "58'",
+          "ownGoal": false
+        },
+        {
+          "name": "José Cardozo",
+          "minute": "86'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1998-06-24"
+    },
+    {
+      "stage": "Round of 16",
+      "opponent": "France",
+      "score": "1–0",
+      "scorers": [
+        {
+          "name": "Laurent Blanc",
+          "minute": "114'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1998-06-28"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

@@ -1,0 +1,239 @@
+{
+  "country": "South Africa",
+  "countrySlug": "south-africa",
+  "year": 2026,
+  "edition": "2026",
+  "host": "Canada, Mexico and United States",
+  "coach": "BROOS Hugo",
+  "finalPhase": "Round of 32",
+  "result": "Round of 32",
+  "squad": [
+    {
+      "id": "south-africa-2026-1",
+      "name": "Ronwen Hayden WILLIAMS",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "south-africa-2026-2",
+      "name": "Tholo Thabang MATULUDI",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "south-africa-2026-3",
+      "name": "Khulumani NDAMANE",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "south-africa-2026-4",
+      "name": "Teboho MOKOENA",
+      "shirtNumber": 4,
+      "position": "MID"
+    },
+    {
+      "id": "south-africa-2026-5",
+      "name": "Thalente Wandile MBATHA",
+      "shirtNumber": 5,
+      "position": "MID"
+    },
+    {
+      "id": "south-africa-2026-6",
+      "name": "Aubrey Maphosa MODIBA",
+      "shirtNumber": 6,
+      "position": "DEF"
+    },
+    {
+      "id": "south-africa-2026-7",
+      "name": "Oswin Reagan APPOLLIS",
+      "shirtNumber": 7,
+      "position": "ATT"
+    },
+    {
+      "id": "south-africa-2026-8",
+      "name": "Tshepang MOREMI",
+      "shirtNumber": 8,
+      "position": "ATT"
+    },
+    {
+      "id": "south-africa-2026-9",
+      "name": "Lyle Brent FOSTER",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "south-africa-2026-10",
+      "name": "Relebohile MOFOKENG",
+      "shirtNumber": 10,
+      "position": "ATT"
+    },
+    {
+      "id": "south-africa-2026-11",
+      "name": "Themba ZWANE",
+      "shirtNumber": 11,
+      "position": "MID"
+    },
+    {
+      "id": "south-africa-2026-12",
+      "name": "Thapelo MASEKO",
+      "shirtNumber": 12,
+      "position": "ATT"
+    },
+    {
+      "id": "south-africa-2026-13",
+      "name": "Sphephelo S'miso SITHOLE",
+      "shirtNumber": 13,
+      "position": "MID"
+    },
+    {
+      "id": "south-africa-2026-14",
+      "name": "Mbekezeli Mfanu kile MBOKAZI",
+      "shirtNumber": 14,
+      "position": "DEF"
+    },
+    {
+      "id": "south-africa-2026-15",
+      "name": "Iqraam RAYNERS",
+      "shirtNumber": 15,
+      "position": "ATT"
+    },
+    {
+      "id": "south-africa-2026-16",
+      "name": "Sipho Justin CHAINE",
+      "shirtNumber": 16,
+      "position": "GK"
+    },
+    {
+      "id": "south-africa-2026-17",
+      "name": "Sekotori Evidence MAKGOPA",
+      "shirtNumber": 17,
+      "position": "ATT"
+    },
+    {
+      "id": "south-africa-2026-18",
+      "name": "Samukele Alucious KABINI",
+      "shirtNumber": 18,
+      "position": "DEF"
+    },
+    {
+      "id": "south-africa-2026-19",
+      "name": "Nkosinathi Emmanuel SIBISI",
+      "shirtNumber": 19,
+      "position": "DEF"
+    },
+    {
+      "id": "south-africa-2026-20",
+      "name": "Khuliso Johnson MUDAU",
+      "shirtNumber": 20,
+      "position": "DEF"
+    },
+    {
+      "id": "south-africa-2026-21",
+      "name": "Ime Daniel OKON",
+      "shirtNumber": 21,
+      "position": "DEF"
+    },
+    {
+      "id": "south-africa-2026-22",
+      "name": "Stuart Ricardo GOSS",
+      "shirtNumber": 22,
+      "position": "GK"
+    },
+    {
+      "id": "south-africa-2026-23",
+      "name": "Jayden Oswin ADAMS",
+      "shirtNumber": 23,
+      "position": "MID"
+    },
+    {
+      "id": "south-africa-2026-24",
+      "name": "Olwethu Mpilwenhle MAKHANYA",
+      "shirtNumber": 24,
+      "position": "DEF"
+    },
+    {
+      "id": "south-africa-2026-25",
+      "name": "Kamogelo Michael SEBELEBELE",
+      "shirtNumber": 25,
+      "position": "ATT"
+    },
+    {
+      "id": "south-africa-2026-26",
+      "name": "Bradley Paul CROSS",
+      "shirtNumber": 26,
+      "position": "DEF"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group Stage",
+      "opponent": "Mexico",
+      "score": "2–0",
+      "scorers": [
+        {
+          "name": "Julián Andrés QUIÑONES QUIÑONES",
+          "minute": 9,
+          "ownGoal": false
+        },
+        {
+          "name": "Raúl Alonso JIMÉNEZ RODRÍGUEZ",
+          "minute": 67,
+          "ownGoal": false
+        }
+      ],
+      "date": "2026-06-11"
+    },
+    {
+      "stage": "Group Stage",
+      "opponent": "Czechia",
+      "score": "1–1",
+      "scorers": [
+        {
+          "name": "Michal SADÍLEK",
+          "minute": 6,
+          "ownGoal": false
+        },
+        {
+          "name": "Teboho MOKOENA",
+          "minute": 83,
+          "ownGoal": false
+        }
+      ],
+      "date": "2026-06-18"
+    },
+    {
+      "stage": "Group Stage",
+      "opponent": "South Korea",
+      "score": "1–0",
+      "scorers": [
+        {
+          "name": "Thapelo MASEKO",
+          "minute": 63,
+          "ownGoal": false
+        }
+      ],
+      "date": "2026-06-24"
+    },
+    {
+      "stage": "Round of 32",
+      "opponent": "Canada",
+      "score": "0–1",
+      "scorers": [
+        {
+          "name": "Stephen EUSTAQUIO",
+          "minute": 90,
+          "ownGoal": false
+        }
+      ],
+      "date": "2026-06-29"
+    }
+  ],
+  "sources": [
+    "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/final-tournament-standings",
+    "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/teams",
+    "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+    "https://github.com/openfootball/worldcup.json",
+    "https://github.com/mominullptr/FIFA-World-Cup-2026-Dataset"
+  ]
+}

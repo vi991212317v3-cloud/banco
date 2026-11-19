@@ -1,0 +1,1149 @@
+[
+  {
+    "id": "switzerland-1938-019",
+    "name": "Adolf Stelzer",
+    "commonName": "Adolf Stelzer",
+    "shirtNumber": null,
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "country": "Switzerland",
+    "countrySlug": "switzerland",
+    "year": 1938,
+    "edition": "1938",
+    "club": null,
+    "age": 29,
+    "history": {
+      "matchesPlayed": null,
+      "matches": [],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": null,
+      "redCards": null
+    },
+    "attributes": {
+      "strength": 71,
+      "agility": 73,
+      "skill": 75,
+      "speed": 72,
+      "shooting": 71,
+      "passing": 75,
+      "defending": 70,
+      "physical": 71,
+      "goalkeeping": 54
+    },
+    "overall": 73,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "switzerland-1938-010",
+    "name": "Albert Guinchard",
+    "commonName": "Albert Guinchard",
+    "shirtNumber": null,
+    "position": "MID",
+    "positions": [
+      "MID"
+    ],
+    "country": "Switzerland",
+    "countrySlug": "switzerland",
+    "year": 1938,
+    "edition": "1938",
+    "club": null,
+    "age": 23,
+    "history": {
+      "matchesPlayed": null,
+      "matches": [],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": null,
+      "redCards": null
+    },
+    "attributes": {
+      "strength": 71,
+      "agility": 73,
+      "skill": 75,
+      "speed": 72,
+      "shooting": 71,
+      "passing": 75,
+      "defending": 70,
+      "physical": 71,
+      "goalkeeping": 54
+    },
+    "overall": 73,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "switzerland-1938-008",
+    "name": "Alessandro Frigerio",
+    "commonName": "Alessandro Frigerio",
+    "shirtNumber": null,
+    "position": "ATT",
+    "positions": [
+      "ATT"
+    ],
+    "country": "Switzerland",
+    "countrySlug": "switzerland",
+    "year": 1938,
+    "edition": "1938",
+    "club": null,
+    "age": 23,
+    "history": {
+      "matchesPlayed": null,
+      "matches": [],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": null,
+      "redCards": null
+    },
+    "attributes": {
+      "strength": 71,
+      "agility": 73,
+      "skill": 75,
+      "speed": 72,
+      "shooting": 71,
+      "passing": 75,
+      "defending": 70,
+      "physical": 71,
+      "goalkeeping": 54
+    },
+    "overall": 73,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "switzerland-1938-006",
+    "name": "Alfred Bickel",
+    "commonName": "Alfred Bickel",
+    "shirtNumber": null,
+    "position": "ATT",
+    "positions": [
+      "ATT"
+    ],
+    "country": "Switzerland",
+    "countrySlug": "switzerland",
+    "year": 1938,
+    "edition": "1938",
+    "club": null,
+    "age": 20,
+    "history": {
+      "matchesPlayed": null,
+      "matches": [
+        {
+          "stage": "Round of 16",
+          "opponent": "Germany",
+          "minutes": null,
+          "goals": 1,
+          "assists": null,
+          "yellow": null,
+          "red": null
+        }
+      ],
+      "goals": 1,
+      "assists": null,
+      "yellowCards": null,
+      "redCards": null
+    },
+    "attributes": {
+      "strength": 72,
+      "agility": 74,
+      "skill": 76,
+      "speed": 73,
+      "shooting": 72,
+      "passing": 76,
+      "defending": 71,
+      "physical": 72,
+      "goalkeeping": 54
+    },
+    "overall": 74,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "switzerland-1938-001",
+    "name": "André Abegglen",
+    "commonName": "André Abegglen",
+    "shirtNumber": null,
+    "position": "ATT",
+    "positions": [
+      "ATT"
+    ],
+    "country": "Switzerland",
+    "countrySlug": "switzerland",
+    "year": 1938,
+    "edition": "1938",
+    "club": null,
+    "age": 29,
+    "history": {
+      "matchesPlayed": null,
+      "matches": [
+        {
+          "stage": "Round of 16",
+          "opponent": "Germany",
+          "minutes": null,
+          "goals": 1,
+          "assists": null,
+          "yellow": null,
+          "red": null
+        },
+        {
+          "stage": "Round of 16",
+          "opponent": "Germany",
+          "minutes": null,
+          "goals": 1,
+          "assists": null,
+          "yellow": null,
+          "red": null
+        },
+        {
+          "stage": "Round of 16",
+          "opponent": "Germany",
+          "minutes": null,
+          "goals": 1,
+          "assists": null,
+          "yellow": null,
+          "red": null
+        }
+      ],
+      "goals": 3,
+      "assists": null,
+      "yellowCards": null,
+      "redCards": null
+    },
+    "attributes": {
+      "strength": 75,
+      "agility": 77,
+      "skill": 79,
+      "speed": 76,
+      "shooting": 75,
+      "passing": 79,
+      "defending": 74,
+      "physical": 75,
+      "goalkeeping": 58
+    },
+    "overall": 77,
+    "tier": "RARE",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "switzerland-1938-013",
+    "name": "August Lehmann",
+    "commonName": "August Lehmann",
+    "shirtNumber": null,
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "country": "Switzerland",
+    "countrySlug": "switzerland",
+    "year": 1938,
+    "edition": "1938",
+    "club": null,
+    "age": 29,
+    "history": {
+      "matchesPlayed": null,
+      "matches": [],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": null,
+      "redCards": null
+    },
+    "attributes": {
+      "strength": 71,
+      "agility": 73,
+      "skill": 75,
+      "speed": 72,
+      "shooting": 71,
+      "passing": 75,
+      "defending": 70,
+      "physical": 71,
+      "goalkeeping": 54
+    },
+    "overall": 73,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "switzerland-1938-014",
+    "name": "Ernst Lörtscher",
+    "commonName": "Ernst Lörtscher",
+    "shirtNumber": null,
+    "position": "MID",
+    "positions": [
+      "MID"
+    ],
+    "country": "Switzerland",
+    "countrySlug": "switzerland",
+    "year": 1938,
+    "edition": "1938",
+    "club": null,
+    "age": 25,
+    "history": {
+      "matchesPlayed": null,
+      "matches": [],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": null,
+      "redCards": null
+    },
+    "attributes": {
+      "strength": 71,
+      "agility": 73,
+      "skill": 75,
+      "speed": 72,
+      "shooting": 71,
+      "passing": 75,
+      "defending": 70,
+      "physical": 71,
+      "goalkeeping": 54
+    },
+    "overall": 73,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "switzerland-1938-005",
+    "name": "Erwin Ballabio",
+    "commonName": "Erwin Ballabio",
+    "shirtNumber": null,
+    "position": "GK",
+    "positions": [
+      "GK"
+    ],
+    "country": "Switzerland",
+    "countrySlug": "switzerland",
+    "year": 1938,
+    "edition": "1938",
+    "club": null,
+    "age": 19,
+    "history": {
+      "matchesPlayed": null,
+      "matches": [],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": null,
+      "redCards": null
+    },
+    "attributes": {
+      "strength": 69,
+      "agility": 71,
+      "skill": 66,
+      "speed": 66,
+      "shooting": 58,
+      "passing": 68,
+      "defending": 68,
+      "physical": 70,
+      "goalkeeping": 77
+    },
+    "overall": 73,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "switzerland-1938-017",
+    "name": "Eugen Rupf",
+    "commonName": "Eugen Rupf",
+    "shirtNumber": null,
+    "position": "ATT",
+    "positions": [
+      "ATT"
+    ],
+    "country": "Switzerland",
+    "countrySlug": "switzerland",
+    "year": 1938,
+    "edition": "1938",
+    "club": null,
+    "age": null,
+    "history": {
+      "matchesPlayed": null,
+      "matches": [],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": null,
+      "redCards": null
+    },
+    "attributes": {
+      "strength": 71,
+      "agility": 73,
+      "skill": 75,
+      "speed": 72,
+      "shooting": 71,
+      "passing": 75,
+      "defending": 70,
+      "physical": 71,
+      "goalkeeping": 54
+    },
+    "overall": 73,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "switzerland-1938-022",
+    "name": "Eugen Walaschek",
+    "commonName": "Eugen Walaschek",
+    "shirtNumber": null,
+    "position": "ATT",
+    "positions": [
+      "ATT"
+    ],
+    "country": "Switzerland",
+    "countrySlug": "switzerland",
+    "year": 1938,
+    "edition": "1938",
+    "club": null,
+    "age": 21,
+    "history": {
+      "matchesPlayed": null,
+      "matches": [
+        {
+          "stage": "Round of 16",
+          "opponent": "Germany",
+          "minutes": null,
+          "goals": 1,
+          "assists": null,
+          "yellow": null,
+          "red": null
+        }
+      ],
+      "goals": 1,
+      "assists": null,
+      "yellowCards": null,
+      "redCards": null
+    },
+    "attributes": {
+      "strength": 72,
+      "agility": 74,
+      "skill": 76,
+      "speed": 73,
+      "shooting": 72,
+      "passing": 76,
+      "defending": 71,
+      "physical": 72,
+      "goalkeeping": 54
+    },
+    "overall": 74,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "switzerland-1938-021",
+    "name": "Fritz Wagner",
+    "commonName": "Fritz Wagner",
+    "shirtNumber": null,
+    "position": "ATT",
+    "positions": [
+      "ATT"
+    ],
+    "country": "Switzerland",
+    "countrySlug": "switzerland",
+    "year": 1938,
+    "edition": "1938",
+    "club": null,
+    "age": null,
+    "history": {
+      "matchesPlayed": null,
+      "matches": [],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": null,
+      "redCards": null
+    },
+    "attributes": {
+      "strength": 71,
+      "agility": 73,
+      "skill": 75,
+      "speed": 72,
+      "shooting": 71,
+      "passing": 75,
+      "defending": 70,
+      "physical": 71,
+      "goalkeeping": 54
+    },
+    "overall": 73,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "switzerland-1938-002",
+    "name": "Georges Aeby",
+    "commonName": "Georges Aeby",
+    "shirtNumber": null,
+    "position": "ATT",
+    "positions": [
+      "ATT"
+    ],
+    "country": "Switzerland",
+    "countrySlug": "switzerland",
+    "year": 1938,
+    "edition": "1938",
+    "club": null,
+    "age": 27,
+    "history": {
+      "matchesPlayed": null,
+      "matches": [],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": null,
+      "redCards": null
+    },
+    "attributes": {
+      "strength": 71,
+      "agility": 73,
+      "skill": 75,
+      "speed": 72,
+      "shooting": 71,
+      "passing": 75,
+      "defending": 70,
+      "physical": 71,
+      "goalkeeping": 54
+    },
+    "overall": 73,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "switzerland-1938-018",
+    "name": "Hermann Springer",
+    "commonName": "Hermann Springer",
+    "shirtNumber": null,
+    "position": "MID",
+    "positions": [
+      "MID"
+    ],
+    "country": "Switzerland",
+    "countrySlug": "switzerland",
+    "year": 1938,
+    "edition": "1938",
+    "club": null,
+    "age": 29,
+    "history": {
+      "matchesPlayed": null,
+      "matches": [],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": null,
+      "redCards": null
+    },
+    "attributes": {
+      "strength": 71,
+      "agility": 73,
+      "skill": 75,
+      "speed": 72,
+      "shooting": 71,
+      "passing": 75,
+      "defending": 70,
+      "physical": 71,
+      "goalkeeping": 54
+    },
+    "overall": 73,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "switzerland-1938-004",
+    "name": "Lauro Amadò",
+    "commonName": "Lauro Amadò",
+    "shirtNumber": null,
+    "position": "ATT",
+    "positions": [
+      "ATT"
+    ],
+    "country": "Switzerland",
+    "countrySlug": "switzerland",
+    "year": 1938,
+    "edition": "1938",
+    "club": null,
+    "age": 26,
+    "history": {
+      "matchesPlayed": null,
+      "matches": [],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": null,
+      "redCards": null
+    },
+    "attributes": {
+      "strength": 71,
+      "agility": 73,
+      "skill": 75,
+      "speed": 72,
+      "shooting": 71,
+      "passing": 75,
+      "defending": 70,
+      "physical": 71,
+      "goalkeeping": 54
+    },
+    "overall": 73,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "switzerland-1938-012",
+    "name": "Leopold Kielholz",
+    "commonName": "Leopold Kielholz",
+    "shirtNumber": null,
+    "position": "ATT",
+    "positions": [
+      "ATT"
+    ],
+    "country": "Switzerland",
+    "countrySlug": "switzerland",
+    "year": 1938,
+    "edition": "1938",
+    "club": null,
+    "age": 26,
+    "history": {
+      "matchesPlayed": null,
+      "matches": [],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": null,
+      "redCards": null
+    },
+    "attributes": {
+      "strength": 71,
+      "agility": 73,
+      "skill": 75,
+      "speed": 72,
+      "shooting": 71,
+      "passing": 75,
+      "defending": 70,
+      "physical": 71,
+      "goalkeeping": 54
+    },
+    "overall": 73,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "switzerland-1938-016",
+    "name": "Oscar Rauch",
+    "commonName": "Oscar Rauch",
+    "shirtNumber": null,
+    "position": "MID",
+    "positions": [
+      "MID"
+    ],
+    "country": "Switzerland",
+    "countrySlug": "switzerland",
+    "year": 1938,
+    "edition": "1938",
+    "club": null,
+    "age": 24,
+    "history": {
+      "matchesPlayed": null,
+      "matches": [],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": null,
+      "redCards": null
+    },
+    "attributes": {
+      "strength": 71,
+      "agility": 73,
+      "skill": 75,
+      "speed": 72,
+      "shooting": 71,
+      "passing": 75,
+      "defending": 70,
+      "physical": 71,
+      "goalkeeping": 54
+    },
+    "overall": 73,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "switzerland-1938-003",
+    "name": "Paul Aeby",
+    "commonName": "Paul Aeby",
+    "shirtNumber": null,
+    "position": "ATT",
+    "positions": [
+      "ATT"
+    ],
+    "country": "Switzerland",
+    "countrySlug": "switzerland",
+    "year": 1938,
+    "edition": "1938",
+    "club": null,
+    "age": 27,
+    "history": {
+      "matchesPlayed": null,
+      "matches": [],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": null,
+      "redCards": null
+    },
+    "attributes": {
+      "strength": 71,
+      "agility": 73,
+      "skill": 75,
+      "speed": 72,
+      "shooting": 71,
+      "passing": 75,
+      "defending": 70,
+      "physical": 71,
+      "goalkeeping": 54
+    },
+    "overall": 73,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "switzerland-1938-007",
+    "name": "Renato Bizzozero",
+    "commonName": "Renato Bizzozero",
+    "shirtNumber": null,
+    "position": "GK",
+    "positions": [
+      "GK"
+    ],
+    "country": "Switzerland",
+    "countrySlug": "switzerland",
+    "year": 1938,
+    "edition": "1938",
+    "club": null,
+    "age": 25,
+    "history": {
+      "matchesPlayed": null,
+      "matches": [],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": null,
+      "redCards": null
+    },
+    "attributes": {
+      "strength": 69,
+      "agility": 71,
+      "skill": 66,
+      "speed": 66,
+      "shooting": 58,
+      "passing": 68,
+      "defending": 68,
+      "physical": 70,
+      "goalkeeping": 77
+    },
+    "overall": 73,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "switzerland-1938-015",
+    "name": "Severino Minelli",
+    "commonName": "Severino Minelli",
+    "shirtNumber": null,
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "country": "Switzerland",
+    "countrySlug": "switzerland",
+    "year": 1938,
+    "edition": "1938",
+    "club": null,
+    "age": 28,
+    "history": {
+      "matchesPlayed": null,
+      "matches": [],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": null,
+      "redCards": null
+    },
+    "attributes": {
+      "strength": 71,
+      "agility": 73,
+      "skill": 75,
+      "speed": 72,
+      "shooting": 71,
+      "passing": 75,
+      "defending": 70,
+      "physical": 71,
+      "goalkeeping": 54
+    },
+    "overall": 73,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "switzerland-1938-020",
+    "name": "Sirio Vernati",
+    "commonName": "Sirio Vernati",
+    "shirtNumber": null,
+    "position": "MID",
+    "positions": [
+      "MID"
+    ],
+    "country": "Switzerland",
+    "countrySlug": "switzerland",
+    "year": 1938,
+    "edition": "1938",
+    "club": null,
+    "age": 31,
+    "history": {
+      "matchesPlayed": null,
+      "matches": [],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": null,
+      "redCards": null
+    },
+    "attributes": {
+      "strength": 71,
+      "agility": 73,
+      "skill": 75,
+      "speed": 72,
+      "shooting": 71,
+      "passing": 75,
+      "defending": 70,
+      "physical": 71,
+      "goalkeeping": 54
+    },
+    "overall": 73,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "switzerland-1938-009",
+    "name": "Tullio Grassi",
+    "commonName": "Tullio Grassi",
+    "shirtNumber": null,
+    "position": "ATT",
+    "positions": [
+      "ATT"
+    ],
+    "country": "Switzerland",
+    "countrySlug": "switzerland",
+    "year": 1938,
+    "edition": "1938",
+    "club": null,
+    "age": 28,
+    "history": {
+      "matchesPlayed": null,
+      "matches": [],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": null,
+      "redCards": null
+    },
+    "attributes": {
+      "strength": 71,
+      "agility": 73,
+      "skill": 75,
+      "speed": 72,
+      "shooting": 71,
+      "passing": 75,
+      "defending": 70,
+      "physical": 71,
+      "goalkeeping": 54
+    },
+    "overall": 73,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "switzerland-1938-011",
+    "name": "Willy Huber",
+    "commonName": "Willy Huber",
+    "shirtNumber": null,
+    "position": "GK",
+    "positions": [
+      "GK"
+    ],
+    "country": "Switzerland",
+    "countrySlug": "switzerland",
+    "year": 1938,
+    "edition": "1938",
+    "club": null,
+    "age": 24,
+    "history": {
+      "matchesPlayed": null,
+      "matches": [],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": null,
+      "redCards": null
+    },
+    "attributes": {
+      "strength": 69,
+      "agility": 71,
+      "skill": 66,
+      "speed": 66,
+      "shooting": 58,
+      "passing": 68,
+      "defending": 68,
+      "physical": 70,
+      "goalkeeping": 77
+    },
+    "overall": 73,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  }
+]

@@ -1,0 +1,223 @@
+{
+  "country": "Egypt",
+  "countrySlug": "egypt",
+  "year": 2018,
+  "edition": "2018",
+  "host": "Russia",
+  "coach": "Héctor Cúper",
+  "finalPhase": "Group Stage",
+  "result": "Group Stage",
+  "squad": [
+    {
+      "id": "egypt-2018-1",
+      "name": "Essam El Hadary",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "egypt-2018-2",
+      "name": "Ali Gabr",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "egypt-2018-3",
+      "name": "Ahmed Elmohamady",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "egypt-2018-4",
+      "name": "Omar Gaber",
+      "shirtNumber": 4,
+      "position": "MID"
+    },
+    {
+      "id": "egypt-2018-5",
+      "name": "Sam Morsy",
+      "shirtNumber": 5,
+      "position": "MID"
+    },
+    {
+      "id": "egypt-2018-6",
+      "name": "Ahmed Hegazi",
+      "shirtNumber": 6,
+      "position": "DEF"
+    },
+    {
+      "id": "egypt-2018-7",
+      "name": "Ahmed Fathy",
+      "shirtNumber": 7,
+      "position": "DEF"
+    },
+    {
+      "id": "egypt-2018-8",
+      "name": "Tarek Hamed",
+      "shirtNumber": 8,
+      "position": "MID"
+    },
+    {
+      "id": "egypt-2018-9",
+      "name": "Marwan Mohsen",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "egypt-2018-10",
+      "name": "Mohamed Salah",
+      "shirtNumber": 10,
+      "position": "ATT"
+    },
+    {
+      "id": "egypt-2018-11",
+      "name": "Kahraba",
+      "shirtNumber": 11,
+      "position": "ATT"
+    },
+    {
+      "id": "egypt-2018-12",
+      "name": "Ayman Ashraf",
+      "shirtNumber": 12,
+      "position": "DEF"
+    },
+    {
+      "id": "egypt-2018-13",
+      "name": "Mohamed Abdel Shafy",
+      "shirtNumber": 13,
+      "position": "DEF"
+    },
+    {
+      "id": "egypt-2018-14",
+      "name": "Ramadan Sobhi",
+      "shirtNumber": 14,
+      "position": "ATT"
+    },
+    {
+      "id": "egypt-2018-15",
+      "name": "Mahmoud Hamdy",
+      "shirtNumber": 15,
+      "position": "DEF"
+    },
+    {
+      "id": "egypt-2018-16",
+      "name": "Sherif Ekramy",
+      "shirtNumber": 16,
+      "position": "GK"
+    },
+    {
+      "id": "egypt-2018-17",
+      "name": "Mohamed Elneny",
+      "shirtNumber": 17,
+      "position": "MID"
+    },
+    {
+      "id": "egypt-2018-18",
+      "name": "Shikabala",
+      "shirtNumber": 18,
+      "position": "ATT"
+    },
+    {
+      "id": "egypt-2018-19",
+      "name": "Abdallah El Said",
+      "shirtNumber": 19,
+      "position": "MID"
+    },
+    {
+      "id": "egypt-2018-20",
+      "name": "Saad Samir",
+      "shirtNumber": 20,
+      "position": "DEF"
+    },
+    {
+      "id": "egypt-2018-21",
+      "name": "Trézéguet",
+      "shirtNumber": 21,
+      "position": "MID"
+    },
+    {
+      "id": "egypt-2018-22",
+      "name": "Amr Warda",
+      "shirtNumber": 22,
+      "position": "ATT"
+    },
+    {
+      "id": "egypt-2018-23",
+      "name": "Mohamed El Shenawy",
+      "shirtNumber": 23,
+      "position": "GK"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "Uruguay",
+      "score": "0–1",
+      "scorers": [
+        {
+          "name": "José Giménez",
+          "minute": "89'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2018-06-15"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Russia",
+      "score": "3–1",
+      "scorers": [
+        {
+          "name": "Ahmed Fathy",
+          "minute": "47'",
+          "ownGoal": true
+        },
+        {
+          "name": "Denis Cheryshev",
+          "minute": "59'",
+          "ownGoal": false
+        },
+        {
+          "name": "Artem Dzyuba",
+          "minute": "62'",
+          "ownGoal": false
+        },
+        {
+          "name": "Mohamed Salah",
+          "minute": "73'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2018-06-19"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Saudi Arabia",
+      "score": "2–1",
+      "scorers": [
+        {
+          "name": "Mohamed Salah",
+          "minute": "22'",
+          "ownGoal": false
+        },
+        {
+          "name": "Salman Al-Faraj",
+          "minute": "45'+6'",
+          "ownGoal": false
+        },
+        {
+          "name": "Salem Al-Dawsari",
+          "minute": "90'+5'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2018-06-25"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

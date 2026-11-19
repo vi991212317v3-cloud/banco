@@ -1,0 +1,222 @@
+{
+  "country": "Romania",
+  "countrySlug": "romania",
+  "year": 1970,
+  "edition": "1970",
+  "host": "Mexico",
+  "coach": "Angelo Niculescu",
+  "finalPhase": "Group Stage",
+  "result": "Group Stage",
+  "squad": [
+    {
+      "id": "romania-1970-1",
+      "name": "Necula Răducanu",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "romania-1970-2",
+      "name": "Lajos Sătmăreanu",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "romania-1970-3",
+      "name": "Nicolae Lupescu",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "romania-1970-4",
+      "name": "Mihai Mocanu",
+      "shirtNumber": 4,
+      "position": "DEF"
+    },
+    {
+      "id": "romania-1970-5",
+      "name": "Cornel Dinu",
+      "shirtNumber": 5,
+      "position": "MID"
+    },
+    {
+      "id": "romania-1970-6",
+      "name": "Dan Coe",
+      "shirtNumber": 6,
+      "position": "MID"
+    },
+    {
+      "id": "romania-1970-7",
+      "name": "Emerich Dembrovschi",
+      "shirtNumber": 7,
+      "position": "MID"
+    },
+    {
+      "id": "romania-1970-8",
+      "name": "Nicolae Dobrin",
+      "shirtNumber": 8,
+      "position": "ATT"
+    },
+    {
+      "id": "romania-1970-9",
+      "name": "Florea Dumitrache",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "romania-1970-10",
+      "name": "Radu Nunweiller",
+      "shirtNumber": 10,
+      "position": "MID"
+    },
+    {
+      "id": "romania-1970-11",
+      "name": "Mircea Lucescu",
+      "shirtNumber": 11,
+      "position": "ATT"
+    },
+    {
+      "id": "romania-1970-12",
+      "name": "Mihai Ivăncescu",
+      "shirtNumber": 12,
+      "position": "DEF"
+    },
+    {
+      "id": "romania-1970-13",
+      "name": "Augustin Deleanu",
+      "shirtNumber": 13,
+      "position": "DEF"
+    },
+    {
+      "id": "romania-1970-14",
+      "name": "Vasile Gergely",
+      "shirtNumber": 14,
+      "position": "DEF"
+    },
+    {
+      "id": "romania-1970-15",
+      "name": "Ion Dumitru",
+      "shirtNumber": 15,
+      "position": "DEF"
+    },
+    {
+      "id": "romania-1970-16",
+      "name": "Alexandru Neagu",
+      "shirtNumber": 16,
+      "position": "MID"
+    },
+    {
+      "id": "romania-1970-17",
+      "name": "Gheorghe Tătaru",
+      "shirtNumber": 17,
+      "position": "MID"
+    },
+    {
+      "id": "romania-1970-18",
+      "name": "Marin Tufan",
+      "shirtNumber": 18,
+      "position": "ATT"
+    },
+    {
+      "id": "romania-1970-19",
+      "name": "Flavius Domide",
+      "shirtNumber": 19,
+      "position": "ATT"
+    },
+    {
+      "id": "romania-1970-20",
+      "name": "Nicolae Pescaru",
+      "shirtNumber": 20,
+      "position": "DEF"
+    },
+    {
+      "id": "romania-1970-21",
+      "name": "Stere Adamache",
+      "shirtNumber": 21,
+      "position": "GK"
+    },
+    {
+      "id": "romania-1970-22",
+      "name": "Gheorghe Gornea",
+      "shirtNumber": 22,
+      "position": "GK"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "England",
+      "score": "1–0",
+      "scorers": [
+        {
+          "name": "Geoff Hurst",
+          "minute": "65'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1970-06-02"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Czechoslovakia",
+      "score": "2–1",
+      "scorers": [
+        {
+          "name": "Ladislav Petráš",
+          "minute": "5'",
+          "ownGoal": false
+        },
+        {
+          "name": "Alexandru Neagu",
+          "minute": "52'",
+          "ownGoal": false
+        },
+        {
+          "name": "Florea Dumitrache",
+          "minute": "75'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1970-06-06"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Brazil",
+      "score": "3–2",
+      "scorers": [
+        {
+          "name": "Pelé",
+          "minute": "19'",
+          "ownGoal": false
+        },
+        {
+          "name": "Jairzinho",
+          "minute": "22'",
+          "ownGoal": false
+        },
+        {
+          "name": "Florea Dumitrache",
+          "minute": "34'",
+          "ownGoal": false
+        },
+        {
+          "name": "Pelé",
+          "minute": "67'",
+          "ownGoal": false
+        },
+        {
+          "name": "Emerich Dembrovschi",
+          "minute": "84'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1970-06-10"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

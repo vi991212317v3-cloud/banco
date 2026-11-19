@@ -1,0 +1,1685 @@
+[
+  {
+    "id": "curacao-2026-1",
+    "name": "Eloy Victor ROOM",
+    "commonName": "ROOM Eloy",
+    "shirtNumber": 1,
+    "position": "GK",
+    "positions": [
+      "GK"
+    ],
+    "country": "Curaçao",
+    "countrySlug": "curacao",
+    "year": 2026,
+    "edition": "2026",
+    "club": "Miami FC (USA)",
+    "age": 37,
+    "history": {
+      "matchesPlayed": 3,
+      "matches": [
+        {
+          "stage": "Group Stage",
+          "opponent": "Germany",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group Stage",
+          "opponent": "Ecuador",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group Stage",
+          "opponent": "Côte d'Ivoire",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 66,
+      "agility": 68,
+      "skill": 63,
+      "speed": 63,
+      "shooting": 55,
+      "passing": 65,
+      "defending": 65,
+      "physical": 67,
+      "goalkeeping": 74
+    },
+    "overall": 74,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "statsStatus": "matched-community",
+    "sources": [
+      "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+      "https://github.com/mominullptr/FIFA-World-Cup-2026-Dataset",
+      "https://github.com/openfootball/worldcup.json"
+    ]
+  },
+
+  {
+    "id": "curacao-2026-2",
+    "name": "Shurandy Ruggerio SAMBO",
+    "commonName": "SAMBO Shurandy",
+    "shirtNumber": 2,
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "country": "Curaçao",
+    "countrySlug": "curacao",
+    "year": 2026,
+    "edition": "2026",
+    "club": "Sparta Rotterdam (NED)",
+    "age": 24,
+    "history": {
+      "matchesPlayed": 1,
+      "matches": [
+        {
+          "stage": "Group Stage",
+          "opponent": "Côte d'Ivoire",
+          "minutes": 1,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 66,
+      "agility": 68,
+      "skill": 70,
+      "speed": 67,
+      "shooting": 66,
+      "passing": 70,
+      "defending": 65,
+      "physical": 66,
+      "goalkeeping": 48
+    },
+    "overall": 68,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "statsStatus": "matched-community",
+    "sources": [
+      "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+      "https://github.com/mominullptr/FIFA-World-Cup-2026-Dataset",
+      "https://github.com/openfootball/worldcup.json"
+    ]
+  },
+
+  {
+    "id": "curacao-2026-3",
+    "name": "Juriën Godfried Juan GAARI",
+    "commonName": "GAARI Jurien",
+    "shirtNumber": 3,
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "country": "Curaçao",
+    "countrySlug": "curacao",
+    "year": 2026,
+    "edition": "2026",
+    "club": "Abha Club (KSA)",
+    "age": 32,
+    "history": {
+      "matchesPlayed": 2,
+      "matches": [
+        {
+          "stage": "Group Stage",
+          "opponent": "Ecuador",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group Stage",
+          "opponent": "Côte d'Ivoire",
+          "minutes": 77,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 67,
+      "agility": 69,
+      "skill": 71,
+      "speed": 68,
+      "shooting": 67,
+      "passing": 71,
+      "defending": 66,
+      "physical": 67,
+      "goalkeeping": 50
+    },
+    "overall": 69,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "statsStatus": "matched-community",
+    "sources": [
+      "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+      "https://github.com/mominullptr/FIFA-World-Cup-2026-Dataset",
+      "https://github.com/openfootball/worldcup.json"
+    ]
+  },
+
+  {
+    "id": "curacao-2026-4",
+    "name": "Róshón Felix Romar Jordan VAN EIJMA",
+    "commonName": "VAN EIJMA Roshon",
+    "shirtNumber": 4,
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "country": "Curaçao",
+    "countrySlug": "curacao",
+    "year": 2026,
+    "edition": "2026",
+    "club": "RKC Waalwijk (NED)",
+    "age": 28,
+    "history": {
+      "matchesPlayed": 1,
+      "matches": [
+        {
+          "stage": "Group Stage",
+          "opponent": "Ecuador",
+          "minutes": 15,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 66,
+      "agility": 68,
+      "skill": 70,
+      "speed": 67,
+      "shooting": 66,
+      "passing": 70,
+      "defending": 65,
+      "physical": 66,
+      "goalkeeping": 48
+    },
+    "overall": 68,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "statsStatus": "matched-community",
+    "sources": [
+      "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+      "https://github.com/mominullptr/FIFA-World-Cup-2026-Dataset",
+      "https://github.com/openfootball/worldcup.json"
+    ]
+  },
+
+  {
+    "id": "curacao-2026-5",
+    "name": "Sherel Constancio FLORANUS",
+    "commonName": "FLORANUS Sherel",
+    "shirtNumber": 5,
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "country": "Curaçao",
+    "countrySlug": "curacao",
+    "year": 2026,
+    "edition": "2026",
+    "club": "PEC Zwolle (NED)",
+    "age": 27,
+    "history": {
+      "matchesPlayed": 3,
+      "matches": [
+        {
+          "stage": "Group Stage",
+          "opponent": "Germany",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group Stage",
+          "opponent": "Ecuador",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group Stage",
+          "opponent": "Côte d'Ivoire",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 68,
+      "agility": 70,
+      "skill": 72,
+      "speed": 69,
+      "shooting": 68,
+      "passing": 72,
+      "defending": 67,
+      "physical": 68,
+      "goalkeeping": 50
+    },
+    "overall": 70,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "statsStatus": "matched-community",
+    "sources": [
+      "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+      "https://github.com/mominullptr/FIFA-World-Cup-2026-Dataset",
+      "https://github.com/openfootball/worldcup.json"
+    ]
+  },
+
+  {
+    "id": "curacao-2026-6",
+    "name": "Godfried ROEMERATOE",
+    "commonName": "ROEMERATOE Godfried",
+    "shirtNumber": 6,
+    "position": "MID",
+    "positions": [
+      "MID"
+    ],
+    "country": "Curaçao",
+    "countrySlug": "curacao",
+    "year": 2026,
+    "edition": "2026",
+    "club": "RKC Waalwijk (NED)",
+    "age": 26,
+    "history": {
+      "matchesPlayed": 1,
+      "matches": [
+        {
+          "stage": "Group Stage",
+          "opponent": "Ecuador",
+          "minutes": 7,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 66,
+      "agility": 68,
+      "skill": 70,
+      "speed": 67,
+      "shooting": 66,
+      "passing": 70,
+      "defending": 65,
+      "physical": 66,
+      "goalkeeping": 48
+    },
+    "overall": 68,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "statsStatus": "matched-community",
+    "sources": [
+      "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+      "https://github.com/mominullptr/FIFA-World-Cup-2026-Dataset",
+      "https://github.com/openfootball/worldcup.json"
+    ]
+  },
+
+  {
+    "id": "curacao-2026-7",
+    "name": "Juninho Gracielo BACUNA",
+    "commonName": "BACUNA Juninho",
+    "shirtNumber": 7,
+    "position": "MID",
+    "positions": [
+      "MID"
+    ],
+    "country": "Curaçao",
+    "countrySlug": "curacao",
+    "year": 2026,
+    "edition": "2026",
+    "club": "FC Volendam (NED)",
+    "age": 28,
+    "history": {
+      "matchesPlayed": 3,
+      "matches": [
+        {
+          "stage": "Group Stage",
+          "opponent": "Germany",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group Stage",
+          "opponent": "Ecuador",
+          "minutes": 75,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group Stage",
+          "opponent": "Côte d'Ivoire",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 68,
+      "agility": 70,
+      "skill": 72,
+      "speed": 69,
+      "shooting": 68,
+      "passing": 72,
+      "defending": 67,
+      "physical": 68,
+      "goalkeeping": 50
+    },
+    "overall": 70,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "statsStatus": "matched-community",
+    "sources": [
+      "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+      "https://github.com/mominullptr/FIFA-World-Cup-2026-Dataset",
+      "https://github.com/openfootball/worldcup.json"
+    ]
+  },
+
+  {
+    "id": "curacao-2026-8",
+    "name": "Livano Shyron Liomar COMENENCIA",
+    "commonName": "COMENENCIA Livano",
+    "shirtNumber": 8,
+    "position": "MID",
+    "positions": [
+      "MID"
+    ],
+    "country": "Curaçao",
+    "countrySlug": "curacao",
+    "year": 2026,
+    "edition": "2026",
+    "club": "FC Zürich (SUI)",
+    "age": 22,
+    "history": {
+      "matchesPlayed": 3,
+      "matches": [
+        {
+          "stage": "Group Stage",
+          "opponent": "Germany",
+          "minutes": 90,
+          "goals": 1,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group Stage",
+          "opponent": "Ecuador",
+          "minutes": 83,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group Stage",
+          "opponent": "Côte d'Ivoire",
+          "minutes": 61,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 1,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 69,
+      "agility": 71,
+      "skill": 73,
+      "speed": 70,
+      "shooting": 69,
+      "passing": 73,
+      "defending": 68,
+      "physical": 69,
+      "goalkeeping": 52
+    },
+    "overall": 71,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "statsStatus": "matched-community",
+    "sources": [
+      "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+      "https://github.com/mominullptr/FIFA-World-Cup-2026-Dataset",
+      "https://github.com/openfootball/worldcup.json"
+    ]
+  },
+
+  {
+    "id": "curacao-2026-9",
+    "name": "Jürgen Leonardo LOCADIA",
+    "commonName": "LOCADIA Juergen",
+    "shirtNumber": 9,
+    "position": "ATT",
+    "positions": [
+      "ATT"
+    ],
+    "country": "Curaçao",
+    "countrySlug": "curacao",
+    "year": 2026,
+    "edition": "2026",
+    "club": "Miami FC (USA)",
+    "age": 32,
+    "history": {
+      "matchesPlayed": 3,
+      "matches": [
+        {
+          "stage": "Group Stage",
+          "opponent": "Germany",
+          "minutes": 65,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group Stage",
+          "opponent": "Ecuador",
+          "minutes": 83,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group Stage",
+          "opponent": "Côte d'Ivoire",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 68,
+      "agility": 70,
+      "skill": 72,
+      "speed": 69,
+      "shooting": 68,
+      "passing": 72,
+      "defending": 67,
+      "physical": 68,
+      "goalkeeping": 50
+    },
+    "overall": 70,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "statsStatus": "matched-community",
+    "sources": [
+      "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+      "https://github.com/mominullptr/FIFA-World-Cup-2026-Dataset",
+      "https://github.com/openfootball/worldcup.json"
+    ]
+  },
+
+  {
+    "id": "curacao-2026-10",
+    "name": "Leandro Jones Johan BACUNA",
+    "commonName": "BACUNA Leandro",
+    "shirtNumber": 10,
+    "position": "MID",
+    "positions": [
+      "MID"
+    ],
+    "country": "Curaçao",
+    "countrySlug": "curacao",
+    "year": 2026,
+    "edition": "2026",
+    "club": "Iğdır FK (TUR)",
+    "age": 34,
+    "history": {
+      "matchesPlayed": 3,
+      "matches": [
+        {
+          "stage": "Group Stage",
+          "opponent": "Germany",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group Stage",
+          "opponent": "Ecuador",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group Stage",
+          "opponent": "Côte d'Ivoire",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 68,
+      "agility": 70,
+      "skill": 72,
+      "speed": 69,
+      "shooting": 68,
+      "passing": 72,
+      "defending": 67,
+      "physical": 68,
+      "goalkeeping": 50
+    },
+    "overall": 68,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "statsStatus": "matched-community",
+    "sources": [
+      "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+      "https://github.com/mominullptr/FIFA-World-Cup-2026-Dataset",
+      "https://github.com/openfootball/worldcup.json"
+    ]
+  },
+
+  {
+    "id": "curacao-2026-11",
+    "name": "Jeremy Cornelis Jacobus ANTONISSE",
+    "commonName": "ANTONISSE Jeremy",
+    "shirtNumber": 11,
+    "position": "ATT",
+    "positions": [
+      "ATT"
+    ],
+    "country": "Curaçao",
+    "countrySlug": "curacao",
+    "year": 2026,
+    "edition": "2026",
+    "club": "AE Ki sia FC (GRE)",
+    "age": 24,
+    "history": {
+      "matchesPlayed": 2,
+      "matches": [
+        {
+          "stage": "Group Stage",
+          "opponent": "Germany",
+          "minutes": 44,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group Stage",
+          "opponent": "Côte d'Ivoire",
+          "minutes": 29,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 67,
+      "agility": 69,
+      "skill": 71,
+      "speed": 68,
+      "shooting": 67,
+      "passing": 71,
+      "defending": 66,
+      "physical": 67,
+      "goalkeeping": 50
+    },
+    "overall": 69,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "statsStatus": "matched-community",
+    "sources": [
+      "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+      "https://github.com/mominullptr/FIFA-World-Cup-2026-Dataset",
+      "https://github.com/openfootball/worldcup.json"
+    ]
+  },
+
+  {
+    "id": "curacao-2026-12",
+    "name": "Misjonne Juniffer Naigelino HANSEN",
+    "commonName": "HANSEN Sontje",
+    "shirtNumber": 12,
+    "position": "ATT",
+    "positions": [
+      "ATT"
+    ],
+    "country": "Curaçao",
+    "countrySlug": "curacao",
+    "year": 2026,
+    "edition": "2026",
+    "club": "Middlesbrough FC (ENG)",
+    "age": 24,
+    "history": {
+      "matchesPlayed": 1,
+      "matches": [
+        {
+          "stage": "Group Stage",
+          "opponent": "Germany",
+          "minutes": 46,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 66,
+      "agility": 68,
+      "skill": 70,
+      "speed": 67,
+      "shooting": 66,
+      "passing": 70,
+      "defending": 65,
+      "physical": 66,
+      "goalkeeping": 48
+    },
+    "overall": 69,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "statsStatus": "matched-community",
+    "sources": [
+      "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+      "https://github.com/mominullptr/FIFA-World-Cup-2026-Dataset",
+      "https://github.com/openfootball/worldcup.json"
+    ]
+  },
+
+  {
+    "id": "curacao-2026-13",
+    "name": "Tyrese Yurvencey NOSLIN",
+    "commonName": "NOSLIN Tyrese",
+    "shirtNumber": 13,
+    "position": "ATT",
+    "positions": [
+      "ATT"
+    ],
+    "country": "Curaçao",
+    "countrySlug": "curacao",
+    "year": 2026,
+    "edition": "2026",
+    "club": "SC Telstar (NED)",
+    "age": 23,
+    "history": {
+      "matchesPlayed": 1,
+      "matches": [
+        {
+          "stage": "Group Stage",
+          "opponent": "Côte d'Ivoire",
+          "minutes": 13,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 66,
+      "agility": 68,
+      "skill": 70,
+      "speed": 67,
+      "shooting": 66,
+      "passing": 70,
+      "defending": 65,
+      "physical": 66,
+      "goalkeeping": 48
+    },
+    "overall": 68,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "statsStatus": "matched-community",
+    "sources": [
+      "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+      "https://github.com/mominullptr/FIFA-World-Cup-2026-Dataset",
+      "https://github.com/openfootball/worldcup.json"
+    ]
+  },
+
+  {
+    "id": "curacao-2026-14",
+    "name": "Kenji Joël GORRÉ",
+    "commonName": "GORRE Kenji",
+    "shirtNumber": 14,
+    "position": "ATT",
+    "positions": [
+      "ATT"
+    ],
+    "country": "Curaçao",
+    "countrySlug": "curacao",
+    "year": 2026,
+    "edition": "2026",
+    "club": "Maccabi Haifa FC (ISR)",
+    "age": 31,
+    "history": {
+      "matchesPlayed": 1,
+      "matches": [
+        {
+          "stage": "Group Stage",
+          "opponent": "Ecuador",
+          "minutes": 15,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 66,
+      "agility": 68,
+      "skill": 70,
+      "speed": 67,
+      "shooting": 66,
+      "passing": 70,
+      "defending": 65,
+      "physical": 66,
+      "goalkeeping": 48
+    },
+    "overall": 69,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "statsStatus": "matched-community",
+    "sources": [
+      "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+      "https://github.com/mominullptr/FIFA-World-Cup-2026-Dataset",
+      "https://github.com/openfootball/worldcup.json"
+    ]
+  },
+
+  {
+    "id": "curacao-2026-15",
+    "name": "Ar'jany Jainel Archenir MARTHA",
+    "commonName": "MARTHA Arjany",
+    "shirtNumber": 15,
+    "position": "MID",
+    "positions": [
+      "MID"
+    ],
+    "country": "Curaçao",
+    "countrySlug": "curacao",
+    "year": 2026,
+    "edition": "2026",
+    "club": "Rotherham United FC (ENG)",
+    "age": 22,
+    "history": {
+      "matchesPlayed": 0,
+      "matches": [],
+      "goals": 0,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 65,
+      "agility": 67,
+      "skill": 69,
+      "speed": 66,
+      "shooting": 65,
+      "passing": 69,
+      "defending": 64,
+      "physical": 65,
+      "goalkeeping": 48
+    },
+    "overall": 67,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "statsStatus": "matched-community",
+    "sources": [
+      "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+      "https://github.com/mominullptr/FIFA-World-Cup-2026-Dataset",
+      "https://github.com/openfootball/worldcup.json"
+    ]
+  },
+
+  {
+    "id": "curacao-2026-16",
+    "name": "Jearl Erwin MARGARITHA",
+    "commonName": "MARGARITHA Jearl",
+    "shirtNumber": 16,
+    "position": "ATT",
+    "positions": [
+      "ATT"
+    ],
+    "country": "Curaçao",
+    "countrySlug": "curacao",
+    "year": 2026,
+    "edition": "2026",
+    "club": "SK Beveren (BEL)",
+    "age": 26,
+    "history": {
+      "matchesPlayed": 2,
+      "matches": [
+        {
+          "stage": "Group Stage",
+          "opponent": "Germany",
+          "minutes": 25,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group Stage",
+          "opponent": "Ecuador",
+          "minutes": 15,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 67,
+      "agility": 69,
+      "skill": 71,
+      "speed": 68,
+      "shooting": 67,
+      "passing": 71,
+      "defending": 66,
+      "physical": 67,
+      "goalkeeping": 50
+    },
+    "overall": 69,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "statsStatus": "matched-community",
+    "sources": [
+      "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+      "https://github.com/mominullptr/FIFA-World-Cup-2026-Dataset",
+      "https://github.com/openfootball/worldcup.json"
+    ]
+  },
+
+  {
+    "id": "curacao-2026-17",
+    "name": "Brandley Mack-Olien KUWAS",
+    "commonName": "KUWAS Brandley",
+    "shirtNumber": 17,
+    "position": "ATT",
+    "positions": [
+      "ATT"
+    ],
+    "country": "Curaçao",
+    "countrySlug": "curacao",
+    "year": 2026,
+    "edition": "2026",
+    "club": "FC Volendam (NED)",
+    "age": 33,
+    "history": {
+      "matchesPlayed": 1,
+      "matches": [
+        {
+          "stage": "Group Stage",
+          "opponent": "Côte d'Ivoire",
+          "minutes": 1,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 66,
+      "agility": 68,
+      "skill": 70,
+      "speed": 67,
+      "shooting": 66,
+      "passing": 70,
+      "defending": 65,
+      "physical": 66,
+      "goalkeeping": 48
+    },
+    "overall": 67,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "statsStatus": "matched-community",
+    "sources": [
+      "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+      "https://github.com/mominullptr/FIFA-World-Cup-2026-Dataset",
+      "https://github.com/openfootball/worldcup.json"
+    ]
+  },
+
+  {
+    "id": "curacao-2026-18",
+    "name": "Armando Maria OBISPO",
+    "commonName": "OBISPO Armando",
+    "shirtNumber": 18,
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "country": "Curaçao",
+    "countrySlug": "curacao",
+    "year": 2026,
+    "edition": "2026",
+    "club": "PSV Eindhoven (NED)",
+    "age": 27,
+    "history": {
+      "matchesPlayed": 3,
+      "matches": [
+        {
+          "stage": "Group Stage",
+          "opponent": "Germany",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group Stage",
+          "opponent": "Ecuador",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group Stage",
+          "opponent": "Côte d'Ivoire",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 68,
+      "agility": 70,
+      "skill": 72,
+      "speed": 69,
+      "shooting": 68,
+      "passing": 72,
+      "defending": 67,
+      "physical": 68,
+      "goalkeeping": 50
+    },
+    "overall": 74,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "statsStatus": "matched-community",
+    "sources": [
+      "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+      "https://github.com/mominullptr/FIFA-World-Cup-2026-Dataset",
+      "https://github.com/openfootball/worldcup.json"
+    ]
+  },
+
+  {
+    "id": "curacao-2026-19",
+    "name": "Gervane Zjandric Adonnis KASTANEER",
+    "commonName": "KASTANEER Gervane",
+    "shirtNumber": 19,
+    "position": "ATT",
+    "positions": [
+      "ATT"
+    ],
+    "country": "Curaçao",
+    "countrySlug": "curacao",
+    "year": 2026,
+    "edition": "2026",
+    "club": "Terengganu FC (MAS)",
+    "age": 30,
+    "history": {
+      "matchesPlayed": 3,
+      "matches": [
+        {
+          "stage": "Group Stage",
+          "opponent": "Germany",
+          "minutes": 8,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group Stage",
+          "opponent": "Ecuador",
+          "minutes": 7,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 1,
+          "red": 0
+        },
+        {
+          "stage": "Group Stage",
+          "opponent": "Côte d'Ivoire",
+          "minutes": 13,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": 0,
+      "yellowCards": 1,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 68,
+      "agility": 70,
+      "skill": 72,
+      "speed": 69,
+      "shooting": 68,
+      "passing": 72,
+      "defending": 67,
+      "physical": 68,
+      "goalkeeping": 50
+    },
+    "overall": 63,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "statsStatus": "matched-community",
+    "sources": [
+      "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+      "https://github.com/mominullptr/FIFA-World-Cup-2026-Dataset",
+      "https://github.com/openfootball/worldcup.json"
+    ]
+  },
+
+  {
+    "id": "curacao-2026-20",
+    "name": "Joshua Benjamin BRENET",
+    "commonName": "BRENET Joshua",
+    "shirtNumber": 20,
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "country": "Curaçao",
+    "countrySlug": "curacao",
+    "year": 2026,
+    "edition": "2026",
+    "club": "Kayserispor (TUR)",
+    "age": 32,
+    "history": {
+      "matchesPlayed": 2,
+      "matches": [
+        {
+          "stage": "Group Stage",
+          "opponent": "Ecuador",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group Stage",
+          "opponent": "Côte d'Ivoire",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 67,
+      "agility": 69,
+      "skill": 71,
+      "speed": 68,
+      "shooting": 67,
+      "passing": 71,
+      "defending": 66,
+      "physical": 67,
+      "goalkeeping": 50
+    },
+    "overall": 69,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "statsStatus": "matched-community",
+    "sources": [
+      "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+      "https://github.com/mominullptr/FIFA-World-Cup-2026-Dataset",
+      "https://github.com/openfootball/worldcup.json"
+    ]
+  },
+
+  {
+    "id": "curacao-2026-21",
+    "name": "Tahith Jose Girigorio Djorkaef CHONG",
+    "commonName": "CHONG Tahith",
+    "shirtNumber": 21,
+    "position": "MID",
+    "positions": [
+      "MID"
+    ],
+    "country": "Curaçao",
+    "countrySlug": "curacao",
+    "year": 2026,
+    "edition": "2026",
+    "club": "She eld United FC (ENG)",
+    "age": 26,
+    "history": {
+      "matchesPlayed": 3,
+      "matches": [
+        {
+          "stage": "Group Stage",
+          "opponent": "Germany",
+          "minutes": 82,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group Stage",
+          "opponent": "Ecuador",
+          "minutes": 75,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group Stage",
+          "opponent": "Côte d'Ivoire",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 68,
+      "agility": 70,
+      "skill": 72,
+      "speed": 69,
+      "shooting": 68,
+      "passing": 72,
+      "defending": 67,
+      "physical": 68,
+      "goalkeeping": 50
+    },
+    "overall": 70,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "statsStatus": "matched-community",
+    "sources": [
+      "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+      "https://github.com/mominullptr/FIFA-World-Cup-2026-Dataset",
+      "https://github.com/openfootball/worldcup.json"
+    ]
+  },
+
+  {
+    "id": "curacao-2026-22",
+    "name": "Kevin Antonio FELIDA",
+    "commonName": "FELIDA Kevin",
+    "shirtNumber": 22,
+    "position": "MID",
+    "positions": [
+      "MID"
+    ],
+    "country": "Curaçao",
+    "countrySlug": "curacao",
+    "year": 2026,
+    "edition": "2026",
+    "club": "FC Den Bosch (NED)",
+    "age": 26,
+    "history": {
+      "matchesPlayed": 0,
+      "matches": [],
+      "goals": 0,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 65,
+      "agility": 67,
+      "skill": 69,
+      "speed": 66,
+      "shooting": 65,
+      "passing": 69,
+      "defending": 64,
+      "physical": 65,
+      "goalkeeping": 48
+    },
+    "overall": 67,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "statsStatus": "matched-community",
+    "sources": [
+      "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+      "https://github.com/mominullptr/FIFA-World-Cup-2026-Dataset",
+      "https://github.com/openfootball/worldcup.json"
+    ]
+  },
+
+  {
+    "id": "curacao-2026-23",
+    "name": "Riechedly Guillermo BAZOER",
+    "commonName": "BAZOER Riechedly",
+    "shirtNumber": 23,
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "country": "Curaçao",
+    "countrySlug": "curacao",
+    "year": 2026,
+    "edition": "2026",
+    "club": "Konyaspor (TUR)",
+    "age": 29,
+    "history": {
+      "matchesPlayed": 1,
+      "matches": [
+        {
+          "stage": "Group Stage",
+          "opponent": "Germany",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 66,
+      "agility": 68,
+      "skill": 70,
+      "speed": 67,
+      "shooting": 66,
+      "passing": 70,
+      "defending": 65,
+      "physical": 66,
+      "goalkeeping": 48
+    },
+    "overall": 68,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "statsStatus": "matched-community",
+    "sources": [
+      "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+      "https://github.com/mominullptr/FIFA-World-Cup-2026-Dataset",
+      "https://github.com/openfootball/worldcup.json"
+    ]
+  },
+
+  {
+    "id": "curacao-2026-24",
+    "name": "Deveron Lenny FONVILLE",
+    "commonName": "FONVILLE Deveron",
+    "shirtNumber": 24,
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "country": "Curaçao",
+    "countrySlug": "curacao",
+    "year": 2026,
+    "edition": "2026",
+    "club": "NEC Nijmegen (NED)",
+    "age": 23,
+    "history": {
+      "matchesPlayed": 3,
+      "matches": [
+        {
+          "stage": "Group Stage",
+          "opponent": "Germany",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group Stage",
+          "opponent": "Ecuador",
+          "minutes": 75,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group Stage",
+          "opponent": "Côte d'Ivoire",
+          "minutes": 77,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 68,
+      "agility": 70,
+      "skill": 72,
+      "speed": 69,
+      "shooting": 68,
+      "passing": 72,
+      "defending": 67,
+      "physical": 68,
+      "goalkeeping": 50
+    },
+    "overall": 69,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "statsStatus": "matched-community",
+    "sources": [
+      "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+      "https://github.com/mominullptr/FIFA-World-Cup-2026-Dataset",
+      "https://github.com/openfootball/worldcup.json"
+    ]
+  },
+
+  {
+    "id": "curacao-2026-25",
+    "name": "Tyrick Jeremy BODAK",
+    "commonName": "BODAK Tyrick",
+    "shirtNumber": 25,
+    "position": "GK",
+    "positions": [
+      "GK"
+    ],
+    "country": "Curaçao",
+    "countrySlug": "curacao",
+    "year": 2026,
+    "edition": "2026",
+    "club": "SC Telstar (NED)",
+    "age": 24,
+    "history": {
+      "matchesPlayed": 0,
+      "matches": [],
+      "goals": 0,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 63,
+      "agility": 65,
+      "skill": 60,
+      "speed": 60,
+      "shooting": 52,
+      "passing": 62,
+      "defending": 62,
+      "physical": 64,
+      "goalkeeping": 71
+    },
+    "overall": 60,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "statsStatus": "matched-community",
+    "sources": [
+      "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+      "https://github.com/mominullptr/FIFA-World-Cup-2026-Dataset",
+      "https://github.com/openfootball/worldcup.json"
+    ]
+  },
+
+  {
+    "id": "curacao-2026-26",
+    "name": "Trevor Irving DOORNBUSCH",
+    "commonName": "DOORNBUSCH Trevor",
+    "shirtNumber": 26,
+    "position": "GK",
+    "positions": [
+      "GK"
+    ],
+    "country": "Curaçao",
+    "countrySlug": "curacao",
+    "year": 2026,
+    "edition": "2026",
+    "club": "VVV Venlo (NED)",
+    "age": 26,
+    "history": {
+      "matchesPlayed": 0,
+      "matches": [],
+      "goals": 0,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 63,
+      "agility": 65,
+      "skill": 60,
+      "speed": 60,
+      "shooting": 52,
+      "passing": 62,
+      "defending": 62,
+      "physical": 64,
+      "goalkeeping": 71
+    },
+    "overall": 67,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "statsStatus": "matched-community",
+    "sources": [
+      "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+      "https://github.com/mominullptr/FIFA-World-Cup-2026-Dataset",
+      "https://github.com/openfootball/worldcup.json"
+    ]
+  }
+]

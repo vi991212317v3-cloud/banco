@@ -1,0 +1,315 @@
+{
+  "country": "England",
+  "countrySlug": "england",
+  "year": 2018,
+  "edition": "2018",
+  "host": "Russia",
+  "coach": "Gareth Southgate",
+  "finalPhase": "Third-place match",
+  "result": "Fourth place",
+  "squad": [
+    {
+      "id": "england-2018-1",
+      "name": "Jordan Pickford",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "england-2018-2",
+      "name": "Kyle Walker",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "england-2018-3",
+      "name": "Danny Rose",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "england-2018-4",
+      "name": "Eric Dier",
+      "shirtNumber": 4,
+      "position": "MID"
+    },
+    {
+      "id": "england-2018-5",
+      "name": "John Stones",
+      "shirtNumber": 5,
+      "position": "DEF"
+    },
+    {
+      "id": "england-2018-6",
+      "name": "Harry Maguire",
+      "shirtNumber": 6,
+      "position": "DEF"
+    },
+    {
+      "id": "england-2018-7",
+      "name": "Jesse Lingard",
+      "shirtNumber": 7,
+      "position": "MID"
+    },
+    {
+      "id": "england-2018-8",
+      "name": "Jordan Henderson",
+      "shirtNumber": 8,
+      "position": "MID"
+    },
+    {
+      "id": "england-2018-9",
+      "name": "Harry Kane",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "england-2018-10",
+      "name": "Raheem Sterling",
+      "shirtNumber": 10,
+      "position": "ATT"
+    },
+    {
+      "id": "england-2018-11",
+      "name": "Jamie Vardy",
+      "shirtNumber": 11,
+      "position": "ATT"
+    },
+    {
+      "id": "england-2018-12",
+      "name": "Kieran Trippier",
+      "shirtNumber": 12,
+      "position": "DEF"
+    },
+    {
+      "id": "england-2018-13",
+      "name": "Jack Butland",
+      "shirtNumber": 13,
+      "position": "GK"
+    },
+    {
+      "id": "england-2018-14",
+      "name": "Danny Welbeck",
+      "shirtNumber": 14,
+      "position": "ATT"
+    },
+    {
+      "id": "england-2018-15",
+      "name": "Gary Cahill",
+      "shirtNumber": 15,
+      "position": "DEF"
+    },
+    {
+      "id": "england-2018-16",
+      "name": "Phil Jones",
+      "shirtNumber": 16,
+      "position": "DEF"
+    },
+    {
+      "id": "england-2018-17",
+      "name": "Fabian Delph",
+      "shirtNumber": 17,
+      "position": "DEF"
+    },
+    {
+      "id": "england-2018-18",
+      "name": "Ashley Young",
+      "shirtNumber": 18,
+      "position": "DEF"
+    },
+    {
+      "id": "england-2018-19",
+      "name": "Marcus Rashford",
+      "shirtNumber": 19,
+      "position": "ATT"
+    },
+    {
+      "id": "england-2018-20",
+      "name": "Dele Alli",
+      "shirtNumber": 20,
+      "position": "MID"
+    },
+    {
+      "id": "england-2018-21",
+      "name": "Ruben Loftus-Cheek",
+      "shirtNumber": 21,
+      "position": "MID"
+    },
+    {
+      "id": "england-2018-22",
+      "name": "Trent Alexander-Arnold",
+      "shirtNumber": 22,
+      "position": "DEF"
+    },
+    {
+      "id": "england-2018-23",
+      "name": "Nick Pope",
+      "shirtNumber": 23,
+      "position": "GK"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "Tunisia",
+      "score": "1–2",
+      "scorers": [
+        {
+          "name": "Harry Kane",
+          "minute": "11'",
+          "ownGoal": false
+        },
+        {
+          "name": "Ferjani Sassi",
+          "minute": "35'",
+          "ownGoal": false
+        },
+        {
+          "name": "Harry Kane",
+          "minute": "90'+1'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2018-06-18"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Panama",
+      "score": "6–1",
+      "scorers": [
+        {
+          "name": "John Stones",
+          "minute": "8'",
+          "ownGoal": false
+        },
+        {
+          "name": "Harry Kane",
+          "minute": "22'",
+          "ownGoal": false
+        },
+        {
+          "name": "Jesse Lingard",
+          "minute": "36'",
+          "ownGoal": false
+        },
+        {
+          "name": "John Stones",
+          "minute": "40'",
+          "ownGoal": false
+        },
+        {
+          "name": "Harry Kane",
+          "minute": "45'+1'",
+          "ownGoal": false
+        },
+        {
+          "name": "Harry Kane",
+          "minute": "62'",
+          "ownGoal": false
+        },
+        {
+          "name": "Felipe Baloy",
+          "minute": "78'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2018-06-24"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Belgium",
+      "score": "0–1",
+      "scorers": [
+        {
+          "name": "Adnan Januzaj",
+          "minute": "51'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2018-06-28"
+    },
+    {
+      "stage": "Round of 16",
+      "opponent": "Colombia",
+      "score": "1–1",
+      "scorers": [
+        {
+          "name": "Harry Kane",
+          "minute": "57'",
+          "ownGoal": false
+        },
+        {
+          "name": "Yerry Mina",
+          "minute": "90'+3'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2018-07-03"
+    },
+    {
+      "stage": "Quarter-final",
+      "opponent": "Sweden",
+      "score": "0–2",
+      "scorers": [
+        {
+          "name": "Harry Maguire",
+          "minute": "30'",
+          "ownGoal": false
+        },
+        {
+          "name": "Dele Alli",
+          "minute": "59'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2018-07-07"
+    },
+    {
+      "stage": "Semi-final",
+      "opponent": "Croatia",
+      "score": "2–1",
+      "scorers": [
+        {
+          "name": "Kieran Trippier",
+          "minute": "5'",
+          "ownGoal": false
+        },
+        {
+          "name": "Ivan Perišić",
+          "minute": "68'",
+          "ownGoal": false
+        },
+        {
+          "name": "Mario Mandžukić",
+          "minute": "109'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2018-07-11"
+    },
+    {
+      "stage": "Third-place match",
+      "opponent": "Belgium",
+      "score": "2–0",
+      "scorers": [
+        {
+          "name": "Thomas Meunier",
+          "minute": "4'",
+          "ownGoal": false
+        },
+        {
+          "name": "Eden Hazard",
+          "minute": "82'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2018-07-14"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

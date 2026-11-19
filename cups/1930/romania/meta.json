@@ -1,0 +1,167 @@
+{
+  "country": "Romania",
+  "countrySlug": "romania",
+  "year": 1930,
+  "edition": "1930",
+  "host": "Uruguay",
+  "coach": "Costel Rădulescu",
+  "finalPhase": "Group Stage",
+  "result": "Group Stage",
+  "squad": [
+    {
+      "id": "romania-1930-004",
+      "name": "Adalbert Deşu",
+      "shirtNumber": null,
+      "position": "ATT"
+    },
+    {
+      "id": "romania-1930-011",
+      "name": "Adalbert Steiner",
+      "shirtNumber": null,
+      "position": "DEF"
+    },
+    {
+      "id": "romania-1930-005",
+      "name": "Alfred Eisenbeisser",
+      "shirtNumber": null,
+      "position": "MID"
+    },
+    {
+      "id": "romania-1930-010",
+      "name": "Constantin Stanciu",
+      "shirtNumber": null,
+      "position": "ATT"
+    },
+    {
+      "id": "romania-1930-009",
+      "name": "Corneliu Robe",
+      "shirtNumber": null,
+      "position": "MID"
+    },
+    {
+      "id": "romania-1930-013",
+      "name": "Emerich Vogl",
+      "shirtNumber": null,
+      "position": "DEF"
+    },
+    {
+      "id": "romania-1930-012",
+      "name": "Ilie Subăşeanu",
+      "shirtNumber": null,
+      "position": "ATT"
+    },
+    {
+      "id": "romania-1930-007",
+      "name": "Ion Lǎpuşneanu",
+      "shirtNumber": null,
+      "position": "GK"
+    },
+    {
+      "id": "romania-1930-003",
+      "name": "Iosif Czako",
+      "shirtNumber": null,
+      "position": "DEF"
+    },
+    {
+      "id": "romania-1930-008",
+      "name": "László Raffinsky",
+      "shirtNumber": null,
+      "position": "MID"
+    },
+    {
+      "id": "romania-1930-006",
+      "name": "Miklós Kovács",
+      "shirtNumber": null,
+      "position": "ATT"
+    },
+    {
+      "id": "romania-1930-002",
+      "name": "Rudolf Bürger",
+      "shirtNumber": null,
+      "position": "DEF"
+    },
+    {
+      "id": "romania-1930-014",
+      "name": "Rudolf Wetzer",
+      "shirtNumber": null,
+      "position": "ATT"
+    },
+    {
+      "id": "romania-1930-015",
+      "name": "Samuel Zauber",
+      "shirtNumber": null,
+      "position": "GK"
+    },
+    {
+      "id": "romania-1930-001",
+      "name": "Ştefan Barbu",
+      "shirtNumber": null,
+      "position": "ATT"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "Peru",
+      "score": "3–1",
+      "scorers": [
+        {
+          "name": "Adalbert Deşu",
+          "minute": "1'",
+          "ownGoal": false
+        },
+        {
+          "name": "Luis Souza Ferreira",
+          "minute": "75'",
+          "ownGoal": false
+        },
+        {
+          "name": "Constantin Stanciu",
+          "minute": "79'",
+          "ownGoal": false
+        },
+        {
+          "name": "Miklós Kovács",
+          "minute": "89'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1930-07-14"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Uruguay",
+      "score": "4–0",
+      "scorers": [
+        {
+          "name": "Pablo Dorado",
+          "minute": "7'",
+          "ownGoal": false
+        },
+        {
+          "name": "Héctor Scarone",
+          "minute": "26'",
+          "ownGoal": false
+        },
+        {
+          "name": "Peregrino Anselmo",
+          "minute": "31'",
+          "ownGoal": false
+        },
+        {
+          "name": "Pedro Cea",
+          "minute": "35'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1930-07-21"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

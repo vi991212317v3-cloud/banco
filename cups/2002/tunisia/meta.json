@@ -1,0 +1,213 @@
+{
+  "country": "Tunisia",
+  "countrySlug": "tunisia",
+  "year": 2002,
+  "edition": "2002",
+  "host": "Korea, Japan",
+  "coach": "Ammar Souayah",
+  "finalPhase": "Group Stage",
+  "result": "Group Stage",
+  "squad": [
+    {
+      "id": "tunisia-2002-1",
+      "name": "Ali Boumnijel",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "tunisia-2002-2",
+      "name": "Khaled Badra",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "tunisia-2002-3",
+      "name": "Zoubeir Baya",
+      "shirtNumber": 3,
+      "position": "MID"
+    },
+    {
+      "id": "tunisia-2002-4",
+      "name": "Mohamed Mkacher",
+      "shirtNumber": 4,
+      "position": "DEF"
+    },
+    {
+      "id": "tunisia-2002-5",
+      "name": "Ziad Jaziri",
+      "shirtNumber": 5,
+      "position": "ATT"
+    },
+    {
+      "id": "tunisia-2002-6",
+      "name": "Hatem Trabelsi",
+      "shirtNumber": 6,
+      "position": "DEF"
+    },
+    {
+      "id": "tunisia-2002-7",
+      "name": "Imed Mhedhebi",
+      "shirtNumber": 7,
+      "position": "ATT"
+    },
+    {
+      "id": "tunisia-2002-8",
+      "name": "Hassen Gabsi",
+      "shirtNumber": 8,
+      "position": "MID"
+    },
+    {
+      "id": "tunisia-2002-9",
+      "name": "Riadh Jelassi",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "tunisia-2002-10",
+      "name": "Kaies Ghodhbane",
+      "shirtNumber": 10,
+      "position": "MID"
+    },
+    {
+      "id": "tunisia-2002-11",
+      "name": "Adel Sellimi",
+      "shirtNumber": 11,
+      "position": "ATT"
+    },
+    {
+      "id": "tunisia-2002-12",
+      "name": "Raouf Bouzaiene",
+      "shirtNumber": 12,
+      "position": "DEF"
+    },
+    {
+      "id": "tunisia-2002-13",
+      "name": "Riadh Bouazizi",
+      "shirtNumber": 13,
+      "position": "MID"
+    },
+    {
+      "id": "tunisia-2002-14",
+      "name": "Hamdi Marzouki",
+      "shirtNumber": 14,
+      "position": "DEF"
+    },
+    {
+      "id": "tunisia-2002-15",
+      "name": "Radhi Jaïdi",
+      "shirtNumber": 15,
+      "position": "DEF"
+    },
+    {
+      "id": "tunisia-2002-16",
+      "name": "Hassen Bejaoui",
+      "shirtNumber": 16,
+      "position": "GK"
+    },
+    {
+      "id": "tunisia-2002-17",
+      "name": "Tarek Thabet",
+      "shirtNumber": 17,
+      "position": "DEF"
+    },
+    {
+      "id": "tunisia-2002-18",
+      "name": "Selim Benachour",
+      "shirtNumber": 18,
+      "position": "MID"
+    },
+    {
+      "id": "tunisia-2002-19",
+      "name": "Emir Mkademi",
+      "shirtNumber": 19,
+      "position": "DEF"
+    },
+    {
+      "id": "tunisia-2002-20",
+      "name": "Ali Zitouni",
+      "shirtNumber": 20,
+      "position": "ATT"
+    },
+    {
+      "id": "tunisia-2002-21",
+      "name": "Mourad Melki",
+      "shirtNumber": 21,
+      "position": "MID"
+    },
+    {
+      "id": "tunisia-2002-22",
+      "name": "Ahmed El-Jaouachi",
+      "shirtNumber": 22,
+      "position": "GK"
+    },
+    {
+      "id": "tunisia-2002-23",
+      "name": "José Clayton",
+      "shirtNumber": 23,
+      "position": "DEF"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "Russia",
+      "score": "2–0",
+      "scorers": [
+        {
+          "name": "Yegor Titov",
+          "minute": "59'",
+          "ownGoal": false
+        },
+        {
+          "name": "Valeri Karpin",
+          "minute": "64'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2002-06-05"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Belgium",
+      "score": "1–1",
+      "scorers": [
+        {
+          "name": "Marc Wilmots",
+          "minute": "13'",
+          "ownGoal": false
+        },
+        {
+          "name": "Raouf Bouzaiene",
+          "minute": "17'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2002-06-10"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Japan",
+      "score": "0–2",
+      "scorers": [
+        {
+          "name": "Hiroaki Morishima",
+          "minute": "48'",
+          "ownGoal": false
+        },
+        {
+          "name": "Hidetoshi Nakata",
+          "minute": "75'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2002-06-14"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

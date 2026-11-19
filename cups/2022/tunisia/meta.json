@@ -1,0 +1,210 @@
+{
+  "country": "Tunisia",
+  "countrySlug": "tunisia",
+  "year": 2022,
+  "edition": "2022",
+  "host": "Qatar",
+  "coach": "Jalel Kadri",
+  "finalPhase": "Group Stage",
+  "result": "Group Stage",
+  "squad": [
+    {
+      "id": "tunisia-2022-1",
+      "name": "Aymen Mathlouthi",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "tunisia-2022-2",
+      "name": "Bilel Ifa",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "tunisia-2022-3",
+      "name": "Montassar Talbi",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "tunisia-2022-4",
+      "name": "Yassine Meriah",
+      "shirtNumber": 4,
+      "position": "DEF"
+    },
+    {
+      "id": "tunisia-2022-5",
+      "name": "Nader Ghandri",
+      "shirtNumber": 5,
+      "position": "MID"
+    },
+    {
+      "id": "tunisia-2022-6",
+      "name": "Dylan Bronn",
+      "shirtNumber": 6,
+      "position": "DEF"
+    },
+    {
+      "id": "tunisia-2022-7",
+      "name": "Youssef Msakni",
+      "shirtNumber": 7,
+      "position": "ATT"
+    },
+    {
+      "id": "tunisia-2022-8",
+      "name": "Hannibal Mejbri",
+      "shirtNumber": 8,
+      "position": "MID"
+    },
+    {
+      "id": "tunisia-2022-9",
+      "name": "Issam Jebali",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "tunisia-2022-10",
+      "name": "Wahbi Khazri",
+      "shirtNumber": 10,
+      "position": "ATT"
+    },
+    {
+      "id": "tunisia-2022-11",
+      "name": "Taha Yassine Khenissi",
+      "shirtNumber": 11,
+      "position": "ATT"
+    },
+    {
+      "id": "tunisia-2022-12",
+      "name": "Ali Maâloul",
+      "shirtNumber": 12,
+      "position": "DEF"
+    },
+    {
+      "id": "tunisia-2022-13",
+      "name": "Ferjani Sassi",
+      "shirtNumber": 13,
+      "position": "MID"
+    },
+    {
+      "id": "tunisia-2022-14",
+      "name": "Aïssa Laïdouni",
+      "shirtNumber": 14,
+      "position": "MID"
+    },
+    {
+      "id": "tunisia-2022-15",
+      "name": "Mohamed Ali Ben Romdhane",
+      "shirtNumber": 15,
+      "position": "MID"
+    },
+    {
+      "id": "tunisia-2022-16",
+      "name": "Aymen Dahmen",
+      "shirtNumber": 16,
+      "position": "GK"
+    },
+    {
+      "id": "tunisia-2022-17",
+      "name": "Ellyes Skhiri",
+      "shirtNumber": 17,
+      "position": "MID"
+    },
+    {
+      "id": "tunisia-2022-18",
+      "name": "Ghailene Chaalali",
+      "shirtNumber": 18,
+      "position": "MID"
+    },
+    {
+      "id": "tunisia-2022-19",
+      "name": "Seifeddine Jaziri",
+      "shirtNumber": 19,
+      "position": "ATT"
+    },
+    {
+      "id": "tunisia-2022-20",
+      "name": "Mohamed Dräger",
+      "shirtNumber": 20,
+      "position": "DEF"
+    },
+    {
+      "id": "tunisia-2022-21",
+      "name": "Wajdi Kechrida",
+      "shirtNumber": 21,
+      "position": "DEF"
+    },
+    {
+      "id": "tunisia-2022-22",
+      "name": "Bechir Ben Saïd",
+      "shirtNumber": 22,
+      "position": "GK"
+    },
+    {
+      "id": "tunisia-2022-23",
+      "name": "Naïm Sliti",
+      "shirtNumber": 23,
+      "position": "ATT"
+    },
+    {
+      "id": "tunisia-2022-24",
+      "name": "Ali Abdi",
+      "shirtNumber": 24,
+      "position": "DEF"
+    },
+    {
+      "id": "tunisia-2022-25",
+      "name": "Anis Ben Slimane",
+      "shirtNumber": 25,
+      "position": "ATT"
+    },
+    {
+      "id": "tunisia-2022-26",
+      "name": "Mouez Hassen",
+      "shirtNumber": 26,
+      "position": "GK"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "Denmark",
+      "score": "0–0",
+      "scorers": [],
+      "date": "2022-11-22"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Australia",
+      "score": "0–1",
+      "scorers": [
+        {
+          "name": "Mitchell Duke",
+          "minute": "23'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2022-11-26"
+    },
+    {
+      "stage": "Group",
+      "opponent": "France",
+      "score": "1–0",
+      "scorers": [
+        {
+          "name": "Wahbi Khazri",
+          "minute": "58'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2022-11-30"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

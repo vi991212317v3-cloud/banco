@@ -1,0 +1,216 @@
+{
+  "country": "Bulgaria",
+  "countrySlug": "bulgaria",
+  "year": 1962,
+  "edition": "1962",
+  "host": "Chile",
+  "coach": "Georgi Pachedzhiev",
+  "finalPhase": "Group Stage",
+  "result": "Group Stage",
+  "squad": [
+    {
+      "id": "bulgaria-1962-1",
+      "name": "Georgi Naydenov",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "bulgaria-1962-2",
+      "name": "Kiril Rakarov",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "bulgaria-1962-3",
+      "name": "Ivan Dimitrov",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "bulgaria-1962-4",
+      "name": "Stoyan Kitov",
+      "shirtNumber": 4,
+      "position": "MID"
+    },
+    {
+      "id": "bulgaria-1962-5",
+      "name": "Dimitar Kostov",
+      "shirtNumber": 5,
+      "position": "DEF"
+    },
+    {
+      "id": "bulgaria-1962-6",
+      "name": "Nikola Kovachev",
+      "shirtNumber": 6,
+      "position": "MID"
+    },
+    {
+      "id": "bulgaria-1962-7",
+      "name": "Todor Diev",
+      "shirtNumber": 7,
+      "position": "MID"
+    },
+    {
+      "id": "bulgaria-1962-8",
+      "name": "Dimitar Dimov",
+      "shirtNumber": 8,
+      "position": "DEF"
+    },
+    {
+      "id": "bulgaria-1962-9",
+      "name": "Hristo Iliev",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "bulgaria-1962-10",
+      "name": "Ivan Kolev",
+      "shirtNumber": 10,
+      "position": "ATT"
+    },
+    {
+      "id": "bulgaria-1962-11",
+      "name": "Dimitar Yakimov",
+      "shirtNumber": 11,
+      "position": "ATT"
+    },
+    {
+      "id": "bulgaria-1962-12",
+      "name": "Dobromir Zhechev",
+      "shirtNumber": 12,
+      "position": "DEF"
+    },
+    {
+      "id": "bulgaria-1962-13",
+      "name": "Petar Velichkov",
+      "shirtNumber": 13,
+      "position": "ATT"
+    },
+    {
+      "id": "bulgaria-1962-14",
+      "name": "Georgi Sokolov",
+      "shirtNumber": 14,
+      "position": "ATT"
+    },
+    {
+      "id": "bulgaria-1962-15",
+      "name": "Georgi Asparuhov",
+      "shirtNumber": 15,
+      "position": "ATT"
+    },
+    {
+      "id": "bulgaria-1962-16",
+      "name": "Aleksandar Kostov",
+      "shirtNumber": 16,
+      "position": "MID"
+    },
+    {
+      "id": "bulgaria-1962-17",
+      "name": "Panteley Dimitrov",
+      "shirtNumber": 17,
+      "position": "MID"
+    },
+    {
+      "id": "bulgaria-1962-18",
+      "name": "Ivan Ivanov",
+      "shirtNumber": 18,
+      "position": "GK"
+    },
+    {
+      "id": "bulgaria-1962-19",
+      "name": "Dinko Dermendzhiev",
+      "shirtNumber": 19,
+      "position": "ATT"
+    },
+    {
+      "id": "bulgaria-1962-20",
+      "name": "Nikola Parshanov",
+      "shirtNumber": 20,
+      "position": "GK"
+    },
+    {
+      "id": "bulgaria-1962-21",
+      "name": "Panayot Panayotov",
+      "shirtNumber": 21,
+      "position": "ATT"
+    },
+    {
+      "id": "bulgaria-1962-22",
+      "name": "Georgi Nikolov",
+      "shirtNumber": 22,
+      "position": "ATT"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "Argentina",
+      "score": "1–0",
+      "scorers": [
+        {
+          "name": "Héctor Facundo",
+          "minute": "4'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1962-05-30"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Hungary",
+      "score": "6–1",
+      "scorers": [
+        {
+          "name": "Flórián Albert",
+          "minute": "1'",
+          "ownGoal": false
+        },
+        {
+          "name": "Flórián Albert",
+          "minute": "6'",
+          "ownGoal": false
+        },
+        {
+          "name": "Lajos Tichy",
+          "minute": "8'",
+          "ownGoal": false
+        },
+        {
+          "name": "Ernő Solymosi",
+          "minute": "12'",
+          "ownGoal": false
+        },
+        {
+          "name": "Flórián Albert",
+          "minute": "53'",
+          "ownGoal": false
+        },
+        {
+          "name": "Georgi Sokolov",
+          "minute": "64'",
+          "ownGoal": false
+        },
+        {
+          "name": "Lajos Tichy",
+          "minute": "70'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1962-06-03"
+    },
+    {
+      "stage": "Group",
+      "opponent": "England",
+      "score": "0–0",
+      "scorers": [],
+      "date": "1962-06-07"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

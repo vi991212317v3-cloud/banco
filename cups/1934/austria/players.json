@@ -1,0 +1,1170 @@
+[
+  {
+    "id": "austria-1934-008",
+    "name": "Anton Janda",
+    "commonName": "Anton Janda",
+    "shirtNumber": null,
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "country": "Austria",
+    "countrySlug": "austria",
+    "year": 1934,
+    "edition": "1934",
+    "club": null,
+    "age": 30,
+    "history": {
+      "matchesPlayed": null,
+      "matches": [],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": null,
+      "redCards": null
+    },
+    "attributes": {
+      "strength": 71,
+      "agility": 73,
+      "skill": 75,
+      "speed": 72,
+      "shooting": 71,
+      "passing": 75,
+      "defending": 70,
+      "physical": 71,
+      "goalkeeping": 54
+    },
+    "overall": 73,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "austria-1934-012",
+    "name": "Anton Schall",
+    "commonName": "Anton Schall",
+    "shirtNumber": null,
+    "position": "ATT",
+    "positions": [
+      "ATT"
+    ],
+    "country": "Austria",
+    "countrySlug": "austria",
+    "year": 1934,
+    "edition": "1934",
+    "club": null,
+    "age": 26,
+    "history": {
+      "matchesPlayed": null,
+      "matches": [
+        {
+          "stage": "Round of 16",
+          "opponent": "France",
+          "minutes": null,
+          "goals": 1,
+          "assists": null,
+          "yellow": null,
+          "red": null
+        }
+      ],
+      "goals": 1,
+      "assists": null,
+      "yellowCards": null,
+      "redCards": null
+    },
+    "attributes": {
+      "strength": 72,
+      "agility": 74,
+      "skill": 76,
+      "speed": 73,
+      "shooting": 72,
+      "passing": 76,
+      "defending": 71,
+      "physical": 72,
+      "goalkeeping": 54
+    },
+    "overall": 74,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "austria-1934-003",
+    "name": "Franz Cisar",
+    "commonName": "Franz Cisar",
+    "shirtNumber": null,
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "country": "Austria",
+    "countrySlug": "austria",
+    "year": 1934,
+    "edition": "1934",
+    "club": null,
+    "age": 25,
+    "history": {
+      "matchesPlayed": null,
+      "matches": [],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": null,
+      "redCards": null
+    },
+    "attributes": {
+      "strength": 71,
+      "agility": 73,
+      "skill": 75,
+      "speed": 72,
+      "shooting": 71,
+      "passing": 75,
+      "defending": 70,
+      "physical": 71,
+      "goalkeeping": 54
+    },
+    "overall": 73,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "austria-1934-020",
+    "name": "Franz Wagner",
+    "commonName": "Franz Wagner",
+    "shirtNumber": null,
+    "position": "MID",
+    "positions": [
+      "MID"
+    ],
+    "country": "Austria",
+    "countrySlug": "austria",
+    "year": 1934,
+    "edition": "1934",
+    "club": null,
+    "age": 22,
+    "history": {
+      "matchesPlayed": null,
+      "matches": [],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": null,
+      "redCards": null
+    },
+    "attributes": {
+      "strength": 71,
+      "agility": 73,
+      "skill": 75,
+      "speed": 72,
+      "shooting": 71,
+      "passing": 75,
+      "defending": 70,
+      "physical": 71,
+      "goalkeeping": 54
+    },
+    "overall": 73,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "austria-1934-004",
+    "name": "Friederich Franzl",
+    "commonName": "Friederich Franzl",
+    "shirtNumber": null,
+    "position": "GK",
+    "positions": [
+      "GK"
+    ],
+    "country": "Austria",
+    "countrySlug": "austria",
+    "year": 1934,
+    "edition": "1934",
+    "club": null,
+    "age": 29,
+    "history": {
+      "matchesPlayed": null,
+      "matches": [],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": null,
+      "redCards": null
+    },
+    "attributes": {
+      "strength": 69,
+      "agility": 71,
+      "skill": 66,
+      "speed": 66,
+      "shooting": 58,
+      "passing": 68,
+      "defending": 68,
+      "physical": 70,
+      "goalkeeping": 77
+    },
+    "overall": 73,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "austria-1934-002",
+    "name": "Georg Braun",
+    "commonName": "Georg Braun",
+    "shirtNumber": null,
+    "position": "ATT",
+    "positions": [
+      "ATT"
+    ],
+    "country": "Austria",
+    "countrySlug": "austria",
+    "year": 1934,
+    "edition": "1934",
+    "club": null,
+    "age": 27,
+    "history": {
+      "matchesPlayed": null,
+      "matches": [],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": null,
+      "redCards": null
+    },
+    "attributes": {
+      "strength": 71,
+      "agility": 73,
+      "skill": 75,
+      "speed": 72,
+      "shooting": 71,
+      "passing": 75,
+      "defending": 70,
+      "physical": 71,
+      "goalkeeping": 54
+    },
+    "overall": 73,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "austria-1934-021",
+    "name": "Hans Walzhofer",
+    "commonName": "Hans Walzhofer",
+    "shirtNumber": null,
+    "position": "ATT",
+    "positions": [
+      "ATT"
+    ],
+    "country": "Austria",
+    "countrySlug": "austria",
+    "year": 1934,
+    "edition": "1934",
+    "club": null,
+    "age": 28,
+    "history": {
+      "matchesPlayed": null,
+      "matches": [],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": null,
+      "redCards": null
+    },
+    "attributes": {
+      "strength": 71,
+      "agility": 73,
+      "skill": 75,
+      "speed": 72,
+      "shooting": 71,
+      "passing": 75,
+      "defending": 70,
+      "physical": 71,
+      "goalkeeping": 54
+    },
+    "overall": 73,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "austria-1934-007",
+    "name": "Johann Horvath",
+    "commonName": "Johann Horvath",
+    "shirtNumber": null,
+    "position": "ATT",
+    "positions": [
+      "ATT"
+    ],
+    "country": "Austria",
+    "countrySlug": "austria",
+    "year": 1934,
+    "edition": "1934",
+    "club": null,
+    "age": 31,
+    "history": {
+      "matchesPlayed": null,
+      "matches": [
+        {
+          "stage": "Quarter-final",
+          "opponent": "Hungary",
+          "minutes": null,
+          "goals": 1,
+          "assists": null,
+          "yellow": null,
+          "red": null
+        },
+        {
+          "stage": "Third-place match",
+          "opponent": "Germany",
+          "minutes": null,
+          "goals": 1,
+          "assists": null,
+          "yellow": null,
+          "red": null
+        }
+      ],
+      "goals": 2,
+      "assists": null,
+      "yellowCards": null,
+      "redCards": null
+    },
+    "attributes": {
+      "strength": 74,
+      "agility": 76,
+      "skill": 78,
+      "speed": 75,
+      "shooting": 74,
+      "passing": 78,
+      "defending": 73,
+      "physical": 74,
+      "goalkeeping": 56
+    },
+    "overall": 76,
+    "tier": "RARE",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "austria-1934-018",
+    "name": "Johann Urbanek",
+    "commonName": "Johann Urbanek",
+    "shirtNumber": null,
+    "position": "MID",
+    "positions": [
+      "MID"
+    ],
+    "country": "Austria",
+    "countrySlug": "austria",
+    "year": 1934,
+    "edition": "1934",
+    "club": null,
+    "age": 23,
+    "history": {
+      "matchesPlayed": null,
+      "matches": [],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": null,
+      "redCards": null
+    },
+    "attributes": {
+      "strength": 71,
+      "agility": 73,
+      "skill": 75,
+      "speed": 72,
+      "shooting": 71,
+      "passing": 75,
+      "defending": 70,
+      "physical": 71,
+      "goalkeeping": 54
+    },
+    "overall": 73,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "austria-1934-001",
+    "name": "Josef Bican",
+    "commonName": "Josef Bican",
+    "shirtNumber": null,
+    "position": "ATT",
+    "positions": [
+      "ATT"
+    ],
+    "country": "Austria",
+    "countrySlug": "austria",
+    "year": 1934,
+    "edition": "1934",
+    "club": null,
+    "age": 20,
+    "history": {
+      "matchesPlayed": null,
+      "matches": [
+        {
+          "stage": "Round of 16",
+          "opponent": "France",
+          "minutes": null,
+          "goals": 1,
+          "assists": null,
+          "yellow": null,
+          "red": null
+        }
+      ],
+      "goals": 1,
+      "assists": null,
+      "yellowCards": null,
+      "redCards": null
+    },
+    "attributes": {
+      "strength": 72,
+      "agility": 74,
+      "skill": 76,
+      "speed": 73,
+      "shooting": 72,
+      "passing": 76,
+      "defending": 71,
+      "physical": 72,
+      "goalkeeping": 54
+    },
+    "overall": 74,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "austria-1934-005",
+    "name": "Josef Hassmann",
+    "commonName": "Josef Hassmann",
+    "shirtNumber": null,
+    "position": "ATT",
+    "positions": [
+      "ATT"
+    ],
+    "country": "Austria",
+    "countrySlug": "austria",
+    "year": 1934,
+    "edition": "1934",
+    "club": null,
+    "age": 24,
+    "history": {
+      "matchesPlayed": null,
+      "matches": [],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": null,
+      "redCards": null
+    },
+    "attributes": {
+      "strength": 71,
+      "agility": 73,
+      "skill": 75,
+      "speed": 72,
+      "shooting": 71,
+      "passing": 75,
+      "defending": 70,
+      "physical": 71,
+      "goalkeeping": 54
+    },
+    "overall": 73,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "austria-1934-016",
+    "name": "Josef Smistik",
+    "commonName": "Josef Smistik",
+    "shirtNumber": null,
+    "position": "MID",
+    "positions": [
+      "MID"
+    ],
+    "country": "Austria",
+    "countrySlug": "austria",
+    "year": 1934,
+    "edition": "1934",
+    "club": null,
+    "age": 28,
+    "history": {
+      "matchesPlayed": null,
+      "matches": [],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": null,
+      "redCards": null
+    },
+    "attributes": {
+      "strength": 71,
+      "agility": 73,
+      "skill": 75,
+      "speed": 72,
+      "shooting": 71,
+      "passing": 75,
+      "defending": 70,
+      "physical": 71,
+      "goalkeeping": 54
+    },
+    "overall": 73,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "austria-1934-017",
+    "name": "Josef Stroh",
+    "commonName": "Josef Stroh",
+    "shirtNumber": null,
+    "position": "ATT",
+    "positions": [
+      "ATT"
+    ],
+    "country": "Austria",
+    "countrySlug": "austria",
+    "year": 1934,
+    "edition": "1934",
+    "club": null,
+    "age": 21,
+    "history": {
+      "matchesPlayed": null,
+      "matches": [],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": null,
+      "redCards": null
+    },
+    "attributes": {
+      "strength": 71,
+      "agility": 73,
+      "skill": 75,
+      "speed": 72,
+      "shooting": 71,
+      "passing": 75,
+      "defending": 70,
+      "physical": 71,
+      "goalkeeping": 54
+    },
+    "overall": 73,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "austria-1934-014",
+    "name": "Karl Sesta",
+    "commonName": "Karl Sesta",
+    "shirtNumber": null,
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "country": "Austria",
+    "countrySlug": "austria",
+    "year": 1934,
+    "edition": "1934",
+    "club": null,
+    "age": 28,
+    "history": {
+      "matchesPlayed": null,
+      "matches": [
+        {
+          "stage": "Third-place match",
+          "opponent": "Germany",
+          "minutes": null,
+          "goals": 1,
+          "assists": null,
+          "yellow": null,
+          "red": null
+        }
+      ],
+      "goals": 1,
+      "assists": null,
+      "yellowCards": null,
+      "redCards": null
+    },
+    "attributes": {
+      "strength": 72,
+      "agility": 74,
+      "skill": 76,
+      "speed": 73,
+      "shooting": 72,
+      "passing": 76,
+      "defending": 71,
+      "physical": 72,
+      "goalkeeping": 54
+    },
+    "overall": 74,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "austria-1934-022",
+    "name": "Karl Zischek",
+    "commonName": "Karl Zischek",
+    "shirtNumber": null,
+    "position": "ATT",
+    "positions": [
+      "ATT"
+    ],
+    "country": "Austria",
+    "countrySlug": "austria",
+    "year": 1934,
+    "edition": "1934",
+    "club": null,
+    "age": 23,
+    "history": {
+      "matchesPlayed": null,
+      "matches": [
+        {
+          "stage": "Quarter-final",
+          "opponent": "Hungary",
+          "minutes": null,
+          "goals": 1,
+          "assists": null,
+          "yellow": null,
+          "red": null
+        }
+      ],
+      "goals": 1,
+      "assists": null,
+      "yellowCards": null,
+      "redCards": null
+    },
+    "attributes": {
+      "strength": 72,
+      "agility": 74,
+      "skill": 76,
+      "speed": 73,
+      "shooting": 72,
+      "passing": 76,
+      "defending": 71,
+      "physical": 72,
+      "goalkeeping": 54
+    },
+    "overall": 74,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "austria-1934-006",
+    "name": "Leopold Hofmann",
+    "commonName": "Leopold Hofmann",
+    "shirtNumber": null,
+    "position": "MID",
+    "positions": [
+      "MID"
+    ],
+    "country": "Austria",
+    "countrySlug": "austria",
+    "year": 1934,
+    "edition": "1934",
+    "club": null,
+    "age": 28,
+    "history": {
+      "matchesPlayed": null,
+      "matches": [],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": null,
+      "redCards": null
+    },
+    "attributes": {
+      "strength": 71,
+      "agility": 73,
+      "skill": 75,
+      "speed": 72,
+      "shooting": 71,
+      "passing": 75,
+      "defending": 70,
+      "physical": 71,
+      "goalkeeping": 54
+    },
+    "overall": 73,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "austria-1934-009",
+    "name": "Matthias Kaburek",
+    "commonName": "Matthias Kaburek",
+    "shirtNumber": null,
+    "position": "ATT",
+    "positions": [
+      "ATT"
+    ],
+    "country": "Austria",
+    "countrySlug": "austria",
+    "year": 1934,
+    "edition": "1934",
+    "club": null,
+    "age": 23,
+    "history": {
+      "matchesPlayed": null,
+      "matches": [],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": null,
+      "redCards": null
+    },
+    "attributes": {
+      "strength": 71,
+      "agility": 73,
+      "skill": 75,
+      "speed": 72,
+      "shooting": 71,
+      "passing": 75,
+      "defending": 70,
+      "physical": 71,
+      "goalkeeping": 54
+    },
+    "overall": 73,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "austria-1934-015",
+    "name": "Matthias Sindelar",
+    "commonName": "Matthias Sindelar",
+    "shirtNumber": null,
+    "position": "ATT",
+    "positions": [
+      "ATT"
+    ],
+    "country": "Austria",
+    "countrySlug": "austria",
+    "year": 1934,
+    "edition": "1934",
+    "club": null,
+    "age": 31,
+    "history": {
+      "matchesPlayed": null,
+      "matches": [
+        {
+          "stage": "Round of 16",
+          "opponent": "France",
+          "minutes": null,
+          "goals": 1,
+          "assists": null,
+          "yellow": null,
+          "red": null
+        }
+      ],
+      "goals": 1,
+      "assists": null,
+      "yellowCards": null,
+      "redCards": null
+    },
+    "attributes": {
+      "strength": 72,
+      "agility": 74,
+      "skill": 76,
+      "speed": 73,
+      "shooting": 72,
+      "passing": 76,
+      "defending": 71,
+      "physical": 72,
+      "goalkeeping": 54
+    },
+    "overall": 74,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "austria-1934-010",
+    "name": "Peter Platzer",
+    "commonName": "Peter Platzer",
+    "shirtNumber": null,
+    "position": "GK",
+    "positions": [
+      "GK"
+    ],
+    "country": "Austria",
+    "countrySlug": "austria",
+    "year": 1934,
+    "edition": "1934",
+    "club": null,
+    "age": 23,
+    "history": {
+      "matchesPlayed": null,
+      "matches": [],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": null,
+      "redCards": null
+    },
+    "attributes": {
+      "strength": 69,
+      "agility": 71,
+      "skill": 66,
+      "speed": 66,
+      "shooting": 58,
+      "passing": 68,
+      "defending": 68,
+      "physical": 70,
+      "goalkeeping": 77
+    },
+    "overall": 73,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "austria-1934-011",
+    "name": "Rudolf Raftl",
+    "commonName": "Rudolf Raftl",
+    "shirtNumber": null,
+    "position": "GK",
+    "positions": [
+      "GK"
+    ],
+    "country": "Austria",
+    "countrySlug": "austria",
+    "year": 1934,
+    "edition": "1934",
+    "club": null,
+    "age": 23,
+    "history": {
+      "matchesPlayed": null,
+      "matches": [],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": null,
+      "redCards": null
+    },
+    "attributes": {
+      "strength": 69,
+      "agility": 71,
+      "skill": 66,
+      "speed": 66,
+      "shooting": 58,
+      "passing": 68,
+      "defending": 68,
+      "physical": 70,
+      "goalkeeping": 77
+    },
+    "overall": 73,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "austria-1934-019",
+    "name": "Rudolf Viertl",
+    "commonName": "Rudolf Viertl",
+    "shirtNumber": null,
+    "position": "ATT",
+    "positions": [
+      "ATT"
+    ],
+    "country": "Austria",
+    "countrySlug": "austria",
+    "year": 1934,
+    "edition": "1934",
+    "club": null,
+    "age": 31,
+    "history": {
+      "matchesPlayed": null,
+      "matches": [],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": null,
+      "redCards": null
+    },
+    "attributes": {
+      "strength": 71,
+      "agility": 73,
+      "skill": 75,
+      "speed": 72,
+      "shooting": 71,
+      "passing": 75,
+      "defending": 70,
+      "physical": 71,
+      "goalkeeping": 54
+    },
+    "overall": 73,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "austria-1934-013",
+    "name": "Willibald Schmaus",
+    "commonName": "Willibald Schmaus",
+    "shirtNumber": null,
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "country": "Austria",
+    "countrySlug": "austria",
+    "year": 1934,
+    "edition": "1934",
+    "club": null,
+    "age": 22,
+    "history": {
+      "matchesPlayed": null,
+      "matches": [],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": null,
+      "redCards": null
+    },
+    "attributes": {
+      "strength": 71,
+      "agility": 73,
+      "skill": 75,
+      "speed": 72,
+      "shooting": 71,
+      "passing": 75,
+      "defending": 70,
+      "physical": 71,
+      "goalkeeping": 54
+    },
+    "overall": 73,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  }
+]

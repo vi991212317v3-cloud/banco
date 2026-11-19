@@ -1,0 +1,215 @@
+{
+  "country": "Denmark",
+  "countrySlug": "denmark",
+  "year": 2018,
+  "edition": "2018",
+  "host": "Russia",
+  "coach": "Åge Hareide",
+  "finalPhase": "Round of 16",
+  "result": "Round of 16",
+  "squad": [
+    {
+      "id": "denmark-2018-1",
+      "name": "Kasper Schmeichel",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "denmark-2018-2",
+      "name": "Michael Krohn-Dehli",
+      "shirtNumber": 2,
+      "position": "MID"
+    },
+    {
+      "id": "denmark-2018-3",
+      "name": "Jannik Vestergaard",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "denmark-2018-4",
+      "name": "Simon Kjær",
+      "shirtNumber": 4,
+      "position": "DEF"
+    },
+    {
+      "id": "denmark-2018-5",
+      "name": "Jonas Knudsen",
+      "shirtNumber": 5,
+      "position": "DEF"
+    },
+    {
+      "id": "denmark-2018-6",
+      "name": "Andreas Christensen",
+      "shirtNumber": 6,
+      "position": "DEF"
+    },
+    {
+      "id": "denmark-2018-7",
+      "name": "William Kvist",
+      "shirtNumber": 7,
+      "position": "MID"
+    },
+    {
+      "id": "denmark-2018-8",
+      "name": "Thomas Delaney",
+      "shirtNumber": 8,
+      "position": "MID"
+    },
+    {
+      "id": "denmark-2018-9",
+      "name": "Nicolai Jørgensen",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "denmark-2018-10",
+      "name": "Christian Eriksen",
+      "shirtNumber": 10,
+      "position": "MID"
+    },
+    {
+      "id": "denmark-2018-11",
+      "name": "Martin Braithwaite",
+      "shirtNumber": 11,
+      "position": "ATT"
+    },
+    {
+      "id": "denmark-2018-12",
+      "name": "Kasper Dolberg",
+      "shirtNumber": 12,
+      "position": "ATT"
+    },
+    {
+      "id": "denmark-2018-13",
+      "name": "Mathias Jørgensen",
+      "shirtNumber": 13,
+      "position": "DEF"
+    },
+    {
+      "id": "denmark-2018-14",
+      "name": "Henrik Dalsgaard",
+      "shirtNumber": 14,
+      "position": "DEF"
+    },
+    {
+      "id": "denmark-2018-15",
+      "name": "Viktor Fischer",
+      "shirtNumber": 15,
+      "position": "ATT"
+    },
+    {
+      "id": "denmark-2018-16",
+      "name": "Jonas Lössl",
+      "shirtNumber": 16,
+      "position": "GK"
+    },
+    {
+      "id": "denmark-2018-17",
+      "name": "Jens Stryger Larsen",
+      "shirtNumber": 17,
+      "position": "DEF"
+    },
+    {
+      "id": "denmark-2018-18",
+      "name": "Lukas Lerager",
+      "shirtNumber": 18,
+      "position": "MID"
+    },
+    {
+      "id": "denmark-2018-19",
+      "name": "Lasse Schöne",
+      "shirtNumber": 19,
+      "position": "MID"
+    },
+    {
+      "id": "denmark-2018-20",
+      "name": "Yussuf Poulsen",
+      "shirtNumber": 20,
+      "position": "ATT"
+    },
+    {
+      "id": "denmark-2018-21",
+      "name": "Andreas Cornelius",
+      "shirtNumber": 21,
+      "position": "ATT"
+    },
+    {
+      "id": "denmark-2018-22",
+      "name": "Frederik Rønnow",
+      "shirtNumber": 22,
+      "position": "GK"
+    },
+    {
+      "id": "denmark-2018-23",
+      "name": "Pione Sisto",
+      "shirtNumber": 23,
+      "position": "ATT"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "Peru",
+      "score": "0–1",
+      "scorers": [
+        {
+          "name": "Yussuf Poulsen",
+          "minute": "59'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2018-06-16"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Australia",
+      "score": "1–1",
+      "scorers": [
+        {
+          "name": "Christian Eriksen",
+          "minute": "7'",
+          "ownGoal": false
+        },
+        {
+          "name": "Mile Jedinak",
+          "minute": "38'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2018-06-21"
+    },
+    {
+      "stage": "Group",
+      "opponent": "France",
+      "score": "0–0",
+      "scorers": [],
+      "date": "2018-06-26"
+    },
+    {
+      "stage": "Round of 16",
+      "opponent": "Croatia",
+      "score": "1–1",
+      "scorers": [
+        {
+          "name": "Mathias Jørgensen",
+          "minute": "1'",
+          "ownGoal": false
+        },
+        {
+          "name": "Mario Mandžukić",
+          "minute": "4'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2018-07-01"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

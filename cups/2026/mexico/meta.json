@@ -1,0 +1,282 @@
+{
+  "country": "Mexico",
+  "countrySlug": "mexico",
+  "year": 2026,
+  "edition": "2026",
+  "host": "Canada, Mexico and United States",
+  "coach": "AGUIRRE Javier",
+  "finalPhase": "Round of 16",
+  "result": "Round of 16",
+  "squad": [
+    {
+      "id": "mexico-2026-1",
+      "name": "José Raúl RANGEL AGUILAR",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "mexico-2026-2",
+      "name": "Jorge Eduardo SÁNCHEZ RAMOS",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "mexico-2026-3",
+      "name": "César Jasib MONTES CASTRO",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "mexico-2026-4",
+      "name": "Edson Omar ÁLVAREZ VELÁZQUEZ",
+      "shirtNumber": 4,
+      "position": "DEF"
+    },
+    {
+      "id": "mexico-2026-5",
+      "name": "Johan Felipe VÁSQUEZ IBARRA",
+      "shirtNumber": 5,
+      "position": "DEF"
+    },
+    {
+      "id": "mexico-2026-6",
+      "name": "Erik Antonio LIRA MÉNDEZ",
+      "shirtNumber": 6,
+      "position": "MID"
+    },
+    {
+      "id": "mexico-2026-7",
+      "name": "Luis Francisco ROMO BARRÓN",
+      "shirtNumber": 7,
+      "position": "MID"
+    },
+    {
+      "id": "mexico-2026-8",
+      "name": "Álvaro FIDALGO FERNÁNDEZ",
+      "shirtNumber": 8,
+      "position": "MID"
+    },
+    {
+      "id": "mexico-2026-9",
+      "name": "Raúl Alonso JIMÉNEZ RODRÍGUEZ",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "mexico-2026-10",
+      "name": "Ernesto Alexis VEGA ROJAS",
+      "shirtNumber": 10,
+      "position": "ATT"
+    },
+    {
+      "id": "mexico-2026-11",
+      "name": "Santiago Tomás GIMENEZ",
+      "shirtNumber": 11,
+      "position": "ATT"
+    },
+    {
+      "id": "mexico-2026-12",
+      "name": "Carlos ACEVEDO LÓPEZ",
+      "shirtNumber": 12,
+      "position": "GK"
+    },
+    {
+      "id": "mexico-2026-13",
+      "name": "Francisco Guillermo OCHOA MAGAÑA",
+      "shirtNumber": 13,
+      "position": "GK"
+    },
+    {
+      "id": "mexico-2026-14",
+      "name": "Armando GONZÁLEZ ALBA",
+      "shirtNumber": 14,
+      "position": "ATT"
+    },
+    {
+      "id": "mexico-2026-15",
+      "name": "Israel REYES ROMERO",
+      "shirtNumber": 15,
+      "position": "DEF"
+    },
+    {
+      "id": "mexico-2026-16",
+      "name": "Julián Andrés QUIÑONES QUIÑONES",
+      "shirtNumber": 16,
+      "position": "ATT"
+    },
+    {
+      "id": "mexico-2026-17",
+      "name": "Orbelín PINEDA ALVARADO",
+      "shirtNumber": 17,
+      "position": "MID"
+    },
+    {
+      "id": "mexico-2026-18",
+      "name": "Obed Goméz VARGAS",
+      "shirtNumber": 18,
+      "position": "MID"
+    },
+    {
+      "id": "mexico-2026-19",
+      "name": "Gilberto Rafael MORA ZAMBRANO",
+      "shirtNumber": 19,
+      "position": "MID"
+    },
+    {
+      "id": "mexico-2026-20",
+      "name": "Mateo CHÁVEZ GARCÍA",
+      "shirtNumber": 20,
+      "position": "DEF"
+    },
+    {
+      "id": "mexico-2026-21",
+      "name": "César Saúl HUERTA VALERA",
+      "shirtNumber": 21,
+      "position": "ATT"
+    },
+    {
+      "id": "mexico-2026-22",
+      "name": "Guillermo MARTÍNEZ AYALA",
+      "shirtNumber": 22,
+      "position": "ATT"
+    },
+    {
+      "id": "mexico-2026-23",
+      "name": "Jesús Daniel GALLARDO VASCONCELOS",
+      "shirtNumber": 23,
+      "position": "DEF"
+    },
+    {
+      "id": "mexico-2026-24",
+      "name": "Luis Gerardo CHÁVEZ MAGALLÓN",
+      "shirtNumber": 24,
+      "position": "MID"
+    },
+    {
+      "id": "mexico-2026-25",
+      "name": "Roberto Carlos ALVARADO HERNÁNDEZ",
+      "shirtNumber": 25,
+      "position": "ATT"
+    },
+    {
+      "id": "mexico-2026-26",
+      "name": "Brian GUTIÉRREZ",
+      "shirtNumber": 26,
+      "position": "MID"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group Stage",
+      "opponent": "South Africa",
+      "score": "2–0",
+      "scorers": [
+        {
+          "name": "Julián Andrés QUIÑONES QUIÑONES",
+          "minute": 9,
+          "ownGoal": false
+        },
+        {
+          "name": "Raúl Alonso JIMÉNEZ RODRÍGUEZ",
+          "minute": 67,
+          "ownGoal": false
+        }
+      ],
+      "date": "2026-06-11"
+    },
+    {
+      "stage": "Group Stage",
+      "opponent": "South Korea",
+      "score": "1–0",
+      "scorers": [
+        {
+          "name": "Luis Francisco ROMO BARRÓN",
+          "minute": 50,
+          "ownGoal": false
+        }
+      ],
+      "date": "2026-06-18"
+    },
+    {
+      "stage": "Group Stage",
+      "opponent": "Czechia",
+      "score": "0–3",
+      "scorers": [
+        {
+          "name": "Mateo CHÁVEZ GARCÍA",
+          "minute": 55,
+          "ownGoal": false
+        },
+        {
+          "name": "Julián Andrés QUIÑONES QUIÑONES",
+          "minute": 61,
+          "ownGoal": false
+        },
+        {
+          "name": "Álvaro FIDALGO FERNÁNDEZ",
+          "minute": 90,
+          "ownGoal": false
+        }
+      ],
+      "date": "2026-06-24"
+    },
+    {
+      "stage": "Round of 32",
+      "opponent": "Ecuador",
+      "score": "2–0",
+      "scorers": [
+        {
+          "name": "Julián Andrés QUIÑONES QUIÑONES",
+          "minute": 22,
+          "ownGoal": false
+        },
+        {
+          "name": "Raúl Alonso JIMÉNEZ RODRÍGUEZ",
+          "minute": 31,
+          "ownGoal": false
+        }
+      ],
+      "date": "2026-07-01"
+    },
+    {
+      "stage": "Round of 16",
+      "opponent": "England",
+      "score": "2–3",
+      "scorers": [
+        {
+          "name": "Jude Victor William BELLINGHAM",
+          "minute": 36,
+          "ownGoal": false
+        },
+        {
+          "name": "Jude Victor William BELLINGHAM",
+          "minute": 38,
+          "ownGoal": false
+        },
+        {
+          "name": "Julián Andrés QUIÑONES QUIÑONES",
+          "minute": 42,
+          "ownGoal": false
+        },
+        {
+          "name": "Harry Edward KANE",
+          "minute": 60,
+          "ownGoal": false
+        },
+        {
+          "name": "Raúl Alonso JIMÉNEZ RODRÍGUEZ",
+          "minute": 69,
+          "ownGoal": false
+        }
+      ],
+      "date": "2026-07-06"
+    }
+  ],
+  "sources": [
+    "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/final-tournament-standings",
+    "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/teams",
+    "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+    "https://github.com/openfootball/worldcup.json",
+    "https://github.com/mominullptr/FIFA-World-Cup-2026-Dataset"
+  ]
+}

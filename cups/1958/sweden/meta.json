@@ -1,0 +1,295 @@
+{
+  "country": "Sweden",
+  "countrySlug": "sweden",
+  "year": 1958,
+  "edition": "1958",
+  "host": "Sweden",
+  "coach": "George Raynor",
+  "finalPhase": "Final",
+  "result": "Runner-up",
+  "squad": [
+    {
+      "id": "sweden-1958-1",
+      "name": "Kalle Svensson",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "sweden-1958-2",
+      "name": "Orvar Bergmark",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "sweden-1958-3",
+      "name": "Sven Axbom",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "sweden-1958-4",
+      "name": "Nils Liedholm",
+      "shirtNumber": 4,
+      "position": "MID"
+    },
+    {
+      "id": "sweden-1958-5",
+      "name": "Åke Johansson",
+      "shirtNumber": 5,
+      "position": "DEF"
+    },
+    {
+      "id": "sweden-1958-6",
+      "name": "Sigge Parling",
+      "shirtNumber": 6,
+      "position": "MID"
+    },
+    {
+      "id": "sweden-1958-7",
+      "name": "Kurt Hamrin",
+      "shirtNumber": 7,
+      "position": "MID"
+    },
+    {
+      "id": "sweden-1958-8",
+      "name": "Gunnar Gren",
+      "shirtNumber": 8,
+      "position": "ATT"
+    },
+    {
+      "id": "sweden-1958-9",
+      "name": "Agne Simonsson",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "sweden-1958-10",
+      "name": "Arne Selmosson",
+      "shirtNumber": 10,
+      "position": "ATT"
+    },
+    {
+      "id": "sweden-1958-11",
+      "name": "Lennart Skoglund",
+      "shirtNumber": 11,
+      "position": "MID"
+    },
+    {
+      "id": "sweden-1958-12",
+      "name": "Tore Svensson",
+      "shirtNumber": 12,
+      "position": "GK"
+    },
+    {
+      "id": "sweden-1958-13",
+      "name": "Prawitz Öberg",
+      "shirtNumber": 13,
+      "position": "DEF"
+    },
+    {
+      "id": "sweden-1958-14",
+      "name": "Bengt Gustavsson",
+      "shirtNumber": 14,
+      "position": "DEF"
+    },
+    {
+      "id": "sweden-1958-15",
+      "name": "Reino Börjesson",
+      "shirtNumber": 15,
+      "position": "MID"
+    },
+    {
+      "id": "sweden-1958-16",
+      "name": "Ingemar Haraldsson",
+      "shirtNumber": 16,
+      "position": "GK"
+    },
+    {
+      "id": "sweden-1958-17",
+      "name": "Olle Håkansson",
+      "shirtNumber": 17,
+      "position": "MID"
+    },
+    {
+      "id": "sweden-1958-18",
+      "name": "Gösta Löfgren",
+      "shirtNumber": 18,
+      "position": "ATT"
+    },
+    {
+      "id": "sweden-1958-19",
+      "name": "Henry Källgren",
+      "shirtNumber": 19,
+      "position": "ATT"
+    },
+    {
+      "id": "sweden-1958-20",
+      "name": "Bror Mellberg",
+      "shirtNumber": 20,
+      "position": "ATT"
+    },
+    {
+      "id": "sweden-1958-21",
+      "name": "Bengt Berndtsson",
+      "shirtNumber": 21,
+      "position": "MID"
+    },
+    {
+      "id": "sweden-1958-22",
+      "name": "Owe Ohlsson",
+      "shirtNumber": 22,
+      "position": "ATT"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "Mexico",
+      "score": "3–0",
+      "scorers": [
+        {
+          "name": "Agne Simonsson",
+          "minute": "17'",
+          "ownGoal": false
+        },
+        {
+          "name": "Nils Liedholm",
+          "minute": "57'",
+          "ownGoal": false
+        },
+        {
+          "name": "Agne Simonsson",
+          "minute": "64'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1958-06-08"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Hungary",
+      "score": "2–1",
+      "scorers": [
+        {
+          "name": "Kurt Hamrin",
+          "minute": "34'",
+          "ownGoal": false
+        },
+        {
+          "name": "Kurt Hamrin",
+          "minute": "55'",
+          "ownGoal": false
+        },
+        {
+          "name": "Lajos Tichy",
+          "minute": "77'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1958-06-12"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Wales",
+      "score": "0–0",
+      "scorers": [],
+      "date": "1958-06-15"
+    },
+    {
+      "stage": "Quarter-final",
+      "opponent": "Soviet Union",
+      "score": "2–0",
+      "scorers": [
+        {
+          "name": "Kurt Hamrin",
+          "minute": "49'",
+          "ownGoal": false
+        },
+        {
+          "name": "Agne Simonsson",
+          "minute": "88'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1958-06-19"
+    },
+    {
+      "stage": "Semi-final",
+      "opponent": "West Germany",
+      "score": "3–1",
+      "scorers": [
+        {
+          "name": "Hans Schäfer",
+          "minute": "24'",
+          "ownGoal": false
+        },
+        {
+          "name": "Lennart Skoglund",
+          "minute": "32'",
+          "ownGoal": false
+        },
+        {
+          "name": "Gunnar Gren",
+          "minute": "81'",
+          "ownGoal": false
+        },
+        {
+          "name": "Kurt Hamrin",
+          "minute": "88'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1958-06-24"
+    },
+    {
+      "stage": "Final",
+      "opponent": "Brazil",
+      "score": "5–2",
+      "scorers": [
+        {
+          "name": "Nils Liedholm",
+          "minute": "4'",
+          "ownGoal": false
+        },
+        {
+          "name": "Vavá",
+          "minute": "9'",
+          "ownGoal": false
+        },
+        {
+          "name": "Vavá",
+          "minute": "32'",
+          "ownGoal": false
+        },
+        {
+          "name": "Pelé",
+          "minute": "55'",
+          "ownGoal": false
+        },
+        {
+          "name": "Mário Zagallo",
+          "minute": "68'",
+          "ownGoal": false
+        },
+        {
+          "name": "Agne Simonsson",
+          "minute": "80'",
+          "ownGoal": false
+        },
+        {
+          "name": "Pelé",
+          "minute": "90'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1958-06-29"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

@@ -1,0 +1,244 @@
+{
+  "country": "Ghana",
+  "countrySlug": "ghana",
+  "year": 2010,
+  "edition": "2010",
+  "host": "South Africa",
+  "coach": "Milovan Rajevac",
+  "finalPhase": "Quarter-final",
+  "result": "Quarter-final",
+  "squad": [
+    {
+      "id": "ghana-2010-1",
+      "name": "Daniel Agyei",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "ghana-2010-2",
+      "name": "Hans Sarpei",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "ghana-2010-3",
+      "name": "Asamoah Gyan",
+      "shirtNumber": 3,
+      "position": "ATT"
+    },
+    {
+      "id": "ghana-2010-4",
+      "name": "John Paintsil",
+      "shirtNumber": 4,
+      "position": "DEF"
+    },
+    {
+      "id": "ghana-2010-5",
+      "name": "John Mensah",
+      "shirtNumber": 5,
+      "position": "DEF"
+    },
+    {
+      "id": "ghana-2010-6",
+      "name": "Anthony Annan",
+      "shirtNumber": 6,
+      "position": "MID"
+    },
+    {
+      "id": "ghana-2010-7",
+      "name": "Samuel Inkoom",
+      "shirtNumber": 7,
+      "position": "DEF"
+    },
+    {
+      "id": "ghana-2010-8",
+      "name": "Jonathan Mensah",
+      "shirtNumber": 8,
+      "position": "DEF"
+    },
+    {
+      "id": "ghana-2010-9",
+      "name": "Derek Boateng",
+      "shirtNumber": 9,
+      "position": "MID"
+    },
+    {
+      "id": "ghana-2010-10",
+      "name": "Stephen Appiah",
+      "shirtNumber": 10,
+      "position": "MID"
+    },
+    {
+      "id": "ghana-2010-11",
+      "name": "Sulley Muntari",
+      "shirtNumber": 11,
+      "position": "MID"
+    },
+    {
+      "id": "ghana-2010-12",
+      "name": "Prince Tagoe",
+      "shirtNumber": 12,
+      "position": "ATT"
+    },
+    {
+      "id": "ghana-2010-13",
+      "name": "André Ayew",
+      "shirtNumber": 13,
+      "position": "MID"
+    },
+    {
+      "id": "ghana-2010-14",
+      "name": "Matthew Amoah",
+      "shirtNumber": 14,
+      "position": "ATT"
+    },
+    {
+      "id": "ghana-2010-15",
+      "name": "Isaac Vorsah",
+      "shirtNumber": 15,
+      "position": "DEF"
+    },
+    {
+      "id": "ghana-2010-16",
+      "name": "Stephen Ahorlu",
+      "shirtNumber": 16,
+      "position": "GK"
+    },
+    {
+      "id": "ghana-2010-17",
+      "name": "Ibrahim Ayew",
+      "shirtNumber": 17,
+      "position": "DEF"
+    },
+    {
+      "id": "ghana-2010-18",
+      "name": "Dominic Adiyiah",
+      "shirtNumber": 18,
+      "position": "ATT"
+    },
+    {
+      "id": "ghana-2010-19",
+      "name": "Lee Addy",
+      "shirtNumber": 19,
+      "position": "DEF"
+    },
+    {
+      "id": "ghana-2010-20",
+      "name": "Quincy Owusu-Abeyie",
+      "shirtNumber": 20,
+      "position": "MID"
+    },
+    {
+      "id": "ghana-2010-21",
+      "name": "Kwadwo Asamoah",
+      "shirtNumber": 21,
+      "position": "MID"
+    },
+    {
+      "id": "ghana-2010-22",
+      "name": "Richard Kingson",
+      "shirtNumber": 22,
+      "position": "GK"
+    },
+    {
+      "id": "ghana-2010-23",
+      "name": "Kevin-Prince Boateng",
+      "shirtNumber": 23,
+      "position": "MID"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "Serbia",
+      "score": "0–1",
+      "scorers": [
+        {
+          "name": "Asamoah Gyan",
+          "minute": "85'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2010-06-13"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Australia",
+      "score": "1–1",
+      "scorers": [
+        {
+          "name": "Brett Holman",
+          "minute": "11'",
+          "ownGoal": false
+        },
+        {
+          "name": "Asamoah Gyan",
+          "minute": "25'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2010-06-19"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Germany",
+      "score": "0–1",
+      "scorers": [
+        {
+          "name": "Mesut Özil",
+          "minute": "60'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2010-06-23"
+    },
+    {
+      "stage": "Round of 16",
+      "opponent": "United States",
+      "score": "1–2",
+      "scorers": [
+        {
+          "name": "Kevin-Prince Boateng",
+          "minute": "5'",
+          "ownGoal": false
+        },
+        {
+          "name": "Landon Donovan",
+          "minute": "62'",
+          "ownGoal": false
+        },
+        {
+          "name": "Asamoah Gyan",
+          "minute": "93'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2010-06-26"
+    },
+    {
+      "stage": "Quarter-final",
+      "opponent": "Uruguay",
+      "score": "1–1",
+      "scorers": [
+        {
+          "name": "Sulley Muntari",
+          "minute": "45'+2'",
+          "ownGoal": false
+        },
+        {
+          "name": "Diego Forlán",
+          "minute": "55'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2010-07-02"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

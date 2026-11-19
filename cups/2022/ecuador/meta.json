@@ -1,0 +1,236 @@
+{
+  "country": "Ecuador",
+  "countrySlug": "ecuador",
+  "year": 2022,
+  "edition": "2022",
+  "host": "Qatar",
+  "coach": "Gustavo Alfaro",
+  "finalPhase": "Group Stage",
+  "result": "Group Stage",
+  "squad": [
+    {
+      "id": "ecuador-2022-1",
+      "name": "Hernán Galíndez",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "ecuador-2022-2",
+      "name": "Félix Torres",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "ecuador-2022-3",
+      "name": "Piero Hincapié",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "ecuador-2022-4",
+      "name": "Robert Arboleda",
+      "shirtNumber": 4,
+      "position": "DEF"
+    },
+    {
+      "id": "ecuador-2022-5",
+      "name": "José Cifuentes",
+      "shirtNumber": 5,
+      "position": "MID"
+    },
+    {
+      "id": "ecuador-2022-6",
+      "name": "William Pacho",
+      "shirtNumber": 6,
+      "position": "DEF"
+    },
+    {
+      "id": "ecuador-2022-7",
+      "name": "Pervis Estupiñán",
+      "shirtNumber": 7,
+      "position": "DEF"
+    },
+    {
+      "id": "ecuador-2022-8",
+      "name": "Carlos Gruezo",
+      "shirtNumber": 8,
+      "position": "MID"
+    },
+    {
+      "id": "ecuador-2022-9",
+      "name": "Ayrton Preciado",
+      "shirtNumber": 9,
+      "position": "MID"
+    },
+    {
+      "id": "ecuador-2022-10",
+      "name": "Romario Ibarra",
+      "shirtNumber": 10,
+      "position": "MID"
+    },
+    {
+      "id": "ecuador-2022-11",
+      "name": "Michael Estrada",
+      "shirtNumber": 11,
+      "position": "ATT"
+    },
+    {
+      "id": "ecuador-2022-12",
+      "name": "Moisés Ramírez",
+      "shirtNumber": 12,
+      "position": "GK"
+    },
+    {
+      "id": "ecuador-2022-13",
+      "name": "Enner Valencia",
+      "shirtNumber": 13,
+      "position": "ATT"
+    },
+    {
+      "id": "ecuador-2022-14",
+      "name": "Xavier Arreaga",
+      "shirtNumber": 14,
+      "position": "DEF"
+    },
+    {
+      "id": "ecuador-2022-15",
+      "name": "Ángel Mena",
+      "shirtNumber": 15,
+      "position": "MID"
+    },
+    {
+      "id": "ecuador-2022-16",
+      "name": "Jeremy Sarmiento",
+      "shirtNumber": 16,
+      "position": "MID"
+    },
+    {
+      "id": "ecuador-2022-17",
+      "name": "Ángelo Preciado",
+      "shirtNumber": 17,
+      "position": "DEF"
+    },
+    {
+      "id": "ecuador-2022-18",
+      "name": "Diego Palacios",
+      "shirtNumber": 18,
+      "position": "DEF"
+    },
+    {
+      "id": "ecuador-2022-19",
+      "name": "Gonzalo Plata",
+      "shirtNumber": 19,
+      "position": "MID"
+    },
+    {
+      "id": "ecuador-2022-20",
+      "name": "Sebas Méndez",
+      "shirtNumber": 20,
+      "position": "MID"
+    },
+    {
+      "id": "ecuador-2022-21",
+      "name": "Alan Franco",
+      "shirtNumber": 21,
+      "position": "MID"
+    },
+    {
+      "id": "ecuador-2022-22",
+      "name": "Alexander Domínguez",
+      "shirtNumber": 22,
+      "position": "GK"
+    },
+    {
+      "id": "ecuador-2022-23",
+      "name": "Moisés Caicedo",
+      "shirtNumber": 23,
+      "position": "MID"
+    },
+    {
+      "id": "ecuador-2022-24",
+      "name": "Djorkaeff Reasco",
+      "shirtNumber": 24,
+      "position": "ATT"
+    },
+    {
+      "id": "ecuador-2022-25",
+      "name": "Jackson Porozo",
+      "shirtNumber": 25,
+      "position": "DEF"
+    },
+    {
+      "id": "ecuador-2022-26",
+      "name": "Kevin Rodríguez",
+      "shirtNumber": 26,
+      "position": "ATT"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "Qatar",
+      "score": "0–2",
+      "scorers": [
+        {
+          "name": "Enner Valencia",
+          "minute": "16'",
+          "ownGoal": false
+        },
+        {
+          "name": "Enner Valencia",
+          "minute": "31'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2022-11-20"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Netherlands",
+      "score": "1–1",
+      "scorers": [
+        {
+          "name": "Cody Gakpo",
+          "minute": "6'",
+          "ownGoal": false
+        },
+        {
+          "name": "Enner Valencia",
+          "minute": "49'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2022-11-25"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Senegal",
+      "score": "1–2",
+      "scorers": [
+        {
+          "name": "Ismaïla Sarr",
+          "minute": "44'",
+          "ownGoal": false
+        },
+        {
+          "name": "Moisés Caicedo",
+          "minute": "67'",
+          "ownGoal": false
+        },
+        {
+          "name": "Kalidou Koulibaly",
+          "minute": "70'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2022-11-29"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

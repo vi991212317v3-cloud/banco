@@ -1,0 +1,1932 @@
+[
+  {
+    "id": "france-1986-1",
+    "name": "Joël Bats",
+    "commonName": "Joël Bats",
+    "shirtNumber": 1,
+    "position": "GK",
+    "positions": [
+      "GK"
+    ],
+    "country": "France",
+    "countrySlug": "france",
+    "year": 1986,
+    "edition": "1986",
+    "club": null,
+    "age": 29,
+    "history": {
+      "matchesPlayed": 6,
+      "matches": [
+        {
+          "stage": "Group",
+          "opponent": "Canada",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group",
+          "opponent": "Soviet Union",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group",
+          "opponent": "Hungary",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Round of 16",
+          "opponent": "Italy",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Quarter-final",
+          "opponent": "Brazil",
+          "minutes": 120,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Semi-final",
+          "opponent": "West Germany",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 70,
+      "agility": 72,
+      "skill": 67,
+      "speed": 67,
+      "shooting": 59,
+      "passing": 69,
+      "defending": 69,
+      "physical": 71,
+      "goalkeeping": 78
+    },
+    "overall": 74,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "france-1986-2",
+    "name": "Manuel Amoros",
+    "commonName": "Manuel Amoros",
+    "shirtNumber": 2,
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "country": "France",
+    "countrySlug": "france",
+    "year": 1986,
+    "edition": "1986",
+    "club": null,
+    "age": 24,
+    "history": {
+      "matchesPlayed": 7,
+      "matches": [
+        {
+          "stage": "Group",
+          "opponent": "Canada",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group",
+          "opponent": "Soviet Union",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 1,
+          "red": 0
+        },
+        {
+          "stage": "Group",
+          "opponent": "Hungary",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Round of 16",
+          "opponent": "Italy",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Quarter-final",
+          "opponent": "Brazil",
+          "minutes": 120,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Semi-final",
+          "opponent": "West Germany",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Third-place match",
+          "opponent": "Belgium",
+          "minutes": 120,
+          "goals": 1,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 1,
+      "assists": null,
+      "yellowCards": 1,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 74,
+      "agility": 76,
+      "skill": 78,
+      "speed": 75,
+      "shooting": 74,
+      "passing": 78,
+      "defending": 73,
+      "physical": 74,
+      "goalkeeping": 56
+    },
+    "overall": 76,
+    "tier": "RARE",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "france-1986-3",
+    "name": "William Ayache",
+    "commonName": "William Ayache",
+    "shirtNumber": 3,
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "country": "France",
+    "countrySlug": "france",
+    "year": 1986,
+    "edition": "1986",
+    "club": null,
+    "age": 25,
+    "history": {
+      "matchesPlayed": 4,
+      "matches": [
+        {
+          "stage": "Group",
+          "opponent": "Soviet Union",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group",
+          "opponent": "Hungary",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 1,
+          "red": 0
+        },
+        {
+          "stage": "Round of 16",
+          "opponent": "Italy",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 1,
+          "red": 0
+        },
+        {
+          "stage": "Semi-final",
+          "opponent": "West Germany",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": 2,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 70,
+      "agility": 72,
+      "skill": 74,
+      "speed": 71,
+      "shooting": 70,
+      "passing": 74,
+      "defending": 69,
+      "physical": 70,
+      "goalkeeping": 52
+    },
+    "overall": 72,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "france-1986-4",
+    "name": "Patrick Battiston",
+    "commonName": "Patrick Battiston",
+    "shirtNumber": 4,
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "country": "France",
+    "countrySlug": "france",
+    "year": 1986,
+    "edition": "1986",
+    "club": null,
+    "age": 29,
+    "history": {
+      "matchesPlayed": 7,
+      "matches": [
+        {
+          "stage": "Group",
+          "opponent": "Canada",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group",
+          "opponent": "Soviet Union",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group",
+          "opponent": "Hungary",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Round of 16",
+          "opponent": "Italy",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Quarter-final",
+          "opponent": "Brazil",
+          "minutes": 120,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Semi-final",
+          "opponent": "West Germany",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Third-place match",
+          "opponent": "Belgium",
+          "minutes": 120,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 73,
+      "agility": 75,
+      "skill": 77,
+      "speed": 74,
+      "shooting": 73,
+      "passing": 77,
+      "defending": 72,
+      "physical": 73,
+      "goalkeeping": 56
+    },
+    "overall": 75,
+    "tier": "RARE",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "france-1986-5",
+    "name": "Michel Bibard",
+    "commonName": "Michel Bibard",
+    "shirtNumber": 5,
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "country": "France",
+    "countrySlug": "france",
+    "year": 1986,
+    "edition": "1986",
+    "club": null,
+    "age": 27,
+    "history": {
+      "matchesPlayed": 1,
+      "matches": [
+        {
+          "stage": "Third-place match",
+          "opponent": "Belgium",
+          "minutes": 120,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 66,
+      "agility": 68,
+      "skill": 70,
+      "speed": 67,
+      "shooting": 66,
+      "passing": 70,
+      "defending": 65,
+      "physical": 66,
+      "goalkeeping": 48
+    },
+    "overall": 68,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "france-1986-6",
+    "name": "Maxime Bossis",
+    "commonName": "Maxime Bossis",
+    "shirtNumber": 6,
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "country": "France",
+    "countrySlug": "france",
+    "year": 1986,
+    "edition": "1986",
+    "club": null,
+    "age": 30,
+    "history": {
+      "matchesPlayed": 7,
+      "matches": [
+        {
+          "stage": "Group",
+          "opponent": "Canada",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group",
+          "opponent": "Soviet Union",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group",
+          "opponent": "Hungary",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Round of 16",
+          "opponent": "Italy",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Quarter-final",
+          "opponent": "Brazil",
+          "minutes": 120,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Semi-final",
+          "opponent": "West Germany",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Third-place match",
+          "opponent": "Belgium",
+          "minutes": 64,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 73,
+      "agility": 75,
+      "skill": 77,
+      "speed": 74,
+      "shooting": 73,
+      "passing": 77,
+      "defending": 72,
+      "physical": 73,
+      "goalkeeping": 56
+    },
+    "overall": 75,
+    "tier": "RARE",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "france-1986-7",
+    "name": "Yvon Le Roux",
+    "commonName": "Yvon Le Roux",
+    "shirtNumber": 7,
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "country": "France",
+    "countrySlug": "france",
+    "year": 1986,
+    "edition": "1986",
+    "club": null,
+    "age": 26,
+    "history": {
+      "matchesPlayed": 1,
+      "matches": [
+        {
+          "stage": "Third-place match",
+          "opponent": "Belgium",
+          "minutes": 56,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 66,
+      "agility": 68,
+      "skill": 70,
+      "speed": 67,
+      "shooting": 66,
+      "passing": 70,
+      "defending": 65,
+      "physical": 66,
+      "goalkeeping": 48
+    },
+    "overall": 68,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "france-1986-8",
+    "name": "Thierry Tusseau",
+    "commonName": "Thierry Tusseau",
+    "shirtNumber": 8,
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "country": "France",
+    "countrySlug": "france",
+    "year": 1986,
+    "edition": "1986",
+    "club": null,
+    "age": 28,
+    "history": {
+      "matchesPlayed": 4,
+      "matches": [
+        {
+          "stage": "Group",
+          "opponent": "Canada",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Round of 16",
+          "opponent": "Italy",
+          "minutes": 17,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Quarter-final",
+          "opponent": "Brazil",
+          "minutes": 120,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Third-place match",
+          "opponent": "Belgium",
+          "minutes": 36,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 70,
+      "agility": 72,
+      "skill": 74,
+      "speed": 71,
+      "shooting": 70,
+      "passing": 74,
+      "defending": 69,
+      "physical": 70,
+      "goalkeeping": 52
+    },
+    "overall": 72,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "france-1986-9",
+    "name": "Luis Fernández",
+    "commonName": "Luis Fernández",
+    "shirtNumber": 9,
+    "position": "MID",
+    "positions": [
+      "MID"
+    ],
+    "country": "France",
+    "countrySlug": "france",
+    "year": 1986,
+    "edition": "1986",
+    "club": null,
+    "age": 26,
+    "history": {
+      "matchesPlayed": 6,
+      "matches": [
+        {
+          "stage": "Group",
+          "opponent": "Canada",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group",
+          "opponent": "Soviet Union",
+          "minutes": 90,
+          "goals": 1,
+          "assists": null,
+          "yellow": 1,
+          "red": 0
+        },
+        {
+          "stage": "Group",
+          "opponent": "Hungary",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Round of 16",
+          "opponent": "Italy",
+          "minutes": 73,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Quarter-final",
+          "opponent": "Brazil",
+          "minutes": 120,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Semi-final",
+          "opponent": "West Germany",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 1,
+          "red": 0
+        }
+      ],
+      "goals": 1,
+      "assists": null,
+      "yellowCards": 2,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 73,
+      "agility": 75,
+      "skill": 77,
+      "speed": 74,
+      "shooting": 73,
+      "passing": 77,
+      "defending": 72,
+      "physical": 73,
+      "goalkeeping": 56
+    },
+    "overall": 75,
+    "tier": "RARE",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "france-1986-10",
+    "name": "Michel Platini",
+    "commonName": "Michel Platini",
+    "shirtNumber": 10,
+    "position": "MID",
+    "positions": [
+      "MID"
+    ],
+    "country": "France",
+    "countrySlug": "france",
+    "year": 1986,
+    "edition": "1986",
+    "club": null,
+    "age": 30,
+    "history": {
+      "matchesPlayed": 6,
+      "matches": [
+        {
+          "stage": "Group",
+          "opponent": "Canada",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group",
+          "opponent": "Soviet Union",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group",
+          "opponent": "Hungary",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Round of 16",
+          "opponent": "Italy",
+          "minutes": 85,
+          "goals": 1,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Quarter-final",
+          "opponent": "Brazil",
+          "minutes": 120,
+          "goals": 1,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Semi-final",
+          "opponent": "West Germany",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 2,
+      "assists": null,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 75,
+      "agility": 77,
+      "skill": 79,
+      "speed": 76,
+      "shooting": 75,
+      "passing": 79,
+      "defending": 74,
+      "physical": 75,
+      "goalkeeping": 58
+    },
+    "overall": 77,
+    "tier": "RARE",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "france-1986-11",
+    "name": "Jean-Marc Ferreri",
+    "commonName": "Jean-Marc Ferreri",
+    "shirtNumber": 11,
+    "position": "MID",
+    "positions": [
+      "MID"
+    ],
+    "country": "France",
+    "countrySlug": "france",
+    "year": 1986,
+    "edition": "1986",
+    "club": null,
+    "age": 23,
+    "history": {
+      "matchesPlayed": 4,
+      "matches": [
+        {
+          "stage": "Group",
+          "opponent": "Hungary",
+          "minutes": 19,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Round of 16",
+          "opponent": "Italy",
+          "minutes": 5,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Quarter-final",
+          "opponent": "Brazil",
+          "minutes": 36,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Third-place match",
+          "opponent": "Belgium",
+          "minutes": 120,
+          "goals": 1,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 1,
+      "assists": null,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 71,
+      "agility": 73,
+      "skill": 75,
+      "speed": 72,
+      "shooting": 71,
+      "passing": 75,
+      "defending": 70,
+      "physical": 71,
+      "goalkeeping": 54
+    },
+    "overall": 73,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "france-1986-12",
+    "name": "Alain Giresse",
+    "commonName": "Alain Giresse",
+    "shirtNumber": 12,
+    "position": "MID",
+    "positions": [
+      "MID"
+    ],
+    "country": "France",
+    "countrySlug": "france",
+    "year": 1986,
+    "edition": "1986",
+    "club": null,
+    "age": 33,
+    "history": {
+      "matchesPlayed": 6,
+      "matches": [
+        {
+          "stage": "Group",
+          "opponent": "Canada",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group",
+          "opponent": "Soviet Union",
+          "minutes": 83,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group",
+          "opponent": "Hungary",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Round of 16",
+          "opponent": "Italy",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Quarter-final",
+          "opponent": "Brazil",
+          "minutes": 84,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Semi-final",
+          "opponent": "West Germany",
+          "minutes": 72,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 72,
+      "agility": 74,
+      "skill": 76,
+      "speed": 73,
+      "shooting": 72,
+      "passing": 76,
+      "defending": 71,
+      "physical": 72,
+      "goalkeeping": 54
+    },
+    "overall": 74,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "france-1986-13",
+    "name": "Bernard Genghini",
+    "commonName": "Bernard Genghini",
+    "shirtNumber": 13,
+    "position": "MID",
+    "positions": [
+      "MID"
+    ],
+    "country": "France",
+    "countrySlug": "france",
+    "year": 1986,
+    "edition": "1986",
+    "club": null,
+    "age": 28,
+    "history": {
+      "matchesPlayed": 1,
+      "matches": [
+        {
+          "stage": "Third-place match",
+          "opponent": "Belgium",
+          "minutes": 120,
+          "goals": 1,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 1,
+      "assists": null,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 67,
+      "agility": 69,
+      "skill": 71,
+      "speed": 68,
+      "shooting": 67,
+      "passing": 71,
+      "defending": 66,
+      "physical": 67,
+      "goalkeeping": 50
+    },
+    "overall": 69,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "france-1986-14",
+    "name": "Jean Tigana",
+    "commonName": "Jean Tigana",
+    "shirtNumber": 14,
+    "position": "MID",
+    "positions": [
+      "MID"
+    ],
+    "country": "France",
+    "countrySlug": "france",
+    "year": 1986,
+    "edition": "1986",
+    "club": null,
+    "age": 30,
+    "history": {
+      "matchesPlayed": 7,
+      "matches": [
+        {
+          "stage": "Group",
+          "opponent": "Canada",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group",
+          "opponent": "Soviet Union",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group",
+          "opponent": "Hungary",
+          "minutes": 90,
+          "goals": 1,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Round of 16",
+          "opponent": "Italy",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Quarter-final",
+          "opponent": "Brazil",
+          "minutes": 120,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Semi-final",
+          "opponent": "West Germany",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Third-place match",
+          "opponent": "Belgium",
+          "minutes": 84,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 1,
+      "assists": null,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 74,
+      "agility": 76,
+      "skill": 78,
+      "speed": 75,
+      "shooting": 74,
+      "passing": 78,
+      "defending": 73,
+      "physical": 74,
+      "goalkeeping": 56
+    },
+    "overall": 76,
+    "tier": "RARE",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "france-1986-15",
+    "name": "Philippe Vercruysse",
+    "commonName": "Philippe Vercruysse",
+    "shirtNumber": 15,
+    "position": "MID",
+    "positions": [
+      "MID"
+    ],
+    "country": "France",
+    "countrySlug": "france",
+    "year": 1986,
+    "edition": "1986",
+    "club": null,
+    "age": 24,
+    "history": {
+      "matchesPlayed": 3,
+      "matches": [
+        {
+          "stage": "Group",
+          "opponent": "Soviet Union",
+          "minutes": 7,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Semi-final",
+          "opponent": "West Germany",
+          "minutes": 18,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Third-place match",
+          "opponent": "Belgium",
+          "minutes": 120,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 68,
+      "agility": 70,
+      "skill": 72,
+      "speed": 69,
+      "shooting": 68,
+      "passing": 72,
+      "defending": 67,
+      "physical": 68,
+      "goalkeeping": 50
+    },
+    "overall": 70,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "france-1986-16",
+    "name": "Bruno Bellone",
+    "commonName": "Bruno Bellone",
+    "shirtNumber": 16,
+    "position": "ATT",
+    "positions": [
+      "ATT"
+    ],
+    "country": "France",
+    "countrySlug": "france",
+    "year": 1986,
+    "edition": "1986",
+    "club": null,
+    "age": 24,
+    "history": {
+      "matchesPlayed": 4,
+      "matches": [
+        {
+          "stage": "Group",
+          "opponent": "Soviet Union",
+          "minutes": 14,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Quarter-final",
+          "opponent": "Brazil",
+          "minutes": 21,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Semi-final",
+          "opponent": "West Germany",
+          "minutes": 66,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Third-place match",
+          "opponent": "Belgium",
+          "minutes": 120,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 70,
+      "agility": 72,
+      "skill": 74,
+      "speed": 71,
+      "shooting": 70,
+      "passing": 74,
+      "defending": 69,
+      "physical": 70,
+      "goalkeeping": 52
+    },
+    "overall": 72,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "france-1986-17",
+    "name": "Jean-Pierre Papin",
+    "commonName": "Jean-Pierre Papin",
+    "shirtNumber": 17,
+    "position": "ATT",
+    "positions": [
+      "ATT"
+    ],
+    "country": "France",
+    "countrySlug": "france",
+    "year": 1986,
+    "edition": "1986",
+    "club": null,
+    "age": 22,
+    "history": {
+      "matchesPlayed": 4,
+      "matches": [
+        {
+          "stage": "Group",
+          "opponent": "Canada",
+          "minutes": 90,
+          "goals": 1,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group",
+          "opponent": "Soviet Union",
+          "minutes": 76,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group",
+          "opponent": "Hungary",
+          "minutes": 61,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Third-place match",
+          "opponent": "Belgium",
+          "minutes": 120,
+          "goals": 1,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 2,
+      "assists": null,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 73,
+      "agility": 75,
+      "skill": 77,
+      "speed": 74,
+      "shooting": 73,
+      "passing": 77,
+      "defending": 72,
+      "physical": 73,
+      "goalkeeping": 56
+    },
+    "overall": 75,
+    "tier": "RARE",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "france-1986-18",
+    "name": "Dominique Rocheteau",
+    "commonName": "Dominique Rocheteau",
+    "shirtNumber": 18,
+    "position": "ATT",
+    "positions": [
+      "ATT"
+    ],
+    "country": "France",
+    "countrySlug": "france",
+    "year": 1986,
+    "edition": "1986",
+    "club": null,
+    "age": 31,
+    "history": {
+      "matchesPlayed": 4,
+      "matches": [
+        {
+          "stage": "Group",
+          "opponent": "Canada",
+          "minutes": 70,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group",
+          "opponent": "Hungary",
+          "minutes": 29,
+          "goals": 1,
+          "assists": null,
+          "yellow": 1,
+          "red": 0
+        },
+        {
+          "stage": "Round of 16",
+          "opponent": "Italy",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Quarter-final",
+          "opponent": "Brazil",
+          "minutes": 99,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 1,
+      "assists": null,
+      "yellowCards": 1,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 71,
+      "agility": 73,
+      "skill": 75,
+      "speed": 72,
+      "shooting": 71,
+      "passing": 75,
+      "defending": 70,
+      "physical": 71,
+      "goalkeeping": 54
+    },
+    "overall": 73,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "france-1986-19",
+    "name": "Yannick Stopyra",
+    "commonName": "Yannick Stopyra",
+    "shirtNumber": 19,
+    "position": "ATT",
+    "positions": [
+      "ATT"
+    ],
+    "country": "France",
+    "countrySlug": "france",
+    "year": 1986,
+    "edition": "1986",
+    "club": null,
+    "age": 25,
+    "history": {
+      "matchesPlayed": 6,
+      "matches": [
+        {
+          "stage": "Group",
+          "opponent": "Canada",
+          "minutes": 20,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group",
+          "opponent": "Soviet Union",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group",
+          "opponent": "Hungary",
+          "minutes": 71,
+          "goals": 1,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Round of 16",
+          "opponent": "Italy",
+          "minutes": 90,
+          "goals": 1,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Quarter-final",
+          "opponent": "Brazil",
+          "minutes": 120,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Semi-final",
+          "opponent": "West Germany",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 2,
+      "assists": null,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 75,
+      "agility": 77,
+      "skill": 79,
+      "speed": 76,
+      "shooting": 75,
+      "passing": 79,
+      "defending": 74,
+      "physical": 75,
+      "goalkeeping": 58
+    },
+    "overall": 77,
+    "tier": "RARE",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "france-1986-20",
+    "name": "Daniel Xuereb",
+    "commonName": "Daniel Xuereb",
+    "shirtNumber": 20,
+    "position": "ATT",
+    "positions": [
+      "ATT"
+    ],
+    "country": "France",
+    "countrySlug": "france",
+    "year": 1986,
+    "edition": "1986",
+    "club": null,
+    "age": 26,
+    "history": {
+      "matchesPlayed": 1,
+      "matches": [
+        {
+          "stage": "Semi-final",
+          "opponent": "West Germany",
+          "minutes": 24,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 66,
+      "agility": 68,
+      "skill": 70,
+      "speed": 67,
+      "shooting": 66,
+      "passing": 70,
+      "defending": 65,
+      "physical": 66,
+      "goalkeeping": 48
+    },
+    "overall": 68,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "france-1986-21",
+    "name": "Philippe Bergeroo",
+    "commonName": "Philippe Bergeroo",
+    "shirtNumber": 21,
+    "position": "GK",
+    "positions": [
+      "GK"
+    ],
+    "country": "France",
+    "countrySlug": "france",
+    "year": 1986,
+    "edition": "1986",
+    "club": null,
+    "age": 32,
+    "history": {
+      "matchesPlayed": 0,
+      "matches": [],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 63,
+      "agility": 65,
+      "skill": 60,
+      "speed": 60,
+      "shooting": 52,
+      "passing": 62,
+      "defending": 62,
+      "physical": 64,
+      "goalkeeping": 71
+    },
+    "overall": 67,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "france-1986-22",
+    "name": "Albert Rust",
+    "commonName": "Albert Rust",
+    "shirtNumber": 22,
+    "position": "GK",
+    "positions": [
+      "GK"
+    ],
+    "country": "France",
+    "countrySlug": "france",
+    "year": 1986,
+    "edition": "1986",
+    "club": null,
+    "age": 32,
+    "history": {
+      "matchesPlayed": 1,
+      "matches": [
+        {
+          "stage": "Third-place match",
+          "opponent": "Belgium",
+          "minutes": 120,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 64,
+      "agility": 66,
+      "skill": 61,
+      "speed": 61,
+      "shooting": 53,
+      "passing": 63,
+      "defending": 63,
+      "physical": 65,
+      "goalkeeping": 72
+    },
+    "overall": 68,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  }
+]

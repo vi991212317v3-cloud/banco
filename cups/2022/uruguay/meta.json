@@ -1,0 +1,220 @@
+{
+  "country": "Uruguay",
+  "countrySlug": "uruguay",
+  "year": 2022,
+  "edition": "2022",
+  "host": "Qatar",
+  "coach": "Diego Alonso",
+  "finalPhase": "Group Stage",
+  "result": "Group Stage",
+  "squad": [
+    {
+      "id": "uruguay-2022-1",
+      "name": "Fernando Muslera",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "uruguay-2022-2",
+      "name": "José Giménez",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "uruguay-2022-3",
+      "name": "Diego Godín",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "uruguay-2022-4",
+      "name": "Ronald Araújo",
+      "shirtNumber": 4,
+      "position": "DEF"
+    },
+    {
+      "id": "uruguay-2022-5",
+      "name": "Matías Vecino",
+      "shirtNumber": 5,
+      "position": "MID"
+    },
+    {
+      "id": "uruguay-2022-6",
+      "name": "Rodrigo Bentancur",
+      "shirtNumber": 6,
+      "position": "MID"
+    },
+    {
+      "id": "uruguay-2022-7",
+      "name": "Nicolás de la Cruz",
+      "shirtNumber": 7,
+      "position": "MID"
+    },
+    {
+      "id": "uruguay-2022-8",
+      "name": "Facundo Pellistri",
+      "shirtNumber": 8,
+      "position": "ATT"
+    },
+    {
+      "id": "uruguay-2022-9",
+      "name": "Luis Suárez",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "uruguay-2022-10",
+      "name": "Giorgian De Arrascaeta",
+      "shirtNumber": 10,
+      "position": "MID"
+    },
+    {
+      "id": "uruguay-2022-11",
+      "name": "Darwin Núñez",
+      "shirtNumber": 11,
+      "position": "ATT"
+    },
+    {
+      "id": "uruguay-2022-12",
+      "name": "Sebastián Sosa",
+      "shirtNumber": 12,
+      "position": "GK"
+    },
+    {
+      "id": "uruguay-2022-13",
+      "name": "Guillermo Varela",
+      "shirtNumber": 13,
+      "position": "DEF"
+    },
+    {
+      "id": "uruguay-2022-14",
+      "name": "Lucas Torreira",
+      "shirtNumber": 14,
+      "position": "MID"
+    },
+    {
+      "id": "uruguay-2022-15",
+      "name": "Federico Valverde",
+      "shirtNumber": 15,
+      "position": "MID"
+    },
+    {
+      "id": "uruguay-2022-16",
+      "name": "Mathías Olivera",
+      "shirtNumber": 16,
+      "position": "DEF"
+    },
+    {
+      "id": "uruguay-2022-17",
+      "name": "Matías Viña",
+      "shirtNumber": 17,
+      "position": "DEF"
+    },
+    {
+      "id": "uruguay-2022-18",
+      "name": "Maxi Gómez",
+      "shirtNumber": 18,
+      "position": "ATT"
+    },
+    {
+      "id": "uruguay-2022-19",
+      "name": "Sebastián Coates",
+      "shirtNumber": 19,
+      "position": "DEF"
+    },
+    {
+      "id": "uruguay-2022-20",
+      "name": "Facundo Torres",
+      "shirtNumber": 20,
+      "position": "ATT"
+    },
+    {
+      "id": "uruguay-2022-21",
+      "name": "Edinson Cavani",
+      "shirtNumber": 21,
+      "position": "ATT"
+    },
+    {
+      "id": "uruguay-2022-22",
+      "name": "Martín Cáceres",
+      "shirtNumber": 22,
+      "position": "DEF"
+    },
+    {
+      "id": "uruguay-2022-23",
+      "name": "Sergio Rochet",
+      "shirtNumber": 23,
+      "position": "GK"
+    },
+    {
+      "id": "uruguay-2022-24",
+      "name": "Agustín Canobbio",
+      "shirtNumber": 24,
+      "position": "MID"
+    },
+    {
+      "id": "uruguay-2022-25",
+      "name": "Manuel Ugarte",
+      "shirtNumber": 25,
+      "position": "MID"
+    },
+    {
+      "id": "uruguay-2022-26",
+      "name": "José Luis Rodríguez",
+      "shirtNumber": 26,
+      "position": "DEF"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "South Korea",
+      "score": "0–0",
+      "scorers": [],
+      "date": "2022-11-24"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Portugal",
+      "score": "2–0",
+      "scorers": [
+        {
+          "name": "Bruno Fernandes",
+          "minute": "54'",
+          "ownGoal": false
+        },
+        {
+          "name": "Bruno Fernandes",
+          "minute": "90'+3'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2022-11-28"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Ghana",
+      "score": "0–2",
+      "scorers": [
+        {
+          "name": "Giorgian De Arrascaeta",
+          "minute": "26'",
+          "ownGoal": false
+        },
+        {
+          "name": "Giorgian De Arrascaeta",
+          "minute": "32'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2022-12-02"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

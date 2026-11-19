@@ -1,0 +1,227 @@
+{
+  "country": "Scotland",
+  "countrySlug": "scotland",
+  "year": 1958,
+  "edition": "1958",
+  "host": "Sweden",
+  "coach": "Matt Busby",
+  "finalPhase": "Group Stage",
+  "result": "Group Stage",
+  "squad": [
+    {
+      "id": "scotland-1958-1",
+      "name": "Tommy Younger",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "scotland-1958-2",
+      "name": "Bill Brown",
+      "shirtNumber": 2,
+      "position": "GK"
+    },
+    {
+      "id": "scotland-1958-3",
+      "name": "Alex Parker",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "scotland-1958-4",
+      "name": "Eric Caldow",
+      "shirtNumber": 4,
+      "position": "DEF"
+    },
+    {
+      "id": "scotland-1958-5",
+      "name": "John Hewie",
+      "shirtNumber": 5,
+      "position": "DEF"
+    },
+    {
+      "id": "scotland-1958-6",
+      "name": "Harry Haddock",
+      "shirtNumber": 6,
+      "position": "DEF"
+    },
+    {
+      "id": "scotland-1958-7",
+      "name": "Ian McColl",
+      "shirtNumber": 7,
+      "position": "DEF"
+    },
+    {
+      "id": "scotland-1958-8",
+      "name": "Eddie Turnbull",
+      "shirtNumber": 8,
+      "position": "MID"
+    },
+    {
+      "id": "scotland-1958-9",
+      "name": "Bobby Evans",
+      "shirtNumber": 9,
+      "position": "DEF"
+    },
+    {
+      "id": "scotland-1958-10",
+      "name": "Tommy Docherty",
+      "shirtNumber": 10,
+      "position": "MID"
+    },
+    {
+      "id": "scotland-1958-11",
+      "name": "Dave Mackay",
+      "shirtNumber": 11,
+      "position": "MID"
+    },
+    {
+      "id": "scotland-1958-12",
+      "name": "Doug Cowie",
+      "shirtNumber": 12,
+      "position": "MID"
+    },
+    {
+      "id": "scotland-1958-13",
+      "name": "Sammy Baird",
+      "shirtNumber": 13,
+      "position": "ATT"
+    },
+    {
+      "id": "scotland-1958-14",
+      "name": "Graham Leggat",
+      "shirtNumber": 14,
+      "position": "ATT"
+    },
+    {
+      "id": "scotland-1958-15",
+      "name": "Alex Scott",
+      "shirtNumber": 15,
+      "position": "ATT"
+    },
+    {
+      "id": "scotland-1958-16",
+      "name": "Jimmy Murray",
+      "shirtNumber": 16,
+      "position": "ATT"
+    },
+    {
+      "id": "scotland-1958-17",
+      "name": "Jackie Mudie",
+      "shirtNumber": 17,
+      "position": "ATT"
+    },
+    {
+      "id": "scotland-1958-18",
+      "name": "John Coyle",
+      "shirtNumber": 18,
+      "position": "ATT"
+    },
+    {
+      "id": "scotland-1958-19",
+      "name": "Bobby Collins",
+      "shirtNumber": 19,
+      "position": "ATT"
+    },
+    {
+      "id": "scotland-1958-20",
+      "name": "Archie Robertson",
+      "shirtNumber": 20,
+      "position": "ATT"
+    },
+    {
+      "id": "scotland-1958-21",
+      "name": "Stewart Imlach",
+      "shirtNumber": 21,
+      "position": "ATT"
+    },
+    {
+      "id": "scotland-1958-22",
+      "name": "Willie Fernie",
+      "shirtNumber": 22,
+      "position": "ATT"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "Yugoslavia",
+      "score": "1–1",
+      "scorers": [
+        {
+          "name": "Aleksandar Petaković",
+          "minute": "6'",
+          "ownGoal": false
+        },
+        {
+          "name": "Jimmy Murray",
+          "minute": "49'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1958-06-08"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Paraguay",
+      "score": "3–2",
+      "scorers": [
+        {
+          "name": "Juan Bautista Agüero",
+          "minute": "4'",
+          "ownGoal": false
+        },
+        {
+          "name": "Jackie Mudie",
+          "minute": "24'",
+          "ownGoal": false
+        },
+        {
+          "name": "Cayetano Ré",
+          "minute": "45'",
+          "ownGoal": false
+        },
+        {
+          "name": "José Parodi",
+          "minute": "73'",
+          "ownGoal": false
+        },
+        {
+          "name": "Bobby Collins",
+          "minute": "74'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1958-06-11"
+    },
+    {
+      "stage": "Group",
+      "opponent": "France",
+      "score": "2–1",
+      "scorers": [
+        {
+          "name": "Raymond Kopa",
+          "minute": "22'",
+          "ownGoal": false
+        },
+        {
+          "name": "Just Fontaine",
+          "minute": "44'",
+          "ownGoal": false
+        },
+        {
+          "name": "Sammy Baird",
+          "minute": "58'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1958-06-15"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

@@ -1,0 +1,228 @@
+{
+  "country": "Italy",
+  "countrySlug": "italy",
+  "year": 2010,
+  "edition": "2010",
+  "host": "South Africa",
+  "coach": "Marcello Lippi",
+  "finalPhase": "Group Stage",
+  "result": "Group Stage",
+  "squad": [
+    {
+      "id": "italy-2010-1",
+      "name": "Gianluigi Buffon",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "italy-2010-2",
+      "name": "Christian Maggio",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "italy-2010-3",
+      "name": "Domenico Criscito",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "italy-2010-4",
+      "name": "Giorgio Chiellini",
+      "shirtNumber": 4,
+      "position": "DEF"
+    },
+    {
+      "id": "italy-2010-5",
+      "name": "Fabio Cannavaro",
+      "shirtNumber": 5,
+      "position": "DEF"
+    },
+    {
+      "id": "italy-2010-6",
+      "name": "Daniele De Rossi",
+      "shirtNumber": 6,
+      "position": "MID"
+    },
+    {
+      "id": "italy-2010-7",
+      "name": "Simone Pepe",
+      "shirtNumber": 7,
+      "position": "MID"
+    },
+    {
+      "id": "italy-2010-8",
+      "name": "Gennaro Gattuso",
+      "shirtNumber": 8,
+      "position": "MID"
+    },
+    {
+      "id": "italy-2010-9",
+      "name": "Vincenzo Iaquinta",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "italy-2010-10",
+      "name": "Antonio Di Natale",
+      "shirtNumber": 10,
+      "position": "ATT"
+    },
+    {
+      "id": "italy-2010-11",
+      "name": "Alberto Gilardino",
+      "shirtNumber": 11,
+      "position": "ATT"
+    },
+    {
+      "id": "italy-2010-12",
+      "name": "Federico Marchetti",
+      "shirtNumber": 12,
+      "position": "GK"
+    },
+    {
+      "id": "italy-2010-13",
+      "name": "Salvatore Bocchetti",
+      "shirtNumber": 13,
+      "position": "DEF"
+    },
+    {
+      "id": "italy-2010-14",
+      "name": "Morgan De Sanctis",
+      "shirtNumber": 14,
+      "position": "GK"
+    },
+    {
+      "id": "italy-2010-15",
+      "name": "Claudio Marchisio",
+      "shirtNumber": 15,
+      "position": "MID"
+    },
+    {
+      "id": "italy-2010-16",
+      "name": "Mauro Camoranesi",
+      "shirtNumber": 16,
+      "position": "MID"
+    },
+    {
+      "id": "italy-2010-17",
+      "name": "Angelo Palombo",
+      "shirtNumber": 17,
+      "position": "MID"
+    },
+    {
+      "id": "italy-2010-18",
+      "name": "Fabio Quagliarella",
+      "shirtNumber": 18,
+      "position": "ATT"
+    },
+    {
+      "id": "italy-2010-19",
+      "name": "Gianluca Zambrotta",
+      "shirtNumber": 19,
+      "position": "DEF"
+    },
+    {
+      "id": "italy-2010-20",
+      "name": "Giampaolo Pazzini",
+      "shirtNumber": 20,
+      "position": "ATT"
+    },
+    {
+      "id": "italy-2010-21",
+      "name": "Andrea Pirlo",
+      "shirtNumber": 21,
+      "position": "MID"
+    },
+    {
+      "id": "italy-2010-22",
+      "name": "Riccardo Montolivo",
+      "shirtNumber": 22,
+      "position": "MID"
+    },
+    {
+      "id": "italy-2010-23",
+      "name": "Leonardo Bonucci",
+      "shirtNumber": 23,
+      "position": "DEF"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "Paraguay",
+      "score": "1–1",
+      "scorers": [
+        {
+          "name": "Antolín Alcaraz",
+          "minute": "39'",
+          "ownGoal": false
+        },
+        {
+          "name": "Daniele De Rossi",
+          "minute": "63'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2010-06-14"
+    },
+    {
+      "stage": "Group",
+      "opponent": "New Zealand",
+      "score": "1–1",
+      "scorers": [
+        {
+          "name": "Shane Smeltz",
+          "minute": "7'",
+          "ownGoal": false
+        },
+        {
+          "name": "Vincenzo Iaquinta",
+          "minute": "29'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2010-06-20"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Slovakia",
+      "score": "3–2",
+      "scorers": [
+        {
+          "name": "Róbert Vittek",
+          "minute": "25'",
+          "ownGoal": false
+        },
+        {
+          "name": "Róbert Vittek",
+          "minute": "73'",
+          "ownGoal": false
+        },
+        {
+          "name": "Antonio Di Natale",
+          "minute": "81'",
+          "ownGoal": false
+        },
+        {
+          "name": "Kamil Kopúnek",
+          "minute": "89'",
+          "ownGoal": false
+        },
+        {
+          "name": "Fabio Quagliarella",
+          "minute": "90'+2'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2010-06-24"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

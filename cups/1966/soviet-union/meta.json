@@ -1,0 +1,281 @@
+{
+  "country": "Soviet Union",
+  "countrySlug": "soviet-union",
+  "year": 1966,
+  "edition": "1966",
+  "host": "England",
+  "coach": "Nikolai Morozov",
+  "finalPhase": "Third-place match",
+  "result": "Fourth place",
+  "squad": [
+    {
+      "id": "soviet-union-1966-1",
+      "name": "Lev Yashin",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "soviet-union-1966-2",
+      "name": "Viktor Serebryanikov",
+      "shirtNumber": 2,
+      "position": "ATT"
+    },
+    {
+      "id": "soviet-union-1966-3",
+      "name": "Leonid Ostrovskiy",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "soviet-union-1966-4",
+      "name": "Vladimir Ponomaryov",
+      "shirtNumber": 4,
+      "position": "DEF"
+    },
+    {
+      "id": "soviet-union-1966-5",
+      "name": "Valentin Afonin",
+      "shirtNumber": 5,
+      "position": "MID"
+    },
+    {
+      "id": "soviet-union-1966-6",
+      "name": "Albert Shesternyov",
+      "shirtNumber": 6,
+      "position": "DEF"
+    },
+    {
+      "id": "soviet-union-1966-7",
+      "name": "Murtaz Khurtsilava",
+      "shirtNumber": 7,
+      "position": "MID"
+    },
+    {
+      "id": "soviet-union-1966-8",
+      "name": "Yozhef Sabo",
+      "shirtNumber": 8,
+      "position": "MID"
+    },
+    {
+      "id": "soviet-union-1966-9",
+      "name": "Viktor Getmanov",
+      "shirtNumber": 9,
+      "position": "DEF"
+    },
+    {
+      "id": "soviet-union-1966-10",
+      "name": "Vasiliy Danilov",
+      "shirtNumber": 10,
+      "position": "DEF"
+    },
+    {
+      "id": "soviet-union-1966-11",
+      "name": "Igor Chislenko",
+      "shirtNumber": 11,
+      "position": "MID"
+    },
+    {
+      "id": "soviet-union-1966-12",
+      "name": "Valery Voronin",
+      "shirtNumber": 12,
+      "position": "MID"
+    },
+    {
+      "id": "soviet-union-1966-13",
+      "name": "Alexey Korneyev",
+      "shirtNumber": 13,
+      "position": "DEF"
+    },
+    {
+      "id": "soviet-union-1966-14",
+      "name": "Georgi Sichinava",
+      "shirtNumber": 14,
+      "position": "MID"
+    },
+    {
+      "id": "soviet-union-1966-15",
+      "name": "Galimzyan Khusainov",
+      "shirtNumber": 15,
+      "position": "ATT"
+    },
+    {
+      "id": "soviet-union-1966-16",
+      "name": "Slava Metreveli",
+      "shirtNumber": 16,
+      "position": "ATT"
+    },
+    {
+      "id": "soviet-union-1966-17",
+      "name": "Valeriy Porkujan",
+      "shirtNumber": 17,
+      "position": "ATT"
+    },
+    {
+      "id": "soviet-union-1966-18",
+      "name": "Anatoliy Banishevskiy",
+      "shirtNumber": 18,
+      "position": "ATT"
+    },
+    {
+      "id": "soviet-union-1966-19",
+      "name": "Eduard Malofeyev",
+      "shirtNumber": 19,
+      "position": "ATT"
+    },
+    {
+      "id": "soviet-union-1966-20",
+      "name": "Eduard Markarov",
+      "shirtNumber": 20,
+      "position": "ATT"
+    },
+    {
+      "id": "soviet-union-1966-21",
+      "name": "Anzor Kavazashvili",
+      "shirtNumber": 21,
+      "position": "GK"
+    },
+    {
+      "id": "soviet-union-1966-22",
+      "name": "Viktor Bannikov",
+      "shirtNumber": 22,
+      "position": "GK"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "North Korea",
+      "score": "3–0",
+      "scorers": [
+        {
+          "name": "Eduard Malofeyev",
+          "minute": "31'",
+          "ownGoal": false
+        },
+        {
+          "name": "Anatoliy Banishevskiy",
+          "minute": "33'",
+          "ownGoal": false
+        },
+        {
+          "name": "Eduard Malofeyev",
+          "minute": "88'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1966-07-12"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Italy",
+      "score": "1–0",
+      "scorers": [
+        {
+          "name": "Igor Chislenko",
+          "minute": "57'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1966-07-16"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Chile",
+      "score": "2–1",
+      "scorers": [
+        {
+          "name": "Valeriy Porkujan",
+          "minute": "28'",
+          "ownGoal": false
+        },
+        {
+          "name": "Rubén Marcos",
+          "minute": "32'",
+          "ownGoal": false
+        },
+        {
+          "name": "Valeriy Porkujan",
+          "minute": "85'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1966-07-20"
+    },
+    {
+      "stage": "Quarter-final",
+      "opponent": "Hungary",
+      "score": "2–1",
+      "scorers": [
+        {
+          "name": "Igor Chislenko",
+          "minute": "5'",
+          "ownGoal": false
+        },
+        {
+          "name": "Valeriy Porkujan",
+          "minute": "46'",
+          "ownGoal": false
+        },
+        {
+          "name": "Ferenc Bene",
+          "minute": "57'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1966-07-23"
+    },
+    {
+      "stage": "Semi-final",
+      "opponent": "West Germany",
+      "score": "2–1",
+      "scorers": [
+        {
+          "name": "Helmut Haller",
+          "minute": "43'",
+          "ownGoal": false
+        },
+        {
+          "name": "Franz Beckenbauer",
+          "minute": "67'",
+          "ownGoal": false
+        },
+        {
+          "name": "Valeriy Porkujan",
+          "minute": "88'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1966-07-25"
+    },
+    {
+      "stage": "Third-place match",
+      "opponent": "Portugal",
+      "score": "2–1",
+      "scorers": [
+        {
+          "name": "Eusébio",
+          "minute": "12'",
+          "ownGoal": false
+        },
+        {
+          "name": "Eduard Malofeyev",
+          "minute": "43'",
+          "ownGoal": false
+        },
+        {
+          "name": "José Torres",
+          "minute": "89'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1966-07-28"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

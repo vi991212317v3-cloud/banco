@@ -1,0 +1,1938 @@
+[
+  {
+    "id": "usa-2026-1",
+    "name": "Matthew Charles TURNER",
+    "commonName": "TURNER Matt",
+    "shirtNumber": 1,
+    "position": "GK",
+    "positions": [
+      "GK"
+    ],
+    "country": "USA",
+    "countrySlug": "usa",
+    "year": 2026,
+    "edition": "2026",
+    "club": "New England Revolution (USA)",
+    "age": 31,
+    "history": {
+      "matchesPlayed": 4,
+      "matches": [
+        {
+          "stage": "Group Stage",
+          "opponent": "Paraguay",
+          "minutes": 30,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group Stage",
+          "opponent": "Australia",
+          "minutes": 30,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group Stage",
+          "opponent": "Türkiye",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Round of 16",
+          "opponent": "Belgium",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 68,
+      "agility": 70,
+      "skill": 65,
+      "speed": 65,
+      "shooting": 57,
+      "passing": 67,
+      "defending": 67,
+      "physical": 69,
+      "goalkeeping": 76
+    },
+    "overall": 74,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "statsStatus": "matched-community",
+    "sources": [
+      "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+      "https://github.com/mominullptr/FIFA-World-Cup-2026-Dataset",
+      "https://github.com/openfootball/worldcup.json"
+    ]
+  },
+
+  {
+    "id": "usa-2026-2",
+    "name": "Sergiño Gianni DEST",
+    "commonName": "DEST Sergino",
+    "shirtNumber": 2,
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "country": "USA",
+    "countrySlug": "usa",
+    "year": 2026,
+    "edition": "2026",
+    "club": "PSV Eindhoven (NED)",
+    "age": 25,
+    "history": {
+      "matchesPlayed": 5,
+      "matches": [
+        {
+          "stage": "Group Stage",
+          "opponent": "Paraguay",
+          "minutes": 72,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group Stage",
+          "opponent": "Australia",
+          "minutes": 80,
+          "goals": 0,
+          "assists": 1,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group Stage",
+          "opponent": "Türkiye",
+          "minutes": 14,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Round of 32",
+          "opponent": "Bosnia and Herzegovina",
+          "minutes": 87,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Round of 16",
+          "opponent": "Belgium",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": 1,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 72,
+      "agility": 74,
+      "skill": 76,
+      "speed": 73,
+      "shooting": 72,
+      "passing": 76,
+      "defending": 71,
+      "physical": 72,
+      "goalkeeping": 54
+    },
+    "overall": 74,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "statsStatus": "matched-community",
+    "sources": [
+      "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+      "https://github.com/mominullptr/FIFA-World-Cup-2026-Dataset",
+      "https://github.com/openfootball/worldcup.json"
+    ]
+  },
+
+  {
+    "id": "usa-2026-3",
+    "name": "Christopher Jeffrey RICHARDS",
+    "commonName": "RICHARDS Chris",
+    "shirtNumber": 3,
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "country": "USA",
+    "countrySlug": "usa",
+    "year": 2026,
+    "edition": "2026",
+    "club": "Crystal Palace FC (ENG)",
+    "age": 26,
+    "history": {
+      "matchesPlayed": 4,
+      "matches": [
+        {
+          "stage": "Group Stage",
+          "opponent": "Paraguay",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group Stage",
+          "opponent": "Australia",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 1,
+          "red": 0
+        },
+        {
+          "stage": "Round of 32",
+          "opponent": "Bosnia and Herzegovina",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Round of 16",
+          "opponent": "Belgium",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": 0,
+      "yellowCards": 1,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 70,
+      "agility": 72,
+      "skill": 74,
+      "speed": 71,
+      "shooting": 70,
+      "passing": 74,
+      "defending": 69,
+      "physical": 70,
+      "goalkeeping": 52
+    },
+    "overall": 77,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "statsStatus": "matched-community",
+    "sources": [
+      "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+      "https://github.com/mominullptr/FIFA-World-Cup-2026-Dataset",
+      "https://github.com/openfootball/worldcup.json"
+    ]
+  },
+
+  {
+    "id": "usa-2026-4",
+    "name": "Tyler Shaan ADAMS",
+    "commonName": "ADAMS Tyler",
+    "shirtNumber": 4,
+    "position": "MID",
+    "positions": [
+      "MID"
+    ],
+    "country": "USA",
+    "countrySlug": "usa",
+    "year": 2026,
+    "edition": "2026",
+    "club": "AFC Bournemouth (ENG)",
+    "age": 27,
+    "history": {
+      "matchesPlayed": 4,
+      "matches": [
+        {
+          "stage": "Group Stage",
+          "opponent": "Paraguay",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group Stage",
+          "opponent": "Australia",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Round of 32",
+          "opponent": "Bosnia and Herzegovina",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Round of 16",
+          "opponent": "Belgium",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 70,
+      "agility": 72,
+      "skill": 74,
+      "speed": 71,
+      "shooting": 70,
+      "passing": 74,
+      "defending": 69,
+      "physical": 70,
+      "goalkeeping": 52
+    },
+    "overall": 79,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "statsStatus": "matched-community",
+    "sources": [
+      "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+      "https://github.com/mominullptr/FIFA-World-Cup-2026-Dataset",
+      "https://github.com/openfootball/worldcup.json"
+    ]
+  },
+
+  {
+    "id": "usa-2026-5",
+    "name": "Antonee ROBINSON",
+    "commonName": "ROBINSON Antonee",
+    "shirtNumber": 5,
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "country": "USA",
+    "countrySlug": "usa",
+    "year": 2026,
+    "edition": "2026",
+    "club": "Fulham FC (ENG)",
+    "age": 28,
+    "history": {
+      "matchesPlayed": 4,
+      "matches": [
+        {
+          "stage": "Group Stage",
+          "opponent": "Paraguay",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group Stage",
+          "opponent": "Australia",
+          "minutes": 80,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 1,
+          "red": 0
+        },
+        {
+          "stage": "Round of 32",
+          "opponent": "Bosnia and Herzegovina",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Round of 16",
+          "opponent": "Belgium",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": 0,
+      "yellowCards": 1,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 70,
+      "agility": 72,
+      "skill": 74,
+      "speed": 71,
+      "shooting": 70,
+      "passing": 74,
+      "defending": 69,
+      "physical": 70,
+      "goalkeeping": 52
+    },
+    "overall": 82,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "statsStatus": "matched-community",
+    "sources": [
+      "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+      "https://github.com/mominullptr/FIFA-World-Cup-2026-Dataset",
+      "https://github.com/openfootball/worldcup.json"
+    ]
+  },
+
+  {
+    "id": "usa-2026-6",
+    "name": "Auston Levi-Jesaiah TRUSTY",
+    "commonName": "TRUSTY Auston",
+    "shirtNumber": 6,
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "country": "USA",
+    "countrySlug": "usa",
+    "year": 2026,
+    "edition": "2026",
+    "club": "Celtic FC (SCO)",
+    "age": 27,
+    "history": {
+      "matchesPlayed": 2,
+      "matches": [
+        {
+          "stage": "Group Stage",
+          "opponent": "Australia",
+          "minutes": 10,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group Stage",
+          "opponent": "Türkiye",
+          "minutes": 90,
+          "goals": 1,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 1,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 68,
+      "agility": 70,
+      "skill": 72,
+      "speed": 69,
+      "shooting": 68,
+      "passing": 72,
+      "defending": 67,
+      "physical": 68,
+      "goalkeeping": 50
+    },
+    "overall": 70,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "statsStatus": "matched-community",
+    "sources": [
+      "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+      "https://github.com/mominullptr/FIFA-World-Cup-2026-Dataset",
+      "https://github.com/openfootball/worldcup.json"
+    ]
+  },
+
+  {
+    "id": "usa-2026-7",
+    "name": "Giovanni Alejandro REYNA",
+    "commonName": "REYNA Giovanni",
+    "shirtNumber": 7,
+    "position": "MID",
+    "positions": [
+      "MID"
+    ],
+    "country": "USA",
+    "countrySlug": "usa",
+    "year": 2026,
+    "edition": "2026",
+    "club": "Borussia Mönchengladbach (GER)",
+    "age": 23,
+    "history": {
+      "matchesPlayed": 4,
+      "matches": [
+        {
+          "stage": "Group Stage",
+          "opponent": "Paraguay",
+          "minutes": 8,
+          "goals": 1,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group Stage",
+          "opponent": "Australia",
+          "minutes": 1,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group Stage",
+          "opponent": "Türkiye",
+          "minutes": 76,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Round of 32",
+          "opponent": "Bosnia and Herzegovina",
+          "minutes": 1,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 1,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 71,
+      "agility": 73,
+      "skill": 75,
+      "speed": 72,
+      "shooting": 71,
+      "passing": 75,
+      "defending": 70,
+      "physical": 71,
+      "goalkeeping": 54
+    },
+    "overall": 73,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "statsStatus": "matched-community",
+    "sources": [
+      "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+      "https://github.com/mominullptr/FIFA-World-Cup-2026-Dataset",
+      "https://github.com/openfootball/worldcup.json"
+    ]
+  },
+
+  {
+    "id": "usa-2026-8",
+    "name": "Weston James Earl MC KENNIE",
+    "commonName": "McKENNIE Weston",
+    "shirtNumber": 8,
+    "position": "MID",
+    "positions": [
+      "MID"
+    ],
+    "country": "USA",
+    "countrySlug": "usa",
+    "year": 2026,
+    "edition": "2026",
+    "club": "Juventus FC (ITA)",
+    "age": 27,
+    "history": {
+      "matchesPlayed": 5,
+      "matches": [
+        {
+          "stage": "Group Stage",
+          "opponent": "Paraguay",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group Stage",
+          "opponent": "Australia",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group Stage",
+          "opponent": "Türkiye",
+          "minutes": 86,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Round of 32",
+          "opponent": "Bosnia and Herzegovina",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Round of 16",
+          "opponent": "Belgium",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 71,
+      "agility": 73,
+      "skill": 75,
+      "speed": 72,
+      "shooting": 71,
+      "passing": 75,
+      "defending": 70,
+      "physical": 71,
+      "goalkeeping": 54
+    },
+    "overall": 73,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "statsStatus": "matched-community",
+    "sources": [
+      "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+      "https://github.com/mominullptr/FIFA-World-Cup-2026-Dataset",
+      "https://github.com/openfootball/worldcup.json"
+    ]
+  },
+
+  {
+    "id": "usa-2026-9",
+    "name": "Ricardo Daniel PEPI",
+    "commonName": "PEPI Ricardo",
+    "shirtNumber": 9,
+    "position": "ATT",
+    "positions": [
+      "ATT"
+    ],
+    "country": "USA",
+    "countrySlug": "usa",
+    "year": 2026,
+    "edition": "2026",
+    "club": "PSV Eindhoven (NED)",
+    "age": 23,
+    "history": {
+      "matchesPlayed": 4,
+      "matches": [
+        {
+          "stage": "Group Stage",
+          "opponent": "Paraguay",
+          "minutes": 18,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group Stage",
+          "opponent": "Australia",
+          "minutes": 74,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group Stage",
+          "opponent": "Türkiye",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Round of 32",
+          "opponent": "Bosnia and Herzegovina",
+          "minutes": 3,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 70,
+      "agility": 72,
+      "skill": 74,
+      "speed": 71,
+      "shooting": 70,
+      "passing": 74,
+      "defending": 69,
+      "physical": 70,
+      "goalkeeping": 52
+    },
+    "overall": 76,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "statsStatus": "matched-community",
+    "sources": [
+      "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+      "https://github.com/mominullptr/FIFA-World-Cup-2026-Dataset",
+      "https://github.com/openfootball/worldcup.json"
+    ]
+  },
+
+  {
+    "id": "usa-2026-10",
+    "name": "Christian Mate PULISIC",
+    "commonName": "PULISIC Christian",
+    "shirtNumber": 10,
+    "position": "ATT",
+    "positions": [
+      "ATT"
+    ],
+    "country": "USA",
+    "countrySlug": "usa",
+    "year": 2026,
+    "edition": "2026",
+    "club": "AC Milan (ITA)",
+    "age": 27,
+    "history": {
+      "matchesPlayed": 4,
+      "matches": [
+        {
+          "stage": "Group Stage",
+          "opponent": "Paraguay",
+          "minutes": 46,
+          "goals": 0,
+          "assists": 1,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group Stage",
+          "opponent": "Türkiye",
+          "minutes": 32,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Round of 32",
+          "opponent": "Bosnia and Herzegovina",
+          "minutes": 87,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Round of 16",
+          "opponent": "Belgium",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": 1,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 71,
+      "agility": 73,
+      "skill": 75,
+      "speed": 72,
+      "shooting": 71,
+      "passing": 75,
+      "defending": 70,
+      "physical": 71,
+      "goalkeeping": 54
+    },
+    "overall": 73,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "statsStatus": "matched-community",
+    "sources": [
+      "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+      "https://github.com/mominullptr/FIFA-World-Cup-2026-Dataset",
+      "https://github.com/openfootball/worldcup.json"
+    ]
+  },
+
+  {
+    "id": "usa-2026-11",
+    "name": "Brenden Russell AARONSON",
+    "commonName": "AARONSON Brenden",
+    "shirtNumber": 11,
+    "position": "ATT",
+    "positions": [
+      "ATT"
+    ],
+    "country": "USA",
+    "countrySlug": "usa",
+    "year": 2026,
+    "edition": "2026",
+    "club": "Leeds United FC (ENG)",
+    "age": 25,
+    "history": {
+      "matchesPlayed": 1,
+      "matches": [
+        {
+          "stage": "Group Stage",
+          "opponent": "Türkiye",
+          "minutes": 76,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 66,
+      "agility": 68,
+      "skill": 70,
+      "speed": 67,
+      "shooting": 66,
+      "passing": 70,
+      "defending": 65,
+      "physical": 66,
+      "goalkeeping": 48
+    },
+    "overall": 68,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "statsStatus": "matched-community",
+    "sources": [
+      "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+      "https://github.com/mominullptr/FIFA-World-Cup-2026-Dataset",
+      "https://github.com/openfootball/worldcup.json"
+    ]
+  },
+
+  {
+    "id": "usa-2026-12",
+    "name": "Miles Gordon ROBINSON",
+    "commonName": "ROBINSON Miles",
+    "shirtNumber": 12,
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "country": "USA",
+    "countrySlug": "usa",
+    "year": 2026,
+    "edition": "2026",
+    "club": "FC Cincinnatti (USA)",
+    "age": 29,
+    "history": {
+      "matchesPlayed": 1,
+      "matches": [
+        {
+          "stage": "Group Stage",
+          "opponent": "Türkiye",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 66,
+      "agility": 68,
+      "skill": 70,
+      "speed": 67,
+      "shooting": 66,
+      "passing": 70,
+      "defending": 65,
+      "physical": 66,
+      "goalkeeping": 48
+    },
+    "overall": 73,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "statsStatus": "matched-community",
+    "sources": [
+      "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+      "https://github.com/mominullptr/FIFA-World-Cup-2026-Dataset",
+      "https://github.com/openfootball/worldcup.json"
+    ]
+  },
+
+  {
+    "id": "usa-2026-13",
+    "name": "Timothy Michael REAM",
+    "commonName": "REAM Tim",
+    "shirtNumber": 13,
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "country": "USA",
+    "countrySlug": "usa",
+    "year": 2026,
+    "edition": "2026",
+    "club": "Charlotte FC (USA)",
+    "age": 38,
+    "history": {
+      "matchesPlayed": 3,
+      "matches": [
+        {
+          "stage": "Group Stage",
+          "opponent": "Paraguay",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group Stage",
+          "opponent": "Australia",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Round of 32",
+          "opponent": "Bosnia and Herzegovina",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 68,
+      "agility": 70,
+      "skill": 72,
+      "speed": 69,
+      "shooting": 68,
+      "passing": 72,
+      "defending": 67,
+      "physical": 68,
+      "goalkeeping": 50
+    },
+    "overall": 70,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "statsStatus": "matched-community",
+    "sources": [
+      "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+      "https://github.com/mominullptr/FIFA-World-Cup-2026-Dataset",
+      "https://github.com/openfootball/worldcup.json"
+    ]
+  },
+
+  {
+    "id": "usa-2026-14",
+    "name": "Sebastian Matthew BERHALTER",
+    "commonName": "BERHALTER Sebastian",
+    "shirtNumber": 14,
+    "position": "MID",
+    "positions": [
+      "MID"
+    ],
+    "country": "USA",
+    "countrySlug": "usa",
+    "year": 2026,
+    "edition": "2026",
+    "club": "Vancouver Whitecaps FC (CAN)",
+    "age": 25,
+    "history": {
+      "matchesPlayed": 5,
+      "matches": [
+        {
+          "stage": "Group Stage",
+          "opponent": "Paraguay",
+          "minutes": 44,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group Stage",
+          "opponent": "Australia",
+          "minutes": 16,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group Stage",
+          "opponent": "Türkiye",
+          "minutes": 90,
+          "goals": 1,
+          "assists": 1,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Round of 32",
+          "opponent": "Bosnia and Herzegovina",
+          "minutes": 3,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Round of 16",
+          "opponent": "Belgium",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 1,
+      "assists": 1,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 73,
+      "agility": 75,
+      "skill": 77,
+      "speed": 74,
+      "shooting": 73,
+      "passing": 77,
+      "defending": 72,
+      "physical": 73,
+      "goalkeeping": 56
+    },
+    "overall": 75,
+    "tier": "RARE",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "statsStatus": "matched-community",
+    "sources": [
+      "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+      "https://github.com/mominullptr/FIFA-World-Cup-2026-Dataset",
+      "https://github.com/openfootball/worldcup.json"
+    ]
+  },
+
+  {
+    "id": "usa-2026-15",
+    "name": "Cristian ROLDAN",
+    "commonName": "ROLDAN Cristian",
+    "shirtNumber": 15,
+    "position": "MID",
+    "positions": [
+      "MID"
+    ],
+    "country": "USA",
+    "countrySlug": "usa",
+    "year": 2026,
+    "edition": "2026",
+    "club": "Seattle Sounders FC (USA)",
+    "age": 31,
+    "history": {
+      "matchesPlayed": 0,
+      "matches": [],
+      "goals": 0,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 65,
+      "agility": 67,
+      "skill": 69,
+      "speed": 66,
+      "shooting": 65,
+      "passing": 69,
+      "defending": 64,
+      "physical": 65,
+      "goalkeeping": 48
+    },
+    "overall": 74,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "statsStatus": "matched-community",
+    "sources": [
+      "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+      "https://github.com/mominullptr/FIFA-World-Cup-2026-Dataset",
+      "https://github.com/openfootball/worldcup.json"
+    ]
+  },
+
+  {
+    "id": "usa-2026-16",
+    "name": "Alexander Michael FREEMAN",
+    "commonName": "FREEMAN Alex",
+    "shirtNumber": 16,
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "country": "USA",
+    "countrySlug": "usa",
+    "year": 2026,
+    "edition": "2026",
+    "club": "Villarreal CF (ESP)",
+    "age": 21,
+    "history": {
+      "matchesPlayed": 4,
+      "matches": [
+        {
+          "stage": "Group Stage",
+          "opponent": "Paraguay",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 1,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group Stage",
+          "opponent": "Australia",
+          "minutes": 90,
+          "goals": 1,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group Stage",
+          "opponent": "Türkiye",
+          "minutes": 14,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Round of 32",
+          "opponent": "Bosnia and Herzegovina",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 1,
+      "assists": 1,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 72,
+      "agility": 74,
+      "skill": 76,
+      "speed": 73,
+      "shooting": 72,
+      "passing": 76,
+      "defending": 71,
+      "physical": 72,
+      "goalkeeping": 54
+    },
+    "overall": 74,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "statsStatus": "matched-community",
+    "sources": [
+      "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+      "https://github.com/mominullptr/FIFA-World-Cup-2026-Dataset",
+      "https://github.com/openfootball/worldcup.json"
+    ]
+  },
+
+  {
+    "id": "usa-2026-17",
+    "name": "Malik Leon TILLMAN",
+    "commonName": "TILLMAN Malik",
+    "shirtNumber": 17,
+    "position": "MID",
+    "positions": [
+      "MID"
+    ],
+    "country": "USA",
+    "countrySlug": "usa",
+    "year": 2026,
+    "edition": "2026",
+    "club": "Bayer 04 Leverkusen (GER)",
+    "age": 24,
+    "history": {
+      "matchesPlayed": 5,
+      "matches": [
+        {
+          "stage": "Group Stage",
+          "opponent": "Paraguay",
+          "minutes": 82,
+          "goals": 0,
+          "assists": 1,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group Stage",
+          "opponent": "Australia",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group Stage",
+          "opponent": "Türkiye",
+          "minutes": 4,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Round of 32",
+          "opponent": "Bosnia and Herzegovina",
+          "minutes": 90,
+          "goals": 1,
+          "assists": 1,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Round of 16",
+          "opponent": "Belgium",
+          "minutes": 90,
+          "goals": 1,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 2,
+      "assists": 2,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 75,
+      "agility": 77,
+      "skill": 79,
+      "speed": 76,
+      "shooting": 75,
+      "passing": 79,
+      "defending": 74,
+      "physical": 75,
+      "goalkeeping": 58
+    },
+    "overall": 82,
+    "tier": "RARE",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "statsStatus": "matched-community",
+    "sources": [
+      "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+      "https://github.com/mominullptr/FIFA-World-Cup-2026-Dataset",
+      "https://github.com/openfootball/worldcup.json"
+    ]
+  },
+
+  {
+    "id": "usa-2026-18",
+    "name": "Maximilian Michael ARFSTEN",
+    "commonName": "ARFSTEN Max",
+    "shirtNumber": 18,
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "country": "USA",
+    "countrySlug": "usa",
+    "year": 2026,
+    "edition": "2026",
+    "club": "Columbus Crew (USA)",
+    "age": 25,
+    "history": {
+      "matchesPlayed": 0,
+      "matches": [],
+      "goals": 0,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 65,
+      "agility": 67,
+      "skill": 69,
+      "speed": 66,
+      "shooting": 65,
+      "passing": 69,
+      "defending": 64,
+      "physical": 65,
+      "goalkeeping": 48
+    },
+    "overall": 67,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "statsStatus": "matched-community",
+    "sources": [
+      "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+      "https://github.com/mominullptr/FIFA-World-Cup-2026-Dataset",
+      "https://github.com/openfootball/worldcup.json"
+    ]
+  },
+
+  {
+    "id": "usa-2026-19",
+    "name": "Haji Amir WRIGHT",
+    "commonName": "WRIGHT Haji",
+    "shirtNumber": 19,
+    "position": "ATT",
+    "positions": [
+      "ATT"
+    ],
+    "country": "USA",
+    "countrySlug": "usa",
+    "year": 2026,
+    "edition": "2026",
+    "club": "Coventry City FC (ENG)",
+    "age": 28,
+    "history": {
+      "matchesPlayed": 1,
+      "matches": [
+        {
+          "stage": "Group Stage",
+          "opponent": "Australia",
+          "minutes": 1,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 66,
+      "agility": 68,
+      "skill": 70,
+      "speed": 67,
+      "shooting": 66,
+      "passing": 70,
+      "defending": 65,
+      "physical": 66,
+      "goalkeeping": 48
+    },
+    "overall": 73,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "statsStatus": "matched-community",
+    "sources": [
+      "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+      "https://github.com/mominullptr/FIFA-World-Cup-2026-Dataset",
+      "https://github.com/openfootball/worldcup.json"
+    ]
+  },
+
+  {
+    "id": "usa-2026-20",
+    "name": "Folarin Jolaoluwa BALOGUN",
+    "commonName": "BALOGUN Folarin",
+    "shirtNumber": 20,
+    "position": "ATT",
+    "positions": [
+      "ATT"
+    ],
+    "country": "USA",
+    "countrySlug": "usa",
+    "year": 2026,
+    "edition": "2026",
+    "club": "AS Monaco (FRA)",
+    "age": 24,
+    "history": {
+      "matchesPlayed": 4,
+      "matches": [
+        {
+          "stage": "Group Stage",
+          "opponent": "Paraguay",
+          "minutes": 72,
+          "goals": 2,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group Stage",
+          "opponent": "Australia",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 1,
+          "red": 0
+        },
+        {
+          "stage": "Round of 32",
+          "opponent": "Bosnia and Herzegovina",
+          "minutes": 64,
+          "goals": 1,
+          "assists": 0,
+          "yellow": 0,
+          "red": 1
+        },
+        {
+          "stage": "Round of 16",
+          "opponent": "Belgium",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 3,
+      "assists": 0,
+      "yellowCards": 1,
+      "redCards": 1
+    },
+    "attributes": {
+      "strength": 74,
+      "agility": 76,
+      "skill": 78,
+      "speed": 75,
+      "shooting": 74,
+      "passing": 78,
+      "defending": 73,
+      "physical": 74,
+      "goalkeeping": 56
+    },
+    "overall": 76,
+    "tier": "RARE",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "statsStatus": "matched-community",
+    "sources": [
+      "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+      "https://github.com/mominullptr/FIFA-World-Cup-2026-Dataset",
+      "https://github.com/openfootball/worldcup.json"
+    ]
+  },
+
+  {
+    "id": "usa-2026-21",
+    "name": "Timothy Tarpeh WEAH",
+    "commonName": "WEAH Timothy",
+    "shirtNumber": 21,
+    "position": "ATT",
+    "positions": [
+      "ATT"
+    ],
+    "country": "USA",
+    "countrySlug": "usa",
+    "year": 2026,
+    "edition": "2026",
+    "club": "Olympique Marseille (FRA)",
+    "age": 26,
+    "history": {
+      "matchesPlayed": 2,
+      "matches": [
+        {
+          "stage": "Group Stage",
+          "opponent": "Paraguay",
+          "minutes": 18,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group Stage",
+          "opponent": "Türkiye",
+          "minutes": 58,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 67,
+      "agility": 69,
+      "skill": 71,
+      "speed": 68,
+      "shooting": 67,
+      "passing": 71,
+      "defending": 66,
+      "physical": 67,
+      "goalkeeping": 50
+    },
+    "overall": 77,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "statsStatus": "matched-community",
+    "sources": [
+      "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+      "https://github.com/mominullptr/FIFA-World-Cup-2026-Dataset",
+      "https://github.com/openfootball/worldcup.json"
+    ]
+  },
+
+  {
+    "id": "usa-2026-22",
+    "name": "Mark Alexander MCKENZIE",
+    "commonName": "McKENZIE Mark",
+    "shirtNumber": 22,
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "country": "USA",
+    "countrySlug": "usa",
+    "year": 2026,
+    "edition": "2026",
+    "club": "Toulouse FC (FRA)",
+    "age": 27,
+    "history": {
+      "matchesPlayed": 2,
+      "matches": [
+        {
+          "stage": "Group Stage",
+          "opponent": "Türkiye",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Round of 16",
+          "opponent": "Belgium",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 67,
+      "agility": 69,
+      "skill": 71,
+      "speed": 68,
+      "shooting": 67,
+      "passing": 71,
+      "defending": 66,
+      "physical": 67,
+      "goalkeeping": 50
+    },
+    "overall": 74,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "statsStatus": "matched-community",
+    "sources": [
+      "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+      "https://github.com/mominullptr/FIFA-World-Cup-2026-Dataset",
+      "https://github.com/openfootball/worldcup.json"
+    ]
+  },
+
+  {
+    "id": "usa-2026-23",
+    "name": "Joseph Michael SCALLY",
+    "commonName": "SCALLY Joe",
+    "shirtNumber": 23,
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "country": "USA",
+    "countrySlug": "usa",
+    "year": 2026,
+    "edition": "2026",
+    "club": "Borussia Mönchengladbach (GER)",
+    "age": 23,
+    "history": {
+      "matchesPlayed": 2,
+      "matches": [
+        {
+          "stage": "Group Stage",
+          "opponent": "Australia",
+          "minutes": 10,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group Stage",
+          "opponent": "Türkiye",
+          "minutes": 76,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 67,
+      "agility": 69,
+      "skill": 71,
+      "speed": 68,
+      "shooting": 67,
+      "passing": 71,
+      "defending": 66,
+      "physical": 67,
+      "goalkeeping": 50
+    },
+    "overall": 69,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "statsStatus": "matched-community",
+    "sources": [
+      "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+      "https://github.com/mominullptr/FIFA-World-Cup-2026-Dataset",
+      "https://github.com/openfootball/worldcup.json"
+    ]
+  },
+
+  {
+    "id": "usa-2026-24",
+    "name": "Matthew Andrew Geary FREESE",
+    "commonName": "FREESE Matt",
+    "shirtNumber": 24,
+    "position": "GK",
+    "positions": [
+      "GK"
+    ],
+    "country": "USA",
+    "countrySlug": "usa",
+    "year": 2026,
+    "edition": "2026",
+    "club": "New York City FC (USA)",
+    "age": 27,
+    "history": {
+      "matchesPlayed": 3,
+      "matches": [
+        {
+          "stage": "Group Stage",
+          "opponent": "Paraguay",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group Stage",
+          "opponent": "Australia",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Round of 32",
+          "opponent": "Bosnia and Herzegovina",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 66,
+      "agility": 68,
+      "skill": 63,
+      "speed": 63,
+      "shooting": 55,
+      "passing": 65,
+      "defending": 65,
+      "physical": 67,
+      "goalkeeping": 74
+    },
+    "overall": 70,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "statsStatus": "matched-community",
+    "sources": [
+      "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+      "https://github.com/mominullptr/FIFA-World-Cup-2026-Dataset",
+      "https://github.com/openfootball/worldcup.json"
+    ]
+  },
+
+  {
+    "id": "usa-2026-25",
+    "name": "Christopher Keith BRADY",
+    "commonName": "BRADY Chris",
+    "shirtNumber": 25,
+    "position": "GK",
+    "positions": [
+      "GK"
+    ],
+    "country": "USA",
+    "countrySlug": "usa",
+    "year": 2026,
+    "edition": "2026",
+    "club": "Chicago Fire FC (USA)",
+    "age": 22,
+    "history": {
+      "matchesPlayed": 0,
+      "matches": [],
+      "goals": 0,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 63,
+      "agility": 65,
+      "skill": 60,
+      "speed": 60,
+      "shooting": 52,
+      "passing": 62,
+      "defending": 62,
+      "physical": 64,
+      "goalkeeping": 71
+    },
+    "overall": 69,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "statsStatus": "matched-community",
+    "sources": [
+      "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+      "https://github.com/mominullptr/FIFA-World-Cup-2026-Dataset",
+      "https://github.com/openfootball/worldcup.json"
+    ]
+  },
+
+  {
+    "id": "usa-2026-26",
+    "name": "Alejandro ZENDEJAS SAAVEDRA",
+    "commonName": "ZENDEJAS Alex",
+    "shirtNumber": 26,
+    "position": "ATT",
+    "positions": [
+      "ATT"
+    ],
+    "country": "USA",
+    "countrySlug": "usa",
+    "year": 2026,
+    "edition": "2026",
+    "club": "Club América (MEX)",
+    "age": 28,
+    "history": {
+      "matchesPlayed": 1,
+      "matches": [
+        {
+          "stage": "Group Stage",
+          "opponent": "Türkiye",
+          "minutes": 14,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 66,
+      "agility": 68,
+      "skill": 70,
+      "speed": 67,
+      "shooting": 66,
+      "passing": 70,
+      "defending": 65,
+      "physical": 66,
+      "goalkeeping": 48
+    },
+    "overall": 76,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "statsStatus": "matched-community",
+    "sources": [
+      "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+      "https://github.com/mominullptr/FIFA-World-Cup-2026-Dataset",
+      "https://github.com/openfootball/worldcup.json"
+    ]
+  }
+]

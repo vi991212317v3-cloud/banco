@@ -1,0 +1,1974 @@
+[
+  {
+    "id": "argentina-1978-1",
+    "name": "Norberto Alonso",
+    "commonName": "Norberto Alonso",
+    "shirtNumber": 1,
+    "position": "MID",
+    "positions": [
+      "MID"
+    ],
+    "country": "Argentina",
+    "countrySlug": "argentina",
+    "year": 1978,
+    "edition": "1978",
+    "club": null,
+    "age": 25,
+    "history": {
+      "matchesPlayed": 3,
+      "matches": [
+        {
+          "stage": "Group",
+          "opponent": "Hungary",
+          "minutes": 15,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group",
+          "opponent": "France",
+          "minutes": 26,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Second Group Stage",
+          "opponent": "Brazil",
+          "minutes": 30,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 68,
+      "agility": 70,
+      "skill": 72,
+      "speed": 69,
+      "shooting": 68,
+      "passing": 72,
+      "defending": 67,
+      "physical": 68,
+      "goalkeeping": 50
+    },
+    "overall": 70,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [
+      "CAMPEÃO"
+    ],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "argentina-1978-2",
+    "name": "Osvaldo Ardiles",
+    "commonName": "Osvaldo Ardiles",
+    "shirtNumber": 2,
+    "position": "MID",
+    "positions": [
+      "MID"
+    ],
+    "country": "Argentina",
+    "countrySlug": "argentina",
+    "year": 1978,
+    "edition": "1978",
+    "club": null,
+    "age": 25,
+    "history": {
+      "matchesPlayed": 6,
+      "matches": [
+        {
+          "stage": "Group",
+          "opponent": "Hungary",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group",
+          "opponent": "France",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group",
+          "opponent": "Italy",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Second Group Stage",
+          "opponent": "Poland",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Second Group Stage",
+          "opponent": "Brazil",
+          "minutes": 46,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Final",
+          "opponent": "Netherlands",
+          "minutes": 66,
+          "goals": 0,
+          "assists": null,
+          "yellow": 1,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": 1,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 72,
+      "agility": 74,
+      "skill": 76,
+      "speed": 73,
+      "shooting": 72,
+      "passing": 76,
+      "defending": 71,
+      "physical": 72,
+      "goalkeeping": 54
+    },
+    "overall": 74,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [
+      "CAMPEÃO"
+    ],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "argentina-1978-3",
+    "name": "Héctor Baley",
+    "commonName": "Héctor Baley",
+    "shirtNumber": 3,
+    "position": "GK",
+    "positions": [
+      "GK"
+    ],
+    "country": "Argentina",
+    "countrySlug": "argentina",
+    "year": 1978,
+    "edition": "1978",
+    "club": null,
+    "age": 27,
+    "history": {
+      "matchesPlayed": 0,
+      "matches": [],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 63,
+      "agility": 65,
+      "skill": 60,
+      "speed": 60,
+      "shooting": 52,
+      "passing": 62,
+      "defending": 62,
+      "physical": 64,
+      "goalkeeping": 71
+    },
+    "overall": 67,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [
+      "CAMPEÃO"
+    ],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "argentina-1978-4",
+    "name": "Daniel Bertoni",
+    "commonName": "Daniel Bertoni",
+    "shirtNumber": 4,
+    "position": "ATT",
+    "positions": [
+      "ATT"
+    ],
+    "country": "Argentina",
+    "countrySlug": "argentina",
+    "year": 1978,
+    "edition": "1978",
+    "club": null,
+    "age": 23,
+    "history": {
+      "matchesPlayed": 6,
+      "matches": [
+        {
+          "stage": "Group",
+          "opponent": "Hungary",
+          "minutes": 23,
+          "goals": 1,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group",
+          "opponent": "Italy",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Second Group Stage",
+          "opponent": "Poland",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Second Group Stage",
+          "opponent": "Brazil",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Second Group Stage",
+          "opponent": "Peru",
+          "minutes": 64,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Final",
+          "opponent": "Netherlands",
+          "minutes": 120,
+          "goals": 1,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 2,
+      "assists": null,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 75,
+      "agility": 77,
+      "skill": 79,
+      "speed": 76,
+      "shooting": 75,
+      "passing": 79,
+      "defending": 74,
+      "physical": 75,
+      "goalkeeping": 58
+    },
+    "overall": 77,
+    "tier": "RARE",
+    "isLegend": false,
+    "achievements": [
+      "CAMPEÃO"
+    ],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "argentina-1978-5",
+    "name": "Ubaldo Fillol",
+    "commonName": "Ubaldo Fillol",
+    "shirtNumber": 5,
+    "position": "GK",
+    "positions": [
+      "GK"
+    ],
+    "country": "Argentina",
+    "countrySlug": "argentina",
+    "year": 1978,
+    "edition": "1978",
+    "club": null,
+    "age": 27,
+    "history": {
+      "matchesPlayed": 7,
+      "matches": [
+        {
+          "stage": "Group",
+          "opponent": "Hungary",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group",
+          "opponent": "France",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group",
+          "opponent": "Italy",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Second Group Stage",
+          "opponent": "Poland",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Second Group Stage",
+          "opponent": "Brazil",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Second Group Stage",
+          "opponent": "Peru",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Final",
+          "opponent": "Netherlands",
+          "minutes": 120,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 71,
+      "agility": 73,
+      "skill": 68,
+      "speed": 68,
+      "shooting": 60,
+      "passing": 70,
+      "defending": 70,
+      "physical": 72,
+      "goalkeeping": 79
+    },
+    "overall": 75,
+    "tier": "RARE",
+    "isLegend": false,
+    "achievements": [
+      "CAMPEÃO"
+    ],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "argentina-1978-6",
+    "name": "Américo Gallego",
+    "commonName": "Américo Gallego",
+    "shirtNumber": 6,
+    "position": "MID",
+    "positions": [
+      "MID"
+    ],
+    "country": "Argentina",
+    "countrySlug": "argentina",
+    "year": 1978,
+    "edition": "1978",
+    "club": null,
+    "age": 23,
+    "history": {
+      "matchesPlayed": 7,
+      "matches": [
+        {
+          "stage": "Group",
+          "opponent": "Hungary",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group",
+          "opponent": "France",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group",
+          "opponent": "Italy",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Second Group Stage",
+          "opponent": "Poland",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 1,
+          "red": 0
+        },
+        {
+          "stage": "Second Group Stage",
+          "opponent": "Brazil",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Second Group Stage",
+          "opponent": "Peru",
+          "minutes": 85,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Final",
+          "opponent": "Netherlands",
+          "minutes": 120,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": 1,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 73,
+      "agility": 75,
+      "skill": 77,
+      "speed": 74,
+      "shooting": 73,
+      "passing": 77,
+      "defending": 72,
+      "physical": 73,
+      "goalkeeping": 56
+    },
+    "overall": 75,
+    "tier": "RARE",
+    "isLegend": false,
+    "achievements": [
+      "CAMPEÃO"
+    ],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "argentina-1978-7",
+    "name": "Luis Galván",
+    "commonName": "Luis Galván",
+    "shirtNumber": 7,
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "country": "Argentina",
+    "countrySlug": "argentina",
+    "year": 1978,
+    "edition": "1978",
+    "club": null,
+    "age": 30,
+    "history": {
+      "matchesPlayed": 7,
+      "matches": [
+        {
+          "stage": "Group",
+          "opponent": "Hungary",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group",
+          "opponent": "France",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group",
+          "opponent": "Italy",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Second Group Stage",
+          "opponent": "Poland",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Second Group Stage",
+          "opponent": "Brazil",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Second Group Stage",
+          "opponent": "Peru",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Final",
+          "opponent": "Netherlands",
+          "minutes": 120,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 73,
+      "agility": 75,
+      "skill": 77,
+      "speed": 74,
+      "shooting": 73,
+      "passing": 77,
+      "defending": 72,
+      "physical": 73,
+      "goalkeeping": 56
+    },
+    "overall": 75,
+    "tier": "RARE",
+    "isLegend": false,
+    "achievements": [
+      "CAMPEÃO"
+    ],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "argentina-1978-8",
+    "name": "Rubén Galván",
+    "commonName": "Rubén Galván",
+    "shirtNumber": 8,
+    "position": "MID",
+    "positions": [
+      "MID"
+    ],
+    "country": "Argentina",
+    "countrySlug": "argentina",
+    "year": 1978,
+    "edition": "1978",
+    "club": null,
+    "age": 26,
+    "history": {
+      "matchesPlayed": 0,
+      "matches": [],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 65,
+      "agility": 67,
+      "skill": 69,
+      "speed": 66,
+      "shooting": 65,
+      "passing": 69,
+      "defending": 64,
+      "physical": 65,
+      "goalkeeping": 48
+    },
+    "overall": 67,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [
+      "CAMPEÃO"
+    ],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "argentina-1978-9",
+    "name": "René Houseman",
+    "commonName": "René Houseman",
+    "shirtNumber": 9,
+    "position": "ATT",
+    "positions": [
+      "ATT"
+    ],
+    "country": "Argentina",
+    "countrySlug": "argentina",
+    "year": 1978,
+    "edition": "1978",
+    "club": null,
+    "age": 24,
+    "history": {
+      "matchesPlayed": 6,
+      "matches": [
+        {
+          "stage": "Group",
+          "opponent": "Hungary",
+          "minutes": 67,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group",
+          "opponent": "France",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group",
+          "opponent": "Italy",
+          "minutes": 18,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Second Group Stage",
+          "opponent": "Poland",
+          "minutes": 83,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Second Group Stage",
+          "opponent": "Peru",
+          "minutes": 26,
+          "goals": 1,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Final",
+          "opponent": "Netherlands",
+          "minutes": 45,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 1,
+      "assists": null,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 73,
+      "agility": 75,
+      "skill": 77,
+      "speed": 74,
+      "shooting": 73,
+      "passing": 77,
+      "defending": 72,
+      "physical": 73,
+      "goalkeeping": 56
+    },
+    "overall": 75,
+    "tier": "RARE",
+    "isLegend": false,
+    "achievements": [
+      "CAMPEÃO"
+    ],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "argentina-1978-10",
+    "name": "Mario Kempes",
+    "commonName": "Mario Kempes",
+    "shirtNumber": 10,
+    "position": "ATT",
+    "positions": [
+      "ATT"
+    ],
+    "country": "Argentina",
+    "countrySlug": "argentina",
+    "year": 1978,
+    "edition": "1978",
+    "club": null,
+    "age": 23,
+    "history": {
+      "matchesPlayed": 7,
+      "matches": [
+        {
+          "stage": "Group",
+          "opponent": "Hungary",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group",
+          "opponent": "France",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group",
+          "opponent": "Italy",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Second Group Stage",
+          "opponent": "Poland",
+          "minutes": 90,
+          "goals": 2,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Second Group Stage",
+          "opponent": "Brazil",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Second Group Stage",
+          "opponent": "Peru",
+          "minutes": 90,
+          "goals": 2,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Final",
+          "opponent": "Netherlands",
+          "minutes": 120,
+          "goals": 2,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 6,
+      "assists": null,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 85,
+      "agility": 87,
+      "skill": 89,
+      "speed": 86,
+      "shooting": 85,
+      "passing": 89,
+      "defending": 84,
+      "physical": 85,
+      "goalkeeping": 68
+    },
+    "overall": 88,
+    "tier": "EPIC",
+    "isLegend": true,
+    "achievements": [
+      "CAMPEÃO",
+      "ARTILHEIRO",
+      "GOLDEN BALL"
+    ],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 1,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "argentina-1978-11",
+    "name": "Daniel Killer",
+    "commonName": "Daniel Killer",
+    "shirtNumber": 11,
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "country": "Argentina",
+    "countrySlug": "argentina",
+    "year": 1978,
+    "edition": "1978",
+    "club": null,
+    "age": 28,
+    "history": {
+      "matchesPlayed": 0,
+      "matches": [],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 65,
+      "agility": 67,
+      "skill": 69,
+      "speed": 66,
+      "shooting": 65,
+      "passing": 69,
+      "defending": 64,
+      "physical": 65,
+      "goalkeeping": 48
+    },
+    "overall": 67,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [
+      "CAMPEÃO"
+    ],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "argentina-1978-12",
+    "name": "Omar Larrosa",
+    "commonName": "Omar Larrosa",
+    "shirtNumber": 12,
+    "position": "MID",
+    "positions": [
+      "MID"
+    ],
+    "country": "Argentina",
+    "countrySlug": "argentina",
+    "year": 1978,
+    "edition": "1978",
+    "club": null,
+    "age": 30,
+    "history": {
+      "matchesPlayed": 2,
+      "matches": [
+        {
+          "stage": "Second Group Stage",
+          "opponent": "Peru",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Final",
+          "opponent": "Netherlands",
+          "minutes": 54,
+          "goals": 0,
+          "assists": null,
+          "yellow": 1,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": 1,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 67,
+      "agility": 69,
+      "skill": 71,
+      "speed": 68,
+      "shooting": 67,
+      "passing": 71,
+      "defending": 66,
+      "physical": 67,
+      "goalkeeping": 50
+    },
+    "overall": 69,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [
+      "CAMPEÃO"
+    ],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "argentina-1978-13",
+    "name": "Ricardo La Volpe",
+    "commonName": "Ricardo La Volpe",
+    "shirtNumber": 13,
+    "position": "GK",
+    "positions": [
+      "GK"
+    ],
+    "country": "Argentina",
+    "countrySlug": "argentina",
+    "year": 1978,
+    "edition": "1978",
+    "club": null,
+    "age": 26,
+    "history": {
+      "matchesPlayed": 0,
+      "matches": [],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 63,
+      "agility": 65,
+      "skill": 60,
+      "speed": 60,
+      "shooting": 52,
+      "passing": 62,
+      "defending": 62,
+      "physical": 64,
+      "goalkeeping": 71
+    },
+    "overall": 67,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [
+      "CAMPEÃO"
+    ],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "argentina-1978-14",
+    "name": "Leopoldo Luque",
+    "commonName": "Leopoldo Luque",
+    "shirtNumber": 14,
+    "position": "ATT",
+    "positions": [
+      "ATT"
+    ],
+    "country": "Argentina",
+    "countrySlug": "argentina",
+    "year": 1978,
+    "edition": "1978",
+    "club": null,
+    "age": 29,
+    "history": {
+      "matchesPlayed": 5,
+      "matches": [
+        {
+          "stage": "Group",
+          "opponent": "Hungary",
+          "minutes": 90,
+          "goals": 1,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group",
+          "opponent": "France",
+          "minutes": 90,
+          "goals": 1,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Second Group Stage",
+          "opponent": "Brazil",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Second Group Stage",
+          "opponent": "Peru",
+          "minutes": 90,
+          "goals": 2,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Final",
+          "opponent": "Netherlands",
+          "minutes": 120,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 4,
+      "assists": null,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 76,
+      "agility": 78,
+      "skill": 80,
+      "speed": 77,
+      "shooting": 76,
+      "passing": 80,
+      "defending": 75,
+      "physical": 76,
+      "goalkeeping": 58
+    },
+    "overall": 78,
+    "tier": "RARE",
+    "isLegend": false,
+    "achievements": [
+      "CAMPEÃO"
+    ],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "argentina-1978-15",
+    "name": "Jorge Olguín",
+    "commonName": "Jorge Olguín",
+    "shirtNumber": 15,
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "country": "Argentina",
+    "countrySlug": "argentina",
+    "year": 1978,
+    "edition": "1978",
+    "club": null,
+    "age": 26,
+    "history": {
+      "matchesPlayed": 7,
+      "matches": [
+        {
+          "stage": "Group",
+          "opponent": "Hungary",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group",
+          "opponent": "France",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group",
+          "opponent": "Italy",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Second Group Stage",
+          "opponent": "Poland",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Second Group Stage",
+          "opponent": "Brazil",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Second Group Stage",
+          "opponent": "Peru",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Final",
+          "opponent": "Netherlands",
+          "minutes": 120,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 73,
+      "agility": 75,
+      "skill": 77,
+      "speed": 74,
+      "shooting": 73,
+      "passing": 77,
+      "defending": 72,
+      "physical": 73,
+      "goalkeeping": 56
+    },
+    "overall": 75,
+    "tier": "RARE",
+    "isLegend": false,
+    "achievements": [
+      "CAMPEÃO"
+    ],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "argentina-1978-16",
+    "name": "Oscar Ortiz",
+    "commonName": "Oscar Ortiz",
+    "shirtNumber": 16,
+    "position": "ATT",
+    "positions": [
+      "ATT"
+    ],
+    "country": "Argentina",
+    "countrySlug": "argentina",
+    "year": 1978,
+    "edition": "1978",
+    "club": null,
+    "age": 25,
+    "history": {
+      "matchesPlayed": 6,
+      "matches": [
+        {
+          "stage": "Group",
+          "opponent": "France",
+          "minutes": 19,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group",
+          "opponent": "Italy",
+          "minutes": 72,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Second Group Stage",
+          "opponent": "Poland",
+          "minutes": 7,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Second Group Stage",
+          "opponent": "Brazil",
+          "minutes": 60,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Second Group Stage",
+          "opponent": "Peru",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Final",
+          "opponent": "Netherlands",
+          "minutes": 75,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 72,
+      "agility": 74,
+      "skill": 76,
+      "speed": 73,
+      "shooting": 72,
+      "passing": 76,
+      "defending": 71,
+      "physical": 72,
+      "goalkeeping": 54
+    },
+    "overall": 74,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [
+      "CAMPEÃO"
+    ],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "argentina-1978-17",
+    "name": "Miguel Oviedo",
+    "commonName": "Miguel Oviedo",
+    "shirtNumber": 17,
+    "position": "MID",
+    "positions": [
+      "MID"
+    ],
+    "country": "Argentina",
+    "countrySlug": "argentina",
+    "year": 1978,
+    "edition": "1978",
+    "club": null,
+    "age": 27,
+    "history": {
+      "matchesPlayed": 1,
+      "matches": [
+        {
+          "stage": "Second Group Stage",
+          "opponent": "Peru",
+          "minutes": 5,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 66,
+      "agility": 68,
+      "skill": 70,
+      "speed": 67,
+      "shooting": 66,
+      "passing": 70,
+      "defending": 65,
+      "physical": 66,
+      "goalkeeping": 48
+    },
+    "overall": 68,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [
+      "CAMPEÃO"
+    ],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "argentina-1978-18",
+    "name": "Rubén Pagnanini",
+    "commonName": "Rubén Pagnanini",
+    "shirtNumber": 18,
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "country": "Argentina",
+    "countrySlug": "argentina",
+    "year": 1978,
+    "edition": "1978",
+    "club": null,
+    "age": 29,
+    "history": {
+      "matchesPlayed": 0,
+      "matches": [],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 65,
+      "agility": 67,
+      "skill": 69,
+      "speed": 66,
+      "shooting": 65,
+      "passing": 69,
+      "defending": 64,
+      "physical": 65,
+      "goalkeeping": 48
+    },
+    "overall": 67,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [
+      "CAMPEÃO"
+    ],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "argentina-1978-19",
+    "name": "Daniel Passarella",
+    "commonName": "Daniel Passarella",
+    "shirtNumber": 19,
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "country": "Argentina",
+    "countrySlug": "argentina",
+    "year": 1978,
+    "edition": "1978",
+    "club": null,
+    "age": 25,
+    "history": {
+      "matchesPlayed": 7,
+      "matches": [
+        {
+          "stage": "Group",
+          "opponent": "Hungary",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 1,
+          "red": 0
+        },
+        {
+          "stage": "Group",
+          "opponent": "France",
+          "minutes": 90,
+          "goals": 1,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group",
+          "opponent": "Italy",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Second Group Stage",
+          "opponent": "Poland",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Second Group Stage",
+          "opponent": "Brazil",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Second Group Stage",
+          "opponent": "Peru",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Final",
+          "opponent": "Netherlands",
+          "minutes": 120,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 1,
+      "assists": null,
+      "yellowCards": 1,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 74,
+      "agility": 76,
+      "skill": 78,
+      "speed": 75,
+      "shooting": 74,
+      "passing": 78,
+      "defending": 73,
+      "physical": 74,
+      "goalkeeping": 56
+    },
+    "overall": 76,
+    "tier": "RARE",
+    "isLegend": false,
+    "achievements": [
+      "CAMPEÃO"
+    ],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "argentina-1978-20",
+    "name": "Alberto Tarantini",
+    "commonName": "Alberto Tarantini",
+    "shirtNumber": 20,
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "country": "Argentina",
+    "countrySlug": "argentina",
+    "year": 1978,
+    "edition": "1978",
+    "club": null,
+    "age": 22,
+    "history": {
+      "matchesPlayed": 7,
+      "matches": [
+        {
+          "stage": "Group",
+          "opponent": "Hungary",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group",
+          "opponent": "France",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group",
+          "opponent": "Italy",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Second Group Stage",
+          "opponent": "Poland",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Second Group Stage",
+          "opponent": "Brazil",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Second Group Stage",
+          "opponent": "Peru",
+          "minutes": 90,
+          "goals": 1,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Final",
+          "opponent": "Netherlands",
+          "minutes": 120,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 1,
+      "assists": null,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 74,
+      "agility": 76,
+      "skill": 78,
+      "speed": 75,
+      "shooting": 74,
+      "passing": 78,
+      "defending": 73,
+      "physical": 74,
+      "goalkeeping": 56
+    },
+    "overall": 76,
+    "tier": "RARE",
+    "isLegend": false,
+    "achievements": [
+      "CAMPEÃO"
+    ],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "argentina-1978-21",
+    "name": "José Daniel Valencia",
+    "commonName": "José Daniel Valencia",
+    "shirtNumber": 21,
+    "position": "MID",
+    "positions": [
+      "MID"
+    ],
+    "country": "Argentina",
+    "countrySlug": "argentina",
+    "year": 1978,
+    "edition": "1978",
+    "club": null,
+    "age": 22,
+    "history": {
+      "matchesPlayed": 4,
+      "matches": [
+        {
+          "stage": "Group",
+          "opponent": "Hungary",
+          "minutes": 75,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group",
+          "opponent": "France",
+          "minutes": 64,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group",
+          "opponent": "Italy",
+          "minutes": 90,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Second Group Stage",
+          "opponent": "Poland",
+          "minutes": 46,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 70,
+      "agility": 72,
+      "skill": 74,
+      "speed": 71,
+      "shooting": 70,
+      "passing": 74,
+      "defending": 69,
+      "physical": 70,
+      "goalkeeping": 52
+    },
+    "overall": 72,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [
+      "CAMPEÃO"
+    ],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "argentina-1978-22",
+    "name": "Ricardo Villa",
+    "commonName": "Ricardo Villa",
+    "shirtNumber": 22,
+    "position": "MID",
+    "positions": [
+      "MID"
+    ],
+    "country": "Argentina",
+    "countrySlug": "argentina",
+    "year": 1978,
+    "edition": "1978",
+    "club": null,
+    "age": 25,
+    "history": {
+      "matchesPlayed": 2,
+      "matches": [
+        {
+          "stage": "Second Group Stage",
+          "opponent": "Poland",
+          "minutes": 44,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Second Group Stage",
+          "opponent": "Brazil",
+          "minutes": 44,
+          "goals": 0,
+          "assists": null,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 67,
+      "agility": 69,
+      "skill": 71,
+      "speed": 68,
+      "shooting": 67,
+      "passing": 71,
+      "defending": 66,
+      "physical": 67,
+      "goalkeeping": 50
+    },
+    "overall": 69,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [
+      "CAMPEÃO"
+    ],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  }
+]

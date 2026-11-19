@@ -1,0 +1,331 @@
+{
+  "country": "Brazil",
+  "countrySlug": "brazil",
+  "year": 1970,
+  "edition": "1970",
+  "host": "Mexico",
+  "coach": "Mário Zagallo",
+  "finalPhase": "Final",
+  "result": "Champion",
+  "squad": [
+    {
+      "id": "brazil-1970-1",
+      "name": "Félix",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "brazil-1970-2",
+      "name": "Brito",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "brazil-1970-3",
+      "name": "Piazza",
+      "shirtNumber": 3,
+      "position": "MID"
+    },
+    {
+      "id": "brazil-1970-4",
+      "name": "Carlos Alberto",
+      "shirtNumber": 4,
+      "position": "DEF"
+    },
+    {
+      "id": "brazil-1970-5",
+      "name": "Clodoaldo",
+      "shirtNumber": 5,
+      "position": "MID"
+    },
+    {
+      "id": "brazil-1970-6",
+      "name": "Marco Antônio",
+      "shirtNumber": 6,
+      "position": "DEF"
+    },
+    {
+      "id": "brazil-1970-7",
+      "name": "Jairzinho",
+      "shirtNumber": 7,
+      "position": "ATT"
+    },
+    {
+      "id": "brazil-1970-8",
+      "name": "Gérson",
+      "shirtNumber": 8,
+      "position": "MID"
+    },
+    {
+      "id": "brazil-1970-9",
+      "name": "Tostão",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "brazil-1970-10",
+      "name": "Pelé",
+      "shirtNumber": 10,
+      "position": "ATT"
+    },
+    {
+      "id": "brazil-1970-11",
+      "name": "Rivellino",
+      "shirtNumber": 11,
+      "position": "MID"
+    },
+    {
+      "id": "brazil-1970-12",
+      "name": "Ado",
+      "shirtNumber": 12,
+      "position": "GK"
+    },
+    {
+      "id": "brazil-1970-13",
+      "name": "Roberto",
+      "shirtNumber": 13,
+      "position": "ATT"
+    },
+    {
+      "id": "brazil-1970-14",
+      "name": "Baldocchi",
+      "shirtNumber": 14,
+      "position": "DEF"
+    },
+    {
+      "id": "brazil-1970-15",
+      "name": "Fontana",
+      "shirtNumber": 15,
+      "position": "DEF"
+    },
+    {
+      "id": "brazil-1970-16",
+      "name": "Everaldo",
+      "shirtNumber": 16,
+      "position": "DEF"
+    },
+    {
+      "id": "brazil-1970-17",
+      "name": "Joel",
+      "shirtNumber": 17,
+      "position": "DEF"
+    },
+    {
+      "id": "brazil-1970-18",
+      "name": "Caju",
+      "shirtNumber": 18,
+      "position": "MID"
+    },
+    {
+      "id": "brazil-1970-19",
+      "name": "Edu",
+      "shirtNumber": 19,
+      "position": "ATT"
+    },
+    {
+      "id": "brazil-1970-20",
+      "name": "Dario",
+      "shirtNumber": 20,
+      "position": "ATT"
+    },
+    {
+      "id": "brazil-1970-21",
+      "name": "Zé Maria",
+      "shirtNumber": 21,
+      "position": "DEF"
+    },
+    {
+      "id": "brazil-1970-22",
+      "name": "Leão",
+      "shirtNumber": 22,
+      "position": "GK"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "Czechoslovakia",
+      "score": "4–1",
+      "scorers": [
+        {
+          "name": "Ladislav Petráš",
+          "minute": "11'",
+          "ownGoal": false
+        },
+        {
+          "name": "Rivellino",
+          "minute": "24'",
+          "ownGoal": false
+        },
+        {
+          "name": "Pelé",
+          "minute": "59'",
+          "ownGoal": false
+        },
+        {
+          "name": "Jairzinho",
+          "minute": "61'",
+          "ownGoal": false
+        },
+        {
+          "name": "Jairzinho",
+          "minute": "83'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1970-06-03"
+    },
+    {
+      "stage": "Group",
+      "opponent": "England",
+      "score": "1–0",
+      "scorers": [
+        {
+          "name": "Jairzinho",
+          "minute": "59'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1970-06-07"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Romania",
+      "score": "3–2",
+      "scorers": [
+        {
+          "name": "Pelé",
+          "minute": "19'",
+          "ownGoal": false
+        },
+        {
+          "name": "Jairzinho",
+          "minute": "22'",
+          "ownGoal": false
+        },
+        {
+          "name": "Florea Dumitrache",
+          "minute": "34'",
+          "ownGoal": false
+        },
+        {
+          "name": "Pelé",
+          "minute": "67'",
+          "ownGoal": false
+        },
+        {
+          "name": "Emerich Dembrovschi",
+          "minute": "84'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1970-06-10"
+    },
+    {
+      "stage": "Quarter-final",
+      "opponent": "Peru",
+      "score": "4–2",
+      "scorers": [
+        {
+          "name": "Rivellino",
+          "minute": "11'",
+          "ownGoal": false
+        },
+        {
+          "name": "Tostão",
+          "minute": "15'",
+          "ownGoal": false
+        },
+        {
+          "name": "Alberto Gallardo",
+          "minute": "28'",
+          "ownGoal": false
+        },
+        {
+          "name": "Tostão",
+          "minute": "52'",
+          "ownGoal": false
+        },
+        {
+          "name": "Teófilo Cubillas",
+          "minute": "70'",
+          "ownGoal": false
+        },
+        {
+          "name": "Jairzinho",
+          "minute": "75'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1970-06-14"
+    },
+    {
+      "stage": "Semi-final",
+      "opponent": "Uruguay",
+      "score": "3–1",
+      "scorers": [
+        {
+          "name": "Luis Cubilla",
+          "minute": "19'",
+          "ownGoal": false
+        },
+        {
+          "name": "Clodoaldo",
+          "minute": "44'",
+          "ownGoal": false
+        },
+        {
+          "name": "Jairzinho",
+          "minute": "76'",
+          "ownGoal": false
+        },
+        {
+          "name": "Rivellino",
+          "minute": "89'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1970-06-17"
+    },
+    {
+      "stage": "Final",
+      "opponent": "Italy",
+      "score": "4–1",
+      "scorers": [
+        {
+          "name": "Pelé",
+          "minute": "18'",
+          "ownGoal": false
+        },
+        {
+          "name": "Roberto Boninsegna",
+          "minute": "37'",
+          "ownGoal": false
+        },
+        {
+          "name": "Gérson",
+          "minute": "66'",
+          "ownGoal": false
+        },
+        {
+          "name": "Jairzinho",
+          "minute": "71'",
+          "ownGoal": false
+        },
+        {
+          "name": "Carlos Alberto",
+          "minute": "86'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1970-06-21"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

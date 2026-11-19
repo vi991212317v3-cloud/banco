@@ -1,0 +1,212 @@
+{
+  "country": "Austria",
+  "countrySlug": "austria",
+  "year": 1998,
+  "edition": "1998",
+  "host": "France",
+  "coach": "Herbert Prohaska",
+  "finalPhase": "Group Stage",
+  "result": "Group Stage",
+  "squad": [
+    {
+      "id": "austria-1998-1",
+      "name": "Michael Konsel",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "austria-1998-2",
+      "name": "Markus Schopp",
+      "shirtNumber": 2,
+      "position": "MID"
+    },
+    {
+      "id": "austria-1998-3",
+      "name": "Peter Schöttel",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "austria-1998-4",
+      "name": "Anton Pfeffer",
+      "shirtNumber": 4,
+      "position": "DEF"
+    },
+    {
+      "id": "austria-1998-5",
+      "name": "Wolfgang Feiersinger",
+      "shirtNumber": 5,
+      "position": "DEF"
+    },
+    {
+      "id": "austria-1998-6",
+      "name": "Walter Kogler",
+      "shirtNumber": 6,
+      "position": "DEF"
+    },
+    {
+      "id": "austria-1998-7",
+      "name": "Mario Haas",
+      "shirtNumber": 7,
+      "position": "ATT"
+    },
+    {
+      "id": "austria-1998-8",
+      "name": "Heimo Pfeifenberger",
+      "shirtNumber": 8,
+      "position": "MID"
+    },
+    {
+      "id": "austria-1998-9",
+      "name": "Ivica Vastić",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "austria-1998-10",
+      "name": "Andi Herzog",
+      "shirtNumber": 10,
+      "position": "MID"
+    },
+    {
+      "id": "austria-1998-11",
+      "name": "Martin Amerhauser",
+      "shirtNumber": 11,
+      "position": "MID"
+    },
+    {
+      "id": "austria-1998-12",
+      "name": "Martin Hiden",
+      "shirtNumber": 12,
+      "position": "DEF"
+    },
+    {
+      "id": "austria-1998-13",
+      "name": "Harald Cerny",
+      "shirtNumber": 13,
+      "position": "MID"
+    },
+    {
+      "id": "austria-1998-14",
+      "name": "Hannes Reinmayr",
+      "shirtNumber": 14,
+      "position": "ATT"
+    },
+    {
+      "id": "austria-1998-15",
+      "name": "Arnold Wetl",
+      "shirtNumber": 15,
+      "position": "MID"
+    },
+    {
+      "id": "austria-1998-16",
+      "name": "Franz Wohlfahrt",
+      "shirtNumber": 16,
+      "position": "GK"
+    },
+    {
+      "id": "austria-1998-17",
+      "name": "Roman Mählich",
+      "shirtNumber": 17,
+      "position": "MID"
+    },
+    {
+      "id": "austria-1998-18",
+      "name": "Peter Stöger",
+      "shirtNumber": 18,
+      "position": "MID"
+    },
+    {
+      "id": "austria-1998-19",
+      "name": "Toni Polster",
+      "shirtNumber": 19,
+      "position": "ATT"
+    },
+    {
+      "id": "austria-1998-20",
+      "name": "Andreas Heraf",
+      "shirtNumber": 20,
+      "position": "MID"
+    },
+    {
+      "id": "austria-1998-21",
+      "name": "Wolfgang Knaller",
+      "shirtNumber": 21,
+      "position": "GK"
+    },
+    {
+      "id": "austria-1998-22",
+      "name": "Dietmar Kühbauer",
+      "shirtNumber": 22,
+      "position": "MID"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "Cameroon",
+      "score": "1–1",
+      "scorers": [
+        {
+          "name": "Pierre Njanka",
+          "minute": "77'",
+          "ownGoal": false
+        },
+        {
+          "name": "Toni Polster",
+          "minute": "90'+1'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1998-06-11"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Chile",
+      "score": "1–1",
+      "scorers": [
+        {
+          "name": "Marcelo Salas",
+          "minute": "70'",
+          "ownGoal": false
+        },
+        {
+          "name": "Ivica Vastić",
+          "minute": "90'+2'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1998-06-17"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Italy",
+      "score": "2–1",
+      "scorers": [
+        {
+          "name": "Christian Vieri",
+          "minute": "48'",
+          "ownGoal": false
+        },
+        {
+          "name": "Roberto Baggio",
+          "minute": "90'",
+          "ownGoal": false
+        },
+        {
+          "name": "Andi Herzog",
+          "minute": "90'+2'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1998-06-23"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

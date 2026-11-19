@@ -1,0 +1,243 @@
+{
+  "country": "Serbia and Montenegro",
+  "countrySlug": "serbia-and-montenegro",
+  "year": 2006,
+  "edition": "2006",
+  "host": "Germany",
+  "coach": "Ilija Petković",
+  "finalPhase": "Group Stage",
+  "result": "Group Stage",
+  "squad": [
+    {
+      "id": "serbia-and-montenegro-2006-1",
+      "name": "Dragoslav Jevrić",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "serbia-and-montenegro-2006-2",
+      "name": "Ivan Ergić",
+      "shirtNumber": 2,
+      "position": "MID"
+    },
+    {
+      "id": "serbia-and-montenegro-2006-3",
+      "name": "Ivica Dragutinović",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "serbia-and-montenegro-2006-4",
+      "name": "Igor Duljaj",
+      "shirtNumber": 4,
+      "position": "MID"
+    },
+    {
+      "id": "serbia-and-montenegro-2006-5",
+      "name": "Nemanja Vidić",
+      "shirtNumber": 5,
+      "position": "DEF"
+    },
+    {
+      "id": "serbia-and-montenegro-2006-6",
+      "name": "Goran Gavrančić",
+      "shirtNumber": 6,
+      "position": "DEF"
+    },
+    {
+      "id": "serbia-and-montenegro-2006-7",
+      "name": "Ognjen Koroman",
+      "shirtNumber": 7,
+      "position": "MID"
+    },
+    {
+      "id": "serbia-and-montenegro-2006-8",
+      "name": "Mateja Kežman",
+      "shirtNumber": 8,
+      "position": "ATT"
+    },
+    {
+      "id": "serbia-and-montenegro-2006-9",
+      "name": "Savo Milošević",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "serbia-and-montenegro-2006-10",
+      "name": "Dejan Stanković",
+      "shirtNumber": 10,
+      "position": "MID"
+    },
+    {
+      "id": "serbia-and-montenegro-2006-11",
+      "name": "Predrag Đorđević",
+      "shirtNumber": 11,
+      "position": "MID"
+    },
+    {
+      "id": "serbia-and-montenegro-2006-12",
+      "name": "Oliver Kovačević",
+      "shirtNumber": 12,
+      "position": "GK"
+    },
+    {
+      "id": "serbia-and-montenegro-2006-13",
+      "name": "Dušan Basta",
+      "shirtNumber": 13,
+      "position": "DEF"
+    },
+    {
+      "id": "serbia-and-montenegro-2006-14",
+      "name": "Nenad Đorđević",
+      "shirtNumber": 14,
+      "position": "DEF"
+    },
+    {
+      "id": "serbia-and-montenegro-2006-15",
+      "name": "Milan Dudić",
+      "shirtNumber": 15,
+      "position": "DEF"
+    },
+    {
+      "id": "serbia-and-montenegro-2006-16",
+      "name": "Dušan Petković",
+      "shirtNumber": 16,
+      "position": "DEF"
+    },
+    {
+      "id": "serbia-and-montenegro-2006-17",
+      "name": "Albert Nađ",
+      "shirtNumber": 17,
+      "position": "MID"
+    },
+    {
+      "id": "serbia-and-montenegro-2006-18",
+      "name": "Zvonimir Vukić",
+      "shirtNumber": 18,
+      "position": "MID"
+    },
+    {
+      "id": "serbia-and-montenegro-2006-19",
+      "name": "Nikola Žigić",
+      "shirtNumber": 19,
+      "position": "ATT"
+    },
+    {
+      "id": "serbia-and-montenegro-2006-20",
+      "name": "Mladen Krstajić",
+      "shirtNumber": 20,
+      "position": "DEF"
+    },
+    {
+      "id": "serbia-and-montenegro-2006-21",
+      "name": "Danijel Ljuboja",
+      "shirtNumber": 21,
+      "position": "ATT"
+    },
+    {
+      "id": "serbia-and-montenegro-2006-22",
+      "name": "Saša Ilić",
+      "shirtNumber": 22,
+      "position": "MID"
+    },
+    {
+      "id": "serbia-and-montenegro-2006-23",
+      "name": "Vladimir Stojković",
+      "shirtNumber": 23,
+      "position": "GK"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "Netherlands",
+      "score": "0–1",
+      "scorers": [
+        {
+          "name": "Arjen Robben",
+          "minute": "18'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2006-06-11"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Argentina",
+      "score": "6–0",
+      "scorers": [
+        {
+          "name": "Maxi Rodríguez",
+          "minute": "6'",
+          "ownGoal": false
+        },
+        {
+          "name": "Esteban Cambiasso",
+          "minute": "31'",
+          "ownGoal": false
+        },
+        {
+          "name": "Maxi Rodríguez",
+          "minute": "41'",
+          "ownGoal": false
+        },
+        {
+          "name": "Hernán Crespo",
+          "minute": "78'",
+          "ownGoal": false
+        },
+        {
+          "name": "Carlos Tevez",
+          "minute": "84'",
+          "ownGoal": false
+        },
+        {
+          "name": "Lionel Messi",
+          "minute": "88'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2006-06-16"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Ivory Coast",
+      "score": "3–2",
+      "scorers": [
+        {
+          "name": "Nikola Žigić",
+          "minute": "10'",
+          "ownGoal": false
+        },
+        {
+          "name": "Saša Ilić",
+          "minute": "20'",
+          "ownGoal": false
+        },
+        {
+          "name": "Aruna Dindane",
+          "minute": "37'",
+          "ownGoal": false
+        },
+        {
+          "name": "Aruna Dindane",
+          "minute": "67'",
+          "ownGoal": false
+        },
+        {
+          "name": "Bonaventure Kalou",
+          "minute": "86'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2006-06-21"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

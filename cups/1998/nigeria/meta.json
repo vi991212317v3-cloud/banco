@@ -1,0 +1,260 @@
+{
+  "country": "Nigeria",
+  "countrySlug": "nigeria",
+  "year": 1998,
+  "edition": "1998",
+  "host": "France",
+  "coach": "Bora Milutinović",
+  "finalPhase": "Round of 16",
+  "result": "Round of 16",
+  "squad": [
+    {
+      "id": "nigeria-1998-1",
+      "name": "Peter Rufai",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "nigeria-1998-2",
+      "name": "Mobi Oparaku",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "nigeria-1998-3",
+      "name": "Celestine Babayaro",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "nigeria-1998-4",
+      "name": "Nwankwo Kanu",
+      "shirtNumber": 4,
+      "position": "ATT"
+    },
+    {
+      "id": "nigeria-1998-5",
+      "name": "Uche Okechukwu",
+      "shirtNumber": 5,
+      "position": "DEF"
+    },
+    {
+      "id": "nigeria-1998-6",
+      "name": "Taribo West",
+      "shirtNumber": 6,
+      "position": "DEF"
+    },
+    {
+      "id": "nigeria-1998-7",
+      "name": "Finidi George",
+      "shirtNumber": 7,
+      "position": "MID"
+    },
+    {
+      "id": "nigeria-1998-8",
+      "name": "Mutiu Adepoju",
+      "shirtNumber": 8,
+      "position": "MID"
+    },
+    {
+      "id": "nigeria-1998-9",
+      "name": "Rashidi Yekini",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "nigeria-1998-10",
+      "name": "Jay-Jay Okocha",
+      "shirtNumber": 10,
+      "position": "MID"
+    },
+    {
+      "id": "nigeria-1998-11",
+      "name": "Garba Lawal",
+      "shirtNumber": 11,
+      "position": "MID"
+    },
+    {
+      "id": "nigeria-1998-12",
+      "name": "Willy Okpara",
+      "shirtNumber": 12,
+      "position": "GK"
+    },
+    {
+      "id": "nigeria-1998-13",
+      "name": "Tijani Babangida",
+      "shirtNumber": 13,
+      "position": "MID"
+    },
+    {
+      "id": "nigeria-1998-14",
+      "name": "Daniel Amokachi",
+      "shirtNumber": 14,
+      "position": "ATT"
+    },
+    {
+      "id": "nigeria-1998-15",
+      "name": "Sunday Oliseh",
+      "shirtNumber": 15,
+      "position": "MID"
+    },
+    {
+      "id": "nigeria-1998-16",
+      "name": "Uche Okafor",
+      "shirtNumber": 16,
+      "position": "DEF"
+    },
+    {
+      "id": "nigeria-1998-17",
+      "name": "Augustine Eguavoen",
+      "shirtNumber": 17,
+      "position": "DEF"
+    },
+    {
+      "id": "nigeria-1998-18",
+      "name": "Wilson Oruma",
+      "shirtNumber": 18,
+      "position": "MID"
+    },
+    {
+      "id": "nigeria-1998-19",
+      "name": "Benedict Iroha",
+      "shirtNumber": 19,
+      "position": "DEF"
+    },
+    {
+      "id": "nigeria-1998-20",
+      "name": "Victor Ikpeba",
+      "shirtNumber": 20,
+      "position": "ATT"
+    },
+    {
+      "id": "nigeria-1998-21",
+      "name": "Godwin Okpara",
+      "shirtNumber": 21,
+      "position": "DEF"
+    },
+    {
+      "id": "nigeria-1998-22",
+      "name": "Abiodun Baruwa",
+      "shirtNumber": 22,
+      "position": "GK"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "Spain",
+      "score": "2–3",
+      "scorers": [
+        {
+          "name": "Fernando Hierro",
+          "minute": "21'",
+          "ownGoal": false
+        },
+        {
+          "name": "Mutiu Adepoju",
+          "minute": "24'",
+          "ownGoal": false
+        },
+        {
+          "name": "Raúl",
+          "minute": "47'",
+          "ownGoal": false
+        },
+        {
+          "name": "Andoni Zubizarreta",
+          "minute": "73'",
+          "ownGoal": true
+        },
+        {
+          "name": "Sunday Oliseh",
+          "minute": "78'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1998-06-13"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Bulgaria",
+      "score": "1–0",
+      "scorers": [
+        {
+          "name": "Victor Ikpeba",
+          "minute": "28'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1998-06-19"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Paraguay",
+      "score": "1–3",
+      "scorers": [
+        {
+          "name": "Celso Ayala",
+          "minute": "1'",
+          "ownGoal": false
+        },
+        {
+          "name": "Wilson Oruma",
+          "minute": "11'",
+          "ownGoal": false
+        },
+        {
+          "name": "Miguel Ángel Benítez",
+          "minute": "58'",
+          "ownGoal": false
+        },
+        {
+          "name": "José Cardozo",
+          "minute": "86'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1998-06-24"
+    },
+    {
+      "stage": "Round of 16",
+      "opponent": "Denmark",
+      "score": "1–4",
+      "scorers": [
+        {
+          "name": "Peter Møller",
+          "minute": "3'",
+          "ownGoal": false
+        },
+        {
+          "name": "Brian Laudrup",
+          "minute": "12'",
+          "ownGoal": false
+        },
+        {
+          "name": "Ebbe Sand",
+          "minute": "58'",
+          "ownGoal": false
+        },
+        {
+          "name": "Thomas Helveg",
+          "minute": "76'",
+          "ownGoal": false
+        },
+        {
+          "name": "Tijani Babangida",
+          "minute": "77'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1998-06-28"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

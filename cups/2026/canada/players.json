@@ -1,0 +1,1956 @@
+[
+  {
+    "id": "canada-2026-1",
+    "name": "Dayne Tristan ST. CLAIR",
+    "commonName": "ST. CLAIR Dayne",
+    "shirtNumber": 1,
+    "position": "GK",
+    "positions": [
+      "GK"
+    ],
+    "country": "Canada",
+    "countrySlug": "canada",
+    "year": 2026,
+    "edition": "2026",
+    "club": "Inter Miami CF (USA)",
+    "age": 29,
+    "history": {
+      "matchesPlayed": 1,
+      "matches": [
+        {
+          "stage": "Group Stage",
+          "opponent": "Qatar",
+          "minutes": 30,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 64,
+      "agility": 66,
+      "skill": 61,
+      "speed": 61,
+      "shooting": 53,
+      "passing": 63,
+      "defending": 63,
+      "physical": 65,
+      "goalkeeping": 72
+    },
+    "overall": 73,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "statsStatus": "matched-community",
+    "sources": [
+      "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+      "https://github.com/mominullptr/FIFA-World-Cup-2026-Dataset",
+      "https://github.com/openfootball/worldcup.json"
+    ]
+  },
+
+  {
+    "id": "canada-2026-2",
+    "name": "Alistair William JOHNSTON",
+    "commonName": "JOHNSTON Alistair",
+    "shirtNumber": 2,
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "country": "Canada",
+    "countrySlug": "canada",
+    "year": 2026,
+    "edition": "2026",
+    "club": "Celtic FC (SCO)",
+    "age": 27,
+    "history": {
+      "matchesPlayed": 5,
+      "matches": [
+        {
+          "stage": "Group Stage",
+          "opponent": "Bosnia and Herzegovina",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group Stage",
+          "opponent": "Qatar",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group Stage",
+          "opponent": "Switzerland",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Round of 32",
+          "opponent": "South Africa",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Round of 16",
+          "opponent": "Morocco",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 71,
+      "agility": 73,
+      "skill": 75,
+      "speed": 72,
+      "shooting": 71,
+      "passing": 75,
+      "defending": 70,
+      "physical": 71,
+      "goalkeeping": 54
+    },
+    "overall": 73,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "statsStatus": "matched-community",
+    "sources": [
+      "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+      "https://github.com/mominullptr/FIFA-World-Cup-2026-Dataset",
+      "https://github.com/openfootball/worldcup.json"
+    ]
+  },
+
+  {
+    "id": "canada-2026-3",
+    "name": "Al e Charles JONES",
+    "commonName": "JONES Al e",
+    "shirtNumber": 3,
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "country": "Canada",
+    "countrySlug": "canada",
+    "year": 2026,
+    "edition": "2026",
+    "club": "Middlesbrough FC (ENG)",
+    "age": 28,
+    "history": {
+      "matchesPlayed": 1,
+      "matches": [
+        {
+          "stage": "Round of 16",
+          "opponent": "Morocco",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 66,
+      "agility": 68,
+      "skill": 70,
+      "speed": 67,
+      "shooting": 66,
+      "passing": 70,
+      "defending": 65,
+      "physical": 66,
+      "goalkeeping": 48
+    },
+    "overall": 68,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "statsStatus": "matched-community",
+    "sources": [
+      "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+      "https://github.com/mominullptr/FIFA-World-Cup-2026-Dataset",
+      "https://github.com/openfootball/worldcup.json"
+    ]
+  },
+
+  {
+    "id": "canada-2026-4",
+    "name": "Luc ROLLET DE FOUGEROLLES",
+    "commonName": "DE FOUGEROLLES Luc",
+    "shirtNumber": 4,
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "country": "Canada",
+    "countrySlug": "canada",
+    "year": 2026,
+    "edition": "2026",
+    "club": "FCV Dender EH (BEL)",
+    "age": 20,
+    "history": {
+      "matchesPlayed": 4,
+      "matches": [
+        {
+          "stage": "Group Stage",
+          "opponent": "Bosnia and Herzegovina",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group Stage",
+          "opponent": "Qatar",
+          "minutes": 71,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group Stage",
+          "opponent": "Switzerland",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Round of 32",
+          "opponent": "South Africa",
+          "minutes": 31,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 70,
+      "agility": 72,
+      "skill": 74,
+      "speed": 71,
+      "shooting": 70,
+      "passing": 74,
+      "defending": 69,
+      "physical": 70,
+      "goalkeeping": 52
+    },
+    "overall": 72,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "statsStatus": "matched-community",
+    "sources": [
+      "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+      "https://github.com/mominullptr/FIFA-World-Cup-2026-Dataset",
+      "https://github.com/openfootball/worldcup.json"
+    ]
+  },
+
+  {
+    "id": "canada-2026-5",
+    "name": "Joel Robert WATERMAN",
+    "commonName": "WATERMAN Joel",
+    "shirtNumber": 5,
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "country": "Canada",
+    "countrySlug": "canada",
+    "year": 2026,
+    "edition": "2026",
+    "club": "Chicago Fire FC (USA)",
+    "age": 30,
+    "history": {
+      "matchesPlayed": 0,
+      "matches": [],
+      "goals": 0,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 65,
+      "agility": 67,
+      "skill": 69,
+      "speed": 66,
+      "shooting": 65,
+      "passing": 69,
+      "defending": 64,
+      "physical": 65,
+      "goalkeeping": 48
+    },
+    "overall": 68,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "statsStatus": "matched-community",
+    "sources": [
+      "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+      "https://github.com/mominullptr/FIFA-World-Cup-2026-Dataset",
+      "https://github.com/openfootball/worldcup.json"
+    ]
+  },
+
+  {
+    "id": "canada-2026-6",
+    "name": "Mathieu CHOINIÈRE",
+    "commonName": "CHOINIERE Mathieu",
+    "shirtNumber": 6,
+    "position": "MID",
+    "positions": [
+      "MID"
+    ],
+    "country": "Canada",
+    "countrySlug": "canada",
+    "year": 2026,
+    "edition": "2026",
+    "club": "LAFC (USA)",
+    "age": 27,
+    "history": {
+      "matchesPlayed": 1,
+      "matches": [
+        {
+          "stage": "Group Stage",
+          "opponent": "Switzerland",
+          "minutes": 58,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 66,
+      "agility": 68,
+      "skill": 70,
+      "speed": 67,
+      "shooting": 66,
+      "passing": 70,
+      "defending": 65,
+      "physical": 66,
+      "goalkeeping": 48
+    },
+    "overall": 67,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "statsStatus": "matched-community",
+    "sources": [
+      "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+      "https://github.com/mominullptr/FIFA-World-Cup-2026-Dataset",
+      "https://github.com/openfootball/worldcup.json"
+    ]
+  },
+
+  {
+    "id": "canada-2026-7",
+    "name": "Stephen EUSTAQUIO",
+    "commonName": "EUSTAQUIO Stephen",
+    "shirtNumber": 7,
+    "position": "MID",
+    "positions": [
+      "MID"
+    ],
+    "country": "Canada",
+    "countrySlug": "canada",
+    "year": 2026,
+    "edition": "2026",
+    "club": "LAFC (USA)",
+    "age": 29,
+    "history": {
+      "matchesPlayed": 5,
+      "matches": [
+        {
+          "stage": "Group Stage",
+          "opponent": "Bosnia and Herzegovina",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group Stage",
+          "opponent": "Qatar",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group Stage",
+          "opponent": "Switzerland",
+          "minutes": 32,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Round of 32",
+          "opponent": "South Africa",
+          "minutes": 90,
+          "goals": 1,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Round of 16",
+          "opponent": "Morocco",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 1,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 72,
+      "agility": 74,
+      "skill": 76,
+      "speed": 73,
+      "shooting": 72,
+      "passing": 76,
+      "defending": 71,
+      "physical": 72,
+      "goalkeeping": 54
+    },
+    "overall": 77,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "statsStatus": "matched-community",
+    "sources": [
+      "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+      "https://github.com/mominullptr/FIFA-World-Cup-2026-Dataset",
+      "https://github.com/openfootball/worldcup.json"
+    ]
+  },
+
+  {
+    "id": "canada-2026-8",
+    "name": "Ismaël Kenneth Jordan KONE",
+    "commonName": "KONE Ismael",
+    "shirtNumber": 8,
+    "position": "MID",
+    "positions": [
+      "MID"
+    ],
+    "country": "Canada",
+    "countrySlug": "canada",
+    "year": 2026,
+    "edition": "2026",
+    "club": "US Sassuolo (ITA)",
+    "age": 23,
+    "history": {
+      "matchesPlayed": 3,
+      "matches": [
+        {
+          "stage": "Group Stage",
+          "opponent": "Bosnia and Herzegovina",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group Stage",
+          "opponent": "Qatar",
+          "minutes": 56,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 1,
+          "red": 0
+        },
+        {
+          "stage": "Round of 16",
+          "opponent": "Morocco",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": 0,
+      "yellowCards": 1,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 68,
+      "agility": 70,
+      "skill": 72,
+      "speed": 69,
+      "shooting": 68,
+      "passing": 72,
+      "defending": 67,
+      "physical": 68,
+      "goalkeeping": 50
+    },
+    "overall": 72,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "statsStatus": "matched-community",
+    "sources": [
+      "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+      "https://github.com/mominullptr/FIFA-World-Cup-2026-Dataset",
+      "https://github.com/openfootball/worldcup.json"
+    ]
+  },
+
+  {
+    "id": "canada-2026-9",
+    "name": "Cyle Christopher LARIN",
+    "commonName": "LARIN Cyle",
+    "shirtNumber": 9,
+    "position": "ATT",
+    "positions": [
+      "ATT"
+    ],
+    "country": "Canada",
+    "countrySlug": "canada",
+    "year": 2026,
+    "edition": "2026",
+    "club": "Southampton FC (ENG)",
+    "age": 31,
+    "history": {
+      "matchesPlayed": 3,
+      "matches": [
+        {
+          "stage": "Group Stage",
+          "opponent": "Bosnia and Herzegovina",
+          "minutes": 14,
+          "goals": 1,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group Stage",
+          "opponent": "Qatar",
+          "minutes": 90,
+          "goals": 1,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group Stage",
+          "opponent": "Switzerland",
+          "minutes": 58,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 2,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 71,
+      "agility": 73,
+      "skill": 75,
+      "speed": 72,
+      "shooting": 71,
+      "passing": 75,
+      "defending": 70,
+      "physical": 71,
+      "goalkeeping": 54
+    },
+    "overall": 77,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "statsStatus": "matched-community",
+    "sources": [
+      "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+      "https://github.com/mominullptr/FIFA-World-Cup-2026-Dataset",
+      "https://github.com/openfootball/worldcup.json"
+    ]
+  },
+
+  {
+    "id": "canada-2026-10",
+    "name": "Jonathan Christian DAVID",
+    "commonName": "DAVID Jonathan",
+    "shirtNumber": 10,
+    "position": "ATT",
+    "positions": [
+      "ATT"
+    ],
+    "country": "Canada",
+    "countrySlug": "canada",
+    "year": 2026,
+    "edition": "2026",
+    "club": "Juventus FC (ITA)",
+    "age": 26,
+    "history": {
+      "matchesPlayed": 5,
+      "matches": [
+        {
+          "stage": "Group Stage",
+          "opponent": "Bosnia and Herzegovina",
+          "minutes": 61,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group Stage",
+          "opponent": "Qatar",
+          "minutes": 90,
+          "goals": 3,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group Stage",
+          "opponent": "Switzerland",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Round of 32",
+          "opponent": "South Africa",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Round of 16",
+          "opponent": "Morocco",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 3,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 75,
+      "agility": 77,
+      "skill": 79,
+      "speed": 76,
+      "shooting": 75,
+      "passing": 79,
+      "defending": 74,
+      "physical": 75,
+      "goalkeeping": 58
+    },
+    "overall": 82,
+    "tier": "RARE",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "statsStatus": "matched-community",
+    "sources": [
+      "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+      "https://github.com/mominullptr/FIFA-World-Cup-2026-Dataset",
+      "https://github.com/openfootball/worldcup.json"
+    ]
+  },
+
+  {
+    "id": "canada-2026-11",
+    "name": "Liam Alan MILLAR",
+    "commonName": "MILLAR Liam",
+    "shirtNumber": 11,
+    "position": "MID",
+    "positions": [
+      "MID"
+    ],
+    "country": "Canada",
+    "countrySlug": "canada",
+    "year": 2026,
+    "edition": "2026",
+    "club": "Hull City FC (ENG)",
+    "age": 26,
+    "history": {
+      "matchesPlayed": 3,
+      "matches": [
+        {
+          "stage": "Group Stage",
+          "opponent": "Bosnia and Herzegovina",
+          "minutes": 61,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group Stage",
+          "opponent": "Switzerland",
+          "minutes": 32,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Round of 32",
+          "opponent": "South Africa",
+          "minutes": 70,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 68,
+      "agility": 70,
+      "skill": 72,
+      "speed": 69,
+      "shooting": 68,
+      "passing": 72,
+      "defending": 67,
+      "physical": 68,
+      "goalkeeping": 50
+    },
+    "overall": 70,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "statsStatus": "matched-community",
+    "sources": [
+      "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+      "https://github.com/mominullptr/FIFA-World-Cup-2026-Dataset",
+      "https://github.com/openfootball/worldcup.json"
+    ]
+  },
+
+  {
+    "id": "canada-2026-12",
+    "name": "Tanitoluwa Oluwatimilehin OLUWASEYI",
+    "commonName": "OLUWASEYI Tani",
+    "shirtNumber": 12,
+    "position": "ATT",
+    "positions": [
+      "ATT"
+    ],
+    "country": "Canada",
+    "countrySlug": "canada",
+    "year": 2026,
+    "edition": "2026",
+    "club": "Villarreal CF (ESP)",
+    "age": 26,
+    "history": {
+      "matchesPlayed": 4,
+      "matches": [
+        {
+          "stage": "Group Stage",
+          "opponent": "Bosnia and Herzegovina",
+          "minutes": 76,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group Stage",
+          "opponent": "Qatar",
+          "minutes": 19,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group Stage",
+          "opponent": "Switzerland",
+          "minutes": 32,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Round of 32",
+          "opponent": "South Africa",
+          "minutes": 70,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 70,
+      "agility": 72,
+      "skill": 74,
+      "speed": 71,
+      "shooting": 70,
+      "passing": 74,
+      "defending": 69,
+      "physical": 70,
+      "goalkeeping": 52
+    },
+    "overall": 72,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "statsStatus": "matched-community",
+    "sources": [
+      "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+      "https://github.com/mominullptr/FIFA-World-Cup-2026-Dataset",
+      "https://github.com/openfootball/worldcup.json"
+    ]
+  },
+
+  {
+    "id": "canada-2026-13",
+    "name": "Derek Austin CORNELIUS",
+    "commonName": "CORNELIUS Derek",
+    "shirtNumber": 13,
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "country": "Canada",
+    "countrySlug": "canada",
+    "year": 2026,
+    "edition": "2026",
+    "club": "Rangers FC (SCO)",
+    "age": 28,
+    "history": {
+      "matchesPlayed": 4,
+      "matches": [
+        {
+          "stage": "Group Stage",
+          "opponent": "Bosnia and Herzegovina",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group Stage",
+          "opponent": "Qatar",
+          "minutes": 46,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group Stage",
+          "opponent": "Switzerland",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Round of 32",
+          "opponent": "South Africa",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 70,
+      "agility": 72,
+      "skill": 74,
+      "speed": 71,
+      "shooting": 70,
+      "passing": 74,
+      "defending": 69,
+      "physical": 70,
+      "goalkeeping": 52
+    },
+    "overall": 72,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "statsStatus": "matched-community",
+    "sources": [
+      "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+      "https://github.com/mominullptr/FIFA-World-Cup-2026-Dataset",
+      "https://github.com/openfootball/worldcup.json"
+    ]
+  },
+
+  {
+    "id": "canada-2026-14",
+    "name": "Jacob Everett SHAFFELBURG",
+    "commonName": "SHAFFELBURG Jacob",
+    "shirtNumber": 14,
+    "position": "MID",
+    "positions": [
+      "MID"
+    ],
+    "country": "Canada",
+    "countrySlug": "canada",
+    "year": 2026,
+    "edition": "2026",
+    "club": "LAFC (USA)",
+    "age": 26,
+    "history": {
+      "matchesPlayed": 5,
+      "matches": [
+        {
+          "stage": "Group Stage",
+          "opponent": "Bosnia and Herzegovina",
+          "minutes": 29,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group Stage",
+          "opponent": "Qatar",
+          "minutes": 19,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group Stage",
+          "opponent": "Switzerland",
+          "minutes": 7,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Round of 32",
+          "opponent": "South Africa",
+          "minutes": 20,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Round of 16",
+          "opponent": "Morocco",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 71,
+      "agility": 73,
+      "skill": 75,
+      "speed": 72,
+      "shooting": 71,
+      "passing": 75,
+      "defending": 70,
+      "physical": 71,
+      "goalkeeping": 54
+    },
+    "overall": 73,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "statsStatus": "matched-community",
+    "sources": [
+      "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+      "https://github.com/mominullptr/FIFA-World-Cup-2026-Dataset",
+      "https://github.com/openfootball/worldcup.json"
+    ]
+  },
+
+  {
+    "id": "canada-2026-15",
+    "name": "Moïse Bombito LUMPUNGU",
+    "commonName": "BOMBITO Moise",
+    "shirtNumber": 15,
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "country": "Canada",
+    "countrySlug": "canada",
+    "year": 2026,
+    "edition": "2026",
+    "club": "OGC Nice (FRA)",
+    "age": 26,
+    "history": {
+      "matchesPlayed": 3,
+      "matches": [
+        {
+          "stage": "Group Stage",
+          "opponent": "Qatar",
+          "minutes": 44,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Round of 32",
+          "opponent": "South Africa",
+          "minutes": 59,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Round of 16",
+          "opponent": "Morocco",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 68,
+      "agility": 70,
+      "skill": 72,
+      "speed": 69,
+      "shooting": 68,
+      "passing": 72,
+      "defending": 67,
+      "physical": 68,
+      "goalkeeping": 50
+    },
+    "overall": 76,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "statsStatus": "matched-community",
+    "sources": [
+      "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+      "https://github.com/mominullptr/FIFA-World-Cup-2026-Dataset",
+      "https://github.com/openfootball/worldcup.json"
+    ]
+  },
+
+  {
+    "id": "canada-2026-16",
+    "name": "Maxime CRÉPEAU",
+    "commonName": "CREPEAU Maxime",
+    "shirtNumber": 16,
+    "position": "GK",
+    "positions": [
+      "GK"
+    ],
+    "country": "Canada",
+    "countrySlug": "canada",
+    "year": 2026,
+    "edition": "2026",
+    "club": "Orlando City SC (USA)",
+    "age": 32,
+    "history": {
+      "matchesPlayed": 5,
+      "matches": [
+        {
+          "stage": "Group Stage",
+          "opponent": "Bosnia and Herzegovina",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group Stage",
+          "opponent": "Qatar",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group Stage",
+          "opponent": "Switzerland",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Round of 32",
+          "opponent": "South Africa",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Round of 16",
+          "opponent": "Morocco",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 69,
+      "agility": 71,
+      "skill": 66,
+      "speed": 66,
+      "shooting": 58,
+      "passing": 68,
+      "defending": 68,
+      "physical": 70,
+      "goalkeeping": 77
+    },
+    "overall": 69,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "statsStatus": "matched-community",
+    "sources": [
+      "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+      "https://github.com/mominullptr/FIFA-World-Cup-2026-Dataset",
+      "https://github.com/openfootball/worldcup.json"
+    ]
+  },
+
+  {
+    "id": "canada-2026-17",
+    "name": "Tajon Trevor BUCHANAN",
+    "commonName": "BUCHANAN Tajon",
+    "shirtNumber": 17,
+    "position": "ATT",
+    "positions": [
+      "ATT"
+    ],
+    "country": "Canada",
+    "countrySlug": "canada",
+    "year": 2026,
+    "edition": "2026",
+    "club": "Villarreal CF (ESP)",
+    "age": 27,
+    "history": {
+      "matchesPlayed": 4,
+      "matches": [
+        {
+          "stage": "Group Stage",
+          "opponent": "Bosnia and Herzegovina",
+          "minutes": 61,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group Stage",
+          "opponent": "Qatar",
+          "minutes": 83,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group Stage",
+          "opponent": "Switzerland",
+          "minutes": 74,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Round of 32",
+          "opponent": "South Africa",
+          "minutes": 75,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 70,
+      "agility": 72,
+      "skill": 74,
+      "speed": 71,
+      "shooting": 70,
+      "passing": 74,
+      "defending": 69,
+      "physical": 70,
+      "goalkeeping": 52
+    },
+    "overall": 74,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "statsStatus": "matched-community",
+    "sources": [
+      "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+      "https://github.com/mominullptr/FIFA-World-Cup-2026-Dataset",
+      "https://github.com/openfootball/worldcup.json"
+    ]
+  },
+
+  {
+    "id": "canada-2026-18",
+    "name": "Owen Olamidayo GOODMAN",
+    "commonName": "GOODMAN Owen",
+    "shirtNumber": 18,
+    "position": "GK",
+    "positions": [
+      "GK"
+    ],
+    "country": "Canada",
+    "countrySlug": "canada",
+    "year": 2026,
+    "edition": "2026",
+    "club": "Barnsley (ENG)",
+    "age": 22,
+    "history": {
+      "matchesPlayed": 0,
+      "matches": [],
+      "goals": 0,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 63,
+      "agility": 65,
+      "skill": 60,
+      "speed": 60,
+      "shooting": 52,
+      "passing": 62,
+      "defending": 62,
+      "physical": 64,
+      "goalkeeping": 71
+    },
+    "overall": 65,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "statsStatus": "matched-community",
+    "sources": [
+      "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+      "https://github.com/mominullptr/FIFA-World-Cup-2026-Dataset",
+      "https://github.com/openfootball/worldcup.json"
+    ]
+  },
+
+  {
+    "id": "canada-2026-19",
+    "name": "Alphonso Boyle DAVIES",
+    "commonName": "DAVIES Alphonso",
+    "shirtNumber": 19,
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "country": "Canada",
+    "countrySlug": "canada",
+    "year": 2026,
+    "edition": "2026",
+    "club": "FC Bayern München (GER)",
+    "age": 25,
+    "history": {
+      "matchesPlayed": 2,
+      "matches": [
+        {
+          "stage": "Round of 32",
+          "opponent": "South Africa",
+          "minutes": 15,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Round of 16",
+          "opponent": "Morocco",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 67,
+      "agility": 69,
+      "skill": 71,
+      "speed": 68,
+      "shooting": 67,
+      "passing": 71,
+      "defending": 66,
+      "physical": 67,
+      "goalkeeping": 50
+    },
+    "overall": 69,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "statsStatus": "matched-community",
+    "sources": [
+      "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+      "https://github.com/mominullptr/FIFA-World-Cup-2026-Dataset",
+      "https://github.com/openfootball/worldcup.json"
+    ]
+  },
+
+  {
+    "id": "canada-2026-20",
+    "name": "Ali AHMED",
+    "commonName": "AHMED Ali",
+    "shirtNumber": 20,
+    "position": "ATT",
+    "positions": [
+      "ATT"
+    ],
+    "country": "Canada",
+    "countrySlug": "canada",
+    "year": 2026,
+    "edition": "2026",
+    "club": "Norwich City FC (ENG)",
+    "age": 25,
+    "history": {
+      "matchesPlayed": 3,
+      "matches": [
+        {
+          "stage": "Group Stage",
+          "opponent": "Bosnia and Herzegovina",
+          "minutes": 29,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group Stage",
+          "opponent": "Qatar",
+          "minutes": 71,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group Stage",
+          "opponent": "Switzerland",
+          "minutes": 58,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 68,
+      "agility": 70,
+      "skill": 72,
+      "speed": 69,
+      "shooting": 68,
+      "passing": 72,
+      "defending": 67,
+      "physical": 68,
+      "goalkeeping": 50
+    },
+    "overall": 68,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "statsStatus": "matched-community",
+    "sources": [
+      "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+      "https://github.com/mominullptr/FIFA-World-Cup-2026-Dataset",
+      "https://github.com/openfootball/worldcup.json"
+    ]
+  },
+
+  {
+    "id": "canada-2026-21",
+    "name": "Jonathan OSORIO",
+    "commonName": "OSORIO Jonathan",
+    "shirtNumber": 21,
+    "position": "MID",
+    "positions": [
+      "MID"
+    ],
+    "country": "Canada",
+    "countrySlug": "canada",
+    "year": 2026,
+    "edition": "2026",
+    "club": "Toronto FC (CAN)",
+    "age": 33,
+    "history": {
+      "matchesPlayed": 1,
+      "matches": [
+        {
+          "stage": "Group Stage",
+          "opponent": "Bosnia and Herzegovina",
+          "minutes": 1,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 66,
+      "agility": 68,
+      "skill": 70,
+      "speed": 67,
+      "shooting": 66,
+      "passing": 70,
+      "defending": 65,
+      "physical": 66,
+      "goalkeeping": 48
+    },
+    "overall": 71,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "statsStatus": "matched-community",
+    "sources": [
+      "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+      "https://github.com/mominullptr/FIFA-World-Cup-2026-Dataset",
+      "https://github.com/openfootball/worldcup.json"
+    ]
+  },
+
+  {
+    "id": "canada-2026-22",
+    "name": "Richmond Mamah LARYEA",
+    "commonName": "LARYEA Richie",
+    "shirtNumber": 22,
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "country": "Canada",
+    "countrySlug": "canada",
+    "year": 2026,
+    "edition": "2026",
+    "club": "Toronto FC (CAN)",
+    "age": 31,
+    "history": {
+      "matchesPlayed": 4,
+      "matches": [
+        {
+          "stage": "Group Stage",
+          "opponent": "Bosnia and Herzegovina",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group Stage",
+          "opponent": "Qatar",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group Stage",
+          "opponent": "Switzerland",
+          "minutes": 83,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Round of 32",
+          "opponent": "South Africa",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 70,
+      "agility": 72,
+      "skill": 74,
+      "speed": 71,
+      "shooting": 70,
+      "passing": 74,
+      "defending": 69,
+      "physical": 70,
+      "goalkeeping": 52
+    },
+    "overall": 72,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "statsStatus": "matched-community",
+    "sources": [
+      "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+      "https://github.com/mominullptr/FIFA-World-Cup-2026-Dataset",
+      "https://github.com/openfootball/worldcup.json"
+    ]
+  },
+
+  {
+    "id": "canada-2026-23",
+    "name": "Niko Kristian SIGUR",
+    "commonName": "SIGUR Niko",
+    "shirtNumber": 23,
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "country": "Canada",
+    "countrySlug": "canada",
+    "year": 2026,
+    "edition": "2026",
+    "club": "HNK Hajduk Split (CRO)",
+    "age": 22,
+    "history": {
+      "matchesPlayed": 2,
+      "matches": [
+        {
+          "stage": "Group Stage",
+          "opponent": "Qatar",
+          "minutes": 7,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Round of 32",
+          "opponent": "South Africa",
+          "minutes": 31,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 0,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 67,
+      "agility": 69,
+      "skill": 71,
+      "speed": 68,
+      "shooting": 67,
+      "passing": 71,
+      "defending": 66,
+      "physical": 67,
+      "goalkeeping": 50
+    },
+    "overall": 69,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "statsStatus": "matched-community",
+    "sources": [
+      "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+      "https://github.com/mominullptr/FIFA-World-Cup-2026-Dataset",
+      "https://github.com/openfootball/worldcup.json"
+    ]
+  },
+
+  {
+    "id": "canada-2026-24",
+    "name": "Promise Oluwatobi Emmanuel DAVID",
+    "commonName": "DAVID Promise",
+    "shirtNumber": 24,
+    "position": "ATT",
+    "positions": [
+      "ATT"
+    ],
+    "country": "Canada",
+    "countrySlug": "canada",
+    "year": 2026,
+    "edition": "2026",
+    "club": "Royale Union Saint-Gilloise (BEL)",
+    "age": 24,
+    "history": {
+      "matchesPlayed": 4,
+      "matches": [
+        {
+          "stage": "Group Stage",
+          "opponent": "Bosnia and Herzegovina",
+          "minutes": 29,
+          "goals": 0,
+          "assists": 1,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group Stage",
+          "opponent": "Switzerland",
+          "minutes": 16,
+          "goals": 1,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Round of 32",
+          "opponent": "South Africa",
+          "minutes": 20,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Round of 16",
+          "opponent": "Morocco",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 1,
+      "assists": 1,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 72,
+      "agility": 74,
+      "skill": 76,
+      "speed": 73,
+      "shooting": 72,
+      "passing": 76,
+      "defending": 71,
+      "physical": 72,
+      "goalkeeping": 54
+    },
+    "overall": 74,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "statsStatus": "matched-community",
+    "sources": [
+      "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+      "https://github.com/mominullptr/FIFA-World-Cup-2026-Dataset",
+      "https://github.com/openfootball/worldcup.json"
+    ]
+  },
+
+  {
+    "id": "canada-2026-25",
+    "name": "Nathan-Dylan SALIBA",
+    "commonName": "SALIBA Nathan",
+    "shirtNumber": 25,
+    "position": "MID",
+    "positions": [
+      "MID"
+    ],
+    "country": "Canada",
+    "countrySlug": "canada",
+    "year": 2026,
+    "edition": "2026",
+    "club": "RSC Anderlecht (BEL)",
+    "age": 22,
+    "history": {
+      "matchesPlayed": 4,
+      "matches": [
+        {
+          "stage": "Group Stage",
+          "opponent": "Qatar",
+          "minutes": 34,
+          "goals": 1,
+          "assists": 1,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Group Stage",
+          "opponent": "Switzerland",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 1,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Round of 32",
+          "opponent": "South Africa",
+          "minutes": 59,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "stage": "Round of 16",
+          "opponent": "Morocco",
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "yellow": 0,
+          "red": 0
+        }
+      ],
+      "goals": 1,
+      "assists": 2,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 72,
+      "agility": 74,
+      "skill": 76,
+      "speed": 73,
+      "shooting": 72,
+      "passing": 76,
+      "defending": 71,
+      "physical": 72,
+      "goalkeeping": 54
+    },
+    "overall": 68,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "statsStatus": "matched-community",
+    "sources": [
+      "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+      "https://github.com/mominullptr/FIFA-World-Cup-2026-Dataset",
+      "https://github.com/openfootball/worldcup.json"
+    ]
+  },
+
+  {
+    "id": "canada-2026-26",
+    "name": "Jayden NELSON",
+    "commonName": "NELSON Jayden",
+    "shirtNumber": 26,
+    "position": "ATT",
+    "positions": [
+      "ATT"
+    ],
+    "country": "Canada",
+    "countrySlug": "canada",
+    "year": 2026,
+    "edition": "2026",
+    "club": "Austin FC (USA)",
+    "age": 23,
+    "history": {
+      "matchesPlayed": 0,
+      "matches": [],
+      "goals": 0,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    "attributes": {
+      "strength": 65,
+      "agility": 67,
+      "skill": 69,
+      "speed": 66,
+      "shooting": 65,
+      "passing": 69,
+      "defending": 64,
+      "physical": 65,
+      "goalkeeping": 48
+    },
+    "overall": 68,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "statsStatus": "matched-community",
+    "sources": [
+      "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+      "https://github.com/mominullptr/FIFA-World-Cup-2026-Dataset",
+      "https://github.com/openfootball/worldcup.json"
+    ]
+  }
+]

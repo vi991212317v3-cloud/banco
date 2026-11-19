@@ -1,0 +1,284 @@
+{
+  "country": "South Korea",
+  "countrySlug": "south-korea",
+  "year": 2002,
+  "edition": "2002",
+  "host": "Korea, Japan",
+  "coach": "Guus Hiddink",
+  "finalPhase": "Third-place match",
+  "result": "Fourth place",
+  "squad": [
+    {
+      "id": "south-korea-2002-1",
+      "name": "Woon-jae Lee",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "south-korea-2002-2",
+      "name": "Young-min Hyun",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "south-korea-2002-3",
+      "name": "Sung-yong Choi",
+      "shirtNumber": 3,
+      "position": "MID"
+    },
+    {
+      "id": "south-korea-2002-4",
+      "name": "Jin-cheul Choi",
+      "shirtNumber": 4,
+      "position": "DEF"
+    },
+    {
+      "id": "south-korea-2002-5",
+      "name": "Nam-il Kim",
+      "shirtNumber": 5,
+      "position": "MID"
+    },
+    {
+      "id": "south-korea-2002-6",
+      "name": "Sang-chul Yoo",
+      "shirtNumber": 6,
+      "position": "DEF"
+    },
+    {
+      "id": "south-korea-2002-7",
+      "name": "Tae-young Kim",
+      "shirtNumber": 7,
+      "position": "DEF"
+    },
+    {
+      "id": "south-korea-2002-8",
+      "name": "Tae-uk Choi",
+      "shirtNumber": 8,
+      "position": "ATT"
+    },
+    {
+      "id": "south-korea-2002-9",
+      "name": "Ki-hyeon Seol",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "south-korea-2002-10",
+      "name": "Young-pyo Lee",
+      "shirtNumber": 10,
+      "position": "DEF"
+    },
+    {
+      "id": "south-korea-2002-11",
+      "name": "Yong-soo Choi",
+      "shirtNumber": 11,
+      "position": "ATT"
+    },
+    {
+      "id": "south-korea-2002-12",
+      "name": "Byung-ji Kim",
+      "shirtNumber": 12,
+      "position": "GK"
+    },
+    {
+      "id": "south-korea-2002-13",
+      "name": "Eul-yong Lee",
+      "shirtNumber": 13,
+      "position": "MID"
+    },
+    {
+      "id": "south-korea-2002-14",
+      "name": "Chun-soo Lee",
+      "shirtNumber": 14,
+      "position": "ATT"
+    },
+    {
+      "id": "south-korea-2002-15",
+      "name": "Min-sung Lee",
+      "shirtNumber": 15,
+      "position": "DEF"
+    },
+    {
+      "id": "south-korea-2002-16",
+      "name": "Du-ri Cha",
+      "shirtNumber": 16,
+      "position": "ATT"
+    },
+    {
+      "id": "south-korea-2002-17",
+      "name": "Jong-hwan Yoon",
+      "shirtNumber": 17,
+      "position": "MID"
+    },
+    {
+      "id": "south-korea-2002-18",
+      "name": "Sun-hong Hwang",
+      "shirtNumber": 18,
+      "position": "ATT"
+    },
+    {
+      "id": "south-korea-2002-19",
+      "name": "Jung-hwan Ahn",
+      "shirtNumber": 19,
+      "position": "ATT"
+    },
+    {
+      "id": "south-korea-2002-20",
+      "name": "Myung-bo Hong",
+      "shirtNumber": 20,
+      "position": "DEF"
+    },
+    {
+      "id": "south-korea-2002-21",
+      "name": "Ji-sung Park",
+      "shirtNumber": 21,
+      "position": "MID"
+    },
+    {
+      "id": "south-korea-2002-22",
+      "name": "Chong-gug Song",
+      "shirtNumber": 22,
+      "position": "MID"
+    },
+    {
+      "id": "south-korea-2002-23",
+      "name": "Eun-sung Choi",
+      "shirtNumber": 23,
+      "position": "GK"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "Poland",
+      "score": "2–0",
+      "scorers": [
+        {
+          "name": "Sun-hong Hwang",
+          "minute": "26'",
+          "ownGoal": false
+        },
+        {
+          "name": "Sang-chul Yoo",
+          "minute": "53'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2002-06-04"
+    },
+    {
+      "stage": "Group",
+      "opponent": "United States",
+      "score": "1–1",
+      "scorers": [
+        {
+          "name": "Clint Mathis",
+          "minute": "24'",
+          "ownGoal": false
+        },
+        {
+          "name": "Jung-hwan Ahn",
+          "minute": "78'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2002-06-10"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Portugal",
+      "score": "0–1",
+      "scorers": [
+        {
+          "name": "Ji-sung Park",
+          "minute": "70'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2002-06-14"
+    },
+    {
+      "stage": "Round of 16",
+      "opponent": "Italy",
+      "score": "2–1",
+      "scorers": [
+        {
+          "name": "Christian Vieri",
+          "minute": "18'",
+          "ownGoal": false
+        },
+        {
+          "name": "Ki-hyeon Seol",
+          "minute": "88'",
+          "ownGoal": false
+        },
+        {
+          "name": "Jung-hwan Ahn",
+          "minute": "117'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2002-06-18"
+    },
+    {
+      "stage": "Quarter-final",
+      "opponent": "Spain",
+      "score": "0–0",
+      "scorers": [],
+      "date": "2002-06-22"
+    },
+    {
+      "stage": "Semi-final",
+      "opponent": "Germany",
+      "score": "1–0",
+      "scorers": [
+        {
+          "name": "Michael Ballack",
+          "minute": "75'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2002-06-25"
+    },
+    {
+      "stage": "Third-place match",
+      "opponent": "Turkey",
+      "score": "2–3",
+      "scorers": [
+        {
+          "name": "Hakan Şükür",
+          "minute": "1'",
+          "ownGoal": false
+        },
+        {
+          "name": "Eul-yong Lee",
+          "minute": "9'",
+          "ownGoal": false
+        },
+        {
+          "name": "İlhan Mansız",
+          "minute": "13'",
+          "ownGoal": false
+        },
+        {
+          "name": "İlhan Mansız",
+          "minute": "32'",
+          "ownGoal": false
+        },
+        {
+          "name": "Chong-gug Song",
+          "minute": "90'+3'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2002-06-29"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

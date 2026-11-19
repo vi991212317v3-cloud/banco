@@ -1,0 +1,267 @@
+{
+  "country": "Hungary",
+  "countrySlug": "hungary",
+  "year": 1982,
+  "edition": "1982",
+  "host": "Spain",
+  "coach": "Kálmán Mészöly",
+  "finalPhase": "Group Stage",
+  "result": "Group Stage",
+  "squad": [
+    {
+      "id": "hungary-1982-1",
+      "name": "Ferenc Mészáros",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "hungary-1982-2",
+      "name": "Győző Martos",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "hungary-1982-3",
+      "name": "László Bálint",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "hungary-1982-4",
+      "name": "József Tóth",
+      "shirtNumber": 4,
+      "position": "DEF"
+    },
+    {
+      "id": "hungary-1982-5",
+      "name": "Sándor Müller",
+      "shirtNumber": 5,
+      "position": "MID"
+    },
+    {
+      "id": "hungary-1982-6",
+      "name": "Imre Garaba",
+      "shirtNumber": 6,
+      "position": "DEF"
+    },
+    {
+      "id": "hungary-1982-7",
+      "name": "László Fazekas",
+      "shirtNumber": 7,
+      "position": "ATT"
+    },
+    {
+      "id": "hungary-1982-8",
+      "name": "Tibor Nyilasi",
+      "shirtNumber": 8,
+      "position": "ATT"
+    },
+    {
+      "id": "hungary-1982-9",
+      "name": "András Törőcsik",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "hungary-1982-10",
+      "name": "László Kiss",
+      "shirtNumber": 10,
+      "position": "ATT"
+    },
+    {
+      "id": "hungary-1982-11",
+      "name": "Gábor Pölöskei",
+      "shirtNumber": 11,
+      "position": "ATT"
+    },
+    {
+      "id": "hungary-1982-12",
+      "name": "Lázár Szentes",
+      "shirtNumber": 12,
+      "position": "ATT"
+    },
+    {
+      "id": "hungary-1982-13",
+      "name": "Tibor Rab",
+      "shirtNumber": 13,
+      "position": "DEF"
+    },
+    {
+      "id": "hungary-1982-14",
+      "name": "Sándor Sallai",
+      "shirtNumber": 14,
+      "position": "DEF"
+    },
+    {
+      "id": "hungary-1982-15",
+      "name": "Béla Bodonyi",
+      "shirtNumber": 15,
+      "position": "ATT"
+    },
+    {
+      "id": "hungary-1982-16",
+      "name": "Ferenc Csongrádi",
+      "shirtNumber": 16,
+      "position": "MID"
+    },
+    {
+      "id": "hungary-1982-17",
+      "name": "Károly Csapó",
+      "shirtNumber": 17,
+      "position": "MID"
+    },
+    {
+      "id": "hungary-1982-18",
+      "name": "Attila Kerekes",
+      "shirtNumber": 18,
+      "position": "DEF"
+    },
+    {
+      "id": "hungary-1982-19",
+      "name": "József Varga",
+      "shirtNumber": 19,
+      "position": "DEF"
+    },
+    {
+      "id": "hungary-1982-20",
+      "name": "József Csuhay",
+      "shirtNumber": 20,
+      "position": "DEF"
+    },
+    {
+      "id": "hungary-1982-21",
+      "name": "Béla Katzirz",
+      "shirtNumber": 21,
+      "position": "GK"
+    },
+    {
+      "id": "hungary-1982-22",
+      "name": "Imre Kiss",
+      "shirtNumber": 22,
+      "position": "GK"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "El Salvador",
+      "score": "10–1",
+      "scorers": [
+        {
+          "name": "Tibor Nyilasi",
+          "minute": "4'",
+          "ownGoal": false
+        },
+        {
+          "name": "Gábor Pölöskei",
+          "minute": "11'",
+          "ownGoal": false
+        },
+        {
+          "name": "László Fazekas",
+          "minute": "23'",
+          "ownGoal": false
+        },
+        {
+          "name": "József Tóth",
+          "minute": "50'",
+          "ownGoal": false
+        },
+        {
+          "name": "László Fazekas",
+          "minute": "54'",
+          "ownGoal": false
+        },
+        {
+          "name": "Luis Ramírez Zapata",
+          "minute": "64'",
+          "ownGoal": false
+        },
+        {
+          "name": "László Kiss",
+          "minute": "69'",
+          "ownGoal": false
+        },
+        {
+          "name": "Lázár Szentes",
+          "minute": "70'",
+          "ownGoal": false
+        },
+        {
+          "name": "László Kiss",
+          "minute": "72'",
+          "ownGoal": false
+        },
+        {
+          "name": "László Kiss",
+          "minute": "76'",
+          "ownGoal": false
+        },
+        {
+          "name": "Tibor Nyilasi",
+          "minute": "83'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1982-06-15"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Argentina",
+      "score": "4–1",
+      "scorers": [
+        {
+          "name": "Daniel Bertoni",
+          "minute": "26'",
+          "ownGoal": false
+        },
+        {
+          "name": "Diego Maradona",
+          "minute": "28'",
+          "ownGoal": false
+        },
+        {
+          "name": "Diego Maradona",
+          "minute": "57'",
+          "ownGoal": false
+        },
+        {
+          "name": "Osvaldo Ardiles",
+          "minute": "60'",
+          "ownGoal": false
+        },
+        {
+          "name": "Gábor Pölöskei",
+          "minute": "76'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1982-06-18"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Belgium",
+      "score": "1–1",
+      "scorers": [
+        {
+          "name": "József Varga",
+          "minute": "27'",
+          "ownGoal": false
+        },
+        {
+          "name": "Alexandre Czerniatynski",
+          "minute": "76'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1982-06-22"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

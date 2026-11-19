@@ -1,0 +1,218 @@
+{
+  "country": "Costa Rica",
+  "countrySlug": "costa-rica",
+  "year": 2018,
+  "edition": "2018",
+  "host": "Russia",
+  "coach": "Óscar Ramírez",
+  "finalPhase": "Group Stage",
+  "result": "Group Stage",
+  "squad": [
+    {
+      "id": "costa-rica-2018-1",
+      "name": "Keylor Navas",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "costa-rica-2018-2",
+      "name": "Jhonny Acosta",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "costa-rica-2018-3",
+      "name": "Giancarlo González",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "costa-rica-2018-4",
+      "name": "Ian Smith",
+      "shirtNumber": 4,
+      "position": "DEF"
+    },
+    {
+      "id": "costa-rica-2018-5",
+      "name": "Celso Borges",
+      "shirtNumber": 5,
+      "position": "MID"
+    },
+    {
+      "id": "costa-rica-2018-6",
+      "name": "Óscar Duarte",
+      "shirtNumber": 6,
+      "position": "DEF"
+    },
+    {
+      "id": "costa-rica-2018-7",
+      "name": "Christian Bolaños",
+      "shirtNumber": 7,
+      "position": "MID"
+    },
+    {
+      "id": "costa-rica-2018-8",
+      "name": "Bryan Oviedo",
+      "shirtNumber": 8,
+      "position": "DEF"
+    },
+    {
+      "id": "costa-rica-2018-9",
+      "name": "Daniel Colindres",
+      "shirtNumber": 9,
+      "position": "MID"
+    },
+    {
+      "id": "costa-rica-2018-10",
+      "name": "Bryan Ruiz",
+      "shirtNumber": 10,
+      "position": "MID"
+    },
+    {
+      "id": "costa-rica-2018-11",
+      "name": "Johan Venegas",
+      "shirtNumber": 11,
+      "position": "ATT"
+    },
+    {
+      "id": "costa-rica-2018-12",
+      "name": "Joel Campbell",
+      "shirtNumber": 12,
+      "position": "ATT"
+    },
+    {
+      "id": "costa-rica-2018-13",
+      "name": "Rodney Wallace",
+      "shirtNumber": 13,
+      "position": "MID"
+    },
+    {
+      "id": "costa-rica-2018-14",
+      "name": "Randall Azofeifa",
+      "shirtNumber": 14,
+      "position": "MID"
+    },
+    {
+      "id": "costa-rica-2018-15",
+      "name": "Francisco Calvo",
+      "shirtNumber": 15,
+      "position": "DEF"
+    },
+    {
+      "id": "costa-rica-2018-16",
+      "name": "Cristian Gamboa",
+      "shirtNumber": 16,
+      "position": "DEF"
+    },
+    {
+      "id": "costa-rica-2018-17",
+      "name": "Yeltsin Tejeda",
+      "shirtNumber": 17,
+      "position": "MID"
+    },
+    {
+      "id": "costa-rica-2018-18",
+      "name": "Patrick Pemberton",
+      "shirtNumber": 18,
+      "position": "GK"
+    },
+    {
+      "id": "costa-rica-2018-19",
+      "name": "Kendall Waston",
+      "shirtNumber": 19,
+      "position": "DEF"
+    },
+    {
+      "id": "costa-rica-2018-20",
+      "name": "David Guzmán",
+      "shirtNumber": 20,
+      "position": "MID"
+    },
+    {
+      "id": "costa-rica-2018-21",
+      "name": "Marco Ureña",
+      "shirtNumber": 21,
+      "position": "ATT"
+    },
+    {
+      "id": "costa-rica-2018-22",
+      "name": "Kenner Gutiérrez",
+      "shirtNumber": 22,
+      "position": "DEF"
+    },
+    {
+      "id": "costa-rica-2018-23",
+      "name": "Leonel Moreira",
+      "shirtNumber": 23,
+      "position": "GK"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "Serbia",
+      "score": "0–1",
+      "scorers": [
+        {
+          "name": "Aleksandar Kolarov",
+          "minute": "56'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2018-06-17"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Brazil",
+      "score": "2–0",
+      "scorers": [
+        {
+          "name": "Philippe Coutinho",
+          "minute": "90'+1'",
+          "ownGoal": false
+        },
+        {
+          "name": "Neymar",
+          "minute": "90'+7'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2018-06-22"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Switzerland",
+      "score": "2–2",
+      "scorers": [
+        {
+          "name": "Blerim Džemaili",
+          "minute": "31'",
+          "ownGoal": false
+        },
+        {
+          "name": "Kendall Waston",
+          "minute": "56'",
+          "ownGoal": false
+        },
+        {
+          "name": "Josip Drmić",
+          "minute": "88'",
+          "ownGoal": false
+        },
+        {
+          "name": "Yann Sommer",
+          "minute": "90'+3'",
+          "ownGoal": true
+        }
+      ],
+      "date": "2018-06-27"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

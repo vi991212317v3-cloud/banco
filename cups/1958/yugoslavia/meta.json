@@ -1,0 +1,255 @@
+{
+  "country": "Yugoslavia",
+  "countrySlug": "yugoslavia",
+  "year": 1958,
+  "edition": "1958",
+  "host": "Sweden",
+  "coach": "Aleksandar Tirnanić",
+  "finalPhase": "Quarter-final",
+  "result": "Quarter-final",
+  "squad": [
+    {
+      "id": "yugoslavia-1958-1",
+      "name": "Vladimir Beara",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "yugoslavia-1958-2",
+      "name": "Srboljub Krivokuća",
+      "shirtNumber": 2,
+      "position": "GK"
+    },
+    {
+      "id": "yugoslavia-1958-3",
+      "name": "Vasilije Šijaković",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "yugoslavia-1958-4",
+      "name": "Tomislav Crnković",
+      "shirtNumber": 4,
+      "position": "DEF"
+    },
+    {
+      "id": "yugoslavia-1958-5",
+      "name": "Novak Tomić",
+      "shirtNumber": 5,
+      "position": "DEF"
+    },
+    {
+      "id": "yugoslavia-1958-6",
+      "name": "Branko Zebec",
+      "shirtNumber": 6,
+      "position": "DEF"
+    },
+    {
+      "id": "yugoslavia-1958-7",
+      "name": "Miloš Milutinović",
+      "shirtNumber": 7,
+      "position": "ATT"
+    },
+    {
+      "id": "yugoslavia-1958-8",
+      "name": "Dobrosav Krstić",
+      "shirtNumber": 8,
+      "position": "MID"
+    },
+    {
+      "id": "yugoslavia-1958-9",
+      "name": "Vujadin Boškov",
+      "shirtNumber": 9,
+      "position": "MID"
+    },
+    {
+      "id": "yugoslavia-1958-10",
+      "name": "Ivan Šantek",
+      "shirtNumber": 10,
+      "position": "MID"
+    },
+    {
+      "id": "yugoslavia-1958-11",
+      "name": "Vladica Popović",
+      "shirtNumber": 11,
+      "position": "DEF"
+    },
+    {
+      "id": "yugoslavia-1958-12",
+      "name": "Aleksandar Petaković",
+      "shirtNumber": 12,
+      "position": "ATT"
+    },
+    {
+      "id": "yugoslavia-1958-13",
+      "name": "Todor Veselinović",
+      "shirtNumber": 13,
+      "position": "ATT"
+    },
+    {
+      "id": "yugoslavia-1958-14",
+      "name": "Milorad Milutinović",
+      "shirtNumber": 14,
+      "position": "DEF"
+    },
+    {
+      "id": "yugoslavia-1958-15",
+      "name": "Dragoslav Šekularac",
+      "shirtNumber": 15,
+      "position": "MID"
+    },
+    {
+      "id": "yugoslavia-1958-16",
+      "name": "Ilijas Pašić",
+      "shirtNumber": 16,
+      "position": "ATT"
+    },
+    {
+      "id": "yugoslavia-1958-17",
+      "name": "Zdravko Rajkov",
+      "shirtNumber": 17,
+      "position": "MID"
+    },
+    {
+      "id": "yugoslavia-1958-18",
+      "name": "Luka Lipošinović",
+      "shirtNumber": 18,
+      "position": "ATT"
+    },
+    {
+      "id": "yugoslavia-1958-19",
+      "name": "Radivoje Ognjanović",
+      "shirtNumber": 19,
+      "position": "ATT"
+    },
+    {
+      "id": "yugoslavia-1958-20",
+      "name": "Gordan Irović",
+      "shirtNumber": 20,
+      "position": "GK"
+    },
+    {
+      "id": "yugoslavia-1958-21",
+      "name": "Nikola Radović",
+      "shirtNumber": 21,
+      "position": "DEF"
+    },
+    {
+      "id": "yugoslavia-1958-22",
+      "name": "Dražan Jerković",
+      "shirtNumber": 22,
+      "position": "ATT"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "Scotland",
+      "score": "1–1",
+      "scorers": [
+        {
+          "name": "Aleksandar Petaković",
+          "minute": "6'",
+          "ownGoal": false
+        },
+        {
+          "name": "Jimmy Murray",
+          "minute": "49'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1958-06-08"
+    },
+    {
+      "stage": "Group",
+      "opponent": "France",
+      "score": "3–2",
+      "scorers": [
+        {
+          "name": "Just Fontaine",
+          "minute": "4'",
+          "ownGoal": false
+        },
+        {
+          "name": "Aleksandar Petaković",
+          "minute": "16'",
+          "ownGoal": false
+        },
+        {
+          "name": "Todor Veselinović",
+          "minute": "63'",
+          "ownGoal": false
+        },
+        {
+          "name": "Just Fontaine",
+          "minute": "85'",
+          "ownGoal": false
+        },
+        {
+          "name": "Todor Veselinović",
+          "minute": "88'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1958-06-11"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Paraguay",
+      "score": "3–3",
+      "scorers": [
+        {
+          "name": "Radivoje Ognjanović",
+          "minute": "18'",
+          "ownGoal": false
+        },
+        {
+          "name": "José Parodi",
+          "minute": "20'",
+          "ownGoal": false
+        },
+        {
+          "name": "Todor Veselinović",
+          "minute": "21'",
+          "ownGoal": false
+        },
+        {
+          "name": "Juan Bautista Agüero",
+          "minute": "52'",
+          "ownGoal": false
+        },
+        {
+          "name": "Zdravko Rajkov",
+          "minute": "73'",
+          "ownGoal": false
+        },
+        {
+          "name": "Jorge Lino Romero",
+          "minute": "80'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1958-06-15"
+    },
+    {
+      "stage": "Quarter-final",
+      "opponent": "West Germany",
+      "score": "1–0",
+      "scorers": [
+        {
+          "name": "Helmut Rahn",
+          "minute": "12'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1958-06-19"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

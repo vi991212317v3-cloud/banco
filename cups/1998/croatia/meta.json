@@ -1,0 +1,289 @@
+{
+  "country": "Croatia",
+  "countrySlug": "croatia",
+  "year": 1998,
+  "edition": "1998",
+  "host": "France",
+  "coach": "Miroslav Blažević",
+  "finalPhase": "Third-place match",
+  "result": "Third place",
+  "squad": [
+    {
+      "id": "croatia-1998-1",
+      "name": "Dražen Ladić",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "croatia-1998-2",
+      "name": "Petar Krpan",
+      "shirtNumber": 2,
+      "position": "ATT"
+    },
+    {
+      "id": "croatia-1998-3",
+      "name": "Anthony Šerić",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "croatia-1998-4",
+      "name": "Igor Štimac",
+      "shirtNumber": 4,
+      "position": "DEF"
+    },
+    {
+      "id": "croatia-1998-5",
+      "name": "Goran Jurić",
+      "shirtNumber": 5,
+      "position": "DEF"
+    },
+    {
+      "id": "croatia-1998-6",
+      "name": "Slaven Bilić",
+      "shirtNumber": 6,
+      "position": "DEF"
+    },
+    {
+      "id": "croatia-1998-7",
+      "name": "Aljoša Asanović",
+      "shirtNumber": 7,
+      "position": "MID"
+    },
+    {
+      "id": "croatia-1998-8",
+      "name": "Robert Prosinečki",
+      "shirtNumber": 8,
+      "position": "MID"
+    },
+    {
+      "id": "croatia-1998-9",
+      "name": "Davor Šuker",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "croatia-1998-10",
+      "name": "Zvonimir Boban",
+      "shirtNumber": 10,
+      "position": "MID"
+    },
+    {
+      "id": "croatia-1998-11",
+      "name": "Silvio Marić",
+      "shirtNumber": 11,
+      "position": "MID"
+    },
+    {
+      "id": "croatia-1998-12",
+      "name": "Marjan Mrmić",
+      "shirtNumber": 12,
+      "position": "GK"
+    },
+    {
+      "id": "croatia-1998-13",
+      "name": "Mario Stanić",
+      "shirtNumber": 13,
+      "position": "MID"
+    },
+    {
+      "id": "croatia-1998-14",
+      "name": "Zvonimir Soldo",
+      "shirtNumber": 14,
+      "position": "MID"
+    },
+    {
+      "id": "croatia-1998-15",
+      "name": "Igor Tudor",
+      "shirtNumber": 15,
+      "position": "DEF"
+    },
+    {
+      "id": "croatia-1998-16",
+      "name": "Ardian Kozniku",
+      "shirtNumber": 16,
+      "position": "ATT"
+    },
+    {
+      "id": "croatia-1998-17",
+      "name": "Robert Jarni",
+      "shirtNumber": 17,
+      "position": "DEF"
+    },
+    {
+      "id": "croatia-1998-18",
+      "name": "Zoran Mamić",
+      "shirtNumber": 18,
+      "position": "MID"
+    },
+    {
+      "id": "croatia-1998-19",
+      "name": "Goran Vlaović",
+      "shirtNumber": 19,
+      "position": "ATT"
+    },
+    {
+      "id": "croatia-1998-20",
+      "name": "Dario Šimić",
+      "shirtNumber": 20,
+      "position": "DEF"
+    },
+    {
+      "id": "croatia-1998-21",
+      "name": "Krunoslav Jurčić",
+      "shirtNumber": 21,
+      "position": "MID"
+    },
+    {
+      "id": "croatia-1998-22",
+      "name": "Vladimir Vasilj",
+      "shirtNumber": 22,
+      "position": "GK"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "Jamaica",
+      "score": "1–3",
+      "scorers": [
+        {
+          "name": "Mario Stanić",
+          "minute": "27'",
+          "ownGoal": false
+        },
+        {
+          "name": "Robbie Earle",
+          "minute": "45'",
+          "ownGoal": false
+        },
+        {
+          "name": "Robert Prosinečki",
+          "minute": "53'",
+          "ownGoal": false
+        },
+        {
+          "name": "Davor Šuker",
+          "minute": "69'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1998-06-14"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Japan",
+      "score": "0–1",
+      "scorers": [
+        {
+          "name": "Davor Šuker",
+          "minute": "77'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1998-06-20"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Argentina",
+      "score": "1–0",
+      "scorers": [
+        {
+          "name": "Mauricio Pineda",
+          "minute": "36'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1998-06-26"
+    },
+    {
+      "stage": "Round of 16",
+      "opponent": "Romania",
+      "score": "0–1",
+      "scorers": [
+        {
+          "name": "Davor Šuker",
+          "minute": "45'+2'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1998-06-30"
+    },
+    {
+      "stage": "Quarter-final",
+      "opponent": "Germany",
+      "score": "0–3",
+      "scorers": [
+        {
+          "name": "Robert Jarni",
+          "minute": "45'+3'",
+          "ownGoal": false
+        },
+        {
+          "name": "Goran Vlaović",
+          "minute": "80'",
+          "ownGoal": false
+        },
+        {
+          "name": "Davor Šuker",
+          "minute": "85'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1998-07-04"
+    },
+    {
+      "stage": "Semi-final",
+      "opponent": "France",
+      "score": "2–1",
+      "scorers": [
+        {
+          "name": "Davor Šuker",
+          "minute": "46'",
+          "ownGoal": false
+        },
+        {
+          "name": "Lilian Thuram",
+          "minute": "47'",
+          "ownGoal": false
+        },
+        {
+          "name": "Lilian Thuram",
+          "minute": "70'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1998-07-08"
+    },
+    {
+      "stage": "Third-place match",
+      "opponent": "Netherlands",
+      "score": "1–2",
+      "scorers": [
+        {
+          "name": "Robert Prosinečki",
+          "minute": "14'",
+          "ownGoal": false
+        },
+        {
+          "name": "Boudewijn Zenden",
+          "minute": "22'",
+          "ownGoal": false
+        },
+        {
+          "name": "Davor Šuker",
+          "minute": "36'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1998-07-11"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

@@ -1,0 +1,336 @@
+{
+  "country": "West Germany",
+  "countrySlug": "west-germany",
+  "year": 1970,
+  "edition": "1970",
+  "host": "Mexico",
+  "coach": "Helmut Schön",
+  "finalPhase": "Third-place match",
+  "result": "Third place",
+  "squad": [
+    {
+      "id": "west-germany-1970-1",
+      "name": "Sepp Maier",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "west-germany-1970-2",
+      "name": "Horst-Dieter Höttges",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "west-germany-1970-3",
+      "name": "Karl-Heinz Schnellinger",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "west-germany-1970-4",
+      "name": "Franz Beckenbauer",
+      "shirtNumber": 4,
+      "position": "MID"
+    },
+    {
+      "id": "west-germany-1970-5",
+      "name": "Willi Schulz",
+      "shirtNumber": 5,
+      "position": "DEF"
+    },
+    {
+      "id": "west-germany-1970-6",
+      "name": "Wolfgang Weber",
+      "shirtNumber": 6,
+      "position": "MID"
+    },
+    {
+      "id": "west-germany-1970-7",
+      "name": "Berti Vogts",
+      "shirtNumber": 7,
+      "position": "DEF"
+    },
+    {
+      "id": "west-germany-1970-8",
+      "name": "Helmut Haller",
+      "shirtNumber": 8,
+      "position": "ATT"
+    },
+    {
+      "id": "west-germany-1970-9",
+      "name": "Uwe Seeler",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "west-germany-1970-10",
+      "name": "Sigfried Held",
+      "shirtNumber": 10,
+      "position": "ATT"
+    },
+    {
+      "id": "west-germany-1970-11",
+      "name": "Klaus Fichtel",
+      "shirtNumber": 11,
+      "position": "DEF"
+    },
+    {
+      "id": "west-germany-1970-12",
+      "name": "Wolfgang Overath",
+      "shirtNumber": 12,
+      "position": "MID"
+    },
+    {
+      "id": "west-germany-1970-13",
+      "name": "Gerd Müller",
+      "shirtNumber": 13,
+      "position": "ATT"
+    },
+    {
+      "id": "west-germany-1970-14",
+      "name": "Reinhard Libuda",
+      "shirtNumber": 14,
+      "position": "ATT"
+    },
+    {
+      "id": "west-germany-1970-15",
+      "name": "Bernd Patzke",
+      "shirtNumber": 15,
+      "position": "DEF"
+    },
+    {
+      "id": "west-germany-1970-16",
+      "name": "Max Lorenz",
+      "shirtNumber": 16,
+      "position": "MID"
+    },
+    {
+      "id": "west-germany-1970-17",
+      "name": "Hannes Löhr",
+      "shirtNumber": 17,
+      "position": "ATT"
+    },
+    {
+      "id": "west-germany-1970-18",
+      "name": "Klaus-Dieter Sieloff",
+      "shirtNumber": 18,
+      "position": "DEF"
+    },
+    {
+      "id": "west-germany-1970-19",
+      "name": "Peter Dietrich",
+      "shirtNumber": 19,
+      "position": "MID"
+    },
+    {
+      "id": "west-germany-1970-20",
+      "name": "Jürgen Grabowski",
+      "shirtNumber": 20,
+      "position": "ATT"
+    },
+    {
+      "id": "west-germany-1970-21",
+      "name": "Manfred Manglitz",
+      "shirtNumber": 21,
+      "position": "GK"
+    },
+    {
+      "id": "west-germany-1970-22",
+      "name": "Horst Wolter",
+      "shirtNumber": 22,
+      "position": "GK"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "Morocco",
+      "score": "2–1",
+      "scorers": [
+        {
+          "name": "Houmane Jarir",
+          "minute": "21'",
+          "ownGoal": false
+        },
+        {
+          "name": "Uwe Seeler",
+          "minute": "56'",
+          "ownGoal": false
+        },
+        {
+          "name": "Gerd Müller",
+          "minute": "80'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1970-06-03"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Bulgaria",
+      "score": "5–2",
+      "scorers": [
+        {
+          "name": "Asparuh Nikodimov",
+          "minute": "12'",
+          "ownGoal": false
+        },
+        {
+          "name": "Reinhard Libuda",
+          "minute": "20'",
+          "ownGoal": false
+        },
+        {
+          "name": "Gerd Müller",
+          "minute": "27'",
+          "ownGoal": false
+        },
+        {
+          "name": "Gerd Müller",
+          "minute": "52'",
+          "ownGoal": false
+        },
+        {
+          "name": "Uwe Seeler",
+          "minute": "67'",
+          "ownGoal": false
+        },
+        {
+          "name": "Gerd Müller",
+          "minute": "88'",
+          "ownGoal": false
+        },
+        {
+          "name": "Todor Kolev",
+          "minute": "89'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1970-06-07"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Peru",
+      "score": "3–1",
+      "scorers": [
+        {
+          "name": "Gerd Müller",
+          "minute": "19'",
+          "ownGoal": false
+        },
+        {
+          "name": "Gerd Müller",
+          "minute": "26'",
+          "ownGoal": false
+        },
+        {
+          "name": "Gerd Müller",
+          "minute": "39'",
+          "ownGoal": false
+        },
+        {
+          "name": "Teófilo Cubillas",
+          "minute": "44'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1970-06-10"
+    },
+    {
+      "stage": "Quarter-final",
+      "opponent": "England",
+      "score": "3–2",
+      "scorers": [
+        {
+          "name": "Alan Mullery",
+          "minute": "31'",
+          "ownGoal": false
+        },
+        {
+          "name": "Martin Peters",
+          "minute": "49'",
+          "ownGoal": false
+        },
+        {
+          "name": "Franz Beckenbauer",
+          "minute": "68'",
+          "ownGoal": false
+        },
+        {
+          "name": "Uwe Seeler",
+          "minute": "82'",
+          "ownGoal": false
+        },
+        {
+          "name": "Gerd Müller",
+          "minute": "108'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1970-06-14"
+    },
+    {
+      "stage": "Semi-final",
+      "opponent": "Italy",
+      "score": "4–3",
+      "scorers": [
+        {
+          "name": "Roberto Boninsegna",
+          "minute": "8'",
+          "ownGoal": false
+        },
+        {
+          "name": "Karl-Heinz Schnellinger",
+          "minute": "90'",
+          "ownGoal": false
+        },
+        {
+          "name": "Gerd Müller",
+          "minute": "94'",
+          "ownGoal": false
+        },
+        {
+          "name": "Tarcisio Burgnich",
+          "minute": "98'",
+          "ownGoal": false
+        },
+        {
+          "name": "Gigi Riva",
+          "minute": "104'",
+          "ownGoal": false
+        },
+        {
+          "name": "Gerd Müller",
+          "minute": "110'",
+          "ownGoal": false
+        },
+        {
+          "name": "Gianni Rivera",
+          "minute": "111'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1970-06-17"
+    },
+    {
+      "stage": "Third-place match",
+      "opponent": "Uruguay",
+      "score": "1–0",
+      "scorers": [
+        {
+          "name": "Wolfgang Overath",
+          "minute": "26'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1970-06-20"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

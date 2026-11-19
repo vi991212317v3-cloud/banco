@@ -1,0 +1,295 @@
+{
+  "country": "Switzerland",
+  "countrySlug": "switzerland",
+  "year": 1954,
+  "edition": "1954",
+  "host": "Switzerland",
+  "coach": "Karl Rappan",
+  "finalPhase": "Quarter-final",
+  "result": "Quarter-final",
+  "squad": [
+    {
+      "id": "switzerland-1954-1",
+      "name": "Walter Eich",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "switzerland-1954-2",
+      "name": "Eugene Parlier",
+      "shirtNumber": 2,
+      "position": "GK"
+    },
+    {
+      "id": "switzerland-1954-3",
+      "name": "Georges Stuber",
+      "shirtNumber": 3,
+      "position": "GK"
+    },
+    {
+      "id": "switzerland-1954-4",
+      "name": "Roger Bocquet",
+      "shirtNumber": 4,
+      "position": "MID"
+    },
+    {
+      "id": "switzerland-1954-5",
+      "name": "Marcel Flückiger",
+      "shirtNumber": 5,
+      "position": "DEF"
+    },
+    {
+      "id": "switzerland-1954-6",
+      "name": "Roger Mathis",
+      "shirtNumber": 6,
+      "position": "DEF"
+    },
+    {
+      "id": "switzerland-1954-7",
+      "name": "André Neury",
+      "shirtNumber": 7,
+      "position": "DEF"
+    },
+    {
+      "id": "switzerland-1954-8",
+      "name": "Heinz Bigler",
+      "shirtNumber": 8,
+      "position": "MID"
+    },
+    {
+      "id": "switzerland-1954-9",
+      "name": "Charles Casali",
+      "shirtNumber": 9,
+      "position": "MID"
+    },
+    {
+      "id": "switzerland-1954-10",
+      "name": "Oliver Eggimann",
+      "shirtNumber": 10,
+      "position": "MID"
+    },
+    {
+      "id": "switzerland-1954-11",
+      "name": "Norbert Eschmann",
+      "shirtNumber": 11,
+      "position": "MID"
+    },
+    {
+      "id": "switzerland-1954-12",
+      "name": "Gilbert Fesselet",
+      "shirtNumber": 12,
+      "position": "MID"
+    },
+    {
+      "id": "switzerland-1954-13",
+      "name": "Ivo Frosio",
+      "shirtNumber": 13,
+      "position": "MID"
+    },
+    {
+      "id": "switzerland-1954-14",
+      "name": "Willy Kernen",
+      "shirtNumber": 14,
+      "position": "DEF"
+    },
+    {
+      "id": "switzerland-1954-15",
+      "name": "Charles Antenen",
+      "shirtNumber": 15,
+      "position": "ATT"
+    },
+    {
+      "id": "switzerland-1954-16",
+      "name": "Robert Ballaman",
+      "shirtNumber": 16,
+      "position": "ATT"
+    },
+    {
+      "id": "switzerland-1954-17",
+      "name": "Jacques Fatton",
+      "shirtNumber": 17,
+      "position": "ATT"
+    },
+    {
+      "id": "switzerland-1954-18",
+      "name": "Josef Hügi",
+      "shirtNumber": 18,
+      "position": "ATT"
+    },
+    {
+      "id": "switzerland-1954-19",
+      "name": "Marcel Mauron",
+      "shirtNumber": 19,
+      "position": "ATT"
+    },
+    {
+      "id": "switzerland-1954-20",
+      "name": "Eugen Meier",
+      "shirtNumber": 20,
+      "position": "ATT"
+    },
+    {
+      "id": "switzerland-1954-21",
+      "name": "Ferdinando Riva",
+      "shirtNumber": 21,
+      "position": "ATT"
+    },
+    {
+      "id": "switzerland-1954-22",
+      "name": "Roger Vonlanthen",
+      "shirtNumber": 22,
+      "position": "ATT"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "Italy",
+      "score": "2–1",
+      "scorers": [
+        {
+          "name": "Robert Ballaman",
+          "minute": "18'",
+          "ownGoal": false
+        },
+        {
+          "name": "Giampiero Boniperti",
+          "minute": "44'",
+          "ownGoal": false
+        },
+        {
+          "name": "Josef Hügi",
+          "minute": "78'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1954-06-17"
+    },
+    {
+      "stage": "Group",
+      "opponent": "England",
+      "score": "2–0",
+      "scorers": [
+        {
+          "name": "Jimmy Mullen",
+          "minute": "43'",
+          "ownGoal": false
+        },
+        {
+          "name": "Dennis Wilshaw",
+          "minute": "69'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1954-06-20"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Italy",
+      "score": "4–1",
+      "scorers": [
+        {
+          "name": "Josef Hügi",
+          "minute": "14'",
+          "ownGoal": false
+        },
+        {
+          "name": "Robert Ballaman",
+          "minute": "48'",
+          "ownGoal": false
+        },
+        {
+          "name": "Fulvio Nesti",
+          "minute": "67'",
+          "ownGoal": false
+        },
+        {
+          "name": "Josef Hügi",
+          "minute": "85'",
+          "ownGoal": false
+        },
+        {
+          "name": "Jacques Fatton",
+          "minute": "90'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1954-06-23"
+    },
+    {
+      "stage": "Quarter-final",
+      "opponent": "Austria",
+      "score": "7–5",
+      "scorers": [
+        {
+          "name": "Robert Ballaman",
+          "minute": "16'",
+          "ownGoal": false
+        },
+        {
+          "name": "Josef Hügi",
+          "minute": "17'",
+          "ownGoal": false
+        },
+        {
+          "name": "Josef Hügi",
+          "minute": "19'",
+          "ownGoal": false
+        },
+        {
+          "name": "Theodor Wagner",
+          "minute": "25'",
+          "ownGoal": false
+        },
+        {
+          "name": "Alfred Körner",
+          "minute": "26'",
+          "ownGoal": false
+        },
+        {
+          "name": "Theodor Wagner",
+          "minute": "27'",
+          "ownGoal": false
+        },
+        {
+          "name": "Ernst Ocwirk",
+          "minute": "32'",
+          "ownGoal": false
+        },
+        {
+          "name": "Alfred Körner",
+          "minute": "34'",
+          "ownGoal": false
+        },
+        {
+          "name": "Robert Ballaman",
+          "minute": "39'",
+          "ownGoal": false
+        },
+        {
+          "name": "Theodor Wagner",
+          "minute": "53'",
+          "ownGoal": false
+        },
+        {
+          "name": "Josef Hügi",
+          "minute": "60'",
+          "ownGoal": false
+        },
+        {
+          "name": "Erich Probst",
+          "minute": "76'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1954-06-26"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

@@ -1,0 +1,330 @@
+{
+  "country": "Croatia",
+  "countrySlug": "croatia",
+  "year": 2018,
+  "edition": "2018",
+  "host": "Russia",
+  "coach": "Zlatko Dalić",
+  "finalPhase": "Final",
+  "result": "Runner-up",
+  "squad": [
+    {
+      "id": "croatia-2018-1",
+      "name": "Dominik Livaković",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "croatia-2018-2",
+      "name": "Šime Vrsaljko",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "croatia-2018-3",
+      "name": "Ivan Strinić",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "croatia-2018-4",
+      "name": "Ivan Perišić",
+      "shirtNumber": 4,
+      "position": "ATT"
+    },
+    {
+      "id": "croatia-2018-5",
+      "name": "Vedran Ćorluka",
+      "shirtNumber": 5,
+      "position": "DEF"
+    },
+    {
+      "id": "croatia-2018-6",
+      "name": "Dejan Lovren",
+      "shirtNumber": 6,
+      "position": "DEF"
+    },
+    {
+      "id": "croatia-2018-7",
+      "name": "Ivan Rakitić",
+      "shirtNumber": 7,
+      "position": "MID"
+    },
+    {
+      "id": "croatia-2018-8",
+      "name": "Mateo Kovačić",
+      "shirtNumber": 8,
+      "position": "MID"
+    },
+    {
+      "id": "croatia-2018-9",
+      "name": "Andrej Kramarić",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "croatia-2018-10",
+      "name": "Luka Modrić",
+      "shirtNumber": 10,
+      "position": "MID"
+    },
+    {
+      "id": "croatia-2018-11",
+      "name": "Marcelo Brozović",
+      "shirtNumber": 11,
+      "position": "MID"
+    },
+    {
+      "id": "croatia-2018-12",
+      "name": "Lovre Kalinić",
+      "shirtNumber": 12,
+      "position": "GK"
+    },
+    {
+      "id": "croatia-2018-13",
+      "name": "Tin Jedvaj",
+      "shirtNumber": 13,
+      "position": "DEF"
+    },
+    {
+      "id": "croatia-2018-14",
+      "name": "Filip Bradarić",
+      "shirtNumber": 14,
+      "position": "MID"
+    },
+    {
+      "id": "croatia-2018-15",
+      "name": "Duje Ćaleta-Car",
+      "shirtNumber": 15,
+      "position": "DEF"
+    },
+    {
+      "id": "croatia-2018-16",
+      "name": "Nikola Kalinić",
+      "shirtNumber": 16,
+      "position": "ATT"
+    },
+    {
+      "id": "croatia-2018-17",
+      "name": "Mario Mandžukić",
+      "shirtNumber": 17,
+      "position": "ATT"
+    },
+    {
+      "id": "croatia-2018-18",
+      "name": "Ante Rebić",
+      "shirtNumber": 18,
+      "position": "ATT"
+    },
+    {
+      "id": "croatia-2018-19",
+      "name": "Milan Badelj",
+      "shirtNumber": 19,
+      "position": "MID"
+    },
+    {
+      "id": "croatia-2018-20",
+      "name": "Marko Pjaca",
+      "shirtNumber": 20,
+      "position": "ATT"
+    },
+    {
+      "id": "croatia-2018-21",
+      "name": "Domagoj Vida",
+      "shirtNumber": 21,
+      "position": "DEF"
+    },
+    {
+      "id": "croatia-2018-22",
+      "name": "Josip Pivarić",
+      "shirtNumber": 22,
+      "position": "DEF"
+    },
+    {
+      "id": "croatia-2018-23",
+      "name": "Danijel Subašić",
+      "shirtNumber": 23,
+      "position": "GK"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "Nigeria",
+      "score": "2–0",
+      "scorers": [
+        {
+          "name": "Peter Etebo",
+          "minute": "32'",
+          "ownGoal": true
+        },
+        {
+          "name": "Luka Modrić",
+          "minute": "71'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2018-06-16"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Argentina",
+      "score": "0–3",
+      "scorers": [
+        {
+          "name": "Ante Rebić",
+          "minute": "53'",
+          "ownGoal": false
+        },
+        {
+          "name": "Luka Modrić",
+          "minute": "80'",
+          "ownGoal": false
+        },
+        {
+          "name": "Ivan Rakitić",
+          "minute": "90'+1'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2018-06-21"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Iceland",
+      "score": "1–2",
+      "scorers": [
+        {
+          "name": "Milan Badelj",
+          "minute": "53'",
+          "ownGoal": false
+        },
+        {
+          "name": "Gylfi Sigurðsson",
+          "minute": "76'",
+          "ownGoal": false
+        },
+        {
+          "name": "Ivan Perišić",
+          "minute": "90'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2018-06-26"
+    },
+    {
+      "stage": "Round of 16",
+      "opponent": "Denmark",
+      "score": "1–1",
+      "scorers": [
+        {
+          "name": "Mathias Jørgensen",
+          "minute": "1'",
+          "ownGoal": false
+        },
+        {
+          "name": "Mario Mandžukić",
+          "minute": "4'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2018-07-01"
+    },
+    {
+      "stage": "Quarter-final",
+      "opponent": "Russia",
+      "score": "2–2",
+      "scorers": [
+        {
+          "name": "Denis Cheryshev",
+          "minute": "31'",
+          "ownGoal": false
+        },
+        {
+          "name": "Andrej Kramarić",
+          "minute": "39'",
+          "ownGoal": false
+        },
+        {
+          "name": "Domagoj Vida",
+          "minute": "101'",
+          "ownGoal": false
+        },
+        {
+          "name": "Mário Fernandes",
+          "minute": "115'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2018-07-07"
+    },
+    {
+      "stage": "Semi-final",
+      "opponent": "England",
+      "score": "2–1",
+      "scorers": [
+        {
+          "name": "Kieran Trippier",
+          "minute": "5'",
+          "ownGoal": false
+        },
+        {
+          "name": "Ivan Perišić",
+          "minute": "68'",
+          "ownGoal": false
+        },
+        {
+          "name": "Mario Mandžukić",
+          "minute": "109'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2018-07-11"
+    },
+    {
+      "stage": "Final",
+      "opponent": "France",
+      "score": "4–2",
+      "scorers": [
+        {
+          "name": "Mario Mandžukić",
+          "minute": "18'",
+          "ownGoal": true
+        },
+        {
+          "name": "Ivan Perišić",
+          "minute": "28'",
+          "ownGoal": false
+        },
+        {
+          "name": "Antoine Griezmann",
+          "minute": "38'",
+          "ownGoal": false
+        },
+        {
+          "name": "Paul Pogba",
+          "minute": "59'",
+          "ownGoal": false
+        },
+        {
+          "name": "Kylian Mbappé",
+          "minute": "65'",
+          "ownGoal": false
+        },
+        {
+          "name": "Mario Mandžukić",
+          "minute": "69'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2018-07-15"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

@@ -1,0 +1,227 @@
+{
+  "country": "Greece",
+  "countrySlug": "greece",
+  "year": 1994,
+  "edition": "1994",
+  "host": "United States",
+  "coach": "Alketas Panagoulias",
+  "finalPhase": "Group Stage",
+  "result": "Group Stage",
+  "squad": [
+    {
+      "id": "greece-1994-1",
+      "name": "Antonis Minou",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "greece-1994-2",
+      "name": "Stratos Apostolakis",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "greece-1994-3",
+      "name": "Thanasis Kolitsidakis",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "greece-1994-4",
+      "name": "Stelios Manolas",
+      "shirtNumber": 4,
+      "position": "DEF"
+    },
+    {
+      "id": "greece-1994-5",
+      "name": "Ioannis Kalitzakis",
+      "shirtNumber": 5,
+      "position": "DEF"
+    },
+    {
+      "id": "greece-1994-6",
+      "name": "Panagiotis Tsalouchidis",
+      "shirtNumber": 6,
+      "position": "MID"
+    },
+    {
+      "id": "greece-1994-7",
+      "name": "Dimitris Saravakos",
+      "shirtNumber": 7,
+      "position": "MID"
+    },
+    {
+      "id": "greece-1994-8",
+      "name": "Nikos Nioplias",
+      "shirtNumber": 8,
+      "position": "MID"
+    },
+    {
+      "id": "greece-1994-9",
+      "name": "Nikos Machlas",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "greece-1994-10",
+      "name": "Tasos Mitropoulos",
+      "shirtNumber": 10,
+      "position": "MID"
+    },
+    {
+      "id": "greece-1994-11",
+      "name": "Nikos Tsiantakis",
+      "shirtNumber": 11,
+      "position": "MID"
+    },
+    {
+      "id": "greece-1994-12",
+      "name": "Spiros Marangos",
+      "shirtNumber": 12,
+      "position": "MID"
+    },
+    {
+      "id": "greece-1994-13",
+      "name": "Vaios Karagiannis",
+      "shirtNumber": 13,
+      "position": "DEF"
+    },
+    {
+      "id": "greece-1994-14",
+      "name": "Vasilis Dimitriadis",
+      "shirtNumber": 14,
+      "position": "ATT"
+    },
+    {
+      "id": "greece-1994-15",
+      "name": "Christos Karkamanis",
+      "shirtNumber": 15,
+      "position": "GK"
+    },
+    {
+      "id": "greece-1994-16",
+      "name": "Alexis Alexoudis",
+      "shirtNumber": 16,
+      "position": "ATT"
+    },
+    {
+      "id": "greece-1994-17",
+      "name": "Minas Hantzidis",
+      "shirtNumber": 17,
+      "position": "MID"
+    },
+    {
+      "id": "greece-1994-18",
+      "name": "Kyriakos Karataidis",
+      "shirtNumber": 18,
+      "position": "DEF"
+    },
+    {
+      "id": "greece-1994-19",
+      "name": "Savvas Kofidis",
+      "shirtNumber": 19,
+      "position": "MID"
+    },
+    {
+      "id": "greece-1994-20",
+      "name": "Elias Atmatsidis",
+      "shirtNumber": 20,
+      "position": "GK"
+    },
+    {
+      "id": "greece-1994-21",
+      "name": "Alexis Alexandris",
+      "shirtNumber": 21,
+      "position": "ATT"
+    },
+    {
+      "id": "greece-1994-22",
+      "name": "Alexis Alexiou",
+      "shirtNumber": 22,
+      "position": "DEF"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "Argentina",
+      "score": "4–0",
+      "scorers": [
+        {
+          "name": "Gabriel Batistuta",
+          "minute": "2'",
+          "ownGoal": false
+        },
+        {
+          "name": "Gabriel Batistuta",
+          "minute": "44'",
+          "ownGoal": false
+        },
+        {
+          "name": "Diego Maradona",
+          "minute": "60'",
+          "ownGoal": false
+        },
+        {
+          "name": "Gabriel Batistuta",
+          "minute": "90'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1994-06-21"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Bulgaria",
+      "score": "4–0",
+      "scorers": [
+        {
+          "name": "Hristo Stoichkov",
+          "minute": "5'",
+          "ownGoal": false
+        },
+        {
+          "name": "Hristo Stoichkov",
+          "minute": "55'",
+          "ownGoal": false
+        },
+        {
+          "name": "Yordan Letchkov",
+          "minute": "65'",
+          "ownGoal": false
+        },
+        {
+          "name": "Daniel Borimirov",
+          "minute": "90'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1994-06-26"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Nigeria",
+      "score": "0–2",
+      "scorers": [
+        {
+          "name": "Finidi George",
+          "minute": "45'+2'",
+          "ownGoal": false
+        },
+        {
+          "name": "Daniel Amokachi",
+          "minute": "90'+5'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1994-06-30"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

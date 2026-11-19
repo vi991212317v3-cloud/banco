@@ -1,0 +1,259 @@
+{
+  "country": "Congo DR",
+  "countrySlug": "congo-dr",
+  "year": 2026,
+  "edition": "2026",
+  "host": "Canada, Mexico and United States",
+  "coach": "DESABRE Sebastien",
+  "finalPhase": "Round of 32",
+  "result": "Round of 32",
+  "squad": [
+    {
+      "id": "congo-dr-2026-1",
+      "name": "Lionel Nzau MPASI",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "congo-dr-2026-2",
+      "name": "Wan BISSAKA",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "congo-dr-2026-3",
+      "name": "Steve Nkanu KAPUADI",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "congo-dr-2026-4",
+      "name": "Axel TUANZEBE",
+      "shirtNumber": 4,
+      "position": "DEF"
+    },
+    {
+      "id": "congo-dr-2026-5",
+      "name": "Dylan Buduka BATUBINSIKA",
+      "shirtNumber": 5,
+      "position": "DEF"
+    },
+    {
+      "id": "congo-dr-2026-6",
+      "name": "Ngal’ayel MUKAU",
+      "shirtNumber": 6,
+      "position": "MID"
+    },
+    {
+      "id": "congo-dr-2026-7",
+      "name": "Nathanaël MBUKU",
+      "shirtNumber": 7,
+      "position": "MID"
+    },
+    {
+      "id": "congo-dr-2026-8",
+      "name": "Samuel Alain MOUTOUSSAMY",
+      "shirtNumber": 8,
+      "position": "MID"
+    },
+    {
+      "id": "congo-dr-2026-9",
+      "name": "Kibambe Brian CIPENGA",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "congo-dr-2026-10",
+      "name": "Theo Mbulofeko Batombo BONGONDA",
+      "shirtNumber": 10,
+      "position": "MID"
+    },
+    {
+      "id": "congo-dr-2026-11",
+      "name": "Mambenga Gaël Roméo KAKUTA",
+      "shirtNumber": 11,
+      "position": "ATT"
+    },
+    {
+      "id": "congo-dr-2026-12",
+      "name": "Joris KAYEMBE-DITU",
+      "shirtNumber": 12,
+      "position": "DEF"
+    },
+    {
+      "id": "congo-dr-2026-13",
+      "name": "Meschack Lina ELIA",
+      "shirtNumber": 13,
+      "position": "ATT"
+    },
+    {
+      "id": "congo-dr-2026-14",
+      "name": "Noah Junior SADIKI",
+      "shirtNumber": 14,
+      "position": "MID"
+    },
+    {
+      "id": "congo-dr-2026-15",
+      "name": "Tshibola AARON",
+      "shirtNumber": 15,
+      "position": "MID"
+    },
+    {
+      "id": "congo-dr-2026-16",
+      "name": "Timothy Bruce Munzoko FAYULU",
+      "shirtNumber": 16,
+      "position": "GK"
+    },
+    {
+      "id": "congo-dr-2026-17",
+      "name": "Cedric BAKAMBU",
+      "shirtNumber": 17,
+      "position": "ATT"
+    },
+    {
+      "id": "congo-dr-2026-18",
+      "name": "Charles Monginda PICKEL",
+      "shirtNumber": 18,
+      "position": "MID"
+    },
+    {
+      "id": "congo-dr-2026-19",
+      "name": "Mayele Fiston KALALA",
+      "shirtNumber": 19,
+      "position": "ATT"
+    },
+    {
+      "id": "congo-dr-2026-20",
+      "name": "Yoane WISSA",
+      "shirtNumber": 20,
+      "position": "ATT"
+    },
+    {
+      "id": "congo-dr-2026-21",
+      "name": "Matthieu Luka EPOLO",
+      "shirtNumber": 21,
+      "position": "GK"
+    },
+    {
+      "id": "congo-dr-2026-22",
+      "name": "Mangulu Chancel MBEMBA",
+      "shirtNumber": 22,
+      "position": "DEF"
+    },
+    {
+      "id": "congo-dr-2026-23",
+      "name": "Simon Bokote BANZA",
+      "shirtNumber": 23,
+      "position": "ATT"
+    },
+    {
+      "id": "congo-dr-2026-24",
+      "name": "Gédéon Tchingoma Kyatengwa KALULU",
+      "shirtNumber": 24,
+      "position": "DEF"
+    },
+    {
+      "id": "congo-dr-2026-25",
+      "name": "Edo Kayembe KAYEMBE",
+      "shirtNumber": 25,
+      "position": "MID"
+    },
+    {
+      "id": "congo-dr-2026-26",
+      "name": "Arthur Fuka MASUAKU KAWELA",
+      "shirtNumber": 26,
+      "position": "DEF"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group Stage",
+      "opponent": "Portugal",
+      "score": "1–1",
+      "scorers": [
+        {
+          "name": "João Pedro GONÇALVES NEVES",
+          "minute": 6,
+          "ownGoal": false
+        },
+        {
+          "name": "Yoane WISSA",
+          "minute": 45,
+          "ownGoal": false
+        }
+      ],
+      "date": "2026-06-17"
+    },
+    {
+      "stage": "Group Stage",
+      "opponent": "Colombia",
+      "score": "1–0",
+      "scorers": [
+        {
+          "name": "Daniel MUÑOZ MEJIA",
+          "minute": 76,
+          "ownGoal": false
+        }
+      ],
+      "date": "2026-06-23"
+    },
+    {
+      "stage": "Group Stage",
+      "opponent": "Uzbekistan",
+      "score": "3–1",
+      "scorers": [
+        {
+          "name": "Eldor SHOMURODOV",
+          "minute": 10,
+          "ownGoal": false
+        },
+        {
+          "name": "Yoane WISSA",
+          "minute": 68,
+          "ownGoal": false
+        },
+        {
+          "name": "Mayele Fiston KALALA",
+          "minute": 78,
+          "ownGoal": false
+        },
+        {
+          "name": "Yoane WISSA",
+          "minute": 90,
+          "ownGoal": false
+        }
+      ],
+      "date": "2026-06-28"
+    },
+    {
+      "stage": "Round of 32",
+      "opponent": "England",
+      "score": "2–1",
+      "scorers": [
+        {
+          "name": "Kibambe Brian CIPENGA",
+          "minute": 7,
+          "ownGoal": false
+        },
+        {
+          "name": "Harry Edward KANE",
+          "minute": 75,
+          "ownGoal": false
+        },
+        {
+          "name": "Harry Edward KANE",
+          "minute": 86,
+          "ownGoal": false
+        }
+      ],
+      "date": "2026-07-01"
+    }
+  ],
+  "sources": [
+    "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/final-tournament-standings",
+    "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/teams",
+    "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+    "https://github.com/openfootball/worldcup.json",
+    "https://github.com/mominullptr/FIFA-World-Cup-2026-Dataset"
+  ]
+}

@@ -1,0 +1,289 @@
+{
+  "country": "Italy",
+  "countrySlug": "italy",
+  "year": 1970,
+  "edition": "1970",
+  "host": "Mexico",
+  "coach": "Ferruccio Valcareggi",
+  "finalPhase": "Final",
+  "result": "Runner-up",
+  "squad": [
+    {
+      "id": "italy-1970-1",
+      "name": "Enrico Albertosi",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "italy-1970-2",
+      "name": "Tarcisio Burgnich",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "italy-1970-3",
+      "name": "Giacinto Facchetti",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "italy-1970-4",
+      "name": "Fabrizio Poletti",
+      "shirtNumber": 4,
+      "position": "DEF"
+    },
+    {
+      "id": "italy-1970-5",
+      "name": "Pierluigi Cera",
+      "shirtNumber": 5,
+      "position": "DEF"
+    },
+    {
+      "id": "italy-1970-6",
+      "name": "Ugo Ferrante",
+      "shirtNumber": 6,
+      "position": "MID"
+    },
+    {
+      "id": "italy-1970-7",
+      "name": "Comunardo Niccolai",
+      "shirtNumber": 7,
+      "position": "MID"
+    },
+    {
+      "id": "italy-1970-8",
+      "name": "Roberto Rosato",
+      "shirtNumber": 8,
+      "position": "DEF"
+    },
+    {
+      "id": "italy-1970-9",
+      "name": "Giorgio Puia",
+      "shirtNumber": 9,
+      "position": "DEF"
+    },
+    {
+      "id": "italy-1970-10",
+      "name": "Mario Bertini",
+      "shirtNumber": 10,
+      "position": "MID"
+    },
+    {
+      "id": "italy-1970-11",
+      "name": "Gigi Riva",
+      "shirtNumber": 11,
+      "position": "ATT"
+    },
+    {
+      "id": "italy-1970-12",
+      "name": "Dino Zoff",
+      "shirtNumber": 12,
+      "position": "GK"
+    },
+    {
+      "id": "italy-1970-13",
+      "name": "Angelo Domenghini",
+      "shirtNumber": 13,
+      "position": "ATT"
+    },
+    {
+      "id": "italy-1970-14",
+      "name": "Gianni Rivera",
+      "shirtNumber": 14,
+      "position": "MID"
+    },
+    {
+      "id": "italy-1970-15",
+      "name": "Sandro Mazzola",
+      "shirtNumber": 15,
+      "position": "MID"
+    },
+    {
+      "id": "italy-1970-16",
+      "name": "Giancarlo De Sisti",
+      "shirtNumber": 16,
+      "position": "MID"
+    },
+    {
+      "id": "italy-1970-17",
+      "name": "Lido Vieri",
+      "shirtNumber": 17,
+      "position": "GK"
+    },
+    {
+      "id": "italy-1970-18",
+      "name": "Antonio Juliano",
+      "shirtNumber": 18,
+      "position": "DEF"
+    },
+    {
+      "id": "italy-1970-19",
+      "name": "Sergio Gori",
+      "shirtNumber": 19,
+      "position": "ATT"
+    },
+    {
+      "id": "italy-1970-20",
+      "name": "Roberto Boninsegna",
+      "shirtNumber": 20,
+      "position": "ATT"
+    },
+    {
+      "id": "italy-1970-21",
+      "name": "Giuseppe Furino",
+      "shirtNumber": 21,
+      "position": "DEF"
+    },
+    {
+      "id": "italy-1970-22",
+      "name": "Pierino Prati",
+      "shirtNumber": 22,
+      "position": "ATT"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "Sweden",
+      "score": "1–0",
+      "scorers": [
+        {
+          "name": "Angelo Domenghini",
+          "minute": "10'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1970-06-03"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Uruguay",
+      "score": "0–0",
+      "scorers": [],
+      "date": "1970-06-06"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Israel",
+      "score": "0–0",
+      "scorers": [],
+      "date": "1970-06-11"
+    },
+    {
+      "stage": "Quarter-final",
+      "opponent": "Mexico",
+      "score": "4–1",
+      "scorers": [
+        {
+          "name": "José Luis González",
+          "minute": "13'",
+          "ownGoal": false
+        },
+        {
+          "name": "Javier Guzmán",
+          "minute": "25'",
+          "ownGoal": true
+        },
+        {
+          "name": "Gigi Riva",
+          "minute": "63'",
+          "ownGoal": false
+        },
+        {
+          "name": "Gianni Rivera",
+          "minute": "70'",
+          "ownGoal": false
+        },
+        {
+          "name": "Gigi Riva",
+          "minute": "76'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1970-06-14"
+    },
+    {
+      "stage": "Semi-final",
+      "opponent": "West Germany",
+      "score": "4–3",
+      "scorers": [
+        {
+          "name": "Roberto Boninsegna",
+          "minute": "8'",
+          "ownGoal": false
+        },
+        {
+          "name": "Karl-Heinz Schnellinger",
+          "minute": "90'",
+          "ownGoal": false
+        },
+        {
+          "name": "Gerd Müller",
+          "minute": "94'",
+          "ownGoal": false
+        },
+        {
+          "name": "Tarcisio Burgnich",
+          "minute": "98'",
+          "ownGoal": false
+        },
+        {
+          "name": "Gigi Riva",
+          "minute": "104'",
+          "ownGoal": false
+        },
+        {
+          "name": "Gerd Müller",
+          "minute": "110'",
+          "ownGoal": false
+        },
+        {
+          "name": "Gianni Rivera",
+          "minute": "111'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1970-06-17"
+    },
+    {
+      "stage": "Final",
+      "opponent": "Brazil",
+      "score": "4–1",
+      "scorers": [
+        {
+          "name": "Pelé",
+          "minute": "18'",
+          "ownGoal": false
+        },
+        {
+          "name": "Roberto Boninsegna",
+          "minute": "37'",
+          "ownGoal": false
+        },
+        {
+          "name": "Gérson",
+          "minute": "66'",
+          "ownGoal": false
+        },
+        {
+          "name": "Jairzinho",
+          "minute": "71'",
+          "ownGoal": false
+        },
+        {
+          "name": "Carlos Alberto",
+          "minute": "86'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1970-06-21"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

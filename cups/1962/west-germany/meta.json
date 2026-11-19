@@ -1,0 +1,214 @@
+{
+  "country": "West Germany",
+  "countrySlug": "west-germany",
+  "year": 1962,
+  "edition": "1962",
+  "host": "Chile",
+  "coach": "Sepp Herberger",
+  "finalPhase": "Quarter-final",
+  "result": "Quarter-final",
+  "squad": [
+    {
+      "id": "west-germany-1962-1",
+      "name": "Hans Tilkowski",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "west-germany-1962-2",
+      "name": "Herbert Erhardt",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "west-germany-1962-3",
+      "name": "Karl-Heinz Schnellinger",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "west-germany-1962-4",
+      "name": "Willi Schulz",
+      "shirtNumber": 4,
+      "position": "DEF"
+    },
+    {
+      "id": "west-germany-1962-5",
+      "name": "Leo Wilden",
+      "shirtNumber": 5,
+      "position": "DEF"
+    },
+    {
+      "id": "west-germany-1962-6",
+      "name": "Horst Szymaniak",
+      "shirtNumber": 6,
+      "position": "MID"
+    },
+    {
+      "id": "west-germany-1962-7",
+      "name": "Willi Koslowski",
+      "shirtNumber": 7,
+      "position": "MID"
+    },
+    {
+      "id": "west-germany-1962-8",
+      "name": "Helmut Haller",
+      "shirtNumber": 8,
+      "position": "ATT"
+    },
+    {
+      "id": "west-germany-1962-9",
+      "name": "Uwe Seeler",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "west-germany-1962-10",
+      "name": "Albert Brülls",
+      "shirtNumber": 10,
+      "position": "MID"
+    },
+    {
+      "id": "west-germany-1962-11",
+      "name": "Hans Schäfer",
+      "shirtNumber": 11,
+      "position": "ATT"
+    },
+    {
+      "id": "west-germany-1962-12",
+      "name": "Hans Nowak",
+      "shirtNumber": 12,
+      "position": "DEF"
+    },
+    {
+      "id": "west-germany-1962-13",
+      "name": "Jürgen Kurbjuhn",
+      "shirtNumber": 13,
+      "position": "DEF"
+    },
+    {
+      "id": "west-germany-1962-14",
+      "name": "Jürgen Werner",
+      "shirtNumber": 14,
+      "position": "DEF"
+    },
+    {
+      "id": "west-germany-1962-15",
+      "name": "Willi Giesemann",
+      "shirtNumber": 15,
+      "position": "MID"
+    },
+    {
+      "id": "west-germany-1962-16",
+      "name": "Hans Sturm",
+      "shirtNumber": 16,
+      "position": "MID"
+    },
+    {
+      "id": "west-germany-1962-17",
+      "name": "Engelbert Kraus",
+      "shirtNumber": 17,
+      "position": "ATT"
+    },
+    {
+      "id": "west-germany-1962-18",
+      "name": "Günther Herrmann",
+      "shirtNumber": 18,
+      "position": "MID"
+    },
+    {
+      "id": "west-germany-1962-19",
+      "name": "Heinz Strehl",
+      "shirtNumber": 19,
+      "position": "ATT"
+    },
+    {
+      "id": "west-germany-1962-20",
+      "name": "Heinz Vollmar",
+      "shirtNumber": 20,
+      "position": "ATT"
+    },
+    {
+      "id": "west-germany-1962-21",
+      "name": "Günter Sawitzki",
+      "shirtNumber": 21,
+      "position": "GK"
+    },
+    {
+      "id": "west-germany-1962-22",
+      "name": "Wolfgang Fahrian",
+      "shirtNumber": 22,
+      "position": "GK"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "Italy",
+      "score": "0–0",
+      "scorers": [],
+      "date": "1962-05-31"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Switzerland",
+      "score": "2–1",
+      "scorers": [
+        {
+          "name": "Albert Brülls",
+          "minute": "45'",
+          "ownGoal": false
+        },
+        {
+          "name": "Uwe Seeler",
+          "minute": "59'",
+          "ownGoal": false
+        },
+        {
+          "name": "Heinz Schneiter",
+          "minute": "73'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1962-06-03"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Chile",
+      "score": "2–0",
+      "scorers": [
+        {
+          "name": "Horst Szymaniak",
+          "minute": "21'",
+          "ownGoal": false
+        },
+        {
+          "name": "Uwe Seeler",
+          "minute": "82'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1962-06-06"
+    },
+    {
+      "stage": "Quarter-final",
+      "opponent": "Yugoslavia",
+      "score": "1–0",
+      "scorers": [
+        {
+          "name": "Petar Radaković",
+          "minute": "85'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1962-06-10"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

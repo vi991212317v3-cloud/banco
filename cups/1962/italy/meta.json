@@ -1,0 +1,201 @@
+{
+  "country": "Italy",
+  "countrySlug": "italy",
+  "year": 1962,
+  "edition": "1962",
+  "host": "Chile",
+  "coach": "Giovanni Ferrari",
+  "finalPhase": "Group Stage",
+  "result": "Group Stage",
+  "squad": [
+    {
+      "id": "italy-1962-1",
+      "name": "Lorenzo Buffon",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "italy-1962-2",
+      "name": "Giacomo Losi",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "italy-1962-3",
+      "name": "Luigi Radice",
+      "shirtNumber": 3,
+      "position": "MID"
+    },
+    {
+      "id": "italy-1962-4",
+      "name": "Sandro Salvadore",
+      "shirtNumber": 4,
+      "position": "DEF"
+    },
+    {
+      "id": "italy-1962-5",
+      "name": "Cesare Maldini",
+      "shirtNumber": 5,
+      "position": "DEF"
+    },
+    {
+      "id": "italy-1962-6",
+      "name": "Giovanni Trapattoni",
+      "shirtNumber": 6,
+      "position": "MID"
+    },
+    {
+      "id": "italy-1962-7",
+      "name": "Bruno Mora",
+      "shirtNumber": 7,
+      "position": "ATT"
+    },
+    {
+      "id": "italy-1962-8",
+      "name": "Humberto Maschio",
+      "shirtNumber": 8,
+      "position": "ATT"
+    },
+    {
+      "id": "italy-1962-9",
+      "name": "José Altafini",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "italy-1962-10",
+      "name": "Omar Sívori",
+      "shirtNumber": 10,
+      "position": "ATT"
+    },
+    {
+      "id": "italy-1962-11",
+      "name": "Giampaolo Menichelli",
+      "shirtNumber": 11,
+      "position": "ATT"
+    },
+    {
+      "id": "italy-1962-12",
+      "name": "Carlo Mattrel",
+      "shirtNumber": 12,
+      "position": "GK"
+    },
+    {
+      "id": "italy-1962-13",
+      "name": "Enrico Albertosi",
+      "shirtNumber": 13,
+      "position": "GK"
+    },
+    {
+      "id": "italy-1962-14",
+      "name": "Gianni Rivera",
+      "shirtNumber": 14,
+      "position": "ATT"
+    },
+    {
+      "id": "italy-1962-15",
+      "name": "Angelo Sormani",
+      "shirtNumber": 15,
+      "position": "ATT"
+    },
+    {
+      "id": "italy-1962-16",
+      "name": "Enzo Robotti",
+      "shirtNumber": 16,
+      "position": "DEF"
+    },
+    {
+      "id": "italy-1962-17",
+      "name": "Ezio Pascutti",
+      "shirtNumber": 17,
+      "position": "ATT"
+    },
+    {
+      "id": "italy-1962-18",
+      "name": "Mario David",
+      "shirtNumber": 18,
+      "position": "DEF"
+    },
+    {
+      "id": "italy-1962-19",
+      "name": "Francesco Janich",
+      "shirtNumber": 19,
+      "position": "DEF"
+    },
+    {
+      "id": "italy-1962-20",
+      "name": "Paride Tumburus",
+      "shirtNumber": 20,
+      "position": "MID"
+    },
+    {
+      "id": "italy-1962-21",
+      "name": "Giorgio Ferrini",
+      "shirtNumber": 21,
+      "position": "MID"
+    },
+    {
+      "id": "italy-1962-22",
+      "name": "Giacomo Bulgarelli",
+      "shirtNumber": 22,
+      "position": "ATT"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "West Germany",
+      "score": "0–0",
+      "scorers": [],
+      "date": "1962-05-31"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Chile",
+      "score": "2–0",
+      "scorers": [
+        {
+          "name": "Jaime Ramírez",
+          "minute": "73'",
+          "ownGoal": false
+        },
+        {
+          "name": "Jorge Toro",
+          "minute": "87'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1962-06-02"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Switzerland",
+      "score": "3–0",
+      "scorers": [
+        {
+          "name": "Bruno Mora",
+          "minute": "2'",
+          "ownGoal": false
+        },
+        {
+          "name": "Giacomo Bulgarelli",
+          "minute": "65'",
+          "ownGoal": false
+        },
+        {
+          "name": "Giacomo Bulgarelli",
+          "minute": "67'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1962-06-07"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

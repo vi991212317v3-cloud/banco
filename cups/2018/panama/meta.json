@@ -1,0 +1,248 @@
+{
+  "country": "Panama",
+  "countrySlug": "panama",
+  "year": 2018,
+  "edition": "2018",
+  "host": "Russia",
+  "coach": "Hernán Darío Gómez",
+  "finalPhase": "Group Stage",
+  "result": "Group Stage",
+  "squad": [
+    {
+      "id": "panama-2018-1",
+      "name": "Jaime Penedo",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "panama-2018-2",
+      "name": "Michael Amir Murillo",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "panama-2018-3",
+      "name": "Harold Cummings",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "panama-2018-4",
+      "name": "Fidel Escobar",
+      "shirtNumber": 4,
+      "position": "DEF"
+    },
+    {
+      "id": "panama-2018-5",
+      "name": "Román Torres",
+      "shirtNumber": 5,
+      "position": "DEF"
+    },
+    {
+      "id": "panama-2018-6",
+      "name": "Gabriel Gómez",
+      "shirtNumber": 6,
+      "position": "MID"
+    },
+    {
+      "id": "panama-2018-7",
+      "name": "Blas Pérez",
+      "shirtNumber": 7,
+      "position": "ATT"
+    },
+    {
+      "id": "panama-2018-8",
+      "name": "Édgar Bárcenas",
+      "shirtNumber": 8,
+      "position": "MID"
+    },
+    {
+      "id": "panama-2018-9",
+      "name": "Gabriel Torres",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "panama-2018-10",
+      "name": "Ismael Díaz",
+      "shirtNumber": 10,
+      "position": "ATT"
+    },
+    {
+      "id": "panama-2018-11",
+      "name": "Armando Cooper",
+      "shirtNumber": 11,
+      "position": "MID"
+    },
+    {
+      "id": "panama-2018-12",
+      "name": "José Calderón",
+      "shirtNumber": 12,
+      "position": "GK"
+    },
+    {
+      "id": "panama-2018-13",
+      "name": "Adolfo Machado",
+      "shirtNumber": 13,
+      "position": "DEF"
+    },
+    {
+      "id": "panama-2018-14",
+      "name": "Valentín Pimentel",
+      "shirtNumber": 14,
+      "position": "MID"
+    },
+    {
+      "id": "panama-2018-15",
+      "name": "Erick Davis",
+      "shirtNumber": 15,
+      "position": "DEF"
+    },
+    {
+      "id": "panama-2018-16",
+      "name": "Abdiel Arroyo",
+      "shirtNumber": 16,
+      "position": "ATT"
+    },
+    {
+      "id": "panama-2018-17",
+      "name": "Luis Ovalle",
+      "shirtNumber": 17,
+      "position": "DEF"
+    },
+    {
+      "id": "panama-2018-18",
+      "name": "Luis Tejada",
+      "shirtNumber": 18,
+      "position": "ATT"
+    },
+    {
+      "id": "panama-2018-19",
+      "name": "Ricardo Ávila",
+      "shirtNumber": 19,
+      "position": "MID"
+    },
+    {
+      "id": "panama-2018-20",
+      "name": "Aníbal Godoy",
+      "shirtNumber": 20,
+      "position": "MID"
+    },
+    {
+      "id": "panama-2018-21",
+      "name": "José Luis Rodríguez",
+      "shirtNumber": 21,
+      "position": "MID"
+    },
+    {
+      "id": "panama-2018-22",
+      "name": "Álex Rodríguez",
+      "shirtNumber": 22,
+      "position": "GK"
+    },
+    {
+      "id": "panama-2018-23",
+      "name": "Felipe Baloy",
+      "shirtNumber": 23,
+      "position": "DEF"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "Belgium",
+      "score": "3–0",
+      "scorers": [
+        {
+          "name": "Dries Mertens",
+          "minute": "47'",
+          "ownGoal": false
+        },
+        {
+          "name": "Romelu Lukaku",
+          "minute": "69'",
+          "ownGoal": false
+        },
+        {
+          "name": "Romelu Lukaku",
+          "minute": "75'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2018-06-18"
+    },
+    {
+      "stage": "Group",
+      "opponent": "England",
+      "score": "6–1",
+      "scorers": [
+        {
+          "name": "John Stones",
+          "minute": "8'",
+          "ownGoal": false
+        },
+        {
+          "name": "Harry Kane",
+          "minute": "22'",
+          "ownGoal": false
+        },
+        {
+          "name": "Jesse Lingard",
+          "minute": "36'",
+          "ownGoal": false
+        },
+        {
+          "name": "John Stones",
+          "minute": "40'",
+          "ownGoal": false
+        },
+        {
+          "name": "Harry Kane",
+          "minute": "45'+1'",
+          "ownGoal": false
+        },
+        {
+          "name": "Harry Kane",
+          "minute": "62'",
+          "ownGoal": false
+        },
+        {
+          "name": "Felipe Baloy",
+          "minute": "78'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2018-06-24"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Tunisia",
+      "score": "1–2",
+      "scorers": [
+        {
+          "name": "Yassine Meriah",
+          "minute": "33'",
+          "ownGoal": true
+        },
+        {
+          "name": "Fakhreddine Ben Youssef",
+          "minute": "51'",
+          "ownGoal": false
+        },
+        {
+          "name": "Wahbi Khazri",
+          "minute": "66'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2018-06-28"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

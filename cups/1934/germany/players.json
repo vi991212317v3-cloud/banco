@@ -1,0 +1,1208 @@
+[
+  {
+    "id": "germany-1934-005",
+    "name": "Edmund Conen",
+    "commonName": "Edmund Conen",
+    "shirtNumber": null,
+    "position": "ATT",
+    "positions": [
+      "ATT"
+    ],
+    "country": "Germany",
+    "countrySlug": "germany",
+    "year": 1934,
+    "edition": "1934",
+    "club": null,
+    "age": 19,
+    "history": {
+      "matchesPlayed": null,
+      "matches": [
+        {
+          "stage": "Round of 16",
+          "opponent": "Belgium",
+          "minutes": null,
+          "goals": 1,
+          "assists": null,
+          "yellow": null,
+          "red": null
+        },
+        {
+          "stage": "Round of 16",
+          "opponent": "Belgium",
+          "minutes": null,
+          "goals": 1,
+          "assists": null,
+          "yellow": null,
+          "red": null
+        },
+        {
+          "stage": "Round of 16",
+          "opponent": "Belgium",
+          "minutes": null,
+          "goals": 1,
+          "assists": null,
+          "yellow": null,
+          "red": null
+        },
+        {
+          "stage": "Third-place match",
+          "opponent": "Austria",
+          "minutes": null,
+          "goals": 1,
+          "assists": null,
+          "yellow": null,
+          "red": null
+        }
+      ],
+      "goals": 4,
+      "assists": null,
+      "yellowCards": null,
+      "redCards": null
+    },
+    "attributes": {
+      "strength": 78,
+      "agility": 80,
+      "skill": 82,
+      "speed": 79,
+      "shooting": 78,
+      "passing": 82,
+      "defending": 77,
+      "physical": 78,
+      "goalkeeping": 60
+    },
+    "overall": 81,
+    "tier": "RARE",
+    "isLegend": false,
+    "achievements": [
+      "SILVER BOOT"
+    ],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 1,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "germany-1934-001",
+    "name": "Ernst Albrecht",
+    "commonName": "Ernst Albrecht",
+    "shirtNumber": null,
+    "position": "MID",
+    "positions": [
+      "MID"
+    ],
+    "country": "Germany",
+    "countrySlug": "germany",
+    "year": 1934,
+    "edition": "1934",
+    "club": null,
+    "age": 26,
+    "history": {
+      "matchesPlayed": null,
+      "matches": [],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": null,
+      "redCards": null
+    },
+    "attributes": {
+      "strength": 71,
+      "agility": 73,
+      "skill": 75,
+      "speed": 72,
+      "shooting": 71,
+      "passing": 75,
+      "defending": 70,
+      "physical": 71,
+      "goalkeeping": 54
+    },
+    "overall": 73,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "germany-1934-015",
+    "name": "Ernst Lehner",
+    "commonName": "Ernst Lehner",
+    "shirtNumber": null,
+    "position": "ATT",
+    "positions": [
+      "ATT"
+    ],
+    "country": "Germany",
+    "countrySlug": "germany",
+    "year": 1934,
+    "edition": "1934",
+    "club": null,
+    "age": 21,
+    "history": {
+      "matchesPlayed": null,
+      "matches": [
+        {
+          "stage": "Third-place match",
+          "opponent": "Austria",
+          "minutes": null,
+          "goals": 1,
+          "assists": null,
+          "yellow": null,
+          "red": null
+        },
+        {
+          "stage": "Third-place match",
+          "opponent": "Austria",
+          "minutes": null,
+          "goals": 1,
+          "assists": null,
+          "yellow": null,
+          "red": null
+        }
+      ],
+      "goals": 2,
+      "assists": null,
+      "yellowCards": null,
+      "redCards": null
+    },
+    "attributes": {
+      "strength": 74,
+      "agility": 76,
+      "skill": 78,
+      "speed": 75,
+      "shooting": 74,
+      "passing": 78,
+      "defending": 73,
+      "physical": 74,
+      "goalkeeping": 56
+    },
+    "overall": 76,
+    "tier": "RARE",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "germany-1934-006",
+    "name": "Franz Dienert",
+    "commonName": "Franz Dienert",
+    "shirtNumber": null,
+    "position": "ATT",
+    "positions": [
+      "ATT"
+    ],
+    "country": "Germany",
+    "countrySlug": "germany",
+    "year": 1934,
+    "edition": "1934",
+    "club": null,
+    "age": 34,
+    "history": {
+      "matchesPlayed": null,
+      "matches": [],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": null,
+      "redCards": null
+    },
+    "attributes": {
+      "strength": 71,
+      "agility": 73,
+      "skill": 75,
+      "speed": 72,
+      "shooting": 71,
+      "passing": 75,
+      "defending": 70,
+      "physical": 71,
+      "goalkeeping": 54
+    },
+    "overall": 73,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "germany-1934-003",
+    "name": "Fritz Buchloh",
+    "commonName": "Fritz Buchloh",
+    "shirtNumber": null,
+    "position": "GK",
+    "positions": [
+      "GK"
+    ],
+    "country": "Germany",
+    "countrySlug": "germany",
+    "year": 1934,
+    "edition": "1934",
+    "club": null,
+    "age": 24,
+    "history": {
+      "matchesPlayed": null,
+      "matches": [],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": null,
+      "redCards": null
+    },
+    "attributes": {
+      "strength": 69,
+      "agility": 71,
+      "skill": 66,
+      "speed": 66,
+      "shooting": 58,
+      "passing": 68,
+      "defending": 68,
+      "physical": 70,
+      "goalkeeping": 77
+    },
+    "overall": 73,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "germany-1934-021",
+    "name": "Fritz Szepan",
+    "commonName": "Fritz Szepan",
+    "shirtNumber": null,
+    "position": "ATT",
+    "positions": [
+      "ATT"
+    ],
+    "country": "Germany",
+    "countrySlug": "germany",
+    "year": 1934,
+    "edition": "1934",
+    "club": null,
+    "age": 26,
+    "history": {
+      "matchesPlayed": null,
+      "matches": [],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": null,
+      "redCards": null
+    },
+    "attributes": {
+      "strength": 71,
+      "agility": 73,
+      "skill": 75,
+      "speed": 72,
+      "shooting": 71,
+      "passing": 75,
+      "defending": 70,
+      "physical": 71,
+      "goalkeeping": 54
+    },
+    "overall": 73,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "germany-1934-011",
+    "name": "Hans Jakob",
+    "commonName": "Hans Jakob",
+    "shirtNumber": null,
+    "position": "GK",
+    "positions": [
+      "GK"
+    ],
+    "country": "Germany",
+    "countrySlug": "germany",
+    "year": 1934,
+    "edition": "1934",
+    "club": null,
+    "age": 25,
+    "history": {
+      "matchesPlayed": null,
+      "matches": [],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": null,
+      "redCards": null
+    },
+    "attributes": {
+      "strength": 69,
+      "agility": 71,
+      "skill": 66,
+      "speed": 66,
+      "shooting": 58,
+      "passing": 68,
+      "defending": 68,
+      "physical": 70,
+      "goalkeeping": 77
+    },
+    "overall": 73,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "germany-1934-018",
+    "name": "Hans Schwartz",
+    "commonName": "Hans Schwartz",
+    "shirtNumber": null,
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "country": "Germany",
+    "countrySlug": "germany",
+    "year": 1934,
+    "edition": "1934",
+    "club": null,
+    "age": 21,
+    "history": {
+      "matchesPlayed": null,
+      "matches": [],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": null,
+      "redCards": null
+    },
+    "attributes": {
+      "strength": 71,
+      "agility": 73,
+      "skill": 75,
+      "speed": 72,
+      "shooting": 71,
+      "passing": 75,
+      "defending": 70,
+      "physical": 71,
+      "goalkeeping": 54
+    },
+    "overall": 73,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "germany-1934-002",
+    "name": "Jakob Bender",
+    "commonName": "Jakob Bender",
+    "shirtNumber": null,
+    "position": "MID",
+    "positions": [
+      "MID"
+    ],
+    "country": "Germany",
+    "countrySlug": "germany",
+    "year": 1934,
+    "edition": "1934",
+    "club": null,
+    "age": 24,
+    "history": {
+      "matchesPlayed": null,
+      "matches": [],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": null,
+      "redCards": null
+    },
+    "attributes": {
+      "strength": 71,
+      "agility": 73,
+      "skill": 75,
+      "speed": 72,
+      "shooting": 71,
+      "passing": 75,
+      "defending": 70,
+      "physical": 71,
+      "goalkeeping": 54
+    },
+    "overall": 73,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "germany-1934-020",
+    "name": "Josef Streb",
+    "commonName": "Josef Streb",
+    "shirtNumber": null,
+    "position": "ATT",
+    "positions": [
+      "ATT"
+    ],
+    "country": "Germany",
+    "countrySlug": "germany",
+    "year": 1934,
+    "edition": "1934",
+    "club": null,
+    "age": 22,
+    "history": {
+      "matchesPlayed": null,
+      "matches": [],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": null,
+      "redCards": null
+    },
+    "attributes": {
+      "strength": 71,
+      "agility": 73,
+      "skill": 75,
+      "speed": 72,
+      "shooting": 71,
+      "passing": 75,
+      "defending": 70,
+      "physical": 71,
+      "goalkeeping": 54
+    },
+    "overall": 73,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "germany-1934-010",
+    "name": "Karl Hohmann",
+    "commonName": "Karl Hohmann",
+    "shirtNumber": null,
+    "position": "MID",
+    "positions": [
+      "MID"
+    ],
+    "country": "Germany",
+    "countrySlug": "germany",
+    "year": 1934,
+    "edition": "1934",
+    "club": null,
+    "age": 25,
+    "history": {
+      "matchesPlayed": null,
+      "matches": [
+        {
+          "stage": "Quarter-final",
+          "opponent": "Sweden",
+          "minutes": null,
+          "goals": 1,
+          "assists": null,
+          "yellow": null,
+          "red": null
+        },
+        {
+          "stage": "Quarter-final",
+          "opponent": "Sweden",
+          "minutes": null,
+          "goals": 1,
+          "assists": null,
+          "yellow": null,
+          "red": null
+        }
+      ],
+      "goals": 2,
+      "assists": null,
+      "yellowCards": null,
+      "redCards": null
+    },
+    "attributes": {
+      "strength": 74,
+      "agility": 76,
+      "skill": 78,
+      "speed": 75,
+      "shooting": 74,
+      "passing": 78,
+      "defending": 73,
+      "physical": 74,
+      "goalkeeping": 56
+    },
+    "overall": 76,
+    "tier": "RARE",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "germany-1934-009",
+    "name": "Matthias Heidemann",
+    "commonName": "Matthias Heidemann",
+    "shirtNumber": null,
+    "position": "ATT",
+    "positions": [
+      "ATT"
+    ],
+    "country": "Germany",
+    "countrySlug": "germany",
+    "year": 1934,
+    "edition": "1934",
+    "club": null,
+    "age": 22,
+    "history": {
+      "matchesPlayed": null,
+      "matches": [],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": null,
+      "redCards": null
+    },
+    "attributes": {
+      "strength": 71,
+      "agility": 73,
+      "skill": 75,
+      "speed": 72,
+      "shooting": 71,
+      "passing": 75,
+      "defending": 70,
+      "physical": 71,
+      "goalkeeping": 54
+    },
+    "overall": 73,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "germany-1934-019",
+    "name": "Otto Siffling",
+    "commonName": "Otto Siffling",
+    "shirtNumber": null,
+    "position": "ATT",
+    "positions": [
+      "ATT"
+    ],
+    "country": "Germany",
+    "countrySlug": "germany",
+    "year": 1934,
+    "edition": "1934",
+    "club": null,
+    "age": 21,
+    "history": {
+      "matchesPlayed": null,
+      "matches": [
+        {
+          "stage": "Round of 16",
+          "opponent": "Belgium",
+          "minutes": null,
+          "goals": 1,
+          "assists": null,
+          "yellow": null,
+          "red": null
+        }
+      ],
+      "goals": 1,
+      "assists": null,
+      "yellowCards": null,
+      "redCards": null
+    },
+    "attributes": {
+      "strength": 72,
+      "agility": 74,
+      "skill": 76,
+      "speed": 73,
+      "shooting": 72,
+      "passing": 76,
+      "defending": 71,
+      "physical": 72,
+      "goalkeeping": 54
+    },
+    "overall": 74,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "germany-1934-012",
+    "name": "Paul Janes",
+    "commonName": "Paul Janes",
+    "shirtNumber": null,
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "country": "Germany",
+    "countrySlug": "germany",
+    "year": 1934,
+    "edition": "1934",
+    "club": null,
+    "age": 22,
+    "history": {
+      "matchesPlayed": null,
+      "matches": [],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": null,
+      "redCards": null
+    },
+    "attributes": {
+      "strength": 71,
+      "agility": 73,
+      "skill": 75,
+      "speed": 72,
+      "shooting": 71,
+      "passing": 75,
+      "defending": 70,
+      "physical": 71,
+      "goalkeeping": 54
+    },
+    "overall": 73,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "germany-1934-022",
+    "name": "Paul Zielinski",
+    "commonName": "Paul Zielinski",
+    "shirtNumber": null,
+    "position": "MID",
+    "positions": [
+      "MID"
+    ],
+    "country": "Germany",
+    "countrySlug": "germany",
+    "year": 1934,
+    "edition": "1934",
+    "club": null,
+    "age": 22,
+    "history": {
+      "matchesPlayed": null,
+      "matches": [],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": null,
+      "redCards": null
+    },
+    "attributes": {
+      "strength": 71,
+      "agility": 73,
+      "skill": 75,
+      "speed": 72,
+      "shooting": 71,
+      "passing": 75,
+      "defending": 70,
+      "physical": 71,
+      "goalkeeping": 54
+    },
+    "overall": 73,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "germany-1934-016",
+    "name": "Reinhold Münzenberg",
+    "commonName": "Reinhold Münzenberg",
+    "shirtNumber": null,
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "country": "Germany",
+    "countrySlug": "germany",
+    "year": 1934,
+    "edition": "1934",
+    "club": null,
+    "age": 25,
+    "history": {
+      "matchesPlayed": null,
+      "matches": [],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": null,
+      "redCards": null
+    },
+    "attributes": {
+      "strength": 71,
+      "agility": 73,
+      "skill": 75,
+      "speed": 72,
+      "shooting": 71,
+      "passing": 75,
+      "defending": 70,
+      "physical": 71,
+      "goalkeeping": 54
+    },
+    "overall": 73,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "germany-1934-007",
+    "name": "Rudolf Gramlich",
+    "commonName": "Rudolf Gramlich",
+    "shirtNumber": null,
+    "position": "MID",
+    "positions": [
+      "MID"
+    ],
+    "country": "Germany",
+    "countrySlug": "germany",
+    "year": 1934,
+    "edition": "1934",
+    "club": null,
+    "age": 25,
+    "history": {
+      "matchesPlayed": null,
+      "matches": [],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": null,
+      "redCards": null
+    },
+    "attributes": {
+      "strength": 71,
+      "agility": 73,
+      "skill": 75,
+      "speed": 72,
+      "shooting": 71,
+      "passing": 75,
+      "defending": 70,
+      "physical": 71,
+      "goalkeeping": 54
+    },
+    "overall": 73,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "germany-1934-017",
+    "name": "Rudolf Noack",
+    "commonName": "Rudolf Noack",
+    "shirtNumber": null,
+    "position": "ATT",
+    "positions": [
+      "ATT"
+    ],
+    "country": "Germany",
+    "countrySlug": "germany",
+    "year": 1934,
+    "edition": "1934",
+    "club": null,
+    "age": 21,
+    "history": {
+      "matchesPlayed": null,
+      "matches": [
+        {
+          "stage": "Semi-final",
+          "opponent": "Czechoslovakia",
+          "minutes": null,
+          "goals": 1,
+          "assists": null,
+          "yellow": null,
+          "red": null
+        }
+      ],
+      "goals": 1,
+      "assists": null,
+      "yellowCards": null,
+      "redCards": null
+    },
+    "attributes": {
+      "strength": 72,
+      "agility": 74,
+      "skill": 76,
+      "speed": 73,
+      "shooting": 72,
+      "passing": 76,
+      "defending": 71,
+      "physical": 72,
+      "goalkeeping": 54
+    },
+    "overall": 74,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "germany-1934-008",
+    "name": "Sigmund Haringer",
+    "commonName": "Sigmund Haringer",
+    "shirtNumber": null,
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "country": "Germany",
+    "countrySlug": "germany",
+    "year": 1934,
+    "edition": "1934",
+    "club": null,
+    "age": 25,
+    "history": {
+      "matchesPlayed": null,
+      "matches": [],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": null,
+      "redCards": null
+    },
+    "attributes": {
+      "strength": 71,
+      "agility": 73,
+      "skill": 75,
+      "speed": 72,
+      "shooting": 71,
+      "passing": 75,
+      "defending": 70,
+      "physical": 71,
+      "goalkeeping": 54
+    },
+    "overall": 73,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "germany-1934-013",
+    "name": "Stanislaus Kobierski",
+    "commonName": "Stanislaus Kobierski",
+    "shirtNumber": null,
+    "position": "ATT",
+    "positions": [
+      "ATT"
+    ],
+    "country": "Germany",
+    "countrySlug": "germany",
+    "year": 1934,
+    "edition": "1934",
+    "club": null,
+    "age": 23,
+    "history": {
+      "matchesPlayed": null,
+      "matches": [
+        {
+          "stage": "Round of 16",
+          "opponent": "Belgium",
+          "minutes": null,
+          "goals": 1,
+          "assists": null,
+          "yellow": null,
+          "red": null
+        }
+      ],
+      "goals": 1,
+      "assists": null,
+      "yellowCards": null,
+      "redCards": null
+    },
+    "attributes": {
+      "strength": 72,
+      "agility": 74,
+      "skill": 76,
+      "speed": 73,
+      "shooting": 72,
+      "passing": 76,
+      "defending": 71,
+      "physical": 72,
+      "goalkeeping": 54
+    },
+    "overall": 74,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "germany-1934-014",
+    "name": "Willibald Kreß",
+    "commonName": "Willibald Kreß",
+    "shirtNumber": null,
+    "position": "GK",
+    "positions": [
+      "GK"
+    ],
+    "country": "Germany",
+    "countrySlug": "germany",
+    "year": 1934,
+    "edition": "1934",
+    "club": null,
+    "age": 27,
+    "history": {
+      "matchesPlayed": null,
+      "matches": [],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": null,
+      "redCards": null
+    },
+    "attributes": {
+      "strength": 69,
+      "agility": 71,
+      "skill": 66,
+      "speed": 66,
+      "shooting": 58,
+      "passing": 68,
+      "defending": 68,
+      "physical": 70,
+      "goalkeeping": 77
+    },
+    "overall": 73,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  },
+
+  {
+    "id": "germany-1934-004",
+    "name": "Willy Busch",
+    "commonName": "Willy Busch",
+    "shirtNumber": null,
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "country": "Germany",
+    "countrySlug": "germany",
+    "year": 1934,
+    "edition": "1934",
+    "club": null,
+    "age": 27,
+    "history": {
+      "matchesPlayed": null,
+      "matches": [],
+      "goals": 0,
+      "assists": null,
+      "yellowCards": null,
+      "redCards": null
+    },
+    "attributes": {
+      "strength": 71,
+      "agility": 73,
+      "skill": 75,
+      "speed": 72,
+      "shooting": 71,
+      "passing": 75,
+      "defending": 70,
+      "physical": 71,
+      "goalkeeping": 54
+    },
+    "overall": 73,
+    "tier": "COMMON",
+    "isLegend": false,
+    "achievements": [],
+    "ratingType": "game-estimate",
+    "overallAdjustment": 0,
+    "sources": [
+      "https://github.com/jfjelstul/worldcup",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/squads.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/players.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/player_appearances.csv",
+      "https://github.com/jfjelstul/worldcup/blob/master/data-csv/bookings.csv"
+    ]
+  }
+]

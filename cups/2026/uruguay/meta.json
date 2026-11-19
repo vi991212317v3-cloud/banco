@@ -1,0 +1,236 @@
+{
+  "country": "Uruguay",
+  "countrySlug": "uruguay",
+  "year": 2026,
+  "edition": "2026",
+  "host": "Canada, Mexico and United States",
+  "coach": "BIELSA Marcelo",
+  "finalPhase": "Group Stage",
+  "result": "Group Stage",
+  "squad": [
+    {
+      "id": "uruguay-2026-1",
+      "name": "Sergio Ramón ROCHET ALVAREZ",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "uruguay-2026-2",
+      "name": "José María GIMÉNEZ DE VARGAS",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "uruguay-2026-3",
+      "name": "Sebastián Enzo CÁCERES RAMOS",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "uruguay-2026-4",
+      "name": "Ronald Federico ARAÚJO DA SILVA",
+      "shirtNumber": 4,
+      "position": "DEF"
+    },
+    {
+      "id": "uruguay-2026-5",
+      "name": "Manuel UGARTE RIBEIRO",
+      "shirtNumber": 5,
+      "position": "MID"
+    },
+    {
+      "id": "uruguay-2026-6",
+      "name": "Rodrigo BENTANCUR COLMÁN",
+      "shirtNumber": 6,
+      "position": "MID"
+    },
+    {
+      "id": "uruguay-2026-7",
+      "name": "Diego Nicolás DE LA CRUZ ARCOSA",
+      "shirtNumber": 7,
+      "position": "MID"
+    },
+    {
+      "id": "uruguay-2026-8",
+      "name": "Federico Santiago VALVERDE DIPETTA",
+      "shirtNumber": 8,
+      "position": "MID"
+    },
+    {
+      "id": "uruguay-2026-9",
+      "name": "Darwin Gabriel NUÑEZ RIBEIRO",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "uruguay-2026-10",
+      "name": "Giorgian Daniel DE ARRASCAETA BENEDETTI",
+      "shirtNumber": 10,
+      "position": "MID"
+    },
+    {
+      "id": "uruguay-2026-11",
+      "name": "Facundo PELLISTRI REBOLLO",
+      "shirtNumber": 11,
+      "position": "ATT"
+    },
+    {
+      "id": "uruguay-2026-12",
+      "name": "Santiago Andres MELE CASTAÑERO",
+      "shirtNumber": 12,
+      "position": "GK"
+    },
+    {
+      "id": "uruguay-2026-13",
+      "name": "Guillermo VARELA OLIVERA",
+      "shirtNumber": 13,
+      "position": "DEF"
+    },
+    {
+      "id": "uruguay-2026-14",
+      "name": "Agustin CANOBBIO",
+      "shirtNumber": 14,
+      "position": "MID"
+    },
+    {
+      "id": "uruguay-2026-15",
+      "name": "Emiliano MARTÍNEZ TORANZA",
+      "shirtNumber": 15,
+      "position": "MID"
+    },
+    {
+      "id": "uruguay-2026-16",
+      "name": "Mathías OLIVERA MIRAMONTES",
+      "shirtNumber": 16,
+      "position": "DEF"
+    },
+    {
+      "id": "uruguay-2026-17",
+      "name": "Matías Nicolas VIÑA SUSPERREGUY",
+      "shirtNumber": 17,
+      "position": "DEF"
+    },
+    {
+      "id": "uruguay-2026-18",
+      "name": "Paul Brian RODRÍGUEZ BRAVO",
+      "shirtNumber": 18,
+      "position": "ATT"
+    },
+    {
+      "id": "uruguay-2026-19",
+      "name": "Rodrigo Sebastian AGUIRRE SOTO",
+      "shirtNumber": 19,
+      "position": "ATT"
+    },
+    {
+      "id": "uruguay-2026-20",
+      "name": "Maximiliano Javier ARAÚJO VILCHES",
+      "shirtNumber": 20,
+      "position": "MID"
+    },
+    {
+      "id": "uruguay-2026-21",
+      "name": "Federico Sebastian VIÑAS BARBOZA",
+      "shirtNumber": 21,
+      "position": "ATT"
+    },
+    {
+      "id": "uruguay-2026-22",
+      "name": "Joaquin PIQUEREZ MOREIRA",
+      "shirtNumber": 22,
+      "position": "MID"
+    },
+    {
+      "id": "uruguay-2026-23",
+      "name": "Nestor Fernando MUSLERA MICOL",
+      "shirtNumber": 23,
+      "position": "GK"
+    },
+    {
+      "id": "uruguay-2026-24",
+      "name": "Santiago Ignacio BUENO SCIUTTO",
+      "shirtNumber": 24,
+      "position": "DEF"
+    },
+    {
+      "id": "uruguay-2026-25",
+      "name": "Juan Manuel SANABRIA MAGOLÉ",
+      "shirtNumber": 25,
+      "position": "MID"
+    },
+    {
+      "id": "uruguay-2026-26",
+      "name": "Radrigo ZALAZAR MARTINEZ",
+      "shirtNumber": 26,
+      "position": "MID"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group Stage",
+      "opponent": "Saudi Arabia",
+      "score": "1–1",
+      "scorers": [
+        {
+          "name": "Abdulelah Ali A ALAMRI",
+          "minute": 41,
+          "ownGoal": false
+        },
+        {
+          "name": "Maximiliano Javier ARAÚJO VILCHES",
+          "minute": 80,
+          "ownGoal": false
+        }
+      ],
+      "date": "2026-06-15"
+    },
+    {
+      "stage": "Group Stage",
+      "opponent": "Cabo Verde",
+      "score": "2–2",
+      "scorers": [
+        {
+          "name": "Kevin Lenini GONÇALVES PEREIRA DE PINA",
+          "minute": 21,
+          "ownGoal": false
+        },
+        {
+          "name": "Maximiliano Javier ARAÚJO VILCHES",
+          "minute": 44,
+          "ownGoal": false
+        },
+        {
+          "name": "Agustin CANOBBIO",
+          "minute": 45,
+          "ownGoal": false
+        },
+        {
+          "name": "Hélio Sandro OLIVEIRA ALVES VARELA",
+          "minute": 61,
+          "ownGoal": false
+        }
+      ],
+      "date": "2026-06-21"
+    },
+    {
+      "stage": "Group Stage",
+      "opponent": "Spain",
+      "score": "0–1",
+      "scorers": [
+        {
+          "name": "Alejandro BAENA RODRÍGUEZ",
+          "minute": 42,
+          "ownGoal": false
+        }
+      ],
+      "date": "2026-06-27"
+    }
+  ],
+  "sources": [
+    "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/final-tournament-standings",
+    "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/teams",
+    "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+    "https://github.com/openfootball/worldcup.json",
+    "https://github.com/mominullptr/FIFA-World-Cup-2026-Dataset"
+  ]
+}

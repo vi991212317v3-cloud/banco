@@ -1,0 +1,326 @@
+{
+  "country": "Portugal",
+  "countrySlug": "portugal",
+  "year": 1966,
+  "edition": "1966",
+  "host": "England",
+  "coach": "Otto Glória",
+  "finalPhase": "Third-place match",
+  "result": "Third place",
+  "squad": [
+    {
+      "id": "portugal-1966-1",
+      "name": "Américo",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "portugal-1966-2",
+      "name": "Joaquim Carvalho",
+      "shirtNumber": 2,
+      "position": "GK"
+    },
+    {
+      "id": "portugal-1966-3",
+      "name": "José Pereira",
+      "shirtNumber": 3,
+      "position": "GK"
+    },
+    {
+      "id": "portugal-1966-4",
+      "name": "Vicente",
+      "shirtNumber": 4,
+      "position": "DEF"
+    },
+    {
+      "id": "portugal-1966-5",
+      "name": "Germano",
+      "shirtNumber": 5,
+      "position": "DEF"
+    },
+    {
+      "id": "portugal-1966-6",
+      "name": "Fernando Peres",
+      "shirtNumber": 6,
+      "position": "MID"
+    },
+    {
+      "id": "portugal-1966-7",
+      "name": "Ernesto Figueiredo",
+      "shirtNumber": 7,
+      "position": "ATT"
+    },
+    {
+      "id": "portugal-1966-8",
+      "name": "João Lourenço",
+      "shirtNumber": 8,
+      "position": "ATT"
+    },
+    {
+      "id": "portugal-1966-9",
+      "name": "Hilário",
+      "shirtNumber": 9,
+      "position": "MID"
+    },
+    {
+      "id": "portugal-1966-10",
+      "name": "Mário Coluna",
+      "shirtNumber": 10,
+      "position": "MID"
+    },
+    {
+      "id": "portugal-1966-11",
+      "name": "António Simões",
+      "shirtNumber": 11,
+      "position": "MID"
+    },
+    {
+      "id": "portugal-1966-12",
+      "name": "José Augusto",
+      "shirtNumber": 12,
+      "position": "MID"
+    },
+    {
+      "id": "portugal-1966-13",
+      "name": "Eusébio",
+      "shirtNumber": 13,
+      "position": "ATT"
+    },
+    {
+      "id": "portugal-1966-14",
+      "name": "Fernando Cruz",
+      "shirtNumber": 14,
+      "position": "MID"
+    },
+    {
+      "id": "portugal-1966-15",
+      "name": "Manuel Duarte",
+      "shirtNumber": 15,
+      "position": "ATT"
+    },
+    {
+      "id": "portugal-1966-16",
+      "name": "Jaime Graça",
+      "shirtNumber": 16,
+      "position": "MID"
+    },
+    {
+      "id": "portugal-1966-17",
+      "name": "João Morais",
+      "shirtNumber": 17,
+      "position": "DEF"
+    },
+    {
+      "id": "portugal-1966-18",
+      "name": "José Torres",
+      "shirtNumber": 18,
+      "position": "ATT"
+    },
+    {
+      "id": "portugal-1966-19",
+      "name": "Custódio Pinto",
+      "shirtNumber": 19,
+      "position": "MID"
+    },
+    {
+      "id": "portugal-1966-20",
+      "name": "Alexandre Baptista",
+      "shirtNumber": 20,
+      "position": "DEF"
+    },
+    {
+      "id": "portugal-1966-21",
+      "name": "José Carlos",
+      "shirtNumber": 21,
+      "position": "DEF"
+    },
+    {
+      "id": "portugal-1966-22",
+      "name": "Alberto Festa",
+      "shirtNumber": 22,
+      "position": "DEF"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "Hungary",
+      "score": "3–1",
+      "scorers": [
+        {
+          "name": "José Augusto",
+          "minute": "2'",
+          "ownGoal": false
+        },
+        {
+          "name": "Ferenc Bene",
+          "minute": "60'",
+          "ownGoal": false
+        },
+        {
+          "name": "José Augusto",
+          "minute": "67'",
+          "ownGoal": false
+        },
+        {
+          "name": "José Torres",
+          "minute": "90'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1966-07-13"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Bulgaria",
+      "score": "3–0",
+      "scorers": [
+        {
+          "name": "Ivan Vutsov",
+          "minute": "7'",
+          "ownGoal": true
+        },
+        {
+          "name": "Eusébio",
+          "minute": "38'",
+          "ownGoal": false
+        },
+        {
+          "name": "José Torres",
+          "minute": "81'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1966-07-16"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Brazil",
+      "score": "3–1",
+      "scorers": [
+        {
+          "name": "António Simões",
+          "minute": "15'",
+          "ownGoal": false
+        },
+        {
+          "name": "Eusébio",
+          "minute": "27'",
+          "ownGoal": false
+        },
+        {
+          "name": "Rildo",
+          "minute": "73'",
+          "ownGoal": false
+        },
+        {
+          "name": "Eusébio",
+          "minute": "85'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1966-07-19"
+    },
+    {
+      "stage": "Quarter-final",
+      "opponent": "North Korea",
+      "score": "5–3",
+      "scorers": [
+        {
+          "name": "Seung-zin Pak",
+          "minute": "1'",
+          "ownGoal": false
+        },
+        {
+          "name": "Dong-woon Li",
+          "minute": "22'",
+          "ownGoal": false
+        },
+        {
+          "name": "Seung-kook Yang",
+          "minute": "25'",
+          "ownGoal": false
+        },
+        {
+          "name": "Eusébio",
+          "minute": "27'",
+          "ownGoal": false
+        },
+        {
+          "name": "Eusébio",
+          "minute": "43'",
+          "ownGoal": false
+        },
+        {
+          "name": "Eusébio",
+          "minute": "56'",
+          "ownGoal": false
+        },
+        {
+          "name": "Eusébio",
+          "minute": "59'",
+          "ownGoal": false
+        },
+        {
+          "name": "José Augusto",
+          "minute": "80'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1966-07-23"
+    },
+    {
+      "stage": "Semi-final",
+      "opponent": "England",
+      "score": "2–1",
+      "scorers": [
+        {
+          "name": "Bobby Charlton",
+          "minute": "30'",
+          "ownGoal": false
+        },
+        {
+          "name": "Bobby Charlton",
+          "minute": "80'",
+          "ownGoal": false
+        },
+        {
+          "name": "Eusébio",
+          "minute": "82'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1966-07-26"
+    },
+    {
+      "stage": "Third-place match",
+      "opponent": "Soviet Union",
+      "score": "2–1",
+      "scorers": [
+        {
+          "name": "Eusébio",
+          "minute": "12'",
+          "ownGoal": false
+        },
+        {
+          "name": "Eduard Malofeyev",
+          "minute": "43'",
+          "ownGoal": false
+        },
+        {
+          "name": "José Torres",
+          "minute": "89'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1966-07-28"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

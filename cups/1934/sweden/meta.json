@@ -1,0 +1,215 @@
+{
+  "country": "Sweden",
+  "countrySlug": "sweden",
+  "year": 1934,
+  "edition": "1934",
+  "host": "Italy",
+  "coach": "John Pettersson",
+  "finalPhase": "Quarter-final",
+  "result": "Quarter-final",
+  "squad": [
+    {
+      "id": "sweden-1934-021",
+      "name": "Anders Rydberg",
+      "shirtNumber": null,
+      "position": "GK"
+    },
+    {
+      "id": "sweden-1934-022",
+      "name": "Arvid Thörn",
+      "shirtNumber": null,
+      "position": "ATT"
+    },
+    {
+      "id": "sweden-1934-014",
+      "name": "Carl Johnsson",
+      "shirtNumber": null,
+      "position": "MID"
+    },
+    {
+      "id": "sweden-1934-011",
+      "name": "Carl-Erik Holmberg",
+      "shirtNumber": null,
+      "position": "ATT"
+    },
+    {
+      "id": "sweden-1934-023",
+      "name": "Eivar Widlund",
+      "shirtNumber": null,
+      "position": "GK"
+    },
+    {
+      "id": "sweden-1934-009",
+      "name": "Erik Granath",
+      "shirtNumber": null,
+      "position": "MID"
+    },
+    {
+      "id": "sweden-1934-001",
+      "name": "Ernst Andersson",
+      "shirtNumber": null,
+      "position": "MID"
+    },
+    {
+      "id": "sweden-1934-013",
+      "name": "Gunnar Jansson",
+      "shirtNumber": null,
+      "position": "ATT"
+    },
+    {
+      "id": "sweden-1934-019",
+      "name": "Gunnar Olsson",
+      "shirtNumber": null,
+      "position": "ATT"
+    },
+    {
+      "id": "sweden-1934-008",
+      "name": "Gösta Dunker",
+      "shirtNumber": null,
+      "position": "ATT"
+    },
+    {
+      "id": "sweden-1934-018",
+      "name": "Harry Lundahl",
+      "shirtNumber": null,
+      "position": "ATT"
+    },
+    {
+      "id": "sweden-1934-017",
+      "name": "Knut Kroon",
+      "shirtNumber": null,
+      "position": "ATT"
+    },
+    {
+      "id": "sweden-1934-005",
+      "name": "Lennart Bunke",
+      "shirtNumber": null,
+      "position": "ATT"
+    },
+    {
+      "id": "sweden-1934-004",
+      "name": "Nils Axelsson",
+      "shirtNumber": null,
+      "position": "DEF"
+    },
+    {
+      "id": "sweden-1934-020",
+      "name": "Nils Rosén",
+      "shirtNumber": null,
+      "position": "MID"
+    },
+    {
+      "id": "sweden-1934-002",
+      "name": "Otto Andersson",
+      "shirtNumber": null,
+      "position": "DEF"
+    },
+    {
+      "id": "sweden-1934-010",
+      "name": "Ragnar Gustavsson",
+      "shirtNumber": null,
+      "position": "ATT"
+    },
+    {
+      "id": "sweden-1934-006",
+      "name": "Rune Carlsson",
+      "shirtNumber": null,
+      "position": "MID"
+    },
+    {
+      "id": "sweden-1934-012",
+      "name": "Sture Hult",
+      "shirtNumber": null,
+      "position": "GK"
+    },
+    {
+      "id": "sweden-1934-003",
+      "name": "Sven Andersson",
+      "shirtNumber": null,
+      "position": "DEF"
+    },
+    {
+      "id": "sweden-1934-015",
+      "name": "Sven Jonasson",
+      "shirtNumber": null,
+      "position": "ATT"
+    },
+    {
+      "id": "sweden-1934-016",
+      "name": "Tore Keller",
+      "shirtNumber": null,
+      "position": "ATT"
+    },
+    {
+      "id": "sweden-1934-007",
+      "name": "Victor Carlund",
+      "shirtNumber": null,
+      "position": "MID"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Round of 16",
+      "opponent": "Argentina",
+      "score": "3–2",
+      "scorers": [
+        {
+          "name": "Ernesto Belis",
+          "minute": "4'",
+          "ownGoal": false
+        },
+        {
+          "name": "Sven Jonasson",
+          "minute": "9'",
+          "ownGoal": false
+        },
+        {
+          "name": "Alberto Galateo",
+          "minute": "48'",
+          "ownGoal": false
+        },
+        {
+          "name": "Sven Jonasson",
+          "minute": "67'",
+          "ownGoal": false
+        },
+        {
+          "name": "Knut Kroon",
+          "minute": "79'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1934-05-27"
+    },
+    {
+      "stage": "Quarter-final",
+      "opponent": "Germany",
+      "score": "2–1",
+      "scorers": [
+        {
+          "name": "Karl Hohmann",
+          "minute": "60'",
+          "ownGoal": false
+        },
+        {
+          "name": "Karl Hohmann",
+          "minute": "63'",
+          "ownGoal": false
+        },
+        {
+          "name": "Gösta Dunker",
+          "minute": "82'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1934-05-31"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

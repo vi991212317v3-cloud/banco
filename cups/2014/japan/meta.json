@@ -1,0 +1,222 @@
+{
+  "country": "Japan",
+  "countrySlug": "japan",
+  "year": 2014,
+  "edition": "2014",
+  "host": "Brazil",
+  "coach": "Alberto Zaccheroni",
+  "finalPhase": "Group Stage",
+  "result": "Group Stage",
+  "squad": [
+    {
+      "id": "japan-2014-1",
+      "name": "Eiji Kawashima",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "japan-2014-2",
+      "name": "Atsuto Uchida",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "japan-2014-3",
+      "name": "Gōtoku Sakai",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "japan-2014-4",
+      "name": "Keisuke Honda",
+      "shirtNumber": 4,
+      "position": "MID"
+    },
+    {
+      "id": "japan-2014-5",
+      "name": "Yuto Nagatomo",
+      "shirtNumber": 5,
+      "position": "DEF"
+    },
+    {
+      "id": "japan-2014-6",
+      "name": "Masato Morishige",
+      "shirtNumber": 6,
+      "position": "DEF"
+    },
+    {
+      "id": "japan-2014-7",
+      "name": "Yasuhito Endō",
+      "shirtNumber": 7,
+      "position": "MID"
+    },
+    {
+      "id": "japan-2014-8",
+      "name": "Hiroshi Kiyotake",
+      "shirtNumber": 8,
+      "position": "MID"
+    },
+    {
+      "id": "japan-2014-9",
+      "name": "Shinji Okazaki",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "japan-2014-10",
+      "name": "Shinji Kagawa",
+      "shirtNumber": 10,
+      "position": "MID"
+    },
+    {
+      "id": "japan-2014-11",
+      "name": "Yoichiro Kakitani",
+      "shirtNumber": 11,
+      "position": "ATT"
+    },
+    {
+      "id": "japan-2014-12",
+      "name": "Shusaku Nishikawa",
+      "shirtNumber": 12,
+      "position": "GK"
+    },
+    {
+      "id": "japan-2014-13",
+      "name": "Yoshito Ōkubo",
+      "shirtNumber": 13,
+      "position": "ATT"
+    },
+    {
+      "id": "japan-2014-14",
+      "name": "Toshihiro Aoyama",
+      "shirtNumber": 14,
+      "position": "MID"
+    },
+    {
+      "id": "japan-2014-15",
+      "name": "Yasuyuki Konno",
+      "shirtNumber": 15,
+      "position": "DEF"
+    },
+    {
+      "id": "japan-2014-16",
+      "name": "Hotaru Yamaguchi",
+      "shirtNumber": 16,
+      "position": "MID"
+    },
+    {
+      "id": "japan-2014-17",
+      "name": "Makoto Hasebe",
+      "shirtNumber": 17,
+      "position": "MID"
+    },
+    {
+      "id": "japan-2014-18",
+      "name": "Yuya Osako",
+      "shirtNumber": 18,
+      "position": "ATT"
+    },
+    {
+      "id": "japan-2014-19",
+      "name": "Masahiko Inoha",
+      "shirtNumber": 19,
+      "position": "DEF"
+    },
+    {
+      "id": "japan-2014-20",
+      "name": "Manabu Saitō",
+      "shirtNumber": 20,
+      "position": "ATT"
+    },
+    {
+      "id": "japan-2014-21",
+      "name": "Hiroki Sakai",
+      "shirtNumber": 21,
+      "position": "DEF"
+    },
+    {
+      "id": "japan-2014-22",
+      "name": "Maya Yoshida",
+      "shirtNumber": 22,
+      "position": "DEF"
+    },
+    {
+      "id": "japan-2014-23",
+      "name": "Shūichi Gonda",
+      "shirtNumber": 23,
+      "position": "GK"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "Ivory Coast",
+      "score": "2–1",
+      "scorers": [
+        {
+          "name": "Keisuke Honda",
+          "minute": "16'",
+          "ownGoal": false
+        },
+        {
+          "name": "Wilfried Bony",
+          "minute": "64'",
+          "ownGoal": false
+        },
+        {
+          "name": "Gervinho",
+          "minute": "66'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2014-06-14"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Greece",
+      "score": "0–0",
+      "scorers": [],
+      "date": "2014-06-19"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Colombia",
+      "score": "1–4",
+      "scorers": [
+        {
+          "name": "Juan Cuadrado",
+          "minute": "17'",
+          "ownGoal": false
+        },
+        {
+          "name": "Shinji Okazaki",
+          "minute": "45'+1'",
+          "ownGoal": false
+        },
+        {
+          "name": "Jackson Martínez",
+          "minute": "55'",
+          "ownGoal": false
+        },
+        {
+          "name": "Jackson Martínez",
+          "minute": "82'",
+          "ownGoal": false
+        },
+        {
+          "name": "James Rodríguez",
+          "minute": "90'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2014-06-24"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

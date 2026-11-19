@@ -1,0 +1,230 @@
+{
+  "country": "Yugoslavia",
+  "countrySlug": "yugoslavia",
+  "year": 1998,
+  "edition": "1998",
+  "host": "France",
+  "coach": "Slobodan Santrač",
+  "finalPhase": "Round of 16",
+  "result": "Round of 16",
+  "squad": [
+    {
+      "id": "yugoslavia-1998-1",
+      "name": "Ivica Kralj",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "yugoslavia-1998-2",
+      "name": "Zoran Mirković",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "yugoslavia-1998-3",
+      "name": "Goran Đorović",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "yugoslavia-1998-4",
+      "name": "Slaviša Jokanović",
+      "shirtNumber": 4,
+      "position": "MID"
+    },
+    {
+      "id": "yugoslavia-1998-5",
+      "name": "Miroslav Đukić",
+      "shirtNumber": 5,
+      "position": "DEF"
+    },
+    {
+      "id": "yugoslavia-1998-6",
+      "name": "Branko Brnović",
+      "shirtNumber": 6,
+      "position": "MID"
+    },
+    {
+      "id": "yugoslavia-1998-7",
+      "name": "Vladimir Jugović",
+      "shirtNumber": 7,
+      "position": "MID"
+    },
+    {
+      "id": "yugoslavia-1998-8",
+      "name": "Dejan Savićević",
+      "shirtNumber": 8,
+      "position": "MID"
+    },
+    {
+      "id": "yugoslavia-1998-9",
+      "name": "Predrag Mijatović",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "yugoslavia-1998-10",
+      "name": "Dragan Stojković",
+      "shirtNumber": 10,
+      "position": "MID"
+    },
+    {
+      "id": "yugoslavia-1998-11",
+      "name": "Siniša Mihajlović",
+      "shirtNumber": 11,
+      "position": "DEF"
+    },
+    {
+      "id": "yugoslavia-1998-12",
+      "name": "Dragoje Leković",
+      "shirtNumber": 12,
+      "position": "GK"
+    },
+    {
+      "id": "yugoslavia-1998-13",
+      "name": "Slobodan Komljenović",
+      "shirtNumber": 13,
+      "position": "DEF"
+    },
+    {
+      "id": "yugoslavia-1998-14",
+      "name": "Niša Saveljić",
+      "shirtNumber": 14,
+      "position": "DEF"
+    },
+    {
+      "id": "yugoslavia-1998-15",
+      "name": "Ljubinko Drulović",
+      "shirtNumber": 15,
+      "position": "MID"
+    },
+    {
+      "id": "yugoslavia-1998-16",
+      "name": "Željko Petrović",
+      "shirtNumber": 16,
+      "position": "DEF"
+    },
+    {
+      "id": "yugoslavia-1998-17",
+      "name": "Savo Milošević",
+      "shirtNumber": 17,
+      "position": "ATT"
+    },
+    {
+      "id": "yugoslavia-1998-18",
+      "name": "Dejan Govedarica",
+      "shirtNumber": 18,
+      "position": "MID"
+    },
+    {
+      "id": "yugoslavia-1998-19",
+      "name": "Miroslav Stević",
+      "shirtNumber": 19,
+      "position": "MID"
+    },
+    {
+      "id": "yugoslavia-1998-20",
+      "name": "Dejan Stanković",
+      "shirtNumber": 20,
+      "position": "MID"
+    },
+    {
+      "id": "yugoslavia-1998-21",
+      "name": "Perica Ognjenović",
+      "shirtNumber": 21,
+      "position": "ATT"
+    },
+    {
+      "id": "yugoslavia-1998-22",
+      "name": "Darko Kovačević",
+      "shirtNumber": 22,
+      "position": "ATT"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "Iran",
+      "score": "1–0",
+      "scorers": [
+        {
+          "name": "Siniša Mihajlović",
+          "minute": "73'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1998-06-14"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Germany",
+      "score": "2–2",
+      "scorers": [
+        {
+          "name": "Predrag Mijatović",
+          "minute": "13'",
+          "ownGoal": false
+        },
+        {
+          "name": "Dragan Stojković",
+          "minute": "52'",
+          "ownGoal": false
+        },
+        {
+          "name": "Siniša Mihajlović",
+          "minute": "72'",
+          "ownGoal": true
+        },
+        {
+          "name": "Oliver Bierhoff",
+          "minute": "78'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1998-06-21"
+    },
+    {
+      "stage": "Group",
+      "opponent": "United States",
+      "score": "0–1",
+      "scorers": [
+        {
+          "name": "Slobodan Komljenović",
+          "minute": "4'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1998-06-25"
+    },
+    {
+      "stage": "Round of 16",
+      "opponent": "Netherlands",
+      "score": "2–1",
+      "scorers": [
+        {
+          "name": "Dennis Bergkamp",
+          "minute": "38'",
+          "ownGoal": false
+        },
+        {
+          "name": "Slobodan Komljenović",
+          "minute": "48'",
+          "ownGoal": false
+        },
+        {
+          "name": "Edgar Davids",
+          "minute": "90'+2'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1998-06-29"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

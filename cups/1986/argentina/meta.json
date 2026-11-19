@@ -1,0 +1,304 @@
+{
+  "country": "Argentina",
+  "countrySlug": "argentina",
+  "year": 1986,
+  "edition": "1986",
+  "host": "Mexico",
+  "coach": "Carlos Bilardo",
+  "finalPhase": "Final",
+  "result": "Champion",
+  "squad": [
+    {
+      "id": "argentina-1986-1",
+      "name": "Sergio Almirón",
+      "shirtNumber": 1,
+      "position": "ATT"
+    },
+    {
+      "id": "argentina-1986-2",
+      "name": "Sergio Batista",
+      "shirtNumber": 2,
+      "position": "MID"
+    },
+    {
+      "id": "argentina-1986-3",
+      "name": "Ricardo Bochini",
+      "shirtNumber": 3,
+      "position": "MID"
+    },
+    {
+      "id": "argentina-1986-4",
+      "name": "Claudio Borghi",
+      "shirtNumber": 4,
+      "position": "MID"
+    },
+    {
+      "id": "argentina-1986-5",
+      "name": "José Luis Brown",
+      "shirtNumber": 5,
+      "position": "DEF"
+    },
+    {
+      "id": "argentina-1986-6",
+      "name": "Daniel Passarella",
+      "shirtNumber": 6,
+      "position": "DEF"
+    },
+    {
+      "id": "argentina-1986-7",
+      "name": "Jorge Burruchaga",
+      "shirtNumber": 7,
+      "position": "ATT"
+    },
+    {
+      "id": "argentina-1986-8",
+      "name": "Néstor Clausen",
+      "shirtNumber": 8,
+      "position": "DEF"
+    },
+    {
+      "id": "argentina-1986-9",
+      "name": "José Luis Cuciuffo",
+      "shirtNumber": 9,
+      "position": "DEF"
+    },
+    {
+      "id": "argentina-1986-10",
+      "name": "Diego Maradona",
+      "shirtNumber": 10,
+      "position": "MID"
+    },
+    {
+      "id": "argentina-1986-11",
+      "name": "Jorge Valdano",
+      "shirtNumber": 11,
+      "position": "ATT"
+    },
+    {
+      "id": "argentina-1986-12",
+      "name": "Héctor Enrique",
+      "shirtNumber": 12,
+      "position": "MID"
+    },
+    {
+      "id": "argentina-1986-13",
+      "name": "Oscar Garré",
+      "shirtNumber": 13,
+      "position": "DEF"
+    },
+    {
+      "id": "argentina-1986-14",
+      "name": "Ricardo Giusti",
+      "shirtNumber": 14,
+      "position": "MID"
+    },
+    {
+      "id": "argentina-1986-15",
+      "name": "Luis Islas",
+      "shirtNumber": 15,
+      "position": "GK"
+    },
+    {
+      "id": "argentina-1986-16",
+      "name": "Julio Olarticoechea",
+      "shirtNumber": 16,
+      "position": "DEF"
+    },
+    {
+      "id": "argentina-1986-17",
+      "name": "Pedro Pasculli",
+      "shirtNumber": 17,
+      "position": "ATT"
+    },
+    {
+      "id": "argentina-1986-18",
+      "name": "Nery Pumpido",
+      "shirtNumber": 18,
+      "position": "GK"
+    },
+    {
+      "id": "argentina-1986-19",
+      "name": "Oscar Ruggeri",
+      "shirtNumber": 19,
+      "position": "DEF"
+    },
+    {
+      "id": "argentina-1986-20",
+      "name": "Carlos Tapia",
+      "shirtNumber": 20,
+      "position": "MID"
+    },
+    {
+      "id": "argentina-1986-21",
+      "name": "Marcelo Trobbiani",
+      "shirtNumber": 21,
+      "position": "MID"
+    },
+    {
+      "id": "argentina-1986-22",
+      "name": "Héctor Zelada",
+      "shirtNumber": 22,
+      "position": "GK"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "South Korea",
+      "score": "3–1",
+      "scorers": [
+        {
+          "name": "Jorge Valdano",
+          "minute": "6'",
+          "ownGoal": false
+        },
+        {
+          "name": "Oscar Ruggeri",
+          "minute": "18'",
+          "ownGoal": false
+        },
+        {
+          "name": "Jorge Valdano",
+          "minute": "46'",
+          "ownGoal": false
+        },
+        {
+          "name": "Chang-sun Park",
+          "minute": "73'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1986-06-02"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Italy",
+      "score": "1–1",
+      "scorers": [
+        {
+          "name": "Alessandro Altobelli",
+          "minute": "6'",
+          "ownGoal": false
+        },
+        {
+          "name": "Diego Maradona",
+          "minute": "34'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1986-06-05"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Bulgaria",
+      "score": "2–0",
+      "scorers": [
+        {
+          "name": "Jorge Valdano",
+          "minute": "4'",
+          "ownGoal": false
+        },
+        {
+          "name": "Jorge Burruchaga",
+          "minute": "77'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1986-06-10"
+    },
+    {
+      "stage": "Round of 16",
+      "opponent": "Uruguay",
+      "score": "1–0",
+      "scorers": [
+        {
+          "name": "Pedro Pasculli",
+          "minute": "42'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1986-06-16"
+    },
+    {
+      "stage": "Quarter-final",
+      "opponent": "England",
+      "score": "2–1",
+      "scorers": [
+        {
+          "name": "Diego Maradona",
+          "minute": "51'",
+          "ownGoal": false
+        },
+        {
+          "name": "Diego Maradona",
+          "minute": "55'",
+          "ownGoal": false
+        },
+        {
+          "name": "Gary Lineker",
+          "minute": "81'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1986-06-22"
+    },
+    {
+      "stage": "Semi-final",
+      "opponent": "Belgium",
+      "score": "2–0",
+      "scorers": [
+        {
+          "name": "Diego Maradona",
+          "minute": "51'",
+          "ownGoal": false
+        },
+        {
+          "name": "Diego Maradona",
+          "minute": "63'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1986-06-25"
+    },
+    {
+      "stage": "Final",
+      "opponent": "West Germany",
+      "score": "3–2",
+      "scorers": [
+        {
+          "name": "José Luis Brown",
+          "minute": "23'",
+          "ownGoal": false
+        },
+        {
+          "name": "Jorge Valdano",
+          "minute": "56'",
+          "ownGoal": false
+        },
+        {
+          "name": "Karl-Heinz Rummenigge",
+          "minute": "74'",
+          "ownGoal": false
+        },
+        {
+          "name": "Rudi Völler",
+          "minute": "81'",
+          "ownGoal": false
+        },
+        {
+          "name": "Jorge Burruchaga",
+          "minute": "84'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1986-06-29"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

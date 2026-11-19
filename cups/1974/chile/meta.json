@@ -1,0 +1,191 @@
+{
+  "country": "Chile",
+  "countrySlug": "chile",
+  "year": 1974,
+  "edition": "1974",
+  "host": "West Germany",
+  "coach": "Luis Álamos",
+  "finalPhase": "Group Stage",
+  "result": "Group Stage",
+  "squad": [
+    {
+      "id": "chile-1974-1",
+      "name": "Leopoldo Vallejos",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "chile-1974-2",
+      "name": "Rolando García",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "chile-1974-3",
+      "name": "Alberto Quintano",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "chile-1974-4",
+      "name": "Antonio Arias",
+      "shirtNumber": 4,
+      "position": "DEF"
+    },
+    {
+      "id": "chile-1974-5",
+      "name": "Elías Figueroa",
+      "shirtNumber": 5,
+      "position": "DEF"
+    },
+    {
+      "id": "chile-1974-6",
+      "name": "Juan Rodríguez",
+      "shirtNumber": 6,
+      "position": "DEF"
+    },
+    {
+      "id": "chile-1974-7",
+      "name": "Carlos Caszely",
+      "shirtNumber": 7,
+      "position": "ATT"
+    },
+    {
+      "id": "chile-1974-8",
+      "name": "Francisco Valdés",
+      "shirtNumber": 8,
+      "position": "MID"
+    },
+    {
+      "id": "chile-1974-9",
+      "name": "Sergio Ahumada",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "chile-1974-10",
+      "name": "Carlos Reinoso",
+      "shirtNumber": 10,
+      "position": "MID"
+    },
+    {
+      "id": "chile-1974-11",
+      "name": "Leonardo Véliz",
+      "shirtNumber": 11,
+      "position": "ATT"
+    },
+    {
+      "id": "chile-1974-12",
+      "name": "Juan Machuca",
+      "shirtNumber": 12,
+      "position": "DEF"
+    },
+    {
+      "id": "chile-1974-13",
+      "name": "Rafael González",
+      "shirtNumber": 13,
+      "position": "DEF"
+    },
+    {
+      "id": "chile-1974-14",
+      "name": "Alfonso Lara",
+      "shirtNumber": 14,
+      "position": "MID"
+    },
+    {
+      "id": "chile-1974-15",
+      "name": "Mario Galindo",
+      "shirtNumber": 15,
+      "position": "DEF"
+    },
+    {
+      "id": "chile-1974-16",
+      "name": "Guillermo Páez",
+      "shirtNumber": 16,
+      "position": "MID"
+    },
+    {
+      "id": "chile-1974-17",
+      "name": "Guillermo Yávar",
+      "shirtNumber": 17,
+      "position": "ATT"
+    },
+    {
+      "id": "chile-1974-18",
+      "name": "Jorge Socías",
+      "shirtNumber": 18,
+      "position": "MID"
+    },
+    {
+      "id": "chile-1974-19",
+      "name": "Rogelio Farías",
+      "shirtNumber": 19,
+      "position": "MID"
+    },
+    {
+      "id": "chile-1974-20",
+      "name": "Osvaldo Castro",
+      "shirtNumber": 20,
+      "position": "ATT"
+    },
+    {
+      "id": "chile-1974-21",
+      "name": "Juan Olivares",
+      "shirtNumber": 21,
+      "position": "GK"
+    },
+    {
+      "id": "chile-1974-22",
+      "name": "Adolfo Nef",
+      "shirtNumber": 22,
+      "position": "GK"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "West Germany",
+      "score": "1–0",
+      "scorers": [
+        {
+          "name": "Paul Breitner",
+          "minute": "18'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1974-06-14"
+    },
+    {
+      "stage": "Group",
+      "opponent": "East Germany",
+      "score": "1–1",
+      "scorers": [
+        {
+          "name": "Martin Hoffmann",
+          "minute": "55'",
+          "ownGoal": false
+        },
+        {
+          "name": "Sergio Ahumada",
+          "minute": "69'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1974-06-18"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Australia",
+      "score": "0–0",
+      "scorers": [],
+      "date": "1974-06-22"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

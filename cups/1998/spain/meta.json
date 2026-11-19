@@ -1,0 +1,236 @@
+{
+  "country": "Spain",
+  "countrySlug": "spain",
+  "year": 1998,
+  "edition": "1998",
+  "host": "France",
+  "coach": "Javier Clemente",
+  "finalPhase": "Group Stage",
+  "result": "Group Stage",
+  "squad": [
+    {
+      "id": "spain-1998-1",
+      "name": "Andoni Zubizarreta",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "spain-1998-2",
+      "name": "Albert Ferrer",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "spain-1998-3",
+      "name": "Agustín Aranzábal",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "spain-1998-4",
+      "name": "Rafael Alkorta",
+      "shirtNumber": 4,
+      "position": "DEF"
+    },
+    {
+      "id": "spain-1998-5",
+      "name": "Abelardo",
+      "shirtNumber": 5,
+      "position": "DEF"
+    },
+    {
+      "id": "spain-1998-6",
+      "name": "Fernando Hierro",
+      "shirtNumber": 6,
+      "position": "DEF"
+    },
+    {
+      "id": "spain-1998-7",
+      "name": "Fernando Morientes",
+      "shirtNumber": 7,
+      "position": "ATT"
+    },
+    {
+      "id": "spain-1998-8",
+      "name": "Julen Guerrero",
+      "shirtNumber": 8,
+      "position": "MID"
+    },
+    {
+      "id": "spain-1998-9",
+      "name": "Juan Antonio Pizzi",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "spain-1998-10",
+      "name": "Raúl",
+      "shirtNumber": 10,
+      "position": "ATT"
+    },
+    {
+      "id": "spain-1998-11",
+      "name": "Alfonso",
+      "shirtNumber": 11,
+      "position": "ATT"
+    },
+    {
+      "id": "spain-1998-12",
+      "name": "Sergi",
+      "shirtNumber": 12,
+      "position": "DEF"
+    },
+    {
+      "id": "spain-1998-13",
+      "name": "Santiago Cañizares",
+      "shirtNumber": 13,
+      "position": "GK"
+    },
+    {
+      "id": "spain-1998-14",
+      "name": "Iván Campo",
+      "shirtNumber": 14,
+      "position": "DEF"
+    },
+    {
+      "id": "spain-1998-15",
+      "name": "Carlos Aguilera",
+      "shirtNumber": 15,
+      "position": "DEF"
+    },
+    {
+      "id": "spain-1998-16",
+      "name": "Albert Celades",
+      "shirtNumber": 16,
+      "position": "MID"
+    },
+    {
+      "id": "spain-1998-17",
+      "name": "Joseba Etxeberria",
+      "shirtNumber": 17,
+      "position": "MID"
+    },
+    {
+      "id": "spain-1998-18",
+      "name": "Guillermo Amor",
+      "shirtNumber": 18,
+      "position": "MID"
+    },
+    {
+      "id": "spain-1998-19",
+      "name": "Kiko",
+      "shirtNumber": 19,
+      "position": "ATT"
+    },
+    {
+      "id": "spain-1998-20",
+      "name": "Miguel Ángel Nadal",
+      "shirtNumber": 20,
+      "position": "DEF"
+    },
+    {
+      "id": "spain-1998-21",
+      "name": "Luis Enrique",
+      "shirtNumber": 21,
+      "position": "MID"
+    },
+    {
+      "id": "spain-1998-22",
+      "name": "José Molina",
+      "shirtNumber": 22,
+      "position": "GK"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "Nigeria",
+      "score": "2–3",
+      "scorers": [
+        {
+          "name": "Fernando Hierro",
+          "minute": "21'",
+          "ownGoal": false
+        },
+        {
+          "name": "Mutiu Adepoju",
+          "minute": "24'",
+          "ownGoal": false
+        },
+        {
+          "name": "Raúl",
+          "minute": "47'",
+          "ownGoal": false
+        },
+        {
+          "name": "Andoni Zubizarreta",
+          "minute": "73'",
+          "ownGoal": true
+        },
+        {
+          "name": "Sunday Oliseh",
+          "minute": "78'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1998-06-13"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Paraguay",
+      "score": "0–0",
+      "scorers": [],
+      "date": "1998-06-19"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Bulgaria",
+      "score": "6–1",
+      "scorers": [
+        {
+          "name": "Fernando Hierro",
+          "minute": "6'",
+          "ownGoal": false
+        },
+        {
+          "name": "Luis Enrique",
+          "minute": "18'",
+          "ownGoal": false
+        },
+        {
+          "name": "Fernando Morientes",
+          "minute": "55'",
+          "ownGoal": false
+        },
+        {
+          "name": "Emil Kostadinov",
+          "minute": "58'",
+          "ownGoal": false
+        },
+        {
+          "name": "Fernando Morientes",
+          "minute": "81'",
+          "ownGoal": false
+        },
+        {
+          "name": "Georgi Bachev",
+          "minute": "88'",
+          "ownGoal": true
+        },
+        {
+          "name": "Kiko",
+          "minute": "90'+4'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1998-06-24"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

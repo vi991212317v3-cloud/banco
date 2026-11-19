@@ -1,0 +1,217 @@
+{
+  "country": "Soviet Union",
+  "countrySlug": "soviet-union",
+  "year": 1990,
+  "edition": "1990",
+  "host": "Italy",
+  "coach": "Valeriy Lobanovskyi",
+  "finalPhase": "Group Stage",
+  "result": "Group Stage",
+  "squad": [
+    {
+      "id": "soviet-union-1990-1",
+      "name": "Rinat Dasayev",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "soviet-union-1990-2",
+      "name": "Volodymyr Bezsonov",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "soviet-union-1990-3",
+      "name": "Vagiz Khidiyatullin",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "soviet-union-1990-4",
+      "name": "Oleh Kuznetsov",
+      "shirtNumber": 4,
+      "position": "DEF"
+    },
+    {
+      "id": "soviet-union-1990-5",
+      "name": "Anatoliy Demyanenko",
+      "shirtNumber": 5,
+      "position": "DEF"
+    },
+    {
+      "id": "soviet-union-1990-6",
+      "name": "Vasyl Rats",
+      "shirtNumber": 6,
+      "position": "MID"
+    },
+    {
+      "id": "soviet-union-1990-7",
+      "name": "Sergei Aleinikov",
+      "shirtNumber": 7,
+      "position": "MID"
+    },
+    {
+      "id": "soviet-union-1990-8",
+      "name": "Gennadiy Litovchenko",
+      "shirtNumber": 8,
+      "position": "MID"
+    },
+    {
+      "id": "soviet-union-1990-9",
+      "name": "Oleksandr Zavarov",
+      "shirtNumber": 9,
+      "position": "MID"
+    },
+    {
+      "id": "soviet-union-1990-10",
+      "name": "Oleh Protasov",
+      "shirtNumber": 10,
+      "position": "ATT"
+    },
+    {
+      "id": "soviet-union-1990-11",
+      "name": "Igor Dobrovolski",
+      "shirtNumber": 11,
+      "position": "ATT"
+    },
+    {
+      "id": "soviet-union-1990-12",
+      "name": "Aleksandr Borodyuk",
+      "shirtNumber": 12,
+      "position": "MID"
+    },
+    {
+      "id": "soviet-union-1990-13",
+      "name": "Akhrik Tsveiba",
+      "shirtNumber": 13,
+      "position": "DEF"
+    },
+    {
+      "id": "soviet-union-1990-14",
+      "name": "Volodymyr Lyutyi",
+      "shirtNumber": 14,
+      "position": "ATT"
+    },
+    {
+      "id": "soviet-union-1990-15",
+      "name": "Ivan Yaremchuk",
+      "shirtNumber": 15,
+      "position": "MID"
+    },
+    {
+      "id": "soviet-union-1990-16",
+      "name": "Viktor Chanov",
+      "shirtNumber": 16,
+      "position": "GK"
+    },
+    {
+      "id": "soviet-union-1990-17",
+      "name": "Andrei Zygmantovich",
+      "shirtNumber": 17,
+      "position": "MID"
+    },
+    {
+      "id": "soviet-union-1990-18",
+      "name": "Igor Shalimov",
+      "shirtNumber": 18,
+      "position": "MID"
+    },
+    {
+      "id": "soviet-union-1990-19",
+      "name": "Sergei Fokin",
+      "shirtNumber": 19,
+      "position": "DEF"
+    },
+    {
+      "id": "soviet-union-1990-20",
+      "name": "Sergei Gorlukovich",
+      "shirtNumber": 20,
+      "position": "DEF"
+    },
+    {
+      "id": "soviet-union-1990-21",
+      "name": "Valeri Broshin",
+      "shirtNumber": 21,
+      "position": "MID"
+    },
+    {
+      "id": "soviet-union-1990-22",
+      "name": "Aleksandr Uvarov",
+      "shirtNumber": 22,
+      "position": "GK"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "Romania",
+      "score": "0–2",
+      "scorers": [
+        {
+          "name": "Marius Lăcătuș",
+          "minute": "41'",
+          "ownGoal": false
+        },
+        {
+          "name": "Marius Lăcătuș",
+          "minute": "55'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1990-06-09"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Argentina",
+      "score": "2–0",
+      "scorers": [
+        {
+          "name": "Pedro Troglio",
+          "minute": "27'",
+          "ownGoal": false
+        },
+        {
+          "name": "Jorge Burruchaga",
+          "minute": "79'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1990-06-13"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Cameroon",
+      "score": "0–4",
+      "scorers": [
+        {
+          "name": "Oleh Protasov",
+          "minute": "20'",
+          "ownGoal": false
+        },
+        {
+          "name": "Andrei Zygmantovich",
+          "minute": "29'",
+          "ownGoal": false
+        },
+        {
+          "name": "Oleksandr Zavarov",
+          "minute": "52'",
+          "ownGoal": false
+        },
+        {
+          "name": "Igor Dobrovolski",
+          "minute": "63'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1990-06-18"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

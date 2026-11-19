@@ -1,0 +1,234 @@
+{
+  "country": "Uruguay",
+  "countrySlug": "uruguay",
+  "year": 1986,
+  "edition": "1986",
+  "host": "Mexico",
+  "coach": "Omar Borrás",
+  "finalPhase": "Round of 16",
+  "result": "Round of 16",
+  "squad": [
+    {
+      "id": "uruguay-1986-1",
+      "name": "Rodolfo Rodríguez",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "uruguay-1986-2",
+      "name": "Nelson Gutiérrez",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "uruguay-1986-3",
+      "name": "Eduardo Mario Acevedo",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "uruguay-1986-4",
+      "name": "Víctor Diogo",
+      "shirtNumber": 4,
+      "position": "DEF"
+    },
+    {
+      "id": "uruguay-1986-5",
+      "name": "Miguel Bossio",
+      "shirtNumber": 5,
+      "position": "MID"
+    },
+    {
+      "id": "uruguay-1986-6",
+      "name": "José Batista",
+      "shirtNumber": 6,
+      "position": "DEF"
+    },
+    {
+      "id": "uruguay-1986-7",
+      "name": "Antonio Alzamendi",
+      "shirtNumber": 7,
+      "position": "ATT"
+    },
+    {
+      "id": "uruguay-1986-8",
+      "name": "Jorge Barrios",
+      "shirtNumber": 8,
+      "position": "MID"
+    },
+    {
+      "id": "uruguay-1986-9",
+      "name": "Jorge da Silva",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "uruguay-1986-10",
+      "name": "Enzo Francescoli",
+      "shirtNumber": 10,
+      "position": "MID"
+    },
+    {
+      "id": "uruguay-1986-11",
+      "name": "Sergio Santín",
+      "shirtNumber": 11,
+      "position": "MID"
+    },
+    {
+      "id": "uruguay-1986-12",
+      "name": "Fernando Álvez",
+      "shirtNumber": 12,
+      "position": "GK"
+    },
+    {
+      "id": "uruguay-1986-13",
+      "name": "César Vega",
+      "shirtNumber": 13,
+      "position": "DEF"
+    },
+    {
+      "id": "uruguay-1986-14",
+      "name": "Darío Pereyra",
+      "shirtNumber": 14,
+      "position": "DEF"
+    },
+    {
+      "id": "uruguay-1986-15",
+      "name": "Eliseo Rivero",
+      "shirtNumber": 15,
+      "position": "DEF"
+    },
+    {
+      "id": "uruguay-1986-16",
+      "name": "Mario Saralegui",
+      "shirtNumber": 16,
+      "position": "MID"
+    },
+    {
+      "id": "uruguay-1986-17",
+      "name": "José Zalazar",
+      "shirtNumber": 17,
+      "position": "MID"
+    },
+    {
+      "id": "uruguay-1986-18",
+      "name": "Rubén Paz",
+      "shirtNumber": 18,
+      "position": "MID"
+    },
+    {
+      "id": "uruguay-1986-19",
+      "name": "Venancio Ramos",
+      "shirtNumber": 19,
+      "position": "ATT"
+    },
+    {
+      "id": "uruguay-1986-20",
+      "name": "Carlos Aguilera",
+      "shirtNumber": 20,
+      "position": "ATT"
+    },
+    {
+      "id": "uruguay-1986-21",
+      "name": "Wilmar Cabrera",
+      "shirtNumber": 21,
+      "position": "ATT"
+    },
+    {
+      "id": "uruguay-1986-22",
+      "name": "Celso Otero",
+      "shirtNumber": 22,
+      "position": "GK"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "West Germany",
+      "score": "1–1",
+      "scorers": [
+        {
+          "name": "Antonio Alzamendi",
+          "minute": "4'",
+          "ownGoal": false
+        },
+        {
+          "name": "Klaus Allofs",
+          "minute": "84'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1986-06-04"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Denmark",
+      "score": "6–1",
+      "scorers": [
+        {
+          "name": "Preben Elkjær",
+          "minute": "11'",
+          "ownGoal": false
+        },
+        {
+          "name": "Søren Lerby",
+          "minute": "41'",
+          "ownGoal": false
+        },
+        {
+          "name": "Enzo Francescoli",
+          "minute": "45'",
+          "ownGoal": false
+        },
+        {
+          "name": "Michael Laudrup",
+          "minute": "52'",
+          "ownGoal": false
+        },
+        {
+          "name": "Preben Elkjær",
+          "minute": "67'",
+          "ownGoal": false
+        },
+        {
+          "name": "Preben Elkjær",
+          "minute": "80'",
+          "ownGoal": false
+        },
+        {
+          "name": "Jesper Olsen",
+          "minute": "88'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1986-06-08"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Scotland",
+      "score": "0–0",
+      "scorers": [],
+      "date": "1986-06-13"
+    },
+    {
+      "stage": "Round of 16",
+      "opponent": "Argentina",
+      "score": "1–0",
+      "scorers": [
+        {
+          "name": "Pedro Pasculli",
+          "minute": "42'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1986-06-16"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

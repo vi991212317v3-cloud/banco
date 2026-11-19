@@ -1,0 +1,240 @@
+{
+  "country": "Nigeria",
+  "countrySlug": "nigeria",
+  "year": 1994,
+  "edition": "1994",
+  "host": "United States",
+  "coach": "Clemens Westerhof",
+  "finalPhase": "Round of 16",
+  "result": "Round of 16",
+  "squad": [
+    {
+      "id": "nigeria-1994-1",
+      "name": "Peter Rufai",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "nigeria-1994-2",
+      "name": "Augustine Eguavoen",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "nigeria-1994-3",
+      "name": "Benedict Iroha",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "nigeria-1994-4",
+      "name": "Stephen Keshi",
+      "shirtNumber": 4,
+      "position": "DEF"
+    },
+    {
+      "id": "nigeria-1994-5",
+      "name": "Uche Okechukwu",
+      "shirtNumber": 5,
+      "position": "DEF"
+    },
+    {
+      "id": "nigeria-1994-6",
+      "name": "Chidi Nwanu",
+      "shirtNumber": 6,
+      "position": "DEF"
+    },
+    {
+      "id": "nigeria-1994-7",
+      "name": "Finidi George",
+      "shirtNumber": 7,
+      "position": "MID"
+    },
+    {
+      "id": "nigeria-1994-8",
+      "name": "Thompson Oliha",
+      "shirtNumber": 8,
+      "position": "MID"
+    },
+    {
+      "id": "nigeria-1994-9",
+      "name": "Rashidi Yekini",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "nigeria-1994-10",
+      "name": "Jay-Jay Okocha",
+      "shirtNumber": 10,
+      "position": "MID"
+    },
+    {
+      "id": "nigeria-1994-11",
+      "name": "Emmanuel Amunike",
+      "shirtNumber": 11,
+      "position": "MID"
+    },
+    {
+      "id": "nigeria-1994-12",
+      "name": "Samson Siasia",
+      "shirtNumber": 12,
+      "position": "ATT"
+    },
+    {
+      "id": "nigeria-1994-13",
+      "name": "Emeka Ezeugo",
+      "shirtNumber": 13,
+      "position": "DEF"
+    },
+    {
+      "id": "nigeria-1994-14",
+      "name": "Daniel Amokachi",
+      "shirtNumber": 14,
+      "position": "ATT"
+    },
+    {
+      "id": "nigeria-1994-15",
+      "name": "Sunday Oliseh",
+      "shirtNumber": 15,
+      "position": "MID"
+    },
+    {
+      "id": "nigeria-1994-16",
+      "name": "Alloysius Agu",
+      "shirtNumber": 16,
+      "position": "GK"
+    },
+    {
+      "id": "nigeria-1994-17",
+      "name": "Victor Ikpeba",
+      "shirtNumber": 17,
+      "position": "ATT"
+    },
+    {
+      "id": "nigeria-1994-18",
+      "name": "Efan Ekoku",
+      "shirtNumber": 18,
+      "position": "ATT"
+    },
+    {
+      "id": "nigeria-1994-19",
+      "name": "Michael Emenalo",
+      "shirtNumber": 19,
+      "position": "DEF"
+    },
+    {
+      "id": "nigeria-1994-20",
+      "name": "Uche Okafor",
+      "shirtNumber": 20,
+      "position": "DEF"
+    },
+    {
+      "id": "nigeria-1994-21",
+      "name": "Mutiu Adepoju",
+      "shirtNumber": 21,
+      "position": "MID"
+    },
+    {
+      "id": "nigeria-1994-22",
+      "name": "Wilfred Agbonavbare",
+      "shirtNumber": 22,
+      "position": "GK"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "Bulgaria",
+      "score": "3–0",
+      "scorers": [
+        {
+          "name": "Rashidi Yekini",
+          "minute": "21'",
+          "ownGoal": false
+        },
+        {
+          "name": "Daniel Amokachi",
+          "minute": "43'",
+          "ownGoal": false
+        },
+        {
+          "name": "Emmanuel Amunike",
+          "minute": "55'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1994-06-21"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Argentina",
+      "score": "2–1",
+      "scorers": [
+        {
+          "name": "Samson Siasia",
+          "minute": "8'",
+          "ownGoal": false
+        },
+        {
+          "name": "Claudio Caniggia",
+          "minute": "21'",
+          "ownGoal": false
+        },
+        {
+          "name": "Claudio Caniggia",
+          "minute": "28'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1994-06-25"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Greece",
+      "score": "0–2",
+      "scorers": [
+        {
+          "name": "Finidi George",
+          "minute": "45'+2'",
+          "ownGoal": false
+        },
+        {
+          "name": "Daniel Amokachi",
+          "minute": "90'+5'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1994-06-30"
+    },
+    {
+      "stage": "Round of 16",
+      "opponent": "Italy",
+      "score": "1–2",
+      "scorers": [
+        {
+          "name": "Emmanuel Amunike",
+          "minute": "25'",
+          "ownGoal": false
+        },
+        {
+          "name": "Roberto Baggio",
+          "minute": "88'",
+          "ownGoal": false
+        },
+        {
+          "name": "Roberto Baggio",
+          "minute": "102'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1994-07-05"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

@@ -1,0 +1,233 @@
+{
+  "country": "Poland",
+  "countrySlug": "poland",
+  "year": 2002,
+  "edition": "2002",
+  "host": "Korea, Japan",
+  "coach": "Jerzy Engel",
+  "finalPhase": "Group Stage",
+  "result": "Group Stage",
+  "squad": [
+    {
+      "id": "poland-2002-1",
+      "name": "Jerzy Dudek",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "poland-2002-2",
+      "name": "Tomasz Kłos",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "poland-2002-3",
+      "name": "Jacek Zieliński",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "poland-2002-4",
+      "name": "Michał Żewłakow",
+      "shirtNumber": 4,
+      "position": "DEF"
+    },
+    {
+      "id": "poland-2002-5",
+      "name": "Tomasz Rząsa",
+      "shirtNumber": 5,
+      "position": "DEF"
+    },
+    {
+      "id": "poland-2002-6",
+      "name": "Tomasz Hajto",
+      "shirtNumber": 6,
+      "position": "DEF"
+    },
+    {
+      "id": "poland-2002-7",
+      "name": "Piotr Świerczewski",
+      "shirtNumber": 7,
+      "position": "MID"
+    },
+    {
+      "id": "poland-2002-8",
+      "name": "Cezary Kucharski",
+      "shirtNumber": 8,
+      "position": "ATT"
+    },
+    {
+      "id": "poland-2002-9",
+      "name": "Paweł Kryszałowicz",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "poland-2002-10",
+      "name": "Radosław Kałużny",
+      "shirtNumber": 10,
+      "position": "MID"
+    },
+    {
+      "id": "poland-2002-11",
+      "name": "Emmanuel Olisadebe",
+      "shirtNumber": 11,
+      "position": "ATT"
+    },
+    {
+      "id": "poland-2002-12",
+      "name": "Radosław Majdan",
+      "shirtNumber": 12,
+      "position": "GK"
+    },
+    {
+      "id": "poland-2002-13",
+      "name": "Arkadiusz Głowacki",
+      "shirtNumber": 13,
+      "position": "DEF"
+    },
+    {
+      "id": "poland-2002-14",
+      "name": "Marcin Żewłakow",
+      "shirtNumber": 14,
+      "position": "ATT"
+    },
+    {
+      "id": "poland-2002-15",
+      "name": "Tomasz Wałdoch",
+      "shirtNumber": 15,
+      "position": "DEF"
+    },
+    {
+      "id": "poland-2002-16",
+      "name": "Maciej Murawski",
+      "shirtNumber": 16,
+      "position": "DEF"
+    },
+    {
+      "id": "poland-2002-17",
+      "name": "Arkadiusz Bąk",
+      "shirtNumber": 17,
+      "position": "MID"
+    },
+    {
+      "id": "poland-2002-18",
+      "name": "Jacek Krzynówek",
+      "shirtNumber": 18,
+      "position": "MID"
+    },
+    {
+      "id": "poland-2002-19",
+      "name": "Maciej Żurawski",
+      "shirtNumber": 19,
+      "position": "ATT"
+    },
+    {
+      "id": "poland-2002-20",
+      "name": "Jacek Bąk",
+      "shirtNumber": 20,
+      "position": "DEF"
+    },
+    {
+      "id": "poland-2002-21",
+      "name": "Marek Koźmiński",
+      "shirtNumber": 21,
+      "position": "MID"
+    },
+    {
+      "id": "poland-2002-22",
+      "name": "Adam Matysek",
+      "shirtNumber": 22,
+      "position": "GK"
+    },
+    {
+      "id": "poland-2002-23",
+      "name": "Paweł Sibik",
+      "shirtNumber": 23,
+      "position": "MID"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "South Korea",
+      "score": "2–0",
+      "scorers": [
+        {
+          "name": "Sun-hong Hwang",
+          "minute": "26'",
+          "ownGoal": false
+        },
+        {
+          "name": "Sang-chul Yoo",
+          "minute": "53'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2002-06-04"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Portugal",
+      "score": "4–0",
+      "scorers": [
+        {
+          "name": "Pauleta",
+          "minute": "14'",
+          "ownGoal": false
+        },
+        {
+          "name": "Pauleta",
+          "minute": "65'",
+          "ownGoal": false
+        },
+        {
+          "name": "Pauleta",
+          "minute": "77'",
+          "ownGoal": false
+        },
+        {
+          "name": "Rui Costa",
+          "minute": "88'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2002-06-10"
+    },
+    {
+      "stage": "Group",
+      "opponent": "United States",
+      "score": "3–1",
+      "scorers": [
+        {
+          "name": "Emmanuel Olisadebe",
+          "minute": "3'",
+          "ownGoal": false
+        },
+        {
+          "name": "Paweł Kryszałowicz",
+          "minute": "5'",
+          "ownGoal": false
+        },
+        {
+          "name": "Marcin Żewłakow",
+          "minute": "66'",
+          "ownGoal": false
+        },
+        {
+          "name": "Landon Donovan",
+          "minute": "83'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2002-06-14"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

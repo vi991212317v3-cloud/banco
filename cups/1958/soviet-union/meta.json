@@ -1,0 +1,248 @@
+{
+  "country": "Soviet Union",
+  "countrySlug": "soviet-union",
+  "year": 1958,
+  "edition": "1958",
+  "host": "Sweden",
+  "coach": "Gavriil Kachalin",
+  "finalPhase": "Quarter-final",
+  "result": "Quarter-final",
+  "squad": [
+    {
+      "id": "soviet-union-1958-1",
+      "name": "Lev Yashin",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "soviet-union-1958-2",
+      "name": "Vladimir Kesarev",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "soviet-union-1958-3",
+      "name": "Konstantin Krizhevsky",
+      "shirtNumber": 3,
+      "position": "MID"
+    },
+    {
+      "id": "soviet-union-1958-4",
+      "name": "Boris Kuznetsov",
+      "shirtNumber": 4,
+      "position": "DEF"
+    },
+    {
+      "id": "soviet-union-1958-5",
+      "name": "Yuri Voinov",
+      "shirtNumber": 5,
+      "position": "DEF"
+    },
+    {
+      "id": "soviet-union-1958-6",
+      "name": "Igor Netto",
+      "shirtNumber": 6,
+      "position": "MID"
+    },
+    {
+      "id": "soviet-union-1958-7",
+      "name": "German Apukhtin",
+      "shirtNumber": 7,
+      "position": "ATT"
+    },
+    {
+      "id": "soviet-union-1958-8",
+      "name": "Valentin Ivanov",
+      "shirtNumber": 8,
+      "position": "ATT"
+    },
+    {
+      "id": "soviet-union-1958-9",
+      "name": "Nikita Simonyan",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "soviet-union-1958-10",
+      "name": "Sergei Salnikov",
+      "shirtNumber": 10,
+      "position": "ATT"
+    },
+    {
+      "id": "soviet-union-1958-11",
+      "name": "Anatoli Ilyin",
+      "shirtNumber": 11,
+      "position": "ATT"
+    },
+    {
+      "id": "soviet-union-1958-12",
+      "name": "Vladimir Maslachenko",
+      "shirtNumber": 12,
+      "position": "GK"
+    },
+    {
+      "id": "soviet-union-1958-13",
+      "name": "Vladimir Belyayev",
+      "shirtNumber": 13,
+      "position": "GK"
+    },
+    {
+      "id": "soviet-union-1958-14",
+      "name": "Leonid Ostrovskiy",
+      "shirtNumber": 14,
+      "position": "DEF"
+    },
+    {
+      "id": "soviet-union-1958-15",
+      "name": "Anatoli Maslyonkin",
+      "shirtNumber": 15,
+      "position": "DEF"
+    },
+    {
+      "id": "soviet-union-1958-16",
+      "name": "Viktor Tsarev",
+      "shirtNumber": 16,
+      "position": "MID"
+    },
+    {
+      "id": "soviet-union-1958-17",
+      "name": "Aleksandr Ivanov",
+      "shirtNumber": 17,
+      "position": "ATT"
+    },
+    {
+      "id": "soviet-union-1958-18",
+      "name": "Valentin Bubukin",
+      "shirtNumber": 18,
+      "position": "ATT"
+    },
+    {
+      "id": "soviet-union-1958-19",
+      "name": "Gennadi Gusarov",
+      "shirtNumber": 19,
+      "position": "ATT"
+    },
+    {
+      "id": "soviet-union-1958-20",
+      "name": "Yuri Falin",
+      "shirtNumber": 20,
+      "position": "ATT"
+    },
+    {
+      "id": "soviet-union-1958-21",
+      "name": "Genrich Fedosov",
+      "shirtNumber": 21,
+      "position": "ATT"
+    },
+    {
+      "id": "soviet-union-1958-22",
+      "name": "Vladimir Yerokhin",
+      "shirtNumber": 22,
+      "position": "DEF"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "England",
+      "score": "2–2",
+      "scorers": [
+        {
+          "name": "Nikita Simonyan",
+          "minute": "13'",
+          "ownGoal": false
+        },
+        {
+          "name": "Aleksandr Ivanov",
+          "minute": "56'",
+          "ownGoal": false
+        },
+        {
+          "name": "Derek Kevan",
+          "minute": "66'",
+          "ownGoal": false
+        },
+        {
+          "name": "Tom Finney",
+          "minute": "85'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1958-06-08"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Austria",
+      "score": "2–0",
+      "scorers": [
+        {
+          "name": "Anatoli Ilyin",
+          "minute": "15'",
+          "ownGoal": false
+        },
+        {
+          "name": "Valentin Ivanov",
+          "minute": "62'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1958-06-11"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Brazil",
+      "score": "2–0",
+      "scorers": [
+        {
+          "name": "Vavá",
+          "minute": "3'",
+          "ownGoal": false
+        },
+        {
+          "name": "Vavá",
+          "minute": "77'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1958-06-15"
+    },
+    {
+      "stage": "Group",
+      "opponent": "England",
+      "score": "1–0",
+      "scorers": [
+        {
+          "name": "Anatoli Ilyin",
+          "minute": "69'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1958-06-17"
+    },
+    {
+      "stage": "Quarter-final",
+      "opponent": "Sweden",
+      "score": "2–0",
+      "scorers": [
+        {
+          "name": "Kurt Hamrin",
+          "minute": "49'",
+          "ownGoal": false
+        },
+        {
+          "name": "Agne Simonsson",
+          "minute": "88'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1958-06-19"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

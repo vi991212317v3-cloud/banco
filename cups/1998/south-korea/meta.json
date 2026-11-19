@@ -1,0 +1,232 @@
+{
+  "country": "South Korea",
+  "countrySlug": "south-korea",
+  "year": 1998,
+  "edition": "1998",
+  "host": "France",
+  "coach": "Bum-kun Cha",
+  "finalPhase": "Group Stage",
+  "result": "Group Stage",
+  "squad": [
+    {
+      "id": "south-korea-1998-1",
+      "name": "Byung-ji Kim",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "south-korea-1998-2",
+      "name": "Sung-yong Choi",
+      "shirtNumber": 2,
+      "position": "MID"
+    },
+    {
+      "id": "south-korea-1998-3",
+      "name": "Lim-saeng Lee",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "south-korea-1998-4",
+      "name": "Young-il Choi",
+      "shirtNumber": 4,
+      "position": "DEF"
+    },
+    {
+      "id": "south-korea-1998-5",
+      "name": "Min-sung Lee",
+      "shirtNumber": 5,
+      "position": "DEF"
+    },
+    {
+      "id": "south-korea-1998-6",
+      "name": "Sang-chul Yoo",
+      "shirtNumber": 6,
+      "position": "DEF"
+    },
+    {
+      "id": "south-korea-1998-7",
+      "name": "Do-keun Kim",
+      "shirtNumber": 7,
+      "position": "MID"
+    },
+    {
+      "id": "south-korea-1998-8",
+      "name": "Jung-yoon Noh",
+      "shirtNumber": 8,
+      "position": "MID"
+    },
+    {
+      "id": "south-korea-1998-9",
+      "name": "Do-hoon Kim",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "south-korea-1998-10",
+      "name": "Yong-soo Choi",
+      "shirtNumber": 10,
+      "position": "ATT"
+    },
+    {
+      "id": "south-korea-1998-11",
+      "name": "Jung-won Seo",
+      "shirtNumber": 11,
+      "position": "ATT"
+    },
+    {
+      "id": "south-korea-1998-12",
+      "name": "Sang-hun Lee",
+      "shirtNumber": 12,
+      "position": "DEF"
+    },
+    {
+      "id": "south-korea-1998-13",
+      "name": "Tae-young Kim",
+      "shirtNumber": 13,
+      "position": "DEF"
+    },
+    {
+      "id": "south-korea-1998-14",
+      "name": "Jong-soo Ko",
+      "shirtNumber": 14,
+      "position": "MID"
+    },
+    {
+      "id": "south-korea-1998-15",
+      "name": "Sang-yoon Lee",
+      "shirtNumber": 15,
+      "position": "MID"
+    },
+    {
+      "id": "south-korea-1998-16",
+      "name": "Hyung-seok Jang",
+      "shirtNumber": 16,
+      "position": "DEF"
+    },
+    {
+      "id": "south-korea-1998-17",
+      "name": "Seok-ju Ha",
+      "shirtNumber": 17,
+      "position": "MID"
+    },
+    {
+      "id": "south-korea-1998-18",
+      "name": "Sun-hong Hwang",
+      "shirtNumber": 18,
+      "position": "ATT"
+    },
+    {
+      "id": "south-korea-1998-19",
+      "name": "Dae-il Jang",
+      "shirtNumber": 19,
+      "position": "DEF"
+    },
+    {
+      "id": "south-korea-1998-20",
+      "name": "Myung-bo Hong",
+      "shirtNumber": 20,
+      "position": "DEF"
+    },
+    {
+      "id": "south-korea-1998-21",
+      "name": "Dong-gook Lee",
+      "shirtNumber": 21,
+      "position": "ATT"
+    },
+    {
+      "id": "south-korea-1998-22",
+      "name": "Dong-myung Seo",
+      "shirtNumber": 22,
+      "position": "GK"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "Mexico",
+      "score": "1–3",
+      "scorers": [
+        {
+          "name": "Seok-ju Ha",
+          "minute": "27'",
+          "ownGoal": false
+        },
+        {
+          "name": "Ricardo Peláez",
+          "minute": "50'",
+          "ownGoal": false
+        },
+        {
+          "name": "Luis Hernández",
+          "minute": "75'",
+          "ownGoal": false
+        },
+        {
+          "name": "Luis Hernández",
+          "minute": "84'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1998-06-13"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Netherlands",
+      "score": "5–0",
+      "scorers": [
+        {
+          "name": "Phillip Cocu",
+          "minute": "37'",
+          "ownGoal": false
+        },
+        {
+          "name": "Marc Overmars",
+          "minute": "41'",
+          "ownGoal": false
+        },
+        {
+          "name": "Dennis Bergkamp",
+          "minute": "71'",
+          "ownGoal": false
+        },
+        {
+          "name": "Pierre van Hooijdonk",
+          "minute": "80'",
+          "ownGoal": false
+        },
+        {
+          "name": "Ronald de Boer",
+          "minute": "83'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1998-06-20"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Belgium",
+      "score": "1–1",
+      "scorers": [
+        {
+          "name": "Luc Nilis",
+          "minute": "7'",
+          "ownGoal": false
+        },
+        {
+          "name": "Sang-chul Yoo",
+          "minute": "72'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1998-06-25"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

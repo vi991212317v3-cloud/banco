@@ -1,0 +1,194 @@
+{
+  "country": "Peru",
+  "countrySlug": "peru",
+  "year": 1930,
+  "edition": "1930",
+  "host": "Uruguay",
+  "coach": "Francisco Bru",
+  "finalPhase": "Group Stage",
+  "result": "Group Stage",
+  "squad": [
+    {
+      "id": "peru-1930-003",
+      "name": "Alberto Denegri",
+      "shirtNumber": null,
+      "position": "MID"
+    },
+    {
+      "id": "peru-1930-017",
+      "name": "Alberto Soria",
+      "shirtNumber": null,
+      "position": "DEF"
+    },
+    {
+      "id": "peru-1930-021",
+      "name": "Alejandro Villanueva",
+      "shirtNumber": null,
+      "position": "ATT"
+    },
+    {
+      "id": "peru-1930-010",
+      "name": "Antonio Maquilón",
+      "shirtNumber": null,
+      "position": "DEF"
+    },
+    {
+      "id": "peru-1930-004",
+      "name": "Arturo Fernández",
+      "shirtNumber": null,
+      "position": "DEF"
+    },
+    {
+      "id": "peru-1930-002",
+      "name": "Carlos Cillóniz",
+      "shirtNumber": null,
+      "position": "MID"
+    },
+    {
+      "id": "peru-1930-011",
+      "name": "Demetrio Neyra",
+      "shirtNumber": null,
+      "position": "ATT"
+    },
+    {
+      "id": "peru-1930-006",
+      "name": "Domingo García",
+      "shirtNumber": null,
+      "position": "MID"
+    },
+    {
+      "id": "peru-1930-001",
+      "name": "Eduardo Astengo",
+      "shirtNumber": null,
+      "position": "MID"
+    },
+    {
+      "id": "peru-1930-007",
+      "name": "Jorge Góngora",
+      "shirtNumber": null,
+      "position": "ATT"
+    },
+    {
+      "id": "peru-1930-013",
+      "name": "Jorge Pardon",
+      "shirtNumber": null,
+      "position": "GK"
+    },
+    {
+      "id": "peru-1930-016",
+      "name": "Jorge Sarmiento",
+      "shirtNumber": null,
+      "position": "ATT"
+    },
+    {
+      "id": "peru-1930-008",
+      "name": "José María Lavalle",
+      "shirtNumber": null,
+      "position": "ATT"
+    },
+    {
+      "id": "peru-1930-020",
+      "name": "Juan Alfonso Valle",
+      "shirtNumber": null,
+      "position": "MID"
+    },
+    {
+      "id": "peru-1930-019",
+      "name": "Juan Valdivieso",
+      "shirtNumber": null,
+      "position": "GK"
+    },
+    {
+      "id": "peru-1930-009",
+      "name": "Julio Lores",
+      "shirtNumber": null,
+      "position": "ATT"
+    },
+    {
+      "id": "peru-1930-014",
+      "name": "Julio Quintana",
+      "shirtNumber": null,
+      "position": "MID"
+    },
+    {
+      "id": "peru-1930-015",
+      "name": "Lizardo Rodríguez Nue",
+      "shirtNumber": null,
+      "position": "ATT"
+    },
+    {
+      "id": "peru-1930-018",
+      "name": "Luis Souza Ferreira",
+      "shirtNumber": null,
+      "position": "ATT"
+    },
+    {
+      "id": "peru-1930-022",
+      "name": "Mario de las Casas",
+      "shirtNumber": null,
+      "position": "DEF"
+    },
+    {
+      "id": "peru-1930-012",
+      "name": "Pablo Pacheco",
+      "shirtNumber": null,
+      "position": "ATT"
+    },
+    {
+      "id": "peru-1930-005",
+      "name": "Plácido Galindo",
+      "shirtNumber": null,
+      "position": "MID"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "Romania",
+      "score": "3–1",
+      "scorers": [
+        {
+          "name": "Adalbert Deşu",
+          "minute": "1'",
+          "ownGoal": false
+        },
+        {
+          "name": "Luis Souza Ferreira",
+          "minute": "75'",
+          "ownGoal": false
+        },
+        {
+          "name": "Constantin Stanciu",
+          "minute": "79'",
+          "ownGoal": false
+        },
+        {
+          "name": "Miklós Kovács",
+          "minute": "89'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1930-07-14"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Uruguay",
+      "score": "1–0",
+      "scorers": [
+        {
+          "name": "Héctor Castro",
+          "minute": "65'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1930-07-18"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

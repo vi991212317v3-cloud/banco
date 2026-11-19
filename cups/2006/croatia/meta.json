@@ -1,0 +1,207 @@
+{
+  "country": "Croatia",
+  "countrySlug": "croatia",
+  "year": 2006,
+  "edition": "2006",
+  "host": "Germany",
+  "coach": "Zlatko Kranjčar",
+  "finalPhase": "Group Stage",
+  "result": "Group Stage",
+  "squad": [
+    {
+      "id": "croatia-2006-1",
+      "name": "Stipe Pletikosa",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "croatia-2006-2",
+      "name": "Darijo Srna",
+      "shirtNumber": 2,
+      "position": "MID"
+    },
+    {
+      "id": "croatia-2006-3",
+      "name": "Josip Šimunić",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "croatia-2006-4",
+      "name": "Robert Kovač",
+      "shirtNumber": 4,
+      "position": "DEF"
+    },
+    {
+      "id": "croatia-2006-5",
+      "name": "Igor Tudor",
+      "shirtNumber": 5,
+      "position": "MID"
+    },
+    {
+      "id": "croatia-2006-6",
+      "name": "Jurica Vranješ",
+      "shirtNumber": 6,
+      "position": "MID"
+    },
+    {
+      "id": "croatia-2006-7",
+      "name": "Dario Šimić",
+      "shirtNumber": 7,
+      "position": "DEF"
+    },
+    {
+      "id": "croatia-2006-8",
+      "name": "Marko Babić",
+      "shirtNumber": 8,
+      "position": "MID"
+    },
+    {
+      "id": "croatia-2006-9",
+      "name": "Dado Pršo",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "croatia-2006-10",
+      "name": "Niko Kovač",
+      "shirtNumber": 10,
+      "position": "MID"
+    },
+    {
+      "id": "croatia-2006-11",
+      "name": "Mario Tokić",
+      "shirtNumber": 11,
+      "position": "DEF"
+    },
+    {
+      "id": "croatia-2006-12",
+      "name": "Joey Didulica",
+      "shirtNumber": 12,
+      "position": "GK"
+    },
+    {
+      "id": "croatia-2006-13",
+      "name": "Stjepan Tomas",
+      "shirtNumber": 13,
+      "position": "DEF"
+    },
+    {
+      "id": "croatia-2006-14",
+      "name": "Luka Modrić",
+      "shirtNumber": 14,
+      "position": "MID"
+    },
+    {
+      "id": "croatia-2006-15",
+      "name": "Ivan Leko",
+      "shirtNumber": 15,
+      "position": "MID"
+    },
+    {
+      "id": "croatia-2006-16",
+      "name": "Jerko Leko",
+      "shirtNumber": 16,
+      "position": "MID"
+    },
+    {
+      "id": "croatia-2006-17",
+      "name": "Ivan Klasnić",
+      "shirtNumber": 17,
+      "position": "ATT"
+    },
+    {
+      "id": "croatia-2006-18",
+      "name": "Ivica Olić",
+      "shirtNumber": 18,
+      "position": "ATT"
+    },
+    {
+      "id": "croatia-2006-19",
+      "name": "Niko Kranjčar",
+      "shirtNumber": 19,
+      "position": "MID"
+    },
+    {
+      "id": "croatia-2006-20",
+      "name": "Anthony Šerić",
+      "shirtNumber": 20,
+      "position": "MID"
+    },
+    {
+      "id": "croatia-2006-21",
+      "name": "Boško Balaban",
+      "shirtNumber": 21,
+      "position": "ATT"
+    },
+    {
+      "id": "croatia-2006-22",
+      "name": "Ivan Bošnjak",
+      "shirtNumber": 22,
+      "position": "ATT"
+    },
+    {
+      "id": "croatia-2006-23",
+      "name": "Tomislav Butina",
+      "shirtNumber": 23,
+      "position": "GK"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "Brazil",
+      "score": "1–0",
+      "scorers": [
+        {
+          "name": "Kaká",
+          "minute": "44'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2006-06-13"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Japan",
+      "score": "0–0",
+      "scorers": [],
+      "date": "2006-06-18"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Australia",
+      "score": "2–2",
+      "scorers": [
+        {
+          "name": "Darijo Srna",
+          "minute": "2'",
+          "ownGoal": false
+        },
+        {
+          "name": "Craig Moore",
+          "minute": "38'",
+          "ownGoal": false
+        },
+        {
+          "name": "Niko Kovač",
+          "minute": "56'",
+          "ownGoal": false
+        },
+        {
+          "name": "Harry Kewell",
+          "minute": "79'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2006-06-22"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

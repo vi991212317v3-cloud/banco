@@ -1,0 +1,265 @@
+{
+  "country": "Soviet Union",
+  "countrySlug": "soviet-union",
+  "year": 1962,
+  "edition": "1962",
+  "host": "Chile",
+  "coach": "Gavriil Kachalin",
+  "finalPhase": "Quarter-final",
+  "result": "Quarter-final",
+  "squad": [
+    {
+      "id": "soviet-union-1962-1",
+      "name": "Lev Yashin",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "soviet-union-1962-2",
+      "name": "Vladimir Maslachenko",
+      "shirtNumber": 2,
+      "position": "GK"
+    },
+    {
+      "id": "soviet-union-1962-3",
+      "name": "Sergey Kotrikadze",
+      "shirtNumber": 3,
+      "position": "GK"
+    },
+    {
+      "id": "soviet-union-1962-4",
+      "name": "Eduard Dubinski",
+      "shirtNumber": 4,
+      "position": "DEF"
+    },
+    {
+      "id": "soviet-union-1962-5",
+      "name": "Givi Chokheli",
+      "shirtNumber": 5,
+      "position": "DEF"
+    },
+    {
+      "id": "soviet-union-1962-6",
+      "name": "Leonid Ostrovskiy",
+      "shirtNumber": 6,
+      "position": "DEF"
+    },
+    {
+      "id": "soviet-union-1962-7",
+      "name": "Anatoli Maslyonkin",
+      "shirtNumber": 7,
+      "position": "DEF"
+    },
+    {
+      "id": "soviet-union-1962-8",
+      "name": "Albert Shesternyov",
+      "shirtNumber": 8,
+      "position": "MID"
+    },
+    {
+      "id": "soviet-union-1962-9",
+      "name": "Nikolai Manoshin",
+      "shirtNumber": 9,
+      "position": "MID"
+    },
+    {
+      "id": "soviet-union-1962-10",
+      "name": "Igor Netto",
+      "shirtNumber": 10,
+      "position": "MID"
+    },
+    {
+      "id": "soviet-union-1962-11",
+      "name": "Yozhef Sabo",
+      "shirtNumber": 11,
+      "position": "MID"
+    },
+    {
+      "id": "soviet-union-1962-12",
+      "name": "Valery Voronin",
+      "shirtNumber": 12,
+      "position": "DEF"
+    },
+    {
+      "id": "soviet-union-1962-13",
+      "name": "Gennadi Gusarov",
+      "shirtNumber": 13,
+      "position": "ATT"
+    },
+    {
+      "id": "soviet-union-1962-14",
+      "name": "Valentin Ivanov",
+      "shirtNumber": 14,
+      "position": "ATT"
+    },
+    {
+      "id": "soviet-union-1962-15",
+      "name": "Viktor Kanevski",
+      "shirtNumber": 15,
+      "position": "ATT"
+    },
+    {
+      "id": "soviet-union-1962-16",
+      "name": "Aleksei Mamykin",
+      "shirtNumber": 16,
+      "position": "ATT"
+    },
+    {
+      "id": "soviet-union-1962-17",
+      "name": "Mikhail Meskhi",
+      "shirtNumber": 17,
+      "position": "ATT"
+    },
+    {
+      "id": "soviet-union-1962-18",
+      "name": "Slava Metreveli",
+      "shirtNumber": 18,
+      "position": "MID"
+    },
+    {
+      "id": "soviet-union-1962-19",
+      "name": "Viktor Ponedelnik",
+      "shirtNumber": 19,
+      "position": "ATT"
+    },
+    {
+      "id": "soviet-union-1962-20",
+      "name": "Viktor Serebryanikov",
+      "shirtNumber": 20,
+      "position": "ATT"
+    },
+    {
+      "id": "soviet-union-1962-21",
+      "name": "Galimzyan Khusainov",
+      "shirtNumber": 21,
+      "position": "MID"
+    },
+    {
+      "id": "soviet-union-1962-22",
+      "name": "Igor Chislenko",
+      "shirtNumber": 22,
+      "position": "MID"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "Yugoslavia",
+      "score": "2–0",
+      "scorers": [
+        {
+          "name": "Valentin Ivanov",
+          "minute": "51'",
+          "ownGoal": false
+        },
+        {
+          "name": "Viktor Ponedelnik",
+          "minute": "83'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1962-05-31"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Colombia",
+      "score": "4–4",
+      "scorers": [
+        {
+          "name": "Valentin Ivanov",
+          "minute": "8'",
+          "ownGoal": false
+        },
+        {
+          "name": "Igor Chislenko",
+          "minute": "10'",
+          "ownGoal": false
+        },
+        {
+          "name": "Valentin Ivanov",
+          "minute": "11'",
+          "ownGoal": false
+        },
+        {
+          "name": "Germán Aceros",
+          "minute": "21'",
+          "ownGoal": false
+        },
+        {
+          "name": "Viktor Ponedelnik",
+          "minute": "56'",
+          "ownGoal": false
+        },
+        {
+          "name": "Marcos Coll",
+          "minute": "68'",
+          "ownGoal": false
+        },
+        {
+          "name": "Antonio Rada",
+          "minute": "72'",
+          "ownGoal": false
+        },
+        {
+          "name": "Marino Klinger",
+          "minute": "86'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1962-06-03"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Uruguay",
+      "score": "2–1",
+      "scorers": [
+        {
+          "name": "Aleksei Mamykin",
+          "minute": "38'",
+          "ownGoal": false
+        },
+        {
+          "name": "José Sasía",
+          "minute": "54'",
+          "ownGoal": false
+        },
+        {
+          "name": "Valentin Ivanov",
+          "minute": "89'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1962-06-06"
+    },
+    {
+      "stage": "Quarter-final",
+      "opponent": "Chile",
+      "score": "2–1",
+      "scorers": [
+        {
+          "name": "Leonel Sánchez",
+          "minute": "11'",
+          "ownGoal": false
+        },
+        {
+          "name": "Igor Chislenko",
+          "minute": "26'",
+          "ownGoal": false
+        },
+        {
+          "name": "Eladio Rojas",
+          "minute": "29'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1962-06-10"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

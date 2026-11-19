@@ -1,0 +1,287 @@
+{
+  "country": "Brazil",
+  "countrySlug": "brazil",
+  "year": 2026,
+  "edition": "2026",
+  "host": "Canada, Mexico and United States",
+  "coach": "ANCELOTTI Carlo",
+  "finalPhase": "Round of 16",
+  "result": "Round of 16",
+  "squad": [
+    {
+      "id": "brazil-2026-1",
+      "name": "Álisson Ramsés BECKER",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "brazil-2026-2",
+      "name": "Éderson José DOS SANTOS LOURENÇO DA SILVA",
+      "shirtNumber": 2,
+      "position": "MID"
+    },
+    {
+      "id": "brazil-2026-3",
+      "name": "Gabriel DOS SANTOS MAGALHÃES",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "brazil-2026-4",
+      "name": "Marcos AOAS CORREA",
+      "shirtNumber": 4,
+      "position": "DEF"
+    },
+    {
+      "id": "brazil-2026-5",
+      "name": "Carlos Henrique CASIMIRO",
+      "shirtNumber": 5,
+      "position": "MID"
+    },
+    {
+      "id": "brazil-2026-6",
+      "name": "Alex Sandro LOBO SILVA",
+      "shirtNumber": 6,
+      "position": "DEF"
+    },
+    {
+      "id": "brazil-2026-7",
+      "name": "Vinicius José PAIXÃO DE OLIVEIRA JÚNIOR",
+      "shirtNumber": 7,
+      "position": "ATT"
+    },
+    {
+      "id": "brazil-2026-8",
+      "name": "Bruno GUIMARÃES RODRIGUEZ MOURA",
+      "shirtNumber": 8,
+      "position": "MID"
+    },
+    {
+      "id": "brazil-2026-9",
+      "name": "Matheus SANTOS CARNEIRO DA CUNHA",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "brazil-2026-10",
+      "name": "Neymar DA SILVA SANTOS JÚNIOR",
+      "shirtNumber": 10,
+      "position": "ATT"
+    },
+    {
+      "id": "brazil-2026-11",
+      "name": "Raphael DIAS BELLOLI",
+      "shirtNumber": 11,
+      "position": "ATT"
+    },
+    {
+      "id": "brazil-2026-12",
+      "name": "Weverton PEREIRA DA SILVA",
+      "shirtNumber": 12,
+      "position": "GK"
+    },
+    {
+      "id": "brazil-2026-13",
+      "name": "Danilo Luiz DA SILVA",
+      "shirtNumber": 13,
+      "position": "DEF"
+    },
+    {
+      "id": "brazil-2026-14",
+      "name": "Gleison Bremer SILVA NASCIMENTO",
+      "shirtNumber": 14,
+      "position": "DEF"
+    },
+    {
+      "id": "brazil-2026-15",
+      "name": "Leonardo PEREIRA",
+      "shirtNumber": 15,
+      "position": "DEF"
+    },
+    {
+      "id": "brazil-2026-16",
+      "name": "Douglas DOS SANTOS JUSTINO DE MELO",
+      "shirtNumber": 16,
+      "position": "DEF"
+    },
+    {
+      "id": "brazil-2026-17",
+      "name": "Fabio Henrique TAVARES",
+      "shirtNumber": 17,
+      "position": "MID"
+    },
+    {
+      "id": "brazil-2026-18",
+      "name": "Danilo DOS SANTOS DE OLIVEIRA",
+      "shirtNumber": 18,
+      "position": "MID"
+    },
+    {
+      "id": "brazil-2026-19",
+      "name": "Endrick Felipe MOREIRA DE SOUSA PESSOA",
+      "shirtNumber": 19,
+      "position": "ATT"
+    },
+    {
+      "id": "brazil-2026-20",
+      "name": "Lucas TOLENTINO COELHO DE LIMA",
+      "shirtNumber": 20,
+      "position": "MID"
+    },
+    {
+      "id": "brazil-2026-21",
+      "name": "Luiz Henrique André ROSA DA SILVA",
+      "shirtNumber": 21,
+      "position": "ATT"
+    },
+    {
+      "id": "brazil-2026-22",
+      "name": "Gabriel TEODORO MARTINELLI SILVA",
+      "shirtNumber": 22,
+      "position": "ATT"
+    },
+    {
+      "id": "brazil-2026-23",
+      "name": "Ederson SANTANA DE MORAES",
+      "shirtNumber": 23,
+      "position": "GK"
+    },
+    {
+      "id": "brazil-2026-24",
+      "name": "Roger IBAÑEZ DA SILVA",
+      "shirtNumber": 24,
+      "position": "DEF"
+    },
+    {
+      "id": "brazil-2026-25",
+      "name": "Igor Thiago NASCIMENTO RODRIGUES",
+      "shirtNumber": 25,
+      "position": "ATT"
+    },
+    {
+      "id": "brazil-2026-26",
+      "name": "Rayan Vitor SIMPLICIO ROCHA",
+      "shirtNumber": 26,
+      "position": "ATT"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group Stage",
+      "opponent": "Morocco",
+      "score": "1–1",
+      "scorers": [
+        {
+          "name": "Ismael SAIBARI",
+          "minute": 21,
+          "ownGoal": false
+        },
+        {
+          "name": "José Vinicius",
+          "minute": 32,
+          "ownGoal": false
+        }
+      ],
+      "date": "2026-06-13"
+    },
+    {
+      "stage": "Group Stage",
+      "opponent": "Haiti",
+      "score": "3–0",
+      "scorers": [
+        {
+          "name": "Matheus SANTOS CARNEIRO DA CUNHA",
+          "minute": 23,
+          "ownGoal": false
+        },
+        {
+          "name": "Matheus SANTOS CARNEIRO DA CUNHA",
+          "minute": 36,
+          "ownGoal": false
+        },
+        {
+          "name": "José Vinicius",
+          "minute": 45,
+          "ownGoal": false
+        }
+      ],
+      "date": "2026-06-19"
+    },
+    {
+      "stage": "Group Stage",
+      "opponent": "Scotland",
+      "score": "0–3",
+      "scorers": [
+        {
+          "name": "José Vinicius",
+          "minute": 7,
+          "ownGoal": false
+        },
+        {
+          "name": "José Vinicius",
+          "minute": 45,
+          "ownGoal": false
+        },
+        {
+          "name": "Matheus SANTOS CARNEIRO DA CUNHA",
+          "minute": 60,
+          "ownGoal": false
+        }
+      ],
+      "date": "2026-06-25"
+    },
+    {
+      "stage": "Round of 32",
+      "opponent": "Japan",
+      "score": "2–1",
+      "scorers": [
+        {
+          "name": "Kaishu SANO",
+          "minute": 29,
+          "ownGoal": false
+        },
+        {
+          "name": "Carlos Henrique CASIMIRO",
+          "minute": 56,
+          "ownGoal": false
+        },
+        {
+          "name": "MARTINELLIGabriel Gabriel",
+          "minute": 90,
+          "ownGoal": false
+        }
+      ],
+      "date": "2026-06-29"
+    },
+    {
+      "stage": "Round of 16",
+      "opponent": "Norway",
+      "score": "1–2",
+      "scorers": [
+        {
+          "name": "Erling Braut HAALAND",
+          "minute": 79,
+          "ownGoal": false
+        },
+        {
+          "name": "Neymar DA SILVA SANTOS JÚNIOR",
+          "minute": 90,
+          "ownGoal": false
+        },
+        {
+          "name": "Erling Braut HAALAND",
+          "minute": 90,
+          "ownGoal": false
+        }
+      ],
+      "date": "2026-07-05"
+    }
+  ],
+  "sources": [
+    "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/final-tournament-standings",
+    "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/teams",
+    "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+    "https://github.com/openfootball/worldcup.json",
+    "https://github.com/mominullptr/FIFA-World-Cup-2026-Dataset"
+  ]
+}

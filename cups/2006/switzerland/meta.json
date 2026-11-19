@@ -1,0 +1,209 @@
+{
+  "country": "Switzerland",
+  "countrySlug": "switzerland",
+  "year": 2006,
+  "edition": "2006",
+  "host": "Germany",
+  "coach": "Köbi Kuhn",
+  "finalPhase": "Round of 16",
+  "result": "Round of 16",
+  "squad": [
+    {
+      "id": "switzerland-2006-1",
+      "name": "Pascal Zuberbühler",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "switzerland-2006-2",
+      "name": "Johan Djourou",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "switzerland-2006-3",
+      "name": "Ludovic Magnin",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "switzerland-2006-4",
+      "name": "Philippe Senderos",
+      "shirtNumber": 4,
+      "position": "DEF"
+    },
+    {
+      "id": "switzerland-2006-5",
+      "name": "Xavier Margairaz",
+      "shirtNumber": 5,
+      "position": "MID"
+    },
+    {
+      "id": "switzerland-2006-6",
+      "name": "Johann Vogel",
+      "shirtNumber": 6,
+      "position": "MID"
+    },
+    {
+      "id": "switzerland-2006-7",
+      "name": "Ricardo Cabanas",
+      "shirtNumber": 7,
+      "position": "MID"
+    },
+    {
+      "id": "switzerland-2006-8",
+      "name": "Raphaël Wicky",
+      "shirtNumber": 8,
+      "position": "DEF"
+    },
+    {
+      "id": "switzerland-2006-9",
+      "name": "Alexander Frei",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "switzerland-2006-10",
+      "name": "Daniel Gygax",
+      "shirtNumber": 10,
+      "position": "ATT"
+    },
+    {
+      "id": "switzerland-2006-11",
+      "name": "Marco Streller",
+      "shirtNumber": 11,
+      "position": "ATT"
+    },
+    {
+      "id": "switzerland-2006-12",
+      "name": "Diego Benaglio",
+      "shirtNumber": 12,
+      "position": "GK"
+    },
+    {
+      "id": "switzerland-2006-13",
+      "name": "Stéphane Grichting",
+      "shirtNumber": 13,
+      "position": "DEF"
+    },
+    {
+      "id": "switzerland-2006-14",
+      "name": "David Degen",
+      "shirtNumber": 14,
+      "position": "MID"
+    },
+    {
+      "id": "switzerland-2006-15",
+      "name": "Blerim Džemaili",
+      "shirtNumber": 15,
+      "position": "MID"
+    },
+    {
+      "id": "switzerland-2006-16",
+      "name": "Tranquillo Barnetta",
+      "shirtNumber": 16,
+      "position": "MID"
+    },
+    {
+      "id": "switzerland-2006-17",
+      "name": "Christoph Spycher",
+      "shirtNumber": 17,
+      "position": "DEF"
+    },
+    {
+      "id": "switzerland-2006-18",
+      "name": "Mauro Lustrinelli",
+      "shirtNumber": 18,
+      "position": "ATT"
+    },
+    {
+      "id": "switzerland-2006-19",
+      "name": "Valon Behrami",
+      "shirtNumber": 19,
+      "position": "MID"
+    },
+    {
+      "id": "switzerland-2006-20",
+      "name": "Patrick Müller",
+      "shirtNumber": 20,
+      "position": "DEF"
+    },
+    {
+      "id": "switzerland-2006-21",
+      "name": "Fabio Coltorti",
+      "shirtNumber": 21,
+      "position": "GK"
+    },
+    {
+      "id": "switzerland-2006-22",
+      "name": "Hakan Yakin",
+      "shirtNumber": 22,
+      "position": "MID"
+    },
+    {
+      "id": "switzerland-2006-23",
+      "name": "Philipp Degen",
+      "shirtNumber": 23,
+      "position": "DEF"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "France",
+      "score": "0–0",
+      "scorers": [],
+      "date": "2006-06-13"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Togo",
+      "score": "0–2",
+      "scorers": [
+        {
+          "name": "Alexander Frei",
+          "minute": "16'",
+          "ownGoal": false
+        },
+        {
+          "name": "Tranquillo Barnetta",
+          "minute": "88'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2006-06-19"
+    },
+    {
+      "stage": "Group",
+      "opponent": "South Korea",
+      "score": "2–0",
+      "scorers": [
+        {
+          "name": "Philippe Senderos",
+          "minute": "23'",
+          "ownGoal": false
+        },
+        {
+          "name": "Alexander Frei",
+          "minute": "77'",
+          "ownGoal": false
+        }
+      ],
+      "date": "2006-06-23"
+    },
+    {
+      "stage": "Round of 16",
+      "opponent": "Ukraine",
+      "score": "0–0",
+      "scorers": [],
+      "date": "2006-06-26"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

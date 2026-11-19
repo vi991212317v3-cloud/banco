@@ -1,0 +1,250 @@
+{
+  "country": "Chile",
+  "countrySlug": "chile",
+  "year": 1998,
+  "edition": "1998",
+  "host": "France",
+  "coach": "Nelson Acosta",
+  "finalPhase": "Round of 16",
+  "result": "Round of 16",
+  "squad": [
+    {
+      "id": "chile-1998-1",
+      "name": "Nelson Tapia",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "chile-1998-2",
+      "name": "Cristián Castañeda",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "chile-1998-3",
+      "name": "Ronald Fuentes",
+      "shirtNumber": 3,
+      "position": "DEF"
+    },
+    {
+      "id": "chile-1998-4",
+      "name": "Francisco Rojas",
+      "shirtNumber": 4,
+      "position": "DEF"
+    },
+    {
+      "id": "chile-1998-5",
+      "name": "Javier Margas",
+      "shirtNumber": 5,
+      "position": "DEF"
+    },
+    {
+      "id": "chile-1998-6",
+      "name": "Pedro Reyes",
+      "shirtNumber": 6,
+      "position": "DEF"
+    },
+    {
+      "id": "chile-1998-7",
+      "name": "Nelson Parraguez",
+      "shirtNumber": 7,
+      "position": "MID"
+    },
+    {
+      "id": "chile-1998-8",
+      "name": "Clarence Acuña",
+      "shirtNumber": 8,
+      "position": "MID"
+    },
+    {
+      "id": "chile-1998-9",
+      "name": "Iván Zamorano",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "chile-1998-10",
+      "name": "José Luis Sierra",
+      "shirtNumber": 10,
+      "position": "MID"
+    },
+    {
+      "id": "chile-1998-11",
+      "name": "Marcelo Salas",
+      "shirtNumber": 11,
+      "position": "ATT"
+    },
+    {
+      "id": "chile-1998-12",
+      "name": "Marcelo Ramírez",
+      "shirtNumber": 12,
+      "position": "GK"
+    },
+    {
+      "id": "chile-1998-13",
+      "name": "Manuel Neira",
+      "shirtNumber": 13,
+      "position": "ATT"
+    },
+    {
+      "id": "chile-1998-14",
+      "name": "Miguel Ramírez",
+      "shirtNumber": 14,
+      "position": "DEF"
+    },
+    {
+      "id": "chile-1998-15",
+      "name": "Moisés Villarroel",
+      "shirtNumber": 15,
+      "position": "DEF"
+    },
+    {
+      "id": "chile-1998-16",
+      "name": "Mauricio Aros",
+      "shirtNumber": 16,
+      "position": "DEF"
+    },
+    {
+      "id": "chile-1998-17",
+      "name": "Marcelo Vega",
+      "shirtNumber": 17,
+      "position": "MID"
+    },
+    {
+      "id": "chile-1998-18",
+      "name": "Luis Musrri",
+      "shirtNumber": 18,
+      "position": "MID"
+    },
+    {
+      "id": "chile-1998-19",
+      "name": "Fernando Cornejo",
+      "shirtNumber": 19,
+      "position": "MID"
+    },
+    {
+      "id": "chile-1998-20",
+      "name": "Fabián Estay",
+      "shirtNumber": 20,
+      "position": "MID"
+    },
+    {
+      "id": "chile-1998-21",
+      "name": "Rodrigo Barrera",
+      "shirtNumber": 21,
+      "position": "ATT"
+    },
+    {
+      "id": "chile-1998-22",
+      "name": "Carlos Tejas",
+      "shirtNumber": 22,
+      "position": "GK"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "Italy",
+      "score": "2–2",
+      "scorers": [
+        {
+          "name": "Christian Vieri",
+          "minute": "10'",
+          "ownGoal": false
+        },
+        {
+          "name": "Marcelo Salas",
+          "minute": "45'+3'",
+          "ownGoal": false
+        },
+        {
+          "name": "Marcelo Salas",
+          "minute": "50'",
+          "ownGoal": false
+        },
+        {
+          "name": "Roberto Baggio",
+          "minute": "84'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1998-06-11"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Austria",
+      "score": "1–1",
+      "scorers": [
+        {
+          "name": "Marcelo Salas",
+          "minute": "70'",
+          "ownGoal": false
+        },
+        {
+          "name": "Ivica Vastić",
+          "minute": "90'+2'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1998-06-17"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Cameroon",
+      "score": "1–1",
+      "scorers": [
+        {
+          "name": "José Luis Sierra",
+          "minute": "20'",
+          "ownGoal": false
+        },
+        {
+          "name": "Patrick M'Boma",
+          "minute": "56'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1998-06-23"
+    },
+    {
+      "stage": "Round of 16",
+      "opponent": "Brazil",
+      "score": "4–1",
+      "scorers": [
+        {
+          "name": "César Sampaio",
+          "minute": "11'",
+          "ownGoal": false
+        },
+        {
+          "name": "César Sampaio",
+          "minute": "26'",
+          "ownGoal": false
+        },
+        {
+          "name": "Ronaldo",
+          "minute": "45'+3'",
+          "ownGoal": false
+        },
+        {
+          "name": "Marcelo Salas",
+          "minute": "70'",
+          "ownGoal": false
+        },
+        {
+          "name": "Ronaldo",
+          "minute": "72'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1998-06-27"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

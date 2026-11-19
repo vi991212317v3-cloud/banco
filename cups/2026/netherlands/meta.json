@@ -1,0 +1,289 @@
+{
+  "country": "Netherlands",
+  "countrySlug": "netherlands",
+  "year": 2026,
+  "edition": "2026",
+  "host": "Canada, Mexico and United States",
+  "coach": "KOEMAN Ronald",
+  "finalPhase": "Round of 32",
+  "result": "Round of 32",
+  "squad": [
+    {
+      "id": "netherlands-2026-1",
+      "name": "Bart VERBRUGGEN",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "netherlands-2026-2",
+      "name": "Lutsharel Emiliano GEERTRUIDA",
+      "shirtNumber": 2,
+      "position": "DEF"
+    },
+    {
+      "id": "netherlands-2026-3",
+      "name": "Marten Elco DE ROON",
+      "shirtNumber": 3,
+      "position": "MID"
+    },
+    {
+      "id": "netherlands-2026-4",
+      "name": "Virgil VAN DIJK",
+      "shirtNumber": 4,
+      "position": "DEF"
+    },
+    {
+      "id": "netherlands-2026-5",
+      "name": "Nathan Benjamin AKE",
+      "shirtNumber": 5,
+      "position": "DEF"
+    },
+    {
+      "id": "netherlands-2026-6",
+      "name": "Jan-Paul VAN HECKE",
+      "shirtNumber": 6,
+      "position": "DEF"
+    },
+    {
+      "id": "netherlands-2026-7",
+      "name": "Justin Dean KLUIVERT",
+      "shirtNumber": 7,
+      "position": "MID"
+    },
+    {
+      "id": "netherlands-2026-8",
+      "name": "Ryan Jiro GRAVENBERCH",
+      "shirtNumber": 8,
+      "position": "MID"
+    },
+    {
+      "id": "netherlands-2026-9",
+      "name": "Wout François Maria WEGHORST",
+      "shirtNumber": 9,
+      "position": "ATT"
+    },
+    {
+      "id": "netherlands-2026-10",
+      "name": "Memphis DEPAY",
+      "shirtNumber": 10,
+      "position": "ATT"
+    },
+    {
+      "id": "netherlands-2026-11",
+      "name": "Cody Mathès GAKPO",
+      "shirtNumber": 11,
+      "position": "ATT"
+    },
+    {
+      "id": "netherlands-2026-12",
+      "name": "Mats Henrik Berne WIEFFER",
+      "shirtNumber": 12,
+      "position": "DEF"
+    },
+    {
+      "id": "netherlands-2026-13",
+      "name": "Robin Gerardus Petrus ROEFS",
+      "shirtNumber": 13,
+      "position": "GK"
+    },
+    {
+      "id": "netherlands-2026-14",
+      "name": "Tijjani Martinus Jan REIJNDERS",
+      "shirtNumber": 14,
+      "position": "MID"
+    },
+    {
+      "id": "netherlands-2026-15",
+      "name": "Micky VAN DE VEN",
+      "shirtNumber": 15,
+      "position": "DEF"
+    },
+    {
+      "id": "netherlands-2026-16",
+      "name": "Guus Berend TIL",
+      "shirtNumber": 16,
+      "position": "MID"
+    },
+    {
+      "id": "netherlands-2026-17",
+      "name": "Noa Noëll LANG",
+      "shirtNumber": 17,
+      "position": "ATT"
+    },
+    {
+      "id": "netherlands-2026-18",
+      "name": "Donyell MALEN",
+      "shirtNumber": 18,
+      "position": "ATT"
+    },
+    {
+      "id": "netherlands-2026-19",
+      "name": "Brian Ebenezer Adjei BROBBEY",
+      "shirtNumber": 19,
+      "position": "ATT"
+    },
+    {
+      "id": "netherlands-2026-20",
+      "name": "Teun KOOPMEINERS",
+      "shirtNumber": 20,
+      "position": "MID"
+    },
+    {
+      "id": "netherlands-2026-21",
+      "name": "Frenkie DE JONG",
+      "shirtNumber": 21,
+      "position": "MID"
+    },
+    {
+      "id": "netherlands-2026-22",
+      "name": "Denzel Justus Morris DUMFRIES",
+      "shirtNumber": 22,
+      "position": "DEF"
+    },
+    {
+      "id": "netherlands-2026-23",
+      "name": "Mark Maria Hubertus FLEKKEN",
+      "shirtNumber": 23,
+      "position": "GK"
+    },
+    {
+      "id": "netherlands-2026-24",
+      "name": "Crysencio Jilbert Sylverio Cir SUMMERVILLE",
+      "shirtNumber": 24,
+      "position": "ATT"
+    },
+    {
+      "id": "netherlands-2026-25",
+      "name": "Jorrel Evan HATO",
+      "shirtNumber": 25,
+      "position": "DEF"
+    },
+    {
+      "id": "netherlands-2026-26",
+      "name": "Quinten Ryan Crispito TIMBER",
+      "shirtNumber": 26,
+      "position": "MID"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group Stage",
+      "opponent": "Japan",
+      "score": "2–2",
+      "scorers": [
+        {
+          "name": "Virgil VAN DIJK",
+          "minute": 50,
+          "ownGoal": false
+        },
+        {
+          "name": "Keito NAKAMURA",
+          "minute": 57,
+          "ownGoal": false
+        },
+        {
+          "name": "Crysencio Jilbert Sylverio Cir SUMMERVILLE",
+          "minute": 64,
+          "ownGoal": false
+        },
+        {
+          "name": "Daichi KAMADA",
+          "minute": 88,
+          "ownGoal": false
+        }
+      ],
+      "date": "2026-06-14"
+    },
+    {
+      "stage": "Group Stage",
+      "opponent": "Sweden",
+      "score": "5–1",
+      "scorers": [
+        {
+          "name": "Brian Ebenezer Adjei BROBBEY",
+          "minute": 5,
+          "ownGoal": false
+        },
+        {
+          "name": "Brian Ebenezer Adjei BROBBEY",
+          "minute": 17,
+          "ownGoal": false
+        },
+        {
+          "name": "Cody Mathès GAKPO",
+          "minute": 47,
+          "ownGoal": false
+        },
+        {
+          "name": "Cody Mathès GAKPO",
+          "minute": 54,
+          "ownGoal": false
+        },
+        {
+          "name": "Anthony David Junior ELANGA",
+          "minute": 59,
+          "ownGoal": false
+        },
+        {
+          "name": "Crysencio Jilbert Sylverio Cir SUMMERVILLE",
+          "minute": 89,
+          "ownGoal": false
+        }
+      ],
+      "date": "2026-06-20"
+    },
+    {
+      "stage": "Group Stage",
+      "opponent": "Tunisia",
+      "score": "1–3",
+      "scorers": [
+        {
+          "name": "Ellyes Joris SKHIRI",
+          "minute": 3,
+          "ownGoal": true
+        },
+        {
+          "name": "Brian Ebenezer Adjei BROBBEY",
+          "minute": 7,
+          "ownGoal": false
+        },
+        {
+          "name": "Hazem MASTOURI",
+          "minute": 54,
+          "ownGoal": false
+        },
+        {
+          "name": "Jan-Paul VAN HECKE",
+          "minute": 62,
+          "ownGoal": false
+        }
+      ],
+      "date": "2026-06-26"
+    },
+    {
+      "stage": "Round of 32",
+      "opponent": "Morocco",
+      "score": "1–1",
+      "scorers": [
+        {
+          "name": "Cody Mathès GAKPO",
+          "minute": 72,
+          "ownGoal": false
+        },
+        {
+          "name": "Issa Laye Lucas Jean DIOP",
+          "minute": 90,
+          "ownGoal": false
+        }
+      ],
+      "date": "2026-06-30"
+    }
+  ],
+  "sources": [
+    "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/final-tournament-standings",
+    "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/teams",
+    "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+    "https://github.com/openfootball/worldcup.json",
+    "https://github.com/mominullptr/FIFA-World-Cup-2026-Dataset"
+  ]
+}

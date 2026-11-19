@@ -1,0 +1,260 @@
+{
+  "country": "Czechoslovakia",
+  "countrySlug": "czechoslovakia",
+  "year": 1934,
+  "edition": "1934",
+  "host": "Italy",
+  "coach": "Karel Petrů",
+  "finalPhase": "Final",
+  "result": "Runner-up",
+  "squad": [
+    {
+      "id": "czechoslovakia-1934-020",
+      "name": "Adolf Šimperský",
+      "shirtNumber": null,
+      "position": "MID"
+    },
+    {
+      "id": "czechoslovakia-1934-012",
+      "name": "Antonín Puč",
+      "shirtNumber": null,
+      "position": "ATT"
+    },
+    {
+      "id": "czechoslovakia-1934-017",
+      "name": "Antonín Vodička",
+      "shirtNumber": null,
+      "position": "MID"
+    },
+    {
+      "id": "czechoslovakia-1934-015",
+      "name": "Erich Srbek",
+      "shirtNumber": null,
+      "position": "ATT"
+    },
+    {
+      "id": "czechoslovakia-1934-003",
+      "name": "Ferdinand Daučík",
+      "shirtNumber": null,
+      "position": "DEF"
+    },
+    {
+      "id": "czechoslovakia-1934-004",
+      "name": "František Junek",
+      "shirtNumber": null,
+      "position": "ATT"
+    },
+    {
+      "id": "czechoslovakia-1934-011",
+      "name": "František Plánička",
+      "shirtNumber": null,
+      "position": "GK"
+    },
+    {
+      "id": "czechoslovakia-1934-016",
+      "name": "František Svoboda",
+      "shirtNumber": null,
+      "position": "ATT"
+    },
+    {
+      "id": "czechoslovakia-1934-021",
+      "name": "František Šterc",
+      "shirtNumber": null,
+      "position": "ATT"
+    },
+    {
+      "id": "czechoslovakia-1934-005",
+      "name": "Géza Kalocsay",
+      "shirtNumber": null,
+      "position": "ATT"
+    },
+    {
+      "id": "czechoslovakia-1934-001",
+      "name": "Jaroslav Bouček",
+      "shirtNumber": null,
+      "position": "MID"
+    },
+    {
+      "id": "czechoslovakia-1934-002",
+      "name": "Jaroslav Burgr",
+      "shirtNumber": null,
+      "position": "DEF"
+    },
+    {
+      "id": "czechoslovakia-1934-014",
+      "name": "Jiří Sobotka",
+      "shirtNumber": null,
+      "position": "ATT"
+    },
+    {
+      "id": "czechoslovakia-1934-007",
+      "name": "Josef Košťálek",
+      "shirtNumber": null,
+      "position": "MID"
+    },
+    {
+      "id": "czechoslovakia-1934-013",
+      "name": "Josef Silný",
+      "shirtNumber": null,
+      "position": "ATT"
+    },
+    {
+      "id": "czechoslovakia-1934-019",
+      "name": "Josef Čtyřoký",
+      "shirtNumber": null,
+      "position": "DEF"
+    },
+    {
+      "id": "czechoslovakia-1934-022",
+      "name": "Ladislav Ženíšek",
+      "shirtNumber": null,
+      "position": "DEF"
+    },
+    {
+      "id": "czechoslovakia-1934-009",
+      "name": "Oldřich Nejedlý",
+      "shirtNumber": null,
+      "position": "ATT"
+    },
+    {
+      "id": "czechoslovakia-1934-008",
+      "name": "Rudolf Krčil",
+      "shirtNumber": null,
+      "position": "MID"
+    },
+    {
+      "id": "czechoslovakia-1934-006",
+      "name": "Vlastimil Kopecký",
+      "shirtNumber": null,
+      "position": "MID"
+    },
+    {
+      "id": "czechoslovakia-1934-010",
+      "name": "Čestmír Patzel",
+      "shirtNumber": null,
+      "position": "GK"
+    },
+    {
+      "id": "czechoslovakia-1934-018",
+      "name": "Štefan Čambal",
+      "shirtNumber": null,
+      "position": "MID"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Round of 16",
+      "opponent": "Romania",
+      "score": "2–1",
+      "scorers": [
+        {
+          "name": "Ștefan Dobay",
+          "minute": "11'",
+          "ownGoal": false
+        },
+        {
+          "name": "Antonín Puč",
+          "minute": "50'",
+          "ownGoal": false
+        },
+        {
+          "name": "Oldřich Nejedlý",
+          "minute": "67'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1934-05-27"
+    },
+    {
+      "stage": "Quarter-final",
+      "opponent": "Switzerland",
+      "score": "3–2",
+      "scorers": [
+        {
+          "name": "Leopold Kielholz",
+          "minute": "18'",
+          "ownGoal": false
+        },
+        {
+          "name": "František Svoboda",
+          "minute": "24'",
+          "ownGoal": false
+        },
+        {
+          "name": "Jiří Sobotka",
+          "minute": "49'",
+          "ownGoal": false
+        },
+        {
+          "name": "Willy Jäggi",
+          "minute": "78'",
+          "ownGoal": false
+        },
+        {
+          "name": "Oldřich Nejedlý",
+          "minute": "82'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1934-05-31"
+    },
+    {
+      "stage": "Semi-final",
+      "opponent": "Germany",
+      "score": "3–1",
+      "scorers": [
+        {
+          "name": "Oldřich Nejedlý",
+          "minute": "21'",
+          "ownGoal": false
+        },
+        {
+          "name": "Rudolf Noack",
+          "minute": "62'",
+          "ownGoal": false
+        },
+        {
+          "name": "Oldřich Nejedlý",
+          "minute": "69'",
+          "ownGoal": false
+        },
+        {
+          "name": "Oldřich Nejedlý",
+          "minute": "80'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1934-06-03"
+    },
+    {
+      "stage": "Final",
+      "opponent": "Italy",
+      "score": "2–1",
+      "scorers": [
+        {
+          "name": "Antonín Puč",
+          "minute": "71'",
+          "ownGoal": false
+        },
+        {
+          "name": "Raimundo Orsi",
+          "minute": "81'",
+          "ownGoal": false
+        },
+        {
+          "name": "Angelo Schiavio",
+          "minute": "95'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1934-06-10"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

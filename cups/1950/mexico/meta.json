@@ -1,0 +1,237 @@
+{
+  "country": "Mexico",
+  "countrySlug": "mexico",
+  "year": 1950,
+  "edition": "1950",
+  "host": "Brazil",
+  "coach": "Octavio Vial",
+  "finalPhase": "Group Stage",
+  "result": "Group Stage",
+  "squad": [
+    {
+      "id": "mexico-1950-011",
+      "name": "Alfonso Montemayor",
+      "shirtNumber": null,
+      "position": "DEF"
+    },
+    {
+      "id": "mexico-1950-002",
+      "name": "Antonio Carbajal",
+      "shirtNumber": null,
+      "position": "GK"
+    },
+    {
+      "id": "mexico-1950-006",
+      "name": "Antonio Flores",
+      "shirtNumber": null,
+      "position": "MID"
+    },
+    {
+      "id": "mexico-1950-007",
+      "name": "Carlos Guevara",
+      "shirtNumber": null,
+      "position": "MID"
+    },
+    {
+      "id": "mexico-1950-020",
+      "name": "Carlos Septién",
+      "shirtNumber": null,
+      "position": "ATT"
+    },
+    {
+      "id": "mexico-1950-022",
+      "name": "Felipe Zetter",
+      "shirtNumber": null,
+      "position": "DEF"
+    },
+    {
+      "id": "mexico-1950-010",
+      "name": "Francisco Hernández",
+      "shirtNumber": null,
+      "position": "MID"
+    },
+    {
+      "id": "mexico-1950-009",
+      "name": "Gregorio Gómez",
+      "shirtNumber": null,
+      "position": "DEF"
+    },
+    {
+      "id": "mexico-1950-003",
+      "name": "Horacio Casarín",
+      "shirtNumber": null,
+      "position": "ATT"
+    },
+    {
+      "id": "mexico-1950-015",
+      "name": "Héctor Ortiz",
+      "shirtNumber": null,
+      "position": "MID"
+    },
+    {
+      "id": "mexico-1950-018",
+      "name": "José Antonio Roca",
+      "shirtNumber": null,
+      "position": "DEF"
+    },
+    {
+      "id": "mexico-1950-001",
+      "name": "José Luis Borbolla",
+      "shirtNumber": null,
+      "position": "ATT"
+    },
+    {
+      "id": "mexico-1950-012",
+      "name": "José Naranjo",
+      "shirtNumber": null,
+      "position": "ATT"
+    },
+    {
+      "id": "mexico-1950-021",
+      "name": "José Velázquez",
+      "shirtNumber": null,
+      "position": "ATT"
+    },
+    {
+      "id": "mexico-1950-013",
+      "name": "Leonardo Navarro",
+      "shirtNumber": null,
+      "position": "ATT"
+    },
+    {
+      "id": "mexico-1950-008",
+      "name": "Manuel Gutiérrez",
+      "shirtNumber": null,
+      "position": "DEF"
+    },
+    {
+      "id": "mexico-1950-014",
+      "name": "Mario Ochoa",
+      "shirtNumber": null,
+      "position": "MID"
+    },
+    {
+      "id": "mexico-1950-017",
+      "name": "Mario Pérez",
+      "shirtNumber": null,
+      "position": "MID"
+    },
+    {
+      "id": "mexico-1950-016",
+      "name": "Max Prieto",
+      "shirtNumber": null,
+      "position": "ATT"
+    },
+    {
+      "id": "mexico-1950-005",
+      "name": "Raúl Córdoba",
+      "shirtNumber": null,
+      "position": "GK"
+    },
+    {
+      "id": "mexico-1950-019",
+      "name": "Rodrigo Ruiz",
+      "shirtNumber": null,
+      "position": "DEF"
+    },
+    {
+      "id": "mexico-1950-004",
+      "name": "Samuel Cuburu",
+      "shirtNumber": null,
+      "position": "MID"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "Brazil",
+      "score": "4–0",
+      "scorers": [
+        {
+          "name": "Ademir",
+          "minute": "30'",
+          "ownGoal": false
+        },
+        {
+          "name": "Jair",
+          "minute": "65'",
+          "ownGoal": false
+        },
+        {
+          "name": "Baltazar",
+          "minute": "71'",
+          "ownGoal": false
+        },
+        {
+          "name": "Ademir",
+          "minute": "79'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1950-06-24"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Yugoslavia",
+      "score": "4–1",
+      "scorers": [
+        {
+          "name": "Stjepan Bobek",
+          "minute": "20'",
+          "ownGoal": false
+        },
+        {
+          "name": "Željko Čajkovski",
+          "minute": "23'",
+          "ownGoal": false
+        },
+        {
+          "name": "Željko Čajkovski",
+          "minute": "51'",
+          "ownGoal": false
+        },
+        {
+          "name": "Kosta Tomašević",
+          "minute": "81'",
+          "ownGoal": false
+        },
+        {
+          "name": "Héctor Ortiz",
+          "minute": "89'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1950-06-28"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Switzerland",
+      "score": "2–1",
+      "scorers": [
+        {
+          "name": "René Bader",
+          "minute": "10'",
+          "ownGoal": false
+        },
+        {
+          "name": "Charles Antenen",
+          "minute": "44'",
+          "ownGoal": false
+        },
+        {
+          "name": "Horacio Casarín",
+          "minute": "89'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1950-07-02"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}

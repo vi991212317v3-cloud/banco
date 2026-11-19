@@ -1,0 +1,391 @@
+{
+  "country": "France",
+  "countrySlug": "france",
+  "year": 1958,
+  "edition": "1958",
+  "host": "Sweden",
+  "coach": "Albert Batteux",
+  "finalPhase": "Third-place match",
+  "result": "Third place",
+  "squad": [
+    {
+      "id": "france-1958-1",
+      "name": "Claude Abbes",
+      "shirtNumber": 1,
+      "position": "GK"
+    },
+    {
+      "id": "france-1958-2",
+      "name": "Dominique Colonna",
+      "shirtNumber": 2,
+      "position": "GK"
+    },
+    {
+      "id": "france-1958-3",
+      "name": "François Remetter",
+      "shirtNumber": 3,
+      "position": "GK"
+    },
+    {
+      "id": "france-1958-4",
+      "name": "Raymond Kaelbel",
+      "shirtNumber": 4,
+      "position": "DEF"
+    },
+    {
+      "id": "france-1958-5",
+      "name": "André Lerond",
+      "shirtNumber": 5,
+      "position": "DEF"
+    },
+    {
+      "id": "france-1958-6",
+      "name": "Roger Marche",
+      "shirtNumber": 6,
+      "position": "DEF"
+    },
+    {
+      "id": "france-1958-7",
+      "name": "Robert Mouynet",
+      "shirtNumber": 7,
+      "position": "DEF"
+    },
+    {
+      "id": "france-1958-8",
+      "name": "Bernard Chiarelli",
+      "shirtNumber": 8,
+      "position": "MID"
+    },
+    {
+      "id": "france-1958-9",
+      "name": "Kazimir Hnatow",
+      "shirtNumber": 9,
+      "position": "MID"
+    },
+    {
+      "id": "france-1958-10",
+      "name": "Robert Jonquet",
+      "shirtNumber": 10,
+      "position": "MID"
+    },
+    {
+      "id": "france-1958-11",
+      "name": "Maurice Lafont",
+      "shirtNumber": 11,
+      "position": "MID"
+    },
+    {
+      "id": "france-1958-12",
+      "name": "Jean-Jacques Marcel",
+      "shirtNumber": 12,
+      "position": "MID"
+    },
+    {
+      "id": "france-1958-13",
+      "name": "Armand Penverne",
+      "shirtNumber": 13,
+      "position": "DEF"
+    },
+    {
+      "id": "france-1958-14",
+      "name": "Raymond Bellot",
+      "shirtNumber": 14,
+      "position": "MID"
+    },
+    {
+      "id": "france-1958-15",
+      "name": "Stéphane Bruey",
+      "shirtNumber": 15,
+      "position": "ATT"
+    },
+    {
+      "id": "france-1958-16",
+      "name": "Yvon Douis",
+      "shirtNumber": 16,
+      "position": "ATT"
+    },
+    {
+      "id": "france-1958-17",
+      "name": "Just Fontaine",
+      "shirtNumber": 17,
+      "position": "ATT"
+    },
+    {
+      "id": "france-1958-18",
+      "name": "Raymond Kopa",
+      "shirtNumber": 18,
+      "position": "MID"
+    },
+    {
+      "id": "france-1958-19",
+      "name": "Célestin Oliver",
+      "shirtNumber": 19,
+      "position": "MID"
+    },
+    {
+      "id": "france-1958-20",
+      "name": "Roger Piantoni",
+      "shirtNumber": 20,
+      "position": "ATT"
+    },
+    {
+      "id": "france-1958-21",
+      "name": "Jean Vincent",
+      "shirtNumber": 21,
+      "position": "ATT"
+    },
+    {
+      "id": "france-1958-22",
+      "name": "Maryan Wisnieski",
+      "shirtNumber": 22,
+      "position": "ATT"
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group",
+      "opponent": "Paraguay",
+      "score": "7–3",
+      "scorers": [
+        {
+          "name": "Florencio Amarilla",
+          "minute": "20'",
+          "ownGoal": false
+        },
+        {
+          "name": "Just Fontaine",
+          "minute": "24'",
+          "ownGoal": false
+        },
+        {
+          "name": "Just Fontaine",
+          "minute": "30'",
+          "ownGoal": false
+        },
+        {
+          "name": "Florencio Amarilla",
+          "minute": "44'",
+          "ownGoal": false
+        },
+        {
+          "name": "Jorge Lino Romero",
+          "minute": "50'",
+          "ownGoal": false
+        },
+        {
+          "name": "Roger Piantoni",
+          "minute": "52'",
+          "ownGoal": false
+        },
+        {
+          "name": "Maryan Wisnieski",
+          "minute": "61'",
+          "ownGoal": false
+        },
+        {
+          "name": "Just Fontaine",
+          "minute": "67'",
+          "ownGoal": false
+        },
+        {
+          "name": "Raymond Kopa",
+          "minute": "70'",
+          "ownGoal": false
+        },
+        {
+          "name": "Jean Vincent",
+          "minute": "83'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1958-06-08"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Yugoslavia",
+      "score": "3–2",
+      "scorers": [
+        {
+          "name": "Just Fontaine",
+          "minute": "4'",
+          "ownGoal": false
+        },
+        {
+          "name": "Aleksandar Petaković",
+          "minute": "16'",
+          "ownGoal": false
+        },
+        {
+          "name": "Todor Veselinović",
+          "minute": "63'",
+          "ownGoal": false
+        },
+        {
+          "name": "Just Fontaine",
+          "minute": "85'",
+          "ownGoal": false
+        },
+        {
+          "name": "Todor Veselinović",
+          "minute": "88'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1958-06-11"
+    },
+    {
+      "stage": "Group",
+      "opponent": "Scotland",
+      "score": "2–1",
+      "scorers": [
+        {
+          "name": "Raymond Kopa",
+          "minute": "22'",
+          "ownGoal": false
+        },
+        {
+          "name": "Just Fontaine",
+          "minute": "44'",
+          "ownGoal": false
+        },
+        {
+          "name": "Sammy Baird",
+          "minute": "58'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1958-06-15"
+    },
+    {
+      "stage": "Quarter-final",
+      "opponent": "Northern Ireland",
+      "score": "4–0",
+      "scorers": [
+        {
+          "name": "Maryan Wisnieski",
+          "minute": "44'",
+          "ownGoal": false
+        },
+        {
+          "name": "Just Fontaine",
+          "minute": "55'",
+          "ownGoal": false
+        },
+        {
+          "name": "Just Fontaine",
+          "minute": "63'",
+          "ownGoal": false
+        },
+        {
+          "name": "Roger Piantoni",
+          "minute": "68'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1958-06-19"
+    },
+    {
+      "stage": "Semi-final",
+      "opponent": "Brazil",
+      "score": "5–2",
+      "scorers": [
+        {
+          "name": "Vavá",
+          "minute": "2'",
+          "ownGoal": false
+        },
+        {
+          "name": "Just Fontaine",
+          "minute": "9'",
+          "ownGoal": false
+        },
+        {
+          "name": "Didi",
+          "minute": "39'",
+          "ownGoal": false
+        },
+        {
+          "name": "Pelé",
+          "minute": "52'",
+          "ownGoal": false
+        },
+        {
+          "name": "Pelé",
+          "minute": "64'",
+          "ownGoal": false
+        },
+        {
+          "name": "Pelé",
+          "minute": "75'",
+          "ownGoal": false
+        },
+        {
+          "name": "Roger Piantoni",
+          "minute": "83'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1958-06-24"
+    },
+    {
+      "stage": "Third-place match",
+      "opponent": "West Germany",
+      "score": "6–3",
+      "scorers": [
+        {
+          "name": "Just Fontaine",
+          "minute": "16'",
+          "ownGoal": false
+        },
+        {
+          "name": "Hans Cieslarczyk",
+          "minute": "18'",
+          "ownGoal": false
+        },
+        {
+          "name": "Raymond Kopa",
+          "minute": "27'",
+          "ownGoal": false
+        },
+        {
+          "name": "Just Fontaine",
+          "minute": "36'",
+          "ownGoal": false
+        },
+        {
+          "name": "Yvon Douis",
+          "minute": "50'",
+          "ownGoal": false
+        },
+        {
+          "name": "Helmut Rahn",
+          "minute": "52'",
+          "ownGoal": false
+        },
+        {
+          "name": "Just Fontaine",
+          "minute": "78'",
+          "ownGoal": false
+        },
+        {
+          "name": "Hans Schäfer",
+          "minute": "84'",
+          "ownGoal": false
+        },
+        {
+          "name": "Just Fontaine",
+          "minute": "89'",
+          "ownGoal": false
+        }
+      ],
+      "date": "1958-06-28"
+    }
+  ],
+  "sources": [
+    "https://github.com/jfjelstul/worldcup",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/matches.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/qualified_teams.csv",
+    "https://github.com/jfjelstul/worldcup/blob/master/data-csv/manager_appointments.csv"
+  ]
+}
